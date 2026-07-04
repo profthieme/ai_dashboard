@@ -5,7 +5,6 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>My Dashboard</title>
     <link rel="stylesheet" href="styles.css">
-    <!-- FontAwesome for icons -->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
 </head>
 <body>
@@ -16,27 +15,42 @@
             <div class="last-updated">Last updated: <span id="lastUpdated">Loading...</span></div>
         </header>
 
-        <!-- Weather Section -->
-        <section class="weather-section card">
-            <h2><i class="fas fa-cloud-sun"></i> Weather Station</h2>
-            <div id="weather-data" class="weather-grid">
-                <div class="loading">Loading weather data...</div>
+        <!-- Quick Links Section (Pulldown) -->
+        <section class="card" id="card-links">
+            <div class="card-header" onclick="toggleCard('card-links')">
+                <h2><i class="fas fa-link"></i> Quick Links</h2>
+                <i class="fas fa-chevron-down card-icon"></i>
+            </div>
+            <div class="card-content">
+                <div class="links-container" id="quick-links">
+                    <!-- Links will be populated by JavaScript -->
+                </div>
             </div>
         </section>
 
-        <!-- Quick Links Section -->
-        <section class="links-section card">
-            <h2><i class="fas fa-link"></i> Quick Links</h2>
-            <div class="links-container" id="quick-links">
-                <!-- Links will be populated by JavaScript -->
+        <!-- Curated News Section (Pulldown) -->
+        <section class="card" id="card-news">
+            <div class="card-header" onclick="toggleCard('card-news')">
+                <h2><i class="fas fa-newspaper"></i> Curated News</h2>
+                <i class="fas fa-chevron-down card-icon"></i>
+            </div>
+            <div class="card-content">
+                <div class="news-pulldown" id="news-pulldown">
+                    <!-- News will be populated by JavaScript -->
+                </div>
             </div>
         </section>
 
-        <!-- News Section - Pulldown Style -->
-        <section class="news-section card">
-            <h2><i class="fas fa-newspaper"></i> Curated News</h2>
-            <div class="news-pulldown" id="news-pulldown">
-                <div class="loading">Loading news...</div>
+        <!-- Weather Station Section (Pulldown) -->
+        <section class="card" id="card-weather">
+            <div class="card-header" onclick="toggleCard('card-weather')">
+                <h2><i class="fas fa-cloud-sun"></i> Weather Station</h2>
+                <i class="fas fa-chevron-down card-icon"></i>
+            </div>
+            <div class="card-content">
+                <div id="weather-data">
+                    <!-- Weather will be populated by JavaScript -->
+                </div>
             </div>
         </section>
     </div>
