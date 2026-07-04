@@ -1,9 +1,9 @@
-// Configuration - Quick Links with actual images from profthieme/links/images
+// Configuration - Quick Links with LOCAL images (copied from profthieme/links/images)
 const CONFIG = {
-    // Image base URL for icons
-    imageBaseUrl: 'https://raw.githubusercontent.com/profthieme/links/main/images/',
+    // Local image path - images are stored in this repo
+    imageBaseUrl: './images/',
     
-    // Quick Links organized by sections with actual image files
+    // Quick Links organized by sections with image filenames
     quickLinks: {
         'Personal': [
             { name: 'Amazon', url: 'http://www.amazon.com/', image: 'amazon40.jpg' },
@@ -44,6 +44,7 @@ const CONFIG = {
 };
 
 let newsArticles = [];
+let newsLastFetched = null;
 
 // Initialize dashboard
 document.addEventListener('DOMContentLoaded', async () => {
@@ -71,7 +72,7 @@ function toggleCard(cardId) {
     }
 }
 
-// Render quick links with actual images
+// Render quick links with local images
 function renderQuickLinks() {
     const container = document.getElementById('quick-links');
     const sections = CONFIG.quickLinks;
@@ -91,7 +92,7 @@ function renderQuickLinks() {
             <div class="links-icon-grid">
                 ${links.map(link => `
                     <a href="${link.url}" target="_blank" class="link-icon-item" title="${link.name}">
-                        <img src="${CONFIG.imageBaseUrl}${link.image}" alt="${link.name}" onerror="this.src='https://via.placeholder.com/40?text=?'">
+                        <img src="${CONFIG.imageBaseUrl}${link.image}" alt="${link.name}" onerror="this.style.display='none'">
                         <span class="link-icon-label">${link.name}</span>
                     </a>
                 `).join('')}
@@ -102,7 +103,7 @@ function renderQuickLinks() {
     container.innerHTML = html;
 }
 
-// Refresh news articles
+// Refresh news articles - FORCE reload from server
 async function refreshNews(event) {
     if (event) event.stopPropagation();
     
@@ -113,19 +114,47 @@ async function refreshNews(event) {
     btn.classList.add('spinning');
     
     try {
-        // Add cache-busting parameter to force fresh data
-        const response = await fetch(CONFIG.newsDataUrl + '?t=' + Date.now() + '&refresh=' + Math.random());
-        if (!response.ok) throw new Error('News data not available');
+        // Force fresh fetch by adding unique timestamp and bypassing cache
+        const cacheBuster = Date.now();
+        const url = CONFIG.newsDataUrl + '?t=' + cacheBuster + '&refresh=' + cacheBuster;
+        
+        console.log('Refreshing news from:', url);
+        
+        // Use fetch with cache: 'reload' to bypass browser cache
+        const response = await fetch(url, {
+            method: 'GET',
+            cache: 'reload',
+            headers: {
+                'Cache-Control': 'no-cache, no-store, must-revalidate',
+                'Pragma': 'no-cache'
+            }
+        });
+        
+        if (!response.ok) {
+            throw new Error(`HTTP ${response.status}: ${response.statusText}`);
+        }
         
         const data = await response.json();
-        newsArticles = data.articles || [];
+        
+        if (!data.articles || data.articles.length === 0) {
+            throw new Error('No articles in response');
+        }
+        
+        newsArticles = data.articles;
+        newsLastFetched = new Date();
+        
+        console.log('News refreshed successfully:', newsArticles.length, 'articles');
+        
+        // Re-render the news section
         renderNewsPulldown(newsArticles);
         updateLastUpdated();
         
-        console.log('News refreshed:', newsArticles.length, 'articles');
+        // Show success message
+        alert(`Refreshed ${newsArticles.length} articles at ${newsLastFetched.toLocaleTimeString()}`);
+        
     } catch (error) {
         console.error('Error refreshing news:', error);
-        alert('Failed to refresh news. Please try again.');
+        alert('Failed to refresh news: ' + error.message + '\n\nMake sure the GitHub Actions workflow has run recently to update news.json');
     } finally {
         // Remove spinning animation after delay
         setTimeout(() => {
@@ -364,54 +393,90 @@ async function loadNewsData() {
         
         const data = await response.json();
         newsArticles = data.articles || [];
+        newsLastFetched = new Date();
+        
+        console.log('Loaded', newsArticles.length, 'news articles');
         renderNewsPulldown(newsArticles);
     } catch (error) {
         console.error('Error loading news:', error);
         document.getElementById('news-pulldown').innerHTML = `
-            <div class="loading">News data unavailable</div>
+            <div class="loading">
+                News data unavailable.<br>
+                <small>Click Refresh button or wait for next workflow run.</small>
+            </div>
         `;
     }
 }
 
-// Render news as nested pulldown with AI in Higher Education section
+// Render news with explicit AI in Higher Education section
 function renderNewsPulldown(articles) {
     const container = document.getElementById('news-pulldown');
     
-    if (articles.length === 0) {
-        container.innerHTML = '<div class="loading">No articles curated yet</div>';
+    if (!articles || articles.length === 0) {
+        container.innerHTML = '<div class="loading">No articles curated yet. Click Refresh or wait for workflow.</div>';
         return;
     }
     
-    const grouped = {
-        'AI + Business': articles.filter(a => a.theme === 'AI + Business' || a.category === 'ai-business'),
-        'AI in Higher Education': articles.filter(a => a.theme === 'AI + Higher Ed' || a.category === 'ai-education' || (a.synopsis && a.synopsis.toLowerCase().match(/education|university|college|student|campus|academic/))),
-        'AI Technology': articles.filter(a => a.theme === 'AI Technology' || a.category === 'ai-tech'),
-        'AI General': articles.filter(a => !a.theme || a.theme === 'AI General')
-    };
+    // EXPLICIT categorization - check theme and category fields
+    const aiBusiness = articles.filter(a => 
+        a.category === 'ai-business' || 
+        a.theme === 'AI + Business' ||
+        (a.theme && a.theme.includes('Business'))
+    );
     
-    const nonEmptyGroups = Object.entries(grouped).filter(([_, items]) => items.length > 0);
+    const aiEducation = articles.filter(a => 
+        a.category === 'ai-education' || 
+        a.theme === 'AI + Higher Ed' ||
+        (a.theme && a.theme.includes('Higher Ed')) ||
+        (a.theme && a.theme.includes('Education'))
+    );
     
-    const sectionIcons = {
-        'AI + Business': 'fas fa-briefcase',
-        'AI in Higher Education': 'fas fa-graduation-cap',
-        'AI Technology': 'fas fa-microchip',
-        'AI General': 'fas fa-robot'
-    };
+    const aiTechnology = articles.filter(a => 
+        a.category === 'ai-tech' || 
+        a.theme === 'AI Technology' ||
+        (a.theme && a.theme.includes('Technology'))
+    );
     
-    const html = nonEmptyGroups.map(([category, items], index) => `
+    // Everything else goes to General
+    const aiGeneral = articles.filter(a => 
+        !aiBusiness.includes(a) && 
+        !aiEducation.includes(a) && 
+        !aiTechnology.includes(a)
+    );
+    
+    console.log('Article counts:', {
+        'AI + Business': aiBusiness.length,
+        'AI in Higher Education': aiEducation.length,
+        'AI Technology': aiTechnology.length,
+        'AI General': aiGeneral.length
+    });
+    
+    const sections = [
+        { name: 'AI + Business', icon: 'fas fa-briefcase', articles: aiBusiness, class: 'ai-business' },
+        { name: 'AI in Higher Education', icon: 'fas fa-graduation-cap', articles: aiEducation, class: 'ai-education' },
+        { name: 'AI Technology', icon: 'fas fa-microchip', articles: aiTechnology, class: 'ai-tech' },
+        { name: 'AI General', icon: 'fas fa-robot', articles: aiGeneral, class: '' }
+    ].filter(s => s.articles.length > 0);
+    
+    if (sections.length === 0) {
+        container.innerHTML = '<div class="loading">No articles found. Click Refresh.</div>';
+        return;
+    }
+    
+    const html = sections.map((section, index) => `
         <div class="pulldown-item ${index === 0 ? 'active' : ''}">
             <div class="pulldown-header" onclick="toggleNewsPulldown(this)">
                 <div class="pulldown-title">
-                    <i class="${sectionIcons[category] || 'fas fa-newspaper'}"></i>
-                    ${category}
-                    <span class="pulldown-count">${items.length}</span>
+                    <i class="${section.icon}"></i>
+                    ${section.name}
+                    <span class="pulldown-count">${section.articles.length}</span>
                 </div>
                 <i class="fas fa-chevron-down pulldown-icon"></i>
             </div>
             <div class="pulldown-content">
                 <div class="articles-list">
-                    ${items.map((article) => `
-                        <div class="article-item ${article.category === 'ai-business' ? 'ai-business' : article.category === 'ai-education' || category === 'AI in Higher Education' ? 'ai-education' : ''}">
+                    ${section.articles.map((article) => `
+                        <div class="article-item ${section.class}">
                             <div class="article-title" onclick="window.open('${article.url}', '_blank')">
                                 ${article.title}
                             </div>
@@ -419,8 +484,8 @@ function renderNewsPulldown(articles) {
                                 <span class="article-source">${article.source}</span> • 
                                 <span class="article-date">${formatDate(article.date)}</span>
                             </div>
-                            <div class="article-synopsis">${article.synopsis || 'No synopsis available'}</div>
-                            ${article.theme ? `<span class="article-tag ${article.category === 'ai-business' ? 'ai-business' : article.category === 'ai-education' || category === 'AI in Higher Education' ? 'ai-education' : ''}">${article.theme}</span>` : ''}
+                            <div class="article-synopsis">${article.synopsis ? article.synopsis.substring(0, 400) + (article.synopsis.length > 400 ? '...' : '') : 'No synopsis available'}</div>
+                            ${article.theme ? `<span class="article-tag ${section.class}">${article.theme}</span>` : ''}
                         </div>
                     `).join('')}
                 </div>
@@ -452,5 +517,9 @@ function formatDate(dateString) {
 
 // Update timestamp
 function updateLastUpdated() {
-    document.getElementById('lastUpdated').textContent = new Date().toLocaleString();
+    let text = new Date().toLocaleString();
+    if (newsLastFetched) {
+        text += ` (News: ${newsLastFetched.toLocaleTimeString()})`;
+    }
+    document.getElementById('lastUpdated').textContent = text;
 }
