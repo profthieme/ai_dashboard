@@ -95,6 +95,40 @@ body {
     overflow-y: auto;
 }
 
+/* News section header with refresh button */
+.card-header-actions {
+    display: flex;
+    align-items: center;
+    gap: 15px;
+}
+
+.btn-refresh {
+    background: rgba(255, 255, 255, 0.2);
+    border: 1px solid rgba(255, 255, 255, 0.4);
+    color: white;
+    padding: 6px 12px;
+    border-radius: 6px;
+    cursor: pointer;
+    font-size: 0.85rem;
+    display: flex;
+    align-items: center;
+    gap: 6px;
+    transition: all 0.2s ease;
+}
+
+.btn-refresh:hover {
+    background: rgba(255, 255, 255, 0.3);
+    transform: scale(1.05);
+}
+
+.btn-refresh i {
+    transition: transform 0.5s ease;
+}
+
+.btn-refresh.spinning i {
+    transform: rotate(360deg);
+}
+
 /* Quick Links - Icon Grid */
 .links-container {
     padding: 20px;
@@ -122,7 +156,7 @@ body {
 
 .links-icon-grid {
     display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(60px, 1fr));
+    grid-template-columns: repeat(auto-fill, minmax(80px, 1fr));
     gap: 15px;
     justify-items: center;
 }
@@ -137,23 +171,24 @@ body {
     transition: all 0.2s ease;
     padding: 10px;
     border-radius: 8px;
-    min-width: 60px;
+    min-width: 80px;
 }
 
 .link-icon-item:hover {
     background: linear-gradient(135deg, #e6fffa 0%, #b2f5ea 100%);
-    transform: scale(1.1);
+    transform: scale(1.08);
+    box-shadow: 0 4px 12px rgba(26, 54, 93, 0.15);
 }
 
-.link-icon-item i {
-    font-size: 2rem;
-    color: #1a365d;
+.link-icon-item img {
+    width: 40px;
+    height: 40px;
+    object-fit: contain;
     transition: all 0.2s ease;
 }
 
-.link-icon-item:hover i {
-    color: #0a1628;
-    transform: scale(1.15);
+.link-icon-item:hover img {
+    transform: scale(1.1);
 }
 
 .link-icon-label {
@@ -272,6 +307,10 @@ body {
     border-left-color: #38a169;
 }
 
+.article-item.ai-education {
+    border-left-color: #dd6b20;
+}
+
 .article-title {
     font-weight: 600;
     color: #2d3748;
@@ -313,6 +352,10 @@ body {
 
 .article-tag.ai-business {
     background: #38a169;
+}
+
+.article-tag.ai-education {
+    background: #dd6b20;
 }
 
 /* Weather Tiles */
@@ -471,11 +514,12 @@ body {
     }
 
     .links-icon-grid {
-        grid-template-columns: repeat(auto-fill, minmax(50px, 1fr));
+        grid-template-columns: repeat(auto-fill, minmax(60px, 1fr));
     }
 
-    .link-icon-item i {
-        font-size: 1.5rem;
+    .link-icon-item img {
+        width: 32px;
+        height: 32px;
     }
 
     .link-icon-label {
@@ -484,5 +528,10 @@ body {
 
     .pulldown-title {
         font-size: 0.85rem;
+    }
+
+    .card-header-actions {
+        flex-direction: column;
+        gap: 10px;
     }
 }

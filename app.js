@@ -1,38 +1,41 @@
-// Configuration - Quick Links from profthieme.github.io/links/
+// Configuration - Quick Links with actual images from profthieme/links/images
 const CONFIG = {
-    // Quick Links organized by sections with Font Awesome icons
+    // Image base URL for icons
+    imageBaseUrl: 'https://raw.githubusercontent.com/profthieme/links/main/images/',
+    
+    // Quick Links organized by sections with actual image files
     quickLinks: {
         'Personal': [
-            { name: 'Amazon', url: 'http://www.amazon.com/', icon: 'fab fa-amazon' },
-            { name: 'Cozi', url: 'https://www.cozi.com/', icon: 'fas fa-calendar-check' },
-            { name: 'GitHub', url: 'https://github.com/profthieme', icon: 'fab fa-github' },
-            { name: 'IMDb', url: 'https://www.imdb.com/', icon: 'fas fa-film' },
-            { name: 'JustWatch', url: 'https://www.justwatch.com/', icon: 'fas fa-tv' },
-            { name: 'Kroger', url: 'https://www.kroger.com/rx/dashboard', icon: 'fas fa-pills' },
-            { name: 'McCulley', url: 'http://mcculleyallergy.com/', icon: 'fas fa-user-md' },
-            { name: 'Next Episode', url: 'https://next-episode.net/', icon: 'fas fa-tv' },
-            { name: 'Pandora', url: 'https://www.pandora.com/', icon: 'fas fa-music' },
-            { name: 'MyUTK', url: 'https://secure.touchnet.com/C21610_tsa/web/login.jsp', icon: 'fas fa-university' }
+            { name: 'Amazon', url: 'http://www.amazon.com/', image: 'amazon40.jpg' },
+            { name: 'Cozi', url: 'https://www.cozi.com/', image: 'cozi.jpg' },
+            { name: 'GitHub', url: 'https://github.com/profthieme', image: 'github.gif' },
+            { name: 'IMDb', url: 'https://www.imdb.com/', image: 'imdb.jpg' },
+            { name: 'JustWatch', url: 'https://www.justwatch.com/', image: 'justwatch.png' },
+            { name: 'Kroger', url: 'https://www.kroger.com/rx/dashboard', image: 'kroger.gif' },
+            { name: 'McCulley', url: 'http://mcculleyallergy.com/', image: 'mcculley.jpg' },
+            { name: 'Next Episode', url: 'https://next-episode.net/', image: 'nextepisode.jpg' },
+            { name: 'Pandora', url: 'https://www.pandora.com/', image: 'pandora.gif' },
+            { name: 'MyUTK', url: 'https://secure.touchnet.com/C21610_tsa/web/login.jsp', image: 'utm.jpg' }
         ],
         'Work': [
-            { name: 'EBSCO', url: 'https://ezproxy.memphis.edu:3443/login?url=https://search.ebscohost.com/login.aspx?profile=ehost&groupid=main&defaultdb=bsu&authtype=ip,uid&custid=s3652670', icon: 'fas fa-book' },
-            { name: 'VitalSource', url: 'https://www.vitalsource.com/', icon: 'fas fa-book-open' },
-            { name: 'Canvas', url: 'https://memphis.instructure.com/', icon: 'fas fa-graduation-cap' },
-            { name: 'UofM Email', url: 'https://ummail.memphis.edu/', icon: 'fas fa-envelope' },
-            { name: 'Faculty Senate', url: 'http://www.memphis.edu/facultysenate/', icon: 'fas fa-users' },
-            { name: 'Fogelman', url: 'http://memphis.edu/fcbe/', icon: 'fas fa-building' },
-            { name: 'HBS Press', url: 'https://cb.hbsp.harvard.edu/', icon: 'fas fa-book' },
-            { name: 'Interlibrary', url: 'https://itlibloan.memphis.edu/', icon: 'fas fa-book' },
-            { name: 'Taylor & Francis', url: 'https://www-taylorfrancis-com.ezproxy.memphis.edu/', icon: 'fas fa-file-alt' },
-            { name: 'UofM', url: 'http://memphis.edu/', icon: 'fas fa-university' },
-            { name: 'Libraries', url: 'http://www.memphis.edu/libraries/', icon: 'fas fa-book' },
-            { name: 'Portal', url: 'https://portal.memphis.edu/', icon: 'fas fa-id-card' },
-            { name: 'UMware', url: 'http://umware.memphis.edu/', icon: 'fas fa-desktop' }
+            { name: 'EBSCO', url: 'https://ezproxy.memphis.edu:3443/login?url=https://search.ebscohost.com/login.aspx?profile=ehost&groupid=main&defaultdb=bsu&authtype=ip,uid&custid=s3652670', image: 'ebsco.gif' },
+            { name: 'VitalSource', url: 'https://www.vitalsource.com/', image: 'vitalsource.jpg' },
+            { name: 'Canvas', url: 'https://memphis.instructure.com/', image: 'canvas.png' },
+            { name: 'UofM Email', url: 'https://ummail.memphis.edu/', image: 'email.gif' },
+            { name: 'Faculty Senate', url: 'http://www.memphis.edu/facultysenate/', image: 'facultysenate.jpg' },
+            { name: 'Fogelman', url: 'http://memphis.edu/fcbe/', image: 'fogelman.jpg' },
+            { name: 'HBS Press', url: 'https://cb.hbsp.harvard.edu/', image: 'harvardbusinesspress.jpg' },
+            { name: 'Interlibrary', url: 'https://itlibloan.memphis.edu/', image: 'illiad.jpg' },
+            { name: 'Taylor & Francis', url: 'https://www-taylorfrancis-com.ezproxy.memphis.edu/', image: 'taylorfrancis.gif' },
+            { name: 'UofM', url: 'http://memphis.edu/', image: 'universityofmemphis.jpg' },
+            { name: 'Libraries', url: 'http://www.memphis.edu/libraries/', image: 'libraries.jpg' },
+            { name: 'Portal', url: 'https://portal.memphis.edu/', image: 'UofMportal.jpg' },
+            { name: 'UMware', url: 'http://umware.memphis.edu/', image: 'vmware.gif' }
         ],
         'Weather': [
-            { name: 'Ambient', url: 'https://dashboard.ambientweather.net/devices/public/e38deadd664d7b3db91ec313040ea3b3', icon: 'fas fa-cloud-sun' },
-            { name: 'Weatherbug', url: 'https://weather.weatherbug.com/', icon: 'fas fa-cloud' },
-            { name: 'Wunderground', url: 'https://www.wunderground.com/dashboard/pws/KTNCOLLI33', icon: 'fas fa-thermometer-half' }
+            { name: 'Ambient', url: 'https://dashboard.ambientweather.net/devices/public/e38deadd664d7b3db91ec313040ea3b3', image: 'ambientweather.jpg' },
+            { name: 'Weatherbug', url: 'https://weather.weatherbug.com/', image: 'weatherbug.jpg' },
+            { name: 'Wunderground', url: 'https://www.wunderground.com/dashboard/pws/KTNCOLLI33', image: 'wunderground.jpg' }
         ]
     },
     
@@ -68,7 +71,7 @@ function toggleCard(cardId) {
     }
 }
 
-// Render quick links as icons
+// Render quick links with actual images
 function renderQuickLinks() {
     const container = document.getElementById('quick-links');
     const sections = CONFIG.quickLinks;
@@ -88,7 +91,7 @@ function renderQuickLinks() {
             <div class="links-icon-grid">
                 ${links.map(link => `
                     <a href="${link.url}" target="_blank" class="link-icon-item" title="${link.name}">
-                        <i class="${link.icon}"></i>
+                        <img src="${CONFIG.imageBaseUrl}${link.image}" alt="${link.name}" onerror="this.src='https://via.placeholder.com/40?text=?'">
                         <span class="link-icon-label">${link.name}</span>
                     </a>
                 `).join('')}
@@ -97,6 +100,38 @@ function renderQuickLinks() {
     `).join('');
     
     container.innerHTML = html;
+}
+
+// Refresh news articles
+async function refreshNews(event) {
+    if (event) event.stopPropagation();
+    
+    const btn = event.currentTarget;
+    const icon = btn.querySelector('i');
+    
+    // Add spinning animation
+    btn.classList.add('spinning');
+    
+    try {
+        // Add cache-busting parameter to force fresh data
+        const response = await fetch(CONFIG.newsDataUrl + '?t=' + Date.now() + '&refresh=' + Math.random());
+        if (!response.ok) throw new Error('News data not available');
+        
+        const data = await response.json();
+        newsArticles = data.articles || [];
+        renderNewsPulldown(newsArticles);
+        updateLastUpdated();
+        
+        console.log('News refreshed:', newsArticles.length, 'articles');
+    } catch (error) {
+        console.error('Error refreshing news:', error);
+        alert('Failed to refresh news. Please try again.');
+    } finally {
+        // Remove spinning animation after delay
+        setTimeout(() => {
+            btn.classList.remove('spinning');
+        }, 1000);
+    }
 }
 
 // Load weather data
@@ -338,7 +373,7 @@ async function loadNewsData() {
     }
 }
 
-// Render news as nested pulldown
+// Render news as nested pulldown with AI in Higher Education section
 function renderNewsPulldown(articles) {
     const container = document.getElementById('news-pulldown');
     
@@ -349,7 +384,7 @@ function renderNewsPulldown(articles) {
     
     const grouped = {
         'AI + Business': articles.filter(a => a.theme === 'AI + Business' || a.category === 'ai-business'),
-        'AI + Higher Ed': articles.filter(a => a.theme === 'AI + Higher Ed' || a.category === 'ai-education'),
+        'AI in Higher Education': articles.filter(a => a.theme === 'AI + Higher Ed' || a.category === 'ai-education' || (a.synopsis && a.synopsis.toLowerCase().match(/education|university|college|student|campus|academic/))),
         'AI Technology': articles.filter(a => a.theme === 'AI Technology' || a.category === 'ai-tech'),
         'AI General': articles.filter(a => !a.theme || a.theme === 'AI General')
     };
@@ -358,7 +393,7 @@ function renderNewsPulldown(articles) {
     
     const sectionIcons = {
         'AI + Business': 'fas fa-briefcase',
-        'AI + Higher Ed': 'fas fa-graduation-cap',
+        'AI in Higher Education': 'fas fa-graduation-cap',
         'AI Technology': 'fas fa-microchip',
         'AI General': 'fas fa-robot'
     };
@@ -376,7 +411,7 @@ function renderNewsPulldown(articles) {
             <div class="pulldown-content">
                 <div class="articles-list">
                     ${items.map((article) => `
-                        <div class="article-item ${article.category === 'ai-business' ? 'ai-business' : ''}">
+                        <div class="article-item ${article.category === 'ai-business' ? 'ai-business' : article.category === 'ai-education' || category === 'AI in Higher Education' ? 'ai-education' : ''}">
                             <div class="article-title" onclick="window.open('${article.url}', '_blank')">
                                 ${article.title}
                             </div>
@@ -385,7 +420,7 @@ function renderNewsPulldown(articles) {
                                 <span class="article-date">${formatDate(article.date)}</span>
                             </div>
                             <div class="article-synopsis">${article.synopsis || 'No synopsis available'}</div>
-                            ${article.theme ? `<span class="article-tag ${article.category === 'ai-business' ? 'ai-business' : ''}">${article.theme}</span>` : ''}
+                            ${article.theme ? `<span class="article-tag ${article.category === 'ai-business' ? 'ai-business' : article.category === 'ai-education' || category === 'AI in Higher Education' ? 'ai-education' : ''}">${article.theme}</span>` : ''}
                         </div>
                     `).join('')}
                 </div>

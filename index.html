@@ -28,10 +28,15 @@
             </div>
         </section>
 
-        <!-- Curated News Section (Pulldown) -->
+        <!-- Curated News Section (Pulldown with Refresh) -->
         <section class="card" id="card-news">
-            <div class="card-header" onclick="toggleCard('card-news')">
-                <h2><i class="fas fa-newspaper"></i> Curated News</h2>
+            <div class="card-header" onclick="event.target.closest('.btn-refresh') || toggleCard('card-news')">
+                <div class="card-header-actions">
+                    <h2><i class="fas fa-newspaper"></i> Curated News</h2>
+                    <button class="btn-refresh" onclick="refreshNews(event)" title="Refresh news articles">
+                        <i class="fas fa-sync-alt"></i> Refresh
+                    </button>
+                </div>
                 <i class="fas fa-chevron-down card-icon"></i>
             </div>
             <div class="card-content">
