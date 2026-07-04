@@ -19,17 +19,20 @@ jobs:
       
       - name: Fetch weather data from Ambient Weather
         env:
+          AMBIENT_APPLICATION_KEY: ${{ secrets.AMBIENT_APPLICATION_KEY }}
           AMBIENT_API_KEY: ${{ secrets.AMBIENT_API_KEY }}
           AMBIENT_MAC_ADDRESS: ${{ secrets.AMBIENT_MAC_ADDRESS }}
         run: |
           # Debug: Show secret lengths (not values)
+          echo "Application Key length: ${#AMBIENT_APPLICATION_KEY}"
           echo "API Key length: ${#AMBIENT_API_KEY}"
           echo "MAC Address length: ${#AMBIENT_MAC_ADDRESS}"
           echo "MAC Address: $AMBIENT_MAC_ADDRESS"
           
-          # Try the alternative endpoint format for personal device access
-          # This endpoint uses only apiKey for your own devices
-          API_URL="https://api.ambientweather.net/v1/devices?applicationKey=${AMBIENT_API_KEY}"
+          # Ambient Weather requires BOTH applicationKey and apiKey
+          # applicationKey = your registered app ID
+          # apiKey = your personal API key
+          API_URL="https://api.ambientweather.net/v1/devices?applicationKey=${AMBIENT_APPLICATION_KEY}&apiKey=${AMBIENT_API_KEY}"
           
           echo "Fetching device list from: ${API_URL}"
           
@@ -44,7 +47,7 @@ jobs:
           
           if [ "$HTTP_STATUS" != "200" ]; then
             echo "Error: API returned HTTP $HTTP_STATUS"
-            echo "You may need to request an applicationKey from support@ambientweather.com"
+            echo "Check that both AMBIENT_APPLICATION_KEY and AMBIENT_API_KEY are set correctly"
             exit 1
           fi
           
