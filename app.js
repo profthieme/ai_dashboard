@@ -67,17 +67,18 @@ async function loadWeatherData() {
 function renderWeather(data) {
     const container = document.getElementById('weather-data');
     
+    // Ambient Weather API field names (from weather.json)
     const stats = [
-            { label: 'Temperature', value: data.temp_f?.toFixed(1) || 'N/A', unit: '°F', icon: 'thermometer-half' },
-            { label: 'Feels Like', value: data.feelsLike ? data.feelsLike.toFixed(1) : 'N/A', unit: '°F', icon: 'TemperatureHigh' },
-            { label: 'Humidity', value: data.humidity?.toFixed(0) || 'N/A', unit: '%', icon: 'tint' },
-            { label: 'Barometer', value: data.baromrelin?.toFixed(2) || 'N/A', unit: 'inHg', icon: 'gauge-high' },
-            { label: 'Wind Speed', value: data.windspeedmph?.toFixed(1) || 'N/A', unit: 'mph', icon: 'wind' },
-            { label: 'Wind Dir', value: data.winddirdeg ? `${data.winddirdeg}°` : 'N/A', unit: '', icon: 'compass' },
-            { label: 'UV Index', value: data.uv?.toFixed(1) || 'N/A', unit: '', icon: 'sun' },
-            { label: 'Solar Rad', value: data.solarradiation?.toFixed(0) || 'N/A', unit: 'W/m²', icon: 'sun' },
-            { label: 'Daily Rain', value: data.dailyrainin?.toFixed(2) || 'N/A', unit: 'in', icon: 'cloud-rain' }
-        ];
+        { label: 'Temperature', value: data.tempf?.toFixed(1) || data.temp_f?.toFixed(1) || 'N/A', unit: '°F', icon: 'thermometer-half' },
+        { label: 'Feels Like', value: data.feelsLike?.toFixed(1) || 'N/A', unit: '°F', icon: 'TemperatureHigh' },
+        { label: 'Humidity', value: data.humidity?.toFixed(0) || 'N/A', unit: '%', icon: 'tint' },
+        { label: 'Barometer', value: data.baromrelin?.toFixed(2) || 'N/A', unit: 'inHg', icon: 'gauge-high' },
+        { label: 'Wind Speed', value: data.windspeedmph?.toFixed(1) || 'N/A', unit: 'mph', icon: 'wind' },
+        { label: 'Wind Dir', value: data.winddir ? `${data.winddir}°` : data.winddirdeg ? `${data.winddirdeg}°` : 'N/A', unit: '', icon: 'compass' },
+        { label: 'UV Index', value: data.uv?.toFixed(1) || 'N/A', unit: '', icon: 'sun' },
+        { label: 'Solar Rad', value: data.solarradiation?.toFixed(0) || 'N/A', unit: 'W/m²', icon: 'sun' },
+        { label: 'Daily Rain', value: data.dailyrainin?.toFixed(2) || 'N/A', unit: 'in', icon: 'cloud-rain' }
+    ];
     
     container.innerHTML = stats.map(stat => `
         <div class="weather-stat">
