@@ -23,10 +23,27 @@ jobs:
           AMBIENT_MAC_ADDRESS: ${{ secrets.AMBIENT_MAC_ADDRESS }}
         run: |
           # Build the API URL
-                    API_URL="https://api.ambientweather.net/v1/devices/${AMBIENT_MAC_ADDRESS}?apiKey=${AMBIENT_API_KEY}"
+          API_URL="https://api.ambientweather.net/v1/devices/${AMBIENT_MAC_ADDRESS}?apiKey=${AMBIENT_API_KEY}&limit=1"
           
-          # Fetch the data
-          curl -s "$API_URL" > weather_response.json
+          echo "Fetching weather data from: ${API_URL}"
+          
+          # Fetch the data with verbose output
+          HTTP_STATUS=$(curl -s -w "%{http_code}" -o weather_response.json "$API_URL")
+          
+          echo "HTTP Status: $HTTP_STATUS"
+          echo "Response size: $(wc -c < weather_response.json) bytes"
+          
+          # Show first 500 chars of response for debugging
+          echo "Response preview:"
+          head -c 500 weather_response.json
+          echo ""
+          
+          # Check HTTP status
+          if [ "$HTTP_STATUS" != "200" ]; then
+            echo "Error: API returned HTTP $HTTP_STATUS"
+            echo "Check your API key and MAC address in GitHub secrets"
+            exit 1
+          fi
           
           # Check if we got valid data
           if [ ! -s weather_response.json ]; then
@@ -36,12 +53,14 @@ jobs:
           
           # Extract the last reporter data (most recent)
           # Ambient Weather returns an array, we want the last element
+          echo "Extracting weather data..."
           cat weather_response.json | jq '.[0].lastdata' > data/weather.json
           
           # Validate the output
-          if [ ! -s data/weather.json ]; then
+          if [ ! -s data/weather.json ] || [ "$(cat data/weather.json)" = "null" ]; then
             echo "Error: Failed to extract weather data"
-            cat weather_response.json
+            echo "Full response:"
+            cat weather_response.json | jq '.'
             exit 1
           fi
           
