@@ -1,24 +1,24 @@
-// Configuration - Quick Links with LOCAL images
+// Configuration - Quick Links with LOCAL images (CORRECTED FILENAMES)
 const CONFIG = {
     imageBaseUrl: './images/',
     
-    // Quick Links - using actual image filenames from ./images/ folder
+    // Quick Links - ACTUAL filenames that exist in ./images/ folder
     quickLinks: {
         'Personal': [
             { name: 'Amazon', url: 'http://www.amazon.com/', image: 'amazon40.jpg' },
             { name: 'Cozi', url: 'https://www.cozi.com/', image: 'cozi.jpg' },
             { name: 'GitHub', url: 'https://github.com/profthieme', image: 'github.jpg' },
-            { name: 'IMDb', url: 'https://www.imdb.com/', image: 'imdb.jpg' },
+            { name: 'IMDb', url: 'https://www.imdb.com/', image: 'imdb40.png' },
             { name: 'JustWatch', url: 'https://www.justwatch.com/', image: 'justwatch.jpg' },
             { name: 'Kroger', url: 'https://www.kroger.com/rx/dashboard', image: 'kroger.png' },
             { name: 'McCulley', url: 'http://mcculleyallergy.com/', image: 'mcculley.jpg' },
             { name: 'Next Episode', url: 'https://next-episode.net/', image: 'next-episode50.jpg' },
             { name: 'Pandora', url: 'https://www.pandora.com/', image: 'pandora.jpg' },
-            { name: 'MyUTK', url: 'https://secure.touchnet.com/C21610_tsa/web/login.jsp', image: 'utm.jpg' }
+            { name: 'MyUTK', url: 'https://secure.touchnet.com/C21610_tsa/web/login.jsp', image: 'utk.png' }
         ],
         'Work': [
             { name: 'EBSCO', url: 'https://ezproxy.memphis.edu:3443/login?url=https://search.ebscohost.com/login.aspx?profile=ehost&groupid=main&defaultdb=bsu&authtype=ip,uid&custid=s3652670', image: 'bsu.png' },
-            { name: 'VitalSource', url: 'https://www.vitalsource.com/', image: 'vitalsource.jpg' },
+            { name: 'VitalSource', url: 'https://www.vitalsource.com/', image: 'bookshelf.jpg' },
             { name: 'Canvas', url: 'https://memphis.instructure.com/', image: 'canvas.jpg' },
             { name: 'UofM Email', url: 'https://ummail.memphis.edu/', image: 'office365.png' },
             { name: 'Faculty Senate', url: 'http://www.memphis.edu/facultysenate/', image: 'facsenate.jpg' },
@@ -92,7 +92,7 @@ function renderQuickLinks() {
                 ${links.map(link => `
                     <a href="${link.url}" target="_blank" class="link-icon-item" title="${link.name}">
                         <img src="${CONFIG.imageBaseUrl}${link.image}" alt="${link.name}" 
-                             onerror="console.error('Failed to load image:', '${link.image}'); this.style.display='none'; this.parentElement.innerHTML+='<span style=\"font-size:1.5rem;color:#ccc\">❓</span>';">
+                             onerror="console.error('Failed to load image:', '${link.image}', this.src); this.style.display='none'; this.parentElement.innerHTML='<span style=\'font-size:1.5rem;color:#ccc\'>❓</span>';">
                         <span class="link-icon-label">${link.name}</span>
                     </a>
                 `).join('')}
@@ -108,9 +108,7 @@ async function refreshNews(event) {
     if (event) event.stopPropagation();
     
     const btn = event.currentTarget;
-    const icon = btn.querySelector('i');
     
-    // Add spinning animation
     btn.classList.add('spinning');
     
     try {
@@ -145,7 +143,6 @@ async function refreshNews(event) {
         
         console.log('[Dashboard] News refreshed:', newsArticles.length, 'articles');
         
-        // Log article categories
         const categories = {};
         newsArticles.forEach(a => {
             const cat = a.category || a.theme || 'uncategorized';
