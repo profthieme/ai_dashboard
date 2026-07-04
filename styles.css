@@ -56,11 +56,185 @@ body {
     color: #667eea;
 }
 
-/* Weather Grid */
+/* Weather Section - Ambient Weather Style */
+.weather-section {
+    padding: 0;
+    overflow: hidden;
+}
+
+.weather-section h2 {
+    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    color: white;
+    padding: 15px 25px;
+    margin: 0;
+    border-radius: 12px 12px 0 0;
+}
+
+.weather-section h2 i {
+    color: white;
+}
+
+/* Weather Tiles Container */
+.weather-tiles {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+    gap: 15px;
+    padding: 15px;
+}
+
+/* Individual Weather Tile */
+.weather-tile {
+    background: white;
+    border-radius: 8px;
+    border: 1px solid #e0e0e0;
+    overflow: hidden;
+}
+
+/* Tile Banner (Purple Header) */
+.tile-banner {
+    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    color: white;
+    padding: 10px 15px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.tile-banner h3 {
+    font-size: 0.95rem;
+    font-weight: 600;
+    display: flex;
+    align-items: center;
+    gap: 8px;
+}
+
+.tile-banner h3 i {
+    color: white;
+}
+
+.tile-link {
+    color: white;
+    text-decoration: none;
+    opacity: 0.8;
+    font-size: 0.75rem;
+}
+
+.tile-link:hover {
+    opacity: 1;
+}
+
+/* Tile Stats Container */
+.tile-stats {
+    padding: 15px;
+}
+
+/* Stat Row within Tile */
+.stat-row {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 8px 0;
+    border-bottom: 1px solid #f0f0f0;
+}
+
+.stat-row:last-child {
+    border-bottom: none;
+}
+
+.stat-label {
+    color: #666;
+    font-size: 0.85rem;
+}
+
+.stat-value {
+    color: #333;
+    font-weight: 600;
+    font-size: 1rem;
+}
+
+.stat-value.primary {
+    font-size: 1.4rem;
+    color: #667eea;
+}
+
+.stat-unit {
+    color: #999;
+    font-size: 0.75rem;
+    margin-left: 4px;
+}
+
+.stat-change {
+    font-size: 0.75rem;
+    color: #999;
+    margin-top: 4px;
+}
+
+/* Special stat layouts */
+.stat-row.condensed {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 4px;
+}
+
+.stat-row.with-subtext {
+    padding: 12px 0;
+}
+
+/* Alert badges */
+.alert-badge {
+    background: #ff6b6b;
+    color: white;
+    padding: 2px 8px;
+    border-radius: 12px;
+    font-size: 0.7rem;
+    font-weight: 600;
+}
+
+.alert-badge.high {
+    background: #ff8c00;
+}
+
+.alert-badge.moderate {
+    background: #ffd700;
+    color: #333;
+}
+
+/* UV Risk levels */
+.uv-risk {
+    display: flex;
+    gap: 3px;
+    margin-top: 8px;
+}
+
+.uv-dot {
+    width: 8px;
+    height: 8px;
+    border-radius: 50%;
+    background: #e0e0e0;
+}
+
+.uv-dot.active {
+    background: #ff6b6b;
+}
+
+.uv-dot.moderate {
+    background: #ffd700;
+}
+
+.uv-dot.high {
+    background: #ff8c00;
+}
+
+.uv-dot.extreme {
+    background: #9b30ff;
+}
+
+/* Weather Grid (fallback) */
 .weather-grid {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
     gap: 15px;
+    padding: 15px;
 }
 
 .weather-stat {
@@ -304,6 +478,10 @@ body {
         flex-direction: column;
         gap: 10px;
         text-align: center;
+    }
+
+    .weather-tiles {
+        grid-template-columns: 1fr;
     }
 
     .weather-grid {

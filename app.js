@@ -51,7 +51,7 @@ async function loadWeatherData() {
         if (!response.ok) throw new Error('Weather data not available');
         
         const data = await response.json();
-        renderWeather(data);
+        renderWeatherTiles(data);
     } catch (error) {
         console.error('Error loading weather:', error);
         document.getElementById('weather-data').innerHTML = `
@@ -63,29 +63,299 @@ async function loadWeatherData() {
     }
 }
 
-// Render weather data
-function renderWeather(data) {
+// Render weather data in Ambient Weather-style tiles
+function renderWeatherTiles(data) {
     const container = document.getElementById('weather-data');
     
-    // Ambient Weather API field names (from weather.json)
-    const stats = [
-        { label: 'Temperature', value: data.tempf?.toFixed(1) || data.temp_f?.toFixed(1) || 'N/A', unit: '°F', icon: 'thermometer-half' },
-        { label: 'Feels Like', value: data.feelsLike?.toFixed(1) || 'N/A', unit: '°F', icon: 'TemperatureHigh' },
-        { label: 'Humidity', value: data.humidity?.toFixed(0) || 'N/A', unit: '%', icon: 'tint' },
-        { label: 'Barometer', value: data.baromrelin?.toFixed(2) || 'N/A', unit: 'inHg', icon: 'gauge-high' },
-        { label: 'Wind Speed', value: data.windspeedmph?.toFixed(1) || 'N/A', unit: 'mph', icon: 'wind' },
-        { label: 'Wind Dir', value: data.winddir ? `${data.winddir}°` : data.winddirdeg ? `${data.winddirdeg}°` : 'N/A', unit: '', icon: 'compass' },
-        { label: 'UV Index', value: data.uv?.toFixed(1) || 'N/A', unit: '', icon: 'sun' },
-        { label: 'Solar Rad', value: data.solarradiation?.toFixed(0) || 'N/A', unit: 'W/m²', icon: 'sun' },
-        { label: 'Daily Rain', value: data.dailyrainin?.toFixed(2) || 'N/A', unit: 'in', icon: 'cloud-rain' }
-    ];
+    // Helper function to format numbers safely
+    const fmt = (val, decimals = 1) => {
+        if (val === undefined || val === null || isNaN(val)) return 'N/A';
+        return decimals === 0 ? val.toFixed(0) : val.toFixed(decimals);
+    };
     
-    container.innerHTML = stats.map(stat => `
-        <div class="weather-stat">
-            <div class="label"><i class="fas fa-${stat.icon}"></i> ${stat.label}</div>
-            <div class="value">${stat.value}<span class="unit">${stat.unit}</span></div>
+    // Helper function to get change from yesterday (if available in historical data)
+    // For now, we'll show "—" since weather.json doesn't include yesterday's data
+    const change = (val, suffix = '') => {
+        if (val === undefined || val === null) return '—';
+        const sign = val >= 0 ? '+' : '';
+        return `${sign}${fmt(val, 1)}${suffix}`;
+    };
+    
+    // Get cardinal direction from degrees
+    const getCardinal = (deg) => {
+        if (deg === undefined || deg === null) return 'N/A';
+        const dirs = ['N', 'NNE', 'NE', 'ENE', 'E', 'ESE', 'SE', 'SSE', 'S', 'SSW', 'SW', 'WSW', 'W', 'WNW', 'NW', 'NNW'];
+        const index = Math.round(deg / 22.5) % 16;
+        return dirs[index];
+    };
+    
+    // Get UV risk level and badge
+    const getUvRisk = (uv) => {
+        if (!uv || uv < 3) return { level: 'Low', class: '', risk: 'low' };
+        if (uv < 6) return { level: 'Moderate', class: 'moderate', risk: 'moderate' };
+        if (uv < 8) return { level: 'High', class: 'high', risk: 'high' };
+        if (uv < 11) return { level: 'Very High', class: 'high', risk: 'very-high' };
+        return { level: 'Extreme', class: 'extreme', risk: 'extreme' };
+    };
+    
+    const uvData = getUvRisk(data.uv);
+    const uvDots = [];
+    for (let i = 1; i <= 11; i++) {
+        let dotClass = '';
+        if (i <= Math.floor(data.uv || 0)) {
+            if (i <= 2) dotClass = '';
+            else if (i <= 5) dotClass = 'moderate';
+            else if (i <= 7) dotClass = 'high';
+            else if (i <= 10) dotClass = 'extreme';
+            else dotClass = 'extreme';
+        }
+        uvDots.push(`<div class="uv-dot ${dotClass ? 'active ' + dotClass : ''}"></div>`);
+    }
+    
+    // Build tiles HTML
+    const tiles = [];
+    
+    // 1. Outdoor Temperature Tile
+    tiles.push(`
+        <div class="weather-tile">
+            <div class="tile-banner">
+                <h3><i class="fas fa-thermometer-half"></i> Outdoor</h3>
+                <a href="#" class="tile-link"><i class="fas fa-chart-line"></i></a>
+            </div>
+            <div class="tile-stats">
+                <div class="stat-row with-subtext">
+                    <span class="stat-label">Temperature</span>
+                    <span class="stat-value primary">${fmt(data.tempf, 1)}<span class="stat-unit">°F</span></span>
+                </div>
+                <div class="stat-change">From Yesterday: ${change(data.tempfYesterday, '°F')}</div>
+                <div class="stat-row">
+                    <span class="stat-label">High / Low</span>
+                    <span class="stat-value">${fmt(data.tempmaxf, 1)}° / ${fmt(data.tempminf, 1)}°</span>
+                </div>
+                <div class="stat-row">
+                    <span class="stat-label">Feels Like</span>
+                    <span class="stat-value">${fmt(data.feelsLike, 1)}<span class="stat-unit">°F</span></span>
+                </div>
+                <div class="stat-row">
+                    <span class="stat-label">Dew Point</span>
+                    <span class="stat-value">${fmt(data.dewPoint, 1)}<span class="stat-unit">°F</span></span>
+                </div>
+                <div class="stat-row">
+                    <span class="stat-label">From Yesterday</span>
+                    <span class="stat-value">${change(data.dewPointYesterday, '°F')}</span>
+                </div>
+                <div class="stat-row">
+                    <span class="stat-label">Feels Like (Heat Index)</span>
+                    <span class="stat-value">${fmt(data.feelsLike, 1)}<span class="stat-unit">°F</span></span>
+                </div>
+            </div>
         </div>
-    `).join('');
+    `);
+    
+    // 2. Indoor Temperature Tile
+    tiles.push(`
+        <div class="weather-tile">
+            <div class="tile-banner">
+                <h3><i class="fas fa-home"></i> Indoor</h3>
+                <a href="#" class="tile-link"><i class="fas fa-chart-line"></i></a>
+            </div>
+            <div class="tile-stats">
+                <div class="stat-row">
+                    <span class="stat-label">Temperature</span>
+                    <span class="stat-value primary">${fmt(data.tempinf, 1)}<span class="stat-unit">°F</span></span>
+                </div>
+                <div class="stat-row">
+                    <span class="stat-label">Humidity</span>
+                    <span class="stat-value">${fmt(data.humidityin, 0)}<span class="stat-unit">%</span></span>
+                </div>
+                <div class="stat-row">
+                    <span class="stat-label">Feels Like</span>
+                    <span class="stat-value">${fmt(data.feelsLikein, 1)}<span class="stat-unit">°F</span></span>
+                </div>
+                <div class="stat-row">
+                    <span class="stat-label">Dew Point</span>
+                    <span class="stat-value">${fmt(data.dewPointin, 1)}<span class="stat-unit">°F</span></span>
+                </div>
+            </div>
+        </div>
+    `);
+    
+    // 3. Wind Tile
+    tiles.push(`
+        <div class="weather-tile">
+            <div class="tile-banner">
+                <h3><i class="fas fa-wind"></i> Wind</h3>
+                <a href="#" class="tile-link"><i class="fas fa-chart-line"></i></a>
+            </div>
+            <div class="tile-stats">
+                <div class="stat-row">
+                    <span class="stat-label">Speed</span>
+                    <span class="stat-value">${fmt(data.windspeedmph, 1)}<span class="stat-unit">mph</span></span>
+                </div>
+                <div class="stat-row">
+                    <span class="stat-label">Gust</span>
+                    <span class="stat-value">${fmt(data.windgustmph, 1)}<span class="stat-unit">mph</span></span>
+                </div>
+                <div class="stat-row">
+                    <span class="stat-label">Max Daily Gust</span>
+                    <span class="stat-value">${fmt(data.maxdailygust, 1)}<span class="stat-unit">mph</span></span>
+                </div>
+                <div class="stat-row">
+                    <span class="stat-label">Direction</span>
+                    <span class="stat-value">${data.winddir ? `${data.winddir}°` : 'N/A'}</span>
+                </div>
+                <div class="stat-row">
+                    <span class="stat-label">${getCardinal(data.winddir)}</span>
+                    <span class="stat-value">${data.winddir ? `From ${getCardinal(data.winddir)}` : 'N/A'}</span>
+                </div>
+            </div>
+        </div>
+    `);
+    
+    // 4. Rainfall Tile
+    tiles.push(`
+        <div class="weather-tile">
+            <div class="tile-banner">
+                <h3><i class="fas fa-cloud-rain"></i> Rainfall</h3>
+                <a href="#" class="tile-link"><i class="fas fa-chart-line"></i></a>
+            </div>
+            <div class="tile-stats">
+                <div class="stat-row">
+                    <span class="stat-label">Rate</span>
+                    <span class="stat-value">${fmt(data.hourlyrainin, 2)}<span class="stat-unit">in/hr</span></span>
+                </div>
+                <div class="stat-row">
+                    <span class="stat-label">Daily</span>
+                    <span class="stat-value">${fmt(data.dailyrainin, 2)}<span class="stat-unit">in</span></span>
+                </div>
+                <div class="stat-row">
+                    <span class="stat-label">Weekly</span>
+                    <span class="stat-value">${fmt(data.weeklyrainin, 2)}<span class="stat-unit">in</span></span>
+                </div>
+                <div class="stat-row">
+                    <span class="stat-label">Event</span>
+                    <span class="stat-value">${fmt(data.eventrainin, 2)}<span class="stat-unit">in</span></span>
+                </div>
+                <div class="stat-row">
+                    <span class="stat-label">Monthly</span>
+                    <span class="stat-value">${fmt(data.monthlyrainin, 2)}<span class="stat-unit">in</span></span>
+                </div>
+                <div class="stat-row">
+                    <span class="stat-label">Total</span>
+                    <span class="stat-value">${fmt(data.totalrainin, 2)}<span class="stat-unit">in</span></span>
+                </div>
+            </div>
+        </div>
+    `);
+    
+    // 5. Pressure Tile
+    tiles.push(`
+        <div class="weather-tile">
+            <div class="tile-banner">
+                <h3><i class="fas fa-tachometer-alt"></i> Pressure</h3>
+                <a href="#" class="tile-link"><i class="fas fa-chart-line"></i></a>
+            </div>
+            <div class="tile-stats">
+                <div class="stat-row">
+                    <span class="stat-label">Relative</span>
+                    <span class="stat-value primary">${fmt(data.baromrelin, 2)}<span class="stat-unit">inHg</span></span>
+                </div>
+                <div class="stat-row">
+                    <span class="stat-label">Absolute</span>
+                    <span class="stat-value">${fmt(data.baromabsin, 2)}<span class="stat-unit">inHg</span></span>
+                </div>
+                <div class="stat-row">
+                    <span class="stat-label">Rate</span>
+                    <span class="stat-value">${fmt(data.baromrelinRate ?? data.baromrelin, 2)}<span class="stat-unit">inHg/hr</span></span>
+                </div>
+                <div class="stat-row">
+                    <span class="stat-label">Trend</span>
+                    <span class="stat-value">${(data.baromrelin ?? 0) > 30.0 ? '↑ Rising' : (data.baromrelin ?? 0) < 29.8 ? '↓ Falling' : '→ Steady'}</span>
+                </div>
+            </div>
+        </div>
+    `);
+    
+    // 6. Humidity Tile
+    tiles.push(`
+        <div class="weather-tile">
+            <div class="tile-banner">
+                <h3><i class="fas fa-tint"></i> Humidity</h3>
+                <a href="#" class="tile-link"><i class="fas fa-chart-line"></i></a>
+            </div>
+            <div class="tile-stats">
+                <div class="stat-row">
+                    <span class="stat-label">Outdoor</span>
+                    <span class="stat-value primary">${fmt(data.humidity, 0)}<span class="stat-unit">%</span></span>
+                </div>
+                <div class="stat-row">
+                    <span class="stat-label">From Yesterday</span>
+                    <span class="stat-value">${change(data.humidityYesterday, '%')}</span>
+                </div>
+                <div class="stat-row">
+                    <span class="stat-label">Indoor</span>
+                    <span class="stat-value">${fmt(data.humidityin, 0)}<span class="stat-unit">%</span></span>
+                </div>
+                <div class="stat-row">
+                    <span class="stat-label">Dew Point (Outdoor)</span>
+                    <span class="stat-value">${fmt(data.dewPoint, 1)}<span class="stat-unit">°F</span></span>
+                </div>
+            </div>
+        </div>
+    `);
+    
+    // 7. UV Index Tile
+    tiles.push(`
+        <div class="weather-tile">
+            <div class="tile-banner">
+                <h3><i class="fas fa-sun"></i> UV Index</h3>
+                <a href="#" class="tile-link"><i class="fas fa-chart-line"></i></a>
+            </div>
+            <div class="tile-stats">
+                <div class="stat-row with-subtext">
+                    <span class="stat-label">Current UV</span>
+                    <span class="stat-value primary">${fmt(data.uv, 0)}</span>
+                </div>
+                <div class="stat-row">
+                    <span class="stat-label">${uvData.level} RISK</span>
+                    <span class="stat-value"><span class="alert-badge ${uvData.class}">${uvData.level}</span></span>
+                </div>
+                <div class="stat-row">
+                    <span class="stat-label">UV Scale</span>
+                    <div class="uv-risk">${uvDots.join('')}</div>
+                </div>
+                <div class="stat-row">
+                    <span class="stat-label" style="font-size:0.7rem">Safe sun exposure time varies by skin type</span>
+                </div>
+            </div>
+        </div>
+    `);
+    
+    // 8. Solar Radiation Tile
+    tiles.push(`
+        <div class="weather-tile">
+            <div class="tile-banner">
+                <h3><i class="fas fa-sun"></i> Solar Radiation</h3>
+                <a href="#" class="tile-link"><i class="fas fa-chart-line"></i></a>
+            </div>
+            <div class="tile-stats">
+                <div class="stat-row with-subtext">
+                    <span class="stat-label">Current</span>
+                    <span class="stat-value primary">${fmt(data.solarradiation, 0)}<span class="stat-unit">W/m²</span></span>
+                </div>
+                <div class="stat-row">
+                    <span class="stat-label">Description</span>
+                    <span class="stat-value">${data.solarradiation > 800 ? 'Very High' : data.solarradiation > 500 ? 'High' : data.solarradiation > 200 ? 'Moderate' : 'Low'}</span>
+                </div>
+                <div class="stat-row">
+                    <span class="stat-label">UV Correlation</span>
+                    <span class="stat-value">${data.uv ? 'Strong' : 'N/A'}</span>
+                </div>
+            </div>
+        </div>
+    `);
+    
+    container.innerHTML = `<div class="weather-tiles">${tiles.join('')}</div>`;
 }
 
 // Load news data
@@ -243,9 +513,9 @@ async function generateWithOpenNotebook(articles) {
     const notebookPayload = {
         notebook_id: 'notebook:ai-research', // You'll need to get the actual ID
         title: `Podcast Materials - ${new Date().toLocaleDateString()}`,
-        content: `Selected Articles:\n\n` + articles.map(a => 
-            `- ${a.title}\n  URL: ${a.url}\n  Source: ${a.source}\n`
-        ).join('\n')
+        content: `Selected Articles:\\n\\n` + articles.map(a => 
+            `- ${a.title}\\n  URL: ${a.url}\\n  Source: ${a.source}\\n`
+        ).join('\\n')
     };
     
     try {
@@ -264,7 +534,7 @@ async function generateWithOpenNotebook(articles) {
     } catch (error) {
         console.error('Open Notebook error:', error);
         // Fallback: show URLs for manual copy
-        const urls = articles.map(a => `${a.title}\n${a.url}`).join('\n\n');
+        const urls = articles.map(a => `${a.title}\\n${a.url}`).join('\\n\\n');
         prompt('Copy these URLs to Open Notebook:', urls);
     }
 }
@@ -272,10 +542,10 @@ async function generateWithOpenNotebook(articles) {
 // Generate podcast with NotebookLM
 async function generateWithNotebookLM(articles) {
     // NotebookLM doesn't have a public API, so we'll provide instructions
-    const urls = articles.map(a => a.url).join('\n');
-    const text = articles.map(a => `- ${a.title}\n  ${a.url}`).join('\n');
+    const urls = articles.map(a => a.url).join('\\n');
+    const text = articles.map(a => `- ${a.title}\\n  ${a.url}`).join('\\n');
     
-    const message = `To generate a podcast with NotebookLM:\n\n1. Go to https://notebooklm.google.com\n2. Create a new notebook\n3. Add these sources:\n\n${text}\n\n4. Use the "Audio Overview" feature to generate a podcast`;
+    const message = `To generate a podcast with NotebookLM:\\n\\n1. Go to https://notebooklm.google.com\\n2. Create a new notebook\\n3. Add these sources:\\n\\n${text}\\n\\n4. Use the "Audio Overview" feature to generate a podcast`;
     
     alert(message);
     
