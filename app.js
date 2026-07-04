@@ -1,40 +1,39 @@
-// Configuration - Quick Links with LOCAL images (copied from profthieme/links/images)
+// Configuration - Quick Links with LOCAL images
 const CONFIG = {
-    // Local image path - images are stored in this repo
     imageBaseUrl: './images/',
     
-    // Quick Links organized by sections with image filenames
+    // Quick Links - using actual image filenames from ./images/ folder
     quickLinks: {
         'Personal': [
             { name: 'Amazon', url: 'http://www.amazon.com/', image: 'amazon40.jpg' },
             { name: 'Cozi', url: 'https://www.cozi.com/', image: 'cozi.jpg' },
-            { name: 'GitHub', url: 'https://github.com/profthieme', image: 'github.gif' },
+            { name: 'GitHub', url: 'https://github.com/profthieme', image: 'github.jpg' },
             { name: 'IMDb', url: 'https://www.imdb.com/', image: 'imdb.jpg' },
-            { name: 'JustWatch', url: 'https://www.justwatch.com/', image: 'justwatch.png' },
-            { name: 'Kroger', url: 'https://www.kroger.com/rx/dashboard', image: 'kroger.gif' },
+            { name: 'JustWatch', url: 'https://www.justwatch.com/', image: 'justwatch.jpg' },
+            { name: 'Kroger', url: 'https://www.kroger.com/rx/dashboard', image: 'kroger.png' },
             { name: 'McCulley', url: 'http://mcculleyallergy.com/', image: 'mcculley.jpg' },
-            { name: 'Next Episode', url: 'https://next-episode.net/', image: 'nextepisode.jpg' },
-            { name: 'Pandora', url: 'https://www.pandora.com/', image: 'pandora.gif' },
+            { name: 'Next Episode', url: 'https://next-episode.net/', image: 'next-episode50.jpg' },
+            { name: 'Pandora', url: 'https://www.pandora.com/', image: 'pandora.jpg' },
             { name: 'MyUTK', url: 'https://secure.touchnet.com/C21610_tsa/web/login.jsp', image: 'utm.jpg' }
         ],
         'Work': [
-            { name: 'EBSCO', url: 'https://ezproxy.memphis.edu:3443/login?url=https://search.ebscohost.com/login.aspx?profile=ehost&groupid=main&defaultdb=bsu&authtype=ip,uid&custid=s3652670', image: 'ebsco.gif' },
+            { name: 'EBSCO', url: 'https://ezproxy.memphis.edu:3443/login?url=https://search.ebscohost.com/login.aspx?profile=ehost&groupid=main&defaultdb=bsu&authtype=ip,uid&custid=s3652670', image: 'bsu.png' },
             { name: 'VitalSource', url: 'https://www.vitalsource.com/', image: 'vitalsource.jpg' },
-            { name: 'Canvas', url: 'https://memphis.instructure.com/', image: 'canvas.png' },
-            { name: 'UofM Email', url: 'https://ummail.memphis.edu/', image: 'email.gif' },
-            { name: 'Faculty Senate', url: 'http://www.memphis.edu/facultysenate/', image: 'facultysenate.jpg' },
-            { name: 'Fogelman', url: 'http://memphis.edu/fcbe/', image: 'fogelman.jpg' },
-            { name: 'HBS Press', url: 'https://cb.hbsp.harvard.edu/', image: 'harvardbusinesspress.jpg' },
+            { name: 'Canvas', url: 'https://memphis.instructure.com/', image: 'canvas.jpg' },
+            { name: 'UofM Email', url: 'https://ummail.memphis.edu/', image: 'office365.png' },
+            { name: 'Faculty Senate', url: 'http://www.memphis.edu/facultysenate/', image: 'facsenate.jpg' },
+            { name: 'Fogelman', url: 'http://memphis.edu/fcbe/', image: 'fcbe40.jpg' },
+            { name: 'HBS Press', url: 'https://cb.hbsp.harvard.edu/', image: 'hbsp.jpg' },
             { name: 'Interlibrary', url: 'https://itlibloan.memphis.edu/', image: 'illiad.jpg' },
-            { name: 'Taylor & Francis', url: 'https://www-taylorfrancis-com.ezproxy.memphis.edu/', image: 'taylorfrancis.gif' },
-            { name: 'UofM', url: 'http://memphis.edu/', image: 'universityofmemphis.jpg' },
+            { name: 'Taylor & Francis', url: 'https://www-taylorfrancis-com.ezproxy.memphis.edu/', image: 'taylor-francis.jpg' },
+            { name: 'UofM', url: 'http://memphis.edu/', image: 'uofm.gif' },
             { name: 'Libraries', url: 'http://www.memphis.edu/libraries/', image: 'libraries.jpg' },
             { name: 'Portal', url: 'https://portal.memphis.edu/', image: 'UofMportal.jpg' },
-            { name: 'UMware', url: 'http://umware.memphis.edu/', image: 'vmware.gif' }
+            { name: 'UMware', url: 'http://umware.memphis.edu/', image: 'umware.jpg' }
         ],
         'Weather': [
             { name: 'Ambient', url: 'https://dashboard.ambientweather.net/devices/public/e38deadd664d7b3db91ec313040ea3b3', image: 'ambientweather.jpg' },
-            { name: 'Weatherbug', url: 'https://weather.weatherbug.com/', image: 'weatherbug.jpg' },
+            { name: 'Weatherbug', url: 'https://weather.weatherbug.com/', image: 'weatherbug40.jpg' },
             { name: 'Wunderground', url: 'https://www.wunderground.com/dashboard/pws/KTNCOLLI33', image: 'wunderground.jpg' }
         ]
     },
@@ -92,7 +91,8 @@ function renderQuickLinks() {
             <div class="links-icon-grid">
                 ${links.map(link => `
                     <a href="${link.url}" target="_blank" class="link-icon-item" title="${link.name}">
-                        <img src="${CONFIG.imageBaseUrl}${link.image}" alt="${link.name}" onerror="this.style.display='none'">
+                        <img src="${CONFIG.imageBaseUrl}${link.image}" alt="${link.name}" 
+                             onerror="console.error('Failed to load image:', '${link.image}'); this.style.display='none'; this.parentElement.innerHTML+='<span style=\"font-size:1.5rem;color:#ccc\">❓</span>';">
                         <span class="link-icon-label">${link.name}</span>
                     </a>
                 `).join('')}
@@ -114,13 +114,11 @@ async function refreshNews(event) {
     btn.classList.add('spinning');
     
     try {
-        // Force fresh fetch by adding unique timestamp and bypassing cache
         const cacheBuster = Date.now();
-        const url = CONFIG.newsDataUrl + '?t=' + cacheBuster + '&refresh=' + cacheBuster;
+        const url = CONFIG.newsDataUrl + '?t=' + cacheBuster;
         
-        console.log('Refreshing news from:', url);
+        console.log('[Dashboard] Refreshing news from:', url);
         
-        // Use fetch with cache: 'reload' to bypass browser cache
         const response = await fetch(url, {
             method: 'GET',
             cache: 'reload',
@@ -136,6 +134,8 @@ async function refreshNews(event) {
         
         const data = await response.json();
         
+        console.log('[Dashboard] Raw news data:', data);
+        
         if (!data.articles || data.articles.length === 0) {
             throw new Error('No articles in response');
         }
@@ -143,20 +143,25 @@ async function refreshNews(event) {
         newsArticles = data.articles;
         newsLastFetched = new Date();
         
-        console.log('News refreshed successfully:', newsArticles.length, 'articles');
+        console.log('[Dashboard] News refreshed:', newsArticles.length, 'articles');
         
-        // Re-render the news section
+        // Log article categories
+        const categories = {};
+        newsArticles.forEach(a => {
+            const cat = a.category || a.theme || 'uncategorized';
+            categories[cat] = (categories[cat] || 0) + 1;
+        });
+        console.log('[Dashboard] Articles by category:', categories);
+        
         renderNewsPulldown(newsArticles);
         updateLastUpdated();
         
-        // Show success message
-        alert(`Refreshed ${newsArticles.length} articles at ${newsLastFetched.toLocaleTimeString()}`);
+        alert(`✓ Refreshed ${newsArticles.length} articles at ${newsLastFetched.toLocaleTimeString()}`);
         
     } catch (error) {
-        console.error('Error refreshing news:', error);
-        alert('Failed to refresh news: ' + error.message + '\n\nMake sure the GitHub Actions workflow has run recently to update news.json');
+        console.error('[Dashboard] Error refreshing news:', error);
+        alert('✗ Failed to refresh: ' + error.message);
     } finally {
-        // Remove spinning animation after delay
         setTimeout(() => {
             btn.classList.remove('spinning');
         }, 1000);
@@ -173,9 +178,7 @@ async function loadWeatherData() {
         renderWeatherTiles(data);
     } catch (error) {
         console.error('Error loading weather:', error);
-        document.getElementById('weather-data').innerHTML = `
-            <div class="loading">Weather data unavailable</div>
-        `;
+        document.getElementById('weather-data').innerHTML = '<div class="loading">Weather unavailable</div>';
     }
 }
 
@@ -183,16 +186,12 @@ async function loadWeatherData() {
 function renderWeatherTiles(data) {
     const container = document.getElementById('weather-data');
     
-    const fmt = (val, decimals = 1) => {
-        if (val === undefined || val === null || isNaN(val)) return 'N/A';
-        return decimals === 0 ? val.toFixed(0) : val.toFixed(decimals);
-    };
+    const fmt = (val, decimals = 1) => val != null ? val.toFixed(decimals) : 'N/A';
     
     const getCardinal = (deg) => {
-        if (deg === undefined || deg === null) return 'N/A';
+        if (deg == null) return 'N/A';
         const dirs = ['N', 'NNE', 'NE', 'ENE', 'E', 'ESE', 'SE', 'SSE', 'S', 'SSW', 'SW', 'WSW', 'W', 'WNW', 'NW', 'NNW'];
-        const index = Math.round(deg / 22.5) % 16;
-        return dirs[index];
+        return dirs[Math.round(deg / 22.5) % 16];
     };
     
     const getUvRisk = (uv) => {
@@ -204,185 +203,91 @@ function renderWeatherTiles(data) {
     };
     
     const uvData = getUvRisk(data.uv);
-    const uvDots = [];
-    for (let i = 1; i <= 11; i++) {
-        let dotClass = '';
-        if (i <= Math.floor(data.uv || 0)) {
-            if (i <= 2) dotClass = '';
-            else if (i <= 5) dotClass = 'moderate';
-            else if (i <= 7) dotClass = 'high';
-            else dotClass = 'extreme';
+    const uvDots = Array.from({length: 11}, (_, i) => {
+        const active = i < Math.floor(data.uv || 0);
+        const cls = active ? (i < 3 ? '' : i < 6 ? 'moderate' : i < 8 ? 'high' : 'extreme') : '';
+        return `<div class="uv-dot${cls ? ' active ' + cls : ''}"></div>`;
+    });
+    
+    const tiles = [
+        {
+            title: 'Outdoor', icon: 'thermometer-half',
+            stats: [
+                ['Temperature', `${fmt(data.tempf, 1)}°F`, true],
+                ['High / Low', `${fmt(data.tempmaxf, 1)}° / ${fmt(data.tempminf, 1)}°`],
+                ['Feels Like', `${fmt(data.feelsLike, 1)}°F`],
+                ['Dew Point', `${fmt(data.dewPoint, 1)}°F`]
+            ]
+        },
+        {
+            title: 'Indoor', icon: 'home',
+            stats: [
+                ['Temperature', `${fmt(data.tempinf, 1)}°F`],
+                ['Humidity', `${fmt(data.humidityin, 0)}%`]
+            ]
+        },
+        {
+            title: 'Wind', icon: 'wind',
+            stats: [
+                ['Speed', `${fmt(data.windspeedmph, 1)} mph`],
+                ['Gust', `${fmt(data.windgustmph, 1)} mph`],
+                ['Direction', `${data.winddir ? data.winddir + '° (' + getCardinal(data.winddir) + ')' : 'N/A'}`]
+            ]
+        },
+        {
+            title: 'Rain', icon: 'cloud-rain',
+            stats: [
+                ['Daily', `${fmt(data.dailyrainin, 2)} in`],
+                ['Monthly', `${fmt(data.monthlyrainin, 2)} in`],
+                ['Total', `${fmt(data.totalrainin, 2)} in`]
+            ]
+        },
+        {
+            title: 'Pressure', icon: 'tachometer-alt',
+            stats: [
+                ['Relative', `${fmt(data.baromrelin, 2)} inHg`, true],
+                ['Trend', (data.baromrelin || 0) > 30.0 ? '↑ Rising' : (data.baromrelin || 0) < 29.8 ? '↓ Falling' : '→ Steady']
+            ]
+        },
+        {
+            title: 'Humidity', icon: 'tint',
+            stats: [
+                ['Outdoor', `${fmt(data.humidity, 0)}%`, true],
+                ['Indoor', `${fmt(data.humidityin, 0)}%`]
+            ]
+        },
+        {
+            title: 'UV Index', icon: 'sun',
+            stats: [
+                ['Current', `${fmt(data.uv, 0)}`, true],
+                ['Risk', `<span class="alert-badge ${uvData.class}">${uvData.level}</span>`],
+                ['Scale', `<div class="uv-risk">${uvDots.join('')}</div>`]
+            ]
+        },
+        {
+            title: 'Solar', icon: 'sun',
+            stats: [
+                ['Radiation', `${fmt(data.solarradiation, 0)} W/m²`, true],
+                ['Level', data.solarradiation > 800 ? 'Very High' : data.solarradiation > 500 ? 'High' : 'Moderate']
+            ]
         }
-        uvDots.push(`<div class="uv-dot ${dotClass ? 'active ' + dotClass : ''}"></div>`);
-    }
-    
-    const tiles = [];
-    
-    tiles.push(`
+    ].map(tile => `
         <div class="weather-tile">
             <div class="tile-banner">
-                <h3><i class="fas fa-thermometer-half"></i> Outdoor</h3>
+                <h3><i class="fas fa-${tile.icon}"></i> ${tile.title}</h3>
             </div>
             <div class="tile-stats">
-                <div class="stat-row">
-                    <span class="stat-label">Temperature</span>
-                    <span class="stat-value primary">${fmt(data.tempf, 1)}°F</span>
-                </div>
-                <div class="stat-row">
-                    <span class="stat-label">High / Low</span>
-                    <span class="stat-value">${fmt(data.tempmaxf, 1)}° / ${fmt(data.tempminf, 1)}°</span>
-                </div>
-                <div class="stat-row">
-                    <span class="stat-label">Feels Like</span>
-                    <span class="stat-value">${fmt(data.feelsLike, 1)}°F</span>
-                </div>
-                <div class="stat-row">
-                    <span class="stat-label">Dew Point</span>
-                    <span class="stat-value">${fmt(data.dewPoint, 1)}°F</span>
-                </div>
+                ${tile.stats.map(([label, value, primary]) => `
+                    <div class="stat-row">
+                        <span class="stat-label">${label}</span>
+                        <span class="stat-value${primary ? ' primary' : ''}">${value}</span>
+                    </div>
+                `).join('')}
             </div>
         </div>
-    `);
+    `).join('');
     
-    tiles.push(`
-        <div class="weather-tile">
-            <div class="tile-banner">
-                <h3><i class="fas fa-home"></i> Indoor</h3>
-            </div>
-            <div class="tile-stats">
-                <div class="stat-row">
-                    <span class="stat-label">Temperature</span>
-                    <span class="stat-value">${fmt(data.tempinf, 1)}°F</span>
-                </div>
-                <div class="stat-row">
-                    <span class="stat-label">Humidity</span>
-                    <span class="stat-value">${fmt(data.humidityin, 0)}%</span>
-                </div>
-            </div>
-        </div>
-    `);
-    
-    tiles.push(`
-        <div class="weather-tile">
-            <div class="tile-banner">
-                <h3><i class="fas fa-wind"></i> Wind</h3>
-            </div>
-            <div class="tile-stats">
-                <div class="stat-row">
-                    <span class="stat-label">Speed</span>
-                    <span class="stat-value">${fmt(data.windspeedmph, 1)} mph</span>
-                </div>
-                <div class="stat-row">
-                    <span class="stat-label">Gust</span>
-                    <span class="stat-value">${fmt(data.windgustmph, 1)} mph</span>
-                </div>
-                <div class="stat-row">
-                    <span class="stat-label">Direction</span>
-                    <span class="stat-value">${data.winddir ? `${data.winddir}° (${getCardinal(data.winddir)})` : 'N/A'}</span>
-                </div>
-            </div>
-        </div>
-    `);
-    
-    tiles.push(`
-        <div class="weather-tile">
-            <div class="tile-banner">
-                <h3><i class="fas fa-cloud-rain"></i> Rain</h3>
-            </div>
-            <div class="tile-stats">
-                <div class="stat-row">
-                    <span class="stat-label">Daily</span>
-                    <span class="stat-value">${fmt(data.dailyrainin, 2)} in</span>
-                </div>
-                <div class="stat-row">
-                    <span class="stat-label">Monthly</span>
-                    <span class="stat-value">${fmt(data.monthlyrainin, 2)} in</span>
-                </div>
-                <div class="stat-row">
-                    <span class="stat-label">Total</span>
-                    <span class="stat-value">${fmt(data.totalrainin, 2)} in</span>
-                </div>
-            </div>
-        </div>
-    `);
-    
-    tiles.push(`
-        <div class="weather-tile">
-            <div class="tile-banner">
-                <h3><i class="fas fa-tachometer-alt"></i> Pressure</h3>
-            </div>
-            <div class="tile-stats">
-                <div class="stat-row">
-                    <span class="stat-label">Relative</span>
-                    <span class="stat-value primary">${fmt(data.baromrelin, 2)} inHg</span>
-                </div>
-                <div class="stat-row">
-                    <span class="stat-label">Trend</span>
-                    <span class="stat-value">${(data.baromrelin || 0) > 30.0 ? '↑ Rising' : (data.baromrelin || 0) < 29.8 ? '↓ Falling' : '→ Steady'}</span>
-                </div>
-            </div>
-        </div>
-    `);
-    
-    tiles.push(`
-        <div class="weather-tile">
-            <div class="tile-banner">
-                <h3><i class="fas fa-tint"></i> Humidity</h3>
-            </div>
-            <div class="tile-stats">
-                <div class="stat-row">
-                    <span class="stat-label">Outdoor</span>
-                    <span class="stat-value primary">${fmt(data.humidity, 0)}%</span>
-                </div>
-                <div class="stat-row">
-                    <span class="stat-label">Indoor</span>
-                    <span class="stat-value">${fmt(data.humidityin, 0)}%</span>
-                </div>
-            </div>
-        </div>
-    `);
-    
-    tiles.push(`
-        <div class="weather-tile">
-            <div class="tile-banner">
-                <h3><i class="fas fa-sun"></i> UV Index</h3>
-            </div>
-            <div class="tile-stats">
-                <div class="stat-row">
-                    <span class="stat-label">Current</span>
-                    <span class="stat-value primary">${fmt(data.uv, 0)}</span>
-                </div>
-                <div class="stat-row">
-                    <span class="stat-label">Risk</span>
-                    <span class="stat-value"><span class="alert-badge ${uvData.class}">${uvData.level}</span></span>
-                </div>
-                <div class="stat-row">
-                    <span class="stat-label">Scale</span>
-                    <div class="uv-risk">${uvDots.join('')}</div>
-                </div>
-            </div>
-        </div>
-    `);
-    
-    tiles.push(`
-        <div class="weather-tile">
-            <div class="tile-banner">
-                <h3><i class="fas fa-sun"></i> Solar</h3>
-            </div>
-            <div class="tile-stats">
-                <div class="stat-row">
-                    <span class="stat-label">Radiation</span>
-                    <span class="stat-value primary">${fmt(data.solarradiation, 0)} W/m²</span>
-                </div>
-                <div class="stat-row">
-                    <span class="stat-label">Level</span>
-                    <span class="stat-value">${data.solarradiation > 800 ? 'Very High' : data.solarradiation > 500 ? 'High' : 'Moderate'}</span>
-                </div>
-            </div>
-        </div>
-    `);
-    
-    container.innerHTML = `<div class="weather-tiles">${tiles.join('')}</div>`;
+    container.innerHTML = `<div class="weather-tiles">${tiles}</div>`;
 }
 
 // Load news data
@@ -395,103 +300,86 @@ async function loadNewsData() {
         newsArticles = data.articles || [];
         newsLastFetched = new Date();
         
-        console.log('Loaded', newsArticles.length, 'news articles');
+        console.log('[Dashboard] Loaded', newsArticles.length, 'articles');
+        console.log('[Dashboard] Categories:', newsArticles.map(a => a.category || a.theme));
+        
         renderNewsPulldown(newsArticles);
     } catch (error) {
-        console.error('Error loading news:', error);
+        console.error('[Dashboard] Error loading news:', error);
         document.getElementById('news-pulldown').innerHTML = `
             <div class="loading">
-                News data unavailable.<br>
-                <small>Click Refresh button or wait for next workflow run.</small>
+                News unavailable.<br>
+                <small>Click Refresh or use manual curation.</small>
             </div>
         `;
     }
 }
 
-// Render news with explicit AI in Higher Education section
+// Render news with explicit category filtering
 function renderNewsPulldown(articles) {
     const container = document.getElementById('news-pulldown');
     
     if (!articles || articles.length === 0) {
-        container.innerHTML = '<div class="loading">No articles curated yet. Click Refresh or wait for workflow.</div>';
+        container.innerHTML = '<div class="loading">No articles. Click Refresh or curate manually.</div>';
         return;
     }
     
-    // EXPLICIT categorization - check theme and category fields
-    const aiBusiness = articles.filter(a => 
-        a.category === 'ai-business' || 
-        a.theme === 'AI + Business' ||
-        (a.theme && a.theme.includes('Business'))
-    );
+    // EXPLICIT filtering by category field
+    const sections = {
+        'AI + Business': articles.filter(a => a.category === 'ai-business'),
+        'AI in Higher Education': articles.filter(a => a.category === 'ai-education'),
+        'AI Technology': articles.filter(a => a.category === 'ai-tech'),
+        'AI General': articles.filter(a => !a.category || !['ai-business', 'ai-education', 'ai-tech'].includes(a.category))
+    };
     
-    const aiEducation = articles.filter(a => 
-        a.category === 'ai-education' || 
-        a.theme === 'AI + Higher Ed' ||
-        (a.theme && a.theme.includes('Higher Ed')) ||
-        (a.theme && a.theme.includes('Education'))
-    );
-    
-    const aiTechnology = articles.filter(a => 
-        a.category === 'ai-tech' || 
-        a.theme === 'AI Technology' ||
-        (a.theme && a.theme.includes('Technology'))
-    );
-    
-    // Everything else goes to General
-    const aiGeneral = articles.filter(a => 
-        !aiBusiness.includes(a) && 
-        !aiEducation.includes(a) && 
-        !aiTechnology.includes(a)
-    );
-    
-    console.log('Article counts:', {
-        'AI + Business': aiBusiness.length,
-        'AI in Higher Education': aiEducation.length,
-        'AI Technology': aiTechnology.length,
-        'AI General': aiGeneral.length
+    console.log('[Dashboard] Section counts:', {
+        'Business': sections['AI + Business'].length,
+        'Education': sections['AI in Higher Education'].length,
+        'Technology': sections['AI Technology'].length,
+        'General': sections['AI General'].length
     });
     
-    const sections = [
-        { name: 'AI + Business', icon: 'fas fa-briefcase', articles: aiBusiness, class: 'ai-business' },
-        { name: 'AI in Higher Education', icon: 'fas fa-graduation-cap', articles: aiEducation, class: 'ai-education' },
-        { name: 'AI Technology', icon: 'fas fa-microchip', articles: aiTechnology, class: 'ai-tech' },
-        { name: 'AI General', icon: 'fas fa-robot', articles: aiGeneral, class: '' }
-    ].filter(s => s.articles.length > 0);
+    const sectionConfig = {
+        'AI + Business': { icon: 'fa-briefcase', class: 'ai-business' },
+        'AI in Higher Education': { icon: 'fa-graduation-cap', class: 'ai-education' },
+        'AI Technology': { icon: 'fa-microchip', class: 'ai-tech' },
+        'AI General': { icon: 'fa-robot', class: '' }
+    };
     
-    if (sections.length === 0) {
-        container.innerHTML = '<div class="loading">No articles found. Click Refresh.</div>';
-        return;
-    }
-    
-    const html = sections.map((section, index) => `
-        <div class="pulldown-item ${index === 0 ? 'active' : ''}">
-            <div class="pulldown-header" onclick="toggleNewsPulldown(this)">
-                <div class="pulldown-title">
-                    <i class="${section.icon}"></i>
-                    ${section.name}
-                    <span class="pulldown-count">${section.articles.length}</span>
-                </div>
-                <i class="fas fa-chevron-down pulldown-icon"></i>
-            </div>
-            <div class="pulldown-content">
-                <div class="articles-list">
-                    ${section.articles.map((article) => `
-                        <div class="article-item ${section.class}">
-                            <div class="article-title" onclick="window.open('${article.url}', '_blank')">
-                                ${article.title}
-                            </div>
-                            <div class="article-meta">
-                                <span class="article-source">${article.source}</span> • 
-                                <span class="article-date">${formatDate(article.date)}</span>
-                            </div>
-                            <div class="article-synopsis">${article.synopsis ? article.synopsis.substring(0, 400) + (article.synopsis.length > 400 ? '...' : '') : 'No synopsis available'}</div>
-                            ${article.theme ? `<span class="article-tag ${section.class}">${article.theme}</span>` : ''}
+    const html = Object.entries(sections)
+        .filter(([_, items]) => items.length > 0)
+        .map(([name, items], idx) => {
+            const cfg = sectionConfig[name];
+            return `
+                <div class="pulldown-item ${idx === 0 ? 'active' : ''}">
+                    <div class="pulldown-header" onclick="toggleNewsPulldown(this)">
+                        <div class="pulldown-title">
+                            <i class="fas ${cfg.icon}"></i>
+                            ${name}
+                            <span class="pulldown-count">${items.length}</span>
                         </div>
-                    `).join('')}
+                        <i class="fas fa-chevron-down pulldown-icon"></i>
+                    </div>
+                    <div class="pulldown-content">
+                        <div class="articles-list">
+                            ${items.map(article => `
+                                <div class="article-item ${cfg.class}">
+                                    <div class="article-title" onclick="window.open('${article.url}', '_blank')">
+                                        ${article.title}
+                                    </div>
+                                    <div class="article-meta">
+                                        <span class="article-source">${article.source}</span> • 
+                                        <span class="article-date">${formatDate(article.date)}</span>
+                                    </div>
+                                    <div class="article-synopsis">${article.synopsis ? article.synopsis.substring(0, 400) + (article.synopsis.length > 400 ? '...' : '') : 'No synopsis'}</div>
+                                    ${article.theme ? `<span class="article-tag ${cfg.class}">${article.theme}</span>` : ''}
+                                </div>
+                            `).join('')}
+                        </div>
+                    </div>
                 </div>
-            </div>
-        </div>
-    `).join('');
+            `;
+        }).join('');
     
     container.innerHTML = `<div class="news-pulldown">${html}</div>`;
 }
@@ -500,26 +388,19 @@ function renderNewsPulldown(articles) {
 function toggleNewsPulldown(header) {
     const item = header.parentElement;
     const wasActive = item.classList.contains('active');
-    
     document.querySelectorAll('.pulldown-item').forEach(i => i.classList.remove('active'));
-    
-    if (!wasActive) {
-        item.classList.add('active');
-    }
+    if (!wasActive) item.classList.add('active');
 }
 
 // Format date
 function formatDate(dateString) {
-    if (!dateString) return 'Unknown date';
-    const date = new Date(dateString);
-    return date.toLocaleDateString('en-US', { month: 'short', day: 'numeric', year: 'numeric' });
+    if (!dateString) return 'Unknown';
+    return new Date(dateString).toLocaleDateString('en-US', { month: 'short', day: 'numeric', year: 'numeric' });
 }
 
 // Update timestamp
 function updateLastUpdated() {
     let text = new Date().toLocaleString();
-    if (newsLastFetched) {
-        text += ` (News: ${newsLastFetched.toLocaleTimeString()})`;
-    }
+    if (newsLastFetched) text += ` (News: ${newsLastFetched.toLocaleTimeString()})`;
     document.getElementById('lastUpdated').textContent = text;
 }
