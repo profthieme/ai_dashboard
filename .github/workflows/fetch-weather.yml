@@ -25,48 +25,38 @@ jobs:
           # Debug: Show secret lengths (not values)
           echo "API Key length: ${#AMBIENT_API_KEY}"
           echo "MAC Address length: ${#AMBIENT_MAC_ADDRESS}"
-          echo "MAC Address format check: $AMBIENT_MAC_ADDRESS"
+          echo "MAC Address: $AMBIENT_MAC_ADDRESS"
           
-          # Build the API URL - try with BOTH parameters
-          API_URL="https://api.ambientweather.net/v1/devices/${AMBIENT_MAC_ADDRESS}?applicationKey=${AMBIENT_API_KEY}&apiKey=${AMBIENT_API_KEY}&limit=1"
+          # Try the alternative endpoint format for personal device access
+          # This endpoint uses only apiKey for your own devices
+          API_URL="https://api.ambientweather.net/v1/devices?applicationKey=${AMBIENT_API_KEY}"
           
-          echo "Fetching weather data from: ${API_URL}"
+          echo "Fetching device list from: ${API_URL}"
           
-          # Fetch the data with verbose output
-          HTTP_STATUS=$(curl -s -w "%{http_code}" -o weather_response.json "$API_URL")
+          # First, get the list of devices to find the correct MAC
+          HTTP_STATUS=$(curl -s -w "%{http_code}" -o device_list.json "$API_URL")
           
           echo "HTTP Status: $HTTP_STATUS"
-          echo "Response size: $(wc -c < weather_response.json) bytes"
+          echo "Response size: $(wc -c < device_list.json) bytes"
           
-          # Show first 500 chars of response for debugging
-          echo "Response preview:"
-          head -c 500 weather_response.json
-          echo ""
+          echo "Device list preview:"
+          cat device_list.json | jq '.' | head -30
           
-          # Check HTTP status
           if [ "$HTTP_STATUS" != "200" ]; then
             echo "Error: API returned HTTP $HTTP_STATUS"
-            echo "Check your API key and MAC address in GitHub secrets"
-            echo "MAC should look like: aa:bb:cc:dd:ee:ff"
+            echo "You may need to request an applicationKey from support@ambientweather.com"
             exit 1
           fi
           
-          # Check if we got valid data
-          if [ ! -s weather_response.json ]; then
-            echo "Error: No data received from API"
-            exit 1
-          fi
-          
-          # Extract the last reporter data (most recent)
-          # Ambient Weather returns an array, we want the last element
-          echo "Extracting weather data..."
-          cat weather_response.json | jq '.[0].lastdata' > data/weather.json
+          # Extract data for our specific device
+          echo "Extracting data for MAC: $AMBIENT_MAC_ADDRESS"
+          cat device_list.json | jq --arg mac "$AMBIENT_MAC_ADDRESS" '.[] | select(.macAddress == $mac) | .lastData' > data/weather.json
           
           # Validate the output
           if [ ! -s data/weather.json ] || [ "$(cat data/weather.json)" = "null" ]; then
-            echo "Error: Failed to extract weather data"
-            echo "Full response:"
-            cat weather_response.json | jq '.'
+            echo "Error: No data found for MAC address $AMBIENT_MAC_ADDRESS"
+            echo "Available devices:"
+            cat device_list.json | jq '.[].macAddress'
             exit 1
           fi
           
