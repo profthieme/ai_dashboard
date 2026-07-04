@@ -27,45 +27,16 @@
         <!-- Quick Links Section -->
         <section class="links-section card">
             <h2><i class="fas fa-link"></i> Quick Links</h2>
-            <div class="links-grid" id="quick-links">
+            <div class="links-container" id="quick-links">
                 <!-- Links will be populated by JavaScript -->
             </div>
         </section>
 
-        <!-- News Section -->
+        <!-- News Section - Pulldown Style -->
         <section class="news-section card">
             <h2><i class="fas fa-newspaper"></i> Curated News</h2>
-            
-            <!-- Filter tabs -->
-            <div class="news-filters">
-                <button class="filter-btn active" data-filter="all">All</button>
-                <button class="filter-btn" data-filter="ai-business">AI + Business</button>
-                <button class="filter-btn" data-filter="ai-education">AI + Higher Ed</button>
-                <button class="filter-btn" data-filter="ai-tech">AI Technology</button>
-            </div>
-
-            <div id="news-list" class="news-list">
+            <div class="news-pulldown" id="news-pulldown">
                 <div class="loading">Loading news...</div>
-            </div>
-
-            <!-- Podcast Generation Controls -->
-            <div class="podcast-controls" id="podcast-controls" style="display: none;">
-                <div class="selected-count">
-                    <span id="selected-count">0</span> articles selected
-                </div>
-                <div class="podcast-options">
-                    <label>
-                        <input type="radio" name="podcast-service" value="notebooklm" checked>
-                        NotebookLM
-                    </label>
-                    <label>
-                        <input type="radio" name="podcast-service" value="open-notebook">
-                        Open Notebook (Desktop)
-                    </label>
-                </div>
-                <button id="generate-podcast" class="btn-primary">
-                    <i class="fas fa-microphone"></i> Generate Podcast
-                </button>
             </div>
         </section>
     </div>
