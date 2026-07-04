@@ -23,7 +23,7 @@ jobs:
           AMBIENT_MAC_ADDRESS: ${{ secrets.AMBIENT_MAC_ADDRESS }}
         run: |
           # Build the API URL
-          API_URL="https://api.ambientweather.net/v1/devices/${AMBIENT_MAC_ADDRESS}?applicationKey=${AMBIENT_API_KEY}"
+                    API_URL="https://api.ambientweather.net/v1/devices/${AMBIENT_MAC_ADDRESS}?apiKey=${AMBIENT_API_KEY}"
           
           # Fetch the data
           curl -s "$API_URL" > weather_response.json
