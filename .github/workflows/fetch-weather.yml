@@ -22,8 +22,13 @@ jobs:
           AMBIENT_API_KEY: ${{ secrets.AMBIENT_API_KEY }}
           AMBIENT_MAC_ADDRESS: ${{ secrets.AMBIENT_MAC_ADDRESS }}
         run: |
-          # Build the API URL
-                    API_URL="https://api.ambientweather.net/v1/devices/${AMBIENT_MAC_ADDRESS}?applicationKey=${AMBIENT_API_KEY}&limit=1"
+          # Debug: Show secret lengths (not values)
+          echo "API Key length: ${#AMBIENT_API_KEY}"
+          echo "MAC Address length: ${#AMBIENT_MAC_ADDRESS}"
+          echo "MAC Address format check: $AMBIENT_MAC_ADDRESS"
+          
+          # Build the API URL - try with BOTH parameters
+          API_URL="https://api.ambientweather.net/v1/devices/${AMBIENT_MAC_ADDRESS}?applicationKey=${AMBIENT_API_KEY}&apiKey=${AMBIENT_API_KEY}&limit=1"
           
           echo "Fetching weather data from: ${API_URL}"
           
@@ -42,6 +47,7 @@ jobs:
           if [ "$HTTP_STATUS" != "200" ]; then
             echo "Error: API returned HTTP $HTTP_STATUS"
             echo "Check your API key and MAC address in GitHub secrets"
+            echo "MAC should look like: aa:bb:cc:dd:ee:ff"
             exit 1
           fi
           
