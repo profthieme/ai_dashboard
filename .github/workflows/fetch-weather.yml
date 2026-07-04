@@ -70,6 +70,10 @@ jobs:
         run: |
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          
+          # Pull latest changes to avoid push conflicts
+          git pull --rebase --strategy=recursive --Xtheirs || true
+          
           git add data/weather.json
           if git diff --staged --quiet; then
             echo "No changes to commit"
