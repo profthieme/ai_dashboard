@@ -1,0 +1,61 @@
+name: Fetch Weather Data
+
+on:
+  schedule:
+    # Run every hour
+    - cron: '0 * * * *'
+  workflow_dispatch: # Allow manual trigger
+
+permissions:
+  contents: write
+
+jobs:
+  fetch-weather:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+      
+      - name: Fetch weather data from Ambient Weather
+        env:
+          AMBIENT_API_KEY: ${{ secrets.AMBIENT_API_KEY }}
+          AMBIENT_MAC_ADDRESS: ${{ secrets.AMBIENT_MAC_ADDRESS }}
+        run: |
+          # Build the API URL
+          API_URL="https://api.ambientweather.net/v1/devices/${AMBIENT_MAC_ADDRESS}?applicationKey=${AMBIENT_API_KEY}"
+          
+          # Fetch the data
+          curl -s "$API_URL" > weather_response.json
+          
+          # Check if we got valid data
+          if [ ! -s weather_response.json ]; then
+            echo "Error: No data received from API"
+            exit 1
+          fi
+          
+          # Extract the last reporter data (most recent)
+          # Ambient Weather returns an array, we want the last element
+          cat weather_response.json | jq '.[0].lastdata' > data/weather.json
+          
+          # Validate the output
+          if [ ! -s data/weather.json ]; then
+            echo "Error: Failed to extract weather data"
+            cat weather_response.json
+            exit 1
+          fi
+          
+          echo "Successfully fetched weather data"
+          cat data/weather.json | jq '.'
+      
+      - name: Commit and push if changed
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git add data/weather.json
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "Update weather data $(date '+%Y-%m-%d %H:%M')"
+            git push
+          fi

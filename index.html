@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Dashboard</title>
+    <link rel="stylesheet" href="styles.css">
+    <!-- FontAwesome for icons -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+</head>
+<body>
+    <div class="dashboard">
+        <!-- Header -->
+        <header class="header">
+            <h1><i class="fas fa-chart-line"></i> My Dashboard</h1>
+            <div class="last-updated">Last updated: <span id="lastUpdated">Loading...</span></div>
+        </header>
+
+        <!-- Weather Section -->
+        <section class="weather-section card">
+            <h2><i class="fas fa-cloud-sun"></i> Weather Station</h2>
+            <div id="weather-data" class="weather-grid">
+                <div class="loading">Loading weather data...</div>
+            </div>
+        </section>
+
+        <!-- Quick Links Section -->
+        <section class="links-section card">
+            <h2><i class="fas fa-link"></i> Quick Links</h2>
+            <div class="links-grid" id="quick-links">
+                <!-- Links will be populated by JavaScript -->
+            </div>
+        </section>
+
+        <!-- News Section -->
+        <section class="news-section card">
+            <h2><i class="fas fa-newspaper"></i> Curated News</h2>
+            
+            <!-- Filter tabs -->
+            <div class="news-filters">
+                <button class="filter-btn active" data-filter="all">All</button>
+                <button class="filter-btn" data-filter="ai-business">AI + Business</button>
+                <button class="filter-btn" data-filter="ai-education">AI + Higher Ed</button>
+                <button class="filter-btn" data-filter="ai-tech">AI Technology</button>
+            </div>
+
+            <div id="news-list" class="news-list">
+                <div class="loading">Loading news...</div>
+            </div>
+
+            <!-- Podcast Generation Controls -->
+            <div class="podcast-controls" id="podcast-controls" style="display: none;">
+                <div class="selected-count">
+                    <span id="selected-count">0</span> articles selected
+                </div>
+                <div class="podcast-options">
+                    <label>
+                        <input type="radio" name="podcast-service" value="notebooklm" checked>
+                        NotebookLM
+                    </label>
+                    <label>
+                        <input type="radio" name="podcast-service" value="open-notebook">
+                        Open Notebook (Desktop)
+                    </label>
+                </div>
+                <button id="generate-podcast" class="btn-primary">
+                    <i class="fas fa-microphone"></i> Generate Podcast
+                </button>
+            </div>
+        </section>
+    </div>
+
+    <script src="app.js"></script>
+</body>
+</html>
