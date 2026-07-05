@@ -83,6 +83,48 @@ SOURCES = {
             'keywords': ['AI', 'artificial intelligence', 'startup', 'funding'],
             'category': 'ai-business',
             'theme': 'AI + Business'
+        },
+        {
+            'name': 'Latent.Space',
+            'url': 'https://www.latent.space/feed',
+            'keywords': ['AI', 'artificial intelligence', 'LLM', 'AI engineering', 'infrastructure'],
+            'category': 'ai-business',
+            'theme': 'AI + Business'
+        },
+        {
+                    'name': 'Build Fast with AI',
+                    'url': 'https://www.buildfastwithai.com/blogs',
+                    'keywords': ['AI', 'artificial intelligence', 'business', 'productivity'],
+                    'category': 'ai-business',
+                    'theme': 'AI + Business'
+                },
+        {
+            'name': 'AI Weekly',
+            'url': 'https://aiweekly.co/feed',
+            'keywords': ['AI', 'artificial intelligence', 'news', 'weekly'],
+            'category': 'ai-business',
+            'theme': 'AI + Business'
+        },
+        {
+            'name': 'AI Journ',
+            'url': 'https://aijourn.com/feed/',
+            'keywords': ['AI', 'artificial intelligence', 'journal', 'news'],
+            'category': 'ai-business',
+            'theme': 'AI + Business'
+        },
+        {
+                    'name': 'Improvado - MarTech',
+                    'url': 'https://improvado.io/blog',
+                    'keywords': ['AI', 'marketing', 'martech', 'automation', 'analytics'],
+                    'category': 'ai-business',
+                    'theme': 'AI + Business'
+                },
+        {
+            'name': 'Aprimo Blog',
+            'url': 'https://www.aprimo.com/feed',
+            'keywords': ['AI', 'content', 'marketing', 'DAM', 'automation'],
+            'category': 'ai-business',
+            'theme': 'AI + Business'
         }
     ],
     'ai-education': [
