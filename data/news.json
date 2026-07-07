@@ -8,7 +8,7 @@
       "synopsis": "<p>For a quarter century, the Google search box has been one of the most recognizable interfaces in computing: a thin white rectangle, a blinking cursor, a few typed words, and a list of blue links. On Tuesday, Google will formally retire that paradigm.</p><p>At its annual <a href=\"https://io.google",
       "theme": "AI General",
       "category": "ai-business",
-      "fetched_at": "2026-07-06T09:51:16.428499"
+      "fetched_at": "2026-07-07T09:19:27.538268"
     },
     {
       "title": "Salesforce rolls out new Slackbot AI agent as it battles Microsoft and Google in workplace AI",
@@ -18,7 +18,57 @@
       "synopsis": "<p><a href=\"https://www.salesforce.com/\">Salesforce</a> on Tuesday launched an entirely rebuilt version of <a href=\"https://slack.com/help/articles/202026038-An-introduction-to-Slackbot\">Slackbot</a>, the company&#x27;s workplace assistant, transforming it from a simple notification tool into what e",
       "theme": "AI + Business",
       "category": "ai-business",
-      "fetched_at": "2026-07-06T09:51:16.428547"
+      "fetched_at": "2026-07-07T09:19:27.538312"
+    },
+    {
+      "title": "iFLYTEK-Embodied-Omni Technical Report",
+      "url": "https://arxiv.org/abs/2607.02542",
+      "source": "ArXiv AI",
+      "date": "Tue, 07 Jul 2026 00:00:00 -0400",
+      "synopsis": "arXiv:2607.02542v1 Announce Type: new  Abstract: General-purpose embodied agents must understand multimodal instructions, anticipate how their environment will evolve, and produce precise control actions over extended horizons. Existing approaches typically specialize in visual-language reasoning, v",
+      "theme": "AI General",
+      "category": "ai-tech",
+      "fetched_at": "2026-07-07T09:19:28.915718"
+    },
+    {
+      "title": "Internal Pluralism and the Limits of Pairwise Comparisons",
+      "url": "https://arxiv.org/abs/2607.02672",
+      "source": "ArXiv AI",
+      "date": "Tue, 07 Jul 2026 00:00:00 -0400",
+      "synopsis": "arXiv:2607.02672v1 Announce Type: new  Abstract: Local pairwise comparisons are a standard tool for learning how people want decision rules to work, e.g., in participatory design or alignment. However, their use builds in two strong assumptions: that local comparisons are sufficient evidence about h",
+      "theme": "AI + Business",
+      "category": "ai-tech",
+      "fetched_at": "2026-07-07T09:19:28.915737"
+    },
+    {
+      "title": "ASK in the Dark: Uncertainty-Gated LLM Assistance under Partial Observability",
+      "url": "https://arxiv.org/abs/2607.02686",
+      "source": "ArXiv AI",
+      "date": "Tue, 07 Jul 2026 00:00:00 -0400",
+      "synopsis": "arXiv:2607.02686v1 Announce Type: new  Abstract: Reinforcement learning agents operating under partial observability must act on incomplete information, making them natural candidates for guidance from small language models (SLMs) that carry broad reasoning priors. Yet integrating SLM guidance into",
+      "theme": "AI + Business",
+      "category": "ai-tech",
+      "fetched_at": "2026-07-07T09:19:28.915747"
+    },
+    {
+      "title": "Automated Data Readiness for Scientific AI",
+      "url": "https://arxiv.org/abs/2607.02771",
+      "source": "ArXiv AI",
+      "date": "Tue, 07 Jul 2026 00:00:00 -0400",
+      "synopsis": "arXiv:2607.02771v1 Announce Type: new  Abstract: Leadership computing facilities steward large-scale scientific datasets that routinely require substantial transformation before serving as AI training data. However, no existing framework fully unifies automated transformation, readiness assessment,",
+      "theme": "AI + Business",
+      "category": "ai-tech",
+      "fetched_at": "2026-07-07T09:19:28.915755"
+    },
+    {
+      "title": "SwarmResearch: Orchestrating Coding Agents for Open-Ended Discovery",
+      "url": "https://arxiv.org/abs/2607.02807",
+      "source": "ArXiv AI",
+      "date": "Tue, 07 Jul 2026 00:00:00 -0400",
+      "synopsis": "arXiv:2607.02807v1 Announce Type: new  Abstract: Long-running coding agents such as autoresearch can persistently discover optimizations for open-ended problems. However, they tend to converge onto a single high-level approach, then proceed with low-level edits while missing other superior approache",
+      "theme": "AI General",
+      "category": "ai-tech",
+      "fetched_at": "2026-07-07T09:19:28.915771"
     },
     {
       "title": "Railway secures $100 million to challenge AWS with AI-native cloud infrastructure",
@@ -28,17 +78,7 @@
       "synopsis": "<p><a href=\"https://railway.com/\">Railway</a>, a San Francisco-based cloud platform that has quietly amassed two million developers without spending a dollar on marketing, announced Thursday that it raised $100 million in a Series B funding round, as surging demand for artificial intelligence applic",
       "theme": "AI + Business",
       "category": "ai-business",
-      "fetched_at": "2026-07-06T09:51:16.428522"
-    },
-    {
-      "title": "Achieving operational excellence with AI",
-      "url": "https://www.technologyreview.com/2026/07/02/1140045/achieving-operational-excellence-with-ai/",
-      "source": "MIT Technology Review - AI",
-      "date": "Thu, 02 Jul 2026 15:37:08 +0000",
-      "synopsis": "Frameworks like Lean Six Sigma and business process management (BPM) first gained traction because they promised clarity in the chaos—a structured way to bring order to messy, sprawling operations. Lean Six Sigma emphasized statistical rigor and quality control; BPM created end-to-end maps of how wo",
-      "theme": "AI + Business",
-      "category": "ai-business",
-      "fetched_at": "2026-07-06T09:51:15.868830"
+      "fetched_at": "2026-07-07T09:19:27.538287"
     },
     {
       "title": "Claude Code costs up to $200 a month. Goose does the same thing for free.",
@@ -48,7 +88,27 @@
       "synopsis": "<p>The artificial intelligence coding revolution comes with a catch: it&#x27;s expensive.</p><p><a href=\"https://claude.com/product/claude-code\">Claude Code</a>, Anthropic&#x27;s terminal-based AI agent that can write, debug, and deploy code autonomously, has captured the imagination of software dev",
       "theme": "AI + Business",
       "category": "ai-business",
-      "fetched_at": "2026-07-06T09:51:16.428531"
+      "fetched_at": "2026-07-07T09:19:27.538296"
+    },
+    {
+      "title": "Your family’s $300 stake in OpenAI",
+      "url": "https://www.technologyreview.com/2026/07/06/1140176/your-familys-300-stake-in-openai/",
+      "source": "MIT Technology Review - AI",
+      "date": "Mon, 06 Jul 2026 18:00:00 +0000",
+      "synopsis": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. OpenAI CEO Sam Altman’s oft-discussed promise that Americans will share in the wealth AI creates was in the news again last week. On Thursday, the Financial Times",
+      "theme": "AI + Business",
+      "category": "ai-business",
+      "fetched_at": "2026-07-07T09:19:27.053610"
+    },
+    {
+      "title": "The Download: South Korea’s hottest bachelors, and advancing eye transplants",
+      "url": "https://www.technologyreview.com/2026/07/06/1140172/the-download-south-korea-ai-chipworkers-eye-transplants/",
+      "source": "MIT Technology Review - AI",
+      "date": "Mon, 06 Jul 2026 13:00:00 +0000",
+      "synopsis": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. South Korea’s hottest new bachelors are chip workers Baek, a 35-year-old manager at the South Korean semiconductor titan SK Hynix, was enrolled in a m",
+      "theme": "AI + Business",
+      "category": "ai-business",
+      "fetched_at": "2026-07-07T09:19:27.053635"
     },
     {
       "title": "South Korea’s hottest new bachelors are chip workers",
@@ -58,7 +118,7 @@
       "synopsis": "Baek, a 35-year-old manager at the South Korean semiconductor titan SK Hynix, was enrolled in Sunoo, a matchmaking company based in Seoul, a year ago. In a move typical of anxious South Korean parents, his mother signed him up, hoping to find a good wife for her son. Lately, says Baek (who asked to",
       "theme": "AI General",
       "category": "ai-business",
-      "fetched_at": "2026-07-06T09:51:15.868762"
+      "fetched_at": "2026-07-07T09:19:27.053663"
     },
     {
       "title": "Listen Labs raises $69M after viral billboard hiring stunt to scale AI customer interviews",
@@ -68,7 +128,7 @@
       "synopsis": "<p>Alfred Wahlforss was running out of options. His startup, <a href=\"https://listenlabs.ai/\">Listen Labs</a>, needed to hire over 100 engineers, but competing against Mark Zuckerberg&#x27;s <a href=\"https://news.bloomberglaw.com/employee-benefits/zuckerbergs-100-million-ai-job-offers-pay-off-parmy-",
       "theme": "AI + Business",
       "category": "ai-business",
-      "fetched_at": "2026-07-06T09:51:16.428539"
+      "fetched_at": "2026-07-07T09:19:27.538304"
     },
     {
       "title": "A device that revives eyeballs from dead donors could make eye transplants possible",
@@ -78,7 +138,7 @@
       "synopsis": "It’s not easy to transplant a whole human eye. The surgery is difficult. And the eyes themselves start to degenerate as soon as they’ve left the body. When surgeons attempted it a few years ago, the newly transplanted eye wasn’t able to see. But researchers believe they might have a solution: a devi",
       "theme": "AI General",
       "category": "ai-business",
-      "fetched_at": "2026-07-06T09:51:15.868793"
+      "fetched_at": "2026-07-07T09:19:27.053686"
     },
     {
       "title": "The Download: a smoking “endgame” and a new Elizabeth Bear story",
@@ -88,19 +148,9 @@
       "synopsis": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The UK’s generational tobacco ban might not work. I’m supporting it anyway. —Jessica Hamzelou As the parent of two little girls, I often think about h",
       "theme": "AI + Business",
       "category": "ai-business",
-      "fetched_at": "2026-07-06T09:51:15.868807"
-    },
-    {
-      "title": "The UK’s generational tobacco ban might not work. I’m supporting it anyway.",
-      "url": "https://www.technologyreview.com/2026/07/03/1140036/uk-tobacco-ban-might-not-work-children-smoking/",
-      "source": "MIT Technology Review - AI",
-      "date": "Fri, 03 Jul 2026 09:00:00 +0000",
-      "synopsis": "As the parent of two little girls, I often think about how their childhood is different from mine. The seven-year-old is learning about AI at school. The five-year-old is given internet-based homework every week. And they are both absolutely repulsed by the idea of smoking. That was not the prevaili",
-      "theme": "AI + Business",
-      "category": "ai-business",
-      "fetched_at": "2026-07-06T09:51:15.868820"
+      "fetched_at": "2026-07-07T09:19:27.053699"
     }
   ],
-  "last_updated": "2026-07-06T09:51:17.430759",
-  "total_count": 10
+  "last_updated": "2026-07-07T09:19:29.032287",
+  "total_count": 15
 }
