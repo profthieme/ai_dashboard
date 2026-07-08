@@ -1,6 +1,56 @@
 {
   "articles": [
     {
+      "title": "Prompt-to-Paper: Agentic AI System for Bioinformatics",
+      "url": "https://arxiv.org/abs/2607.05456",
+      "source": "ArXiv AI",
+      "date": "Wed, 08 Jul 2026 00:00:00 -0400",
+      "synopsis": "arXiv:2607.05456v1 Announce Type: new  Abstract: While recent advances in large language models have enabled end-to-end automated manuscript generation, existing systems suffer from three critical deficiencies: (i) generated claims are not deterministically grounded in verifiable literature, (ii) ex",
+      "theme": "AI + Business",
+      "category": "ai-tech",
+      "fetched_at": "2026-07-08T08:04:19.357002"
+    },
+    {
+      "title": "From Graphs to Gradients: Physics-Inspired Structural Attribution for Cyber-Physical IoT Systems and Beyond",
+      "url": "https://arxiv.org/abs/2607.05563",
+      "source": "ArXiv AI",
+      "date": "Wed, 08 Jul 2026 00:00:00 -0400",
+      "synopsis": "arXiv:2607.05563v1 Announce Type: new  Abstract: Interpretable explanation methods in Artificial Intelligence aim to uncover the underlying causes and their effects, enabling a deeper understanding of why a system behaves in a certain way under different inputs. Unlike traditional explainability met",
+      "theme": "AI + Business",
+      "category": "ai-tech",
+      "fetched_at": "2026-07-08T08:04:19.357024"
+    },
+    {
+      "title": "CSTutorBench: Benchmarking Small Language Models as Tutors for Block-Based Programming",
+      "url": "https://arxiv.org/abs/2607.05571",
+      "source": "ArXiv AI",
+      "date": "Wed, 08 Jul 2026 00:00:00 -0400",
+      "synopsis": "arXiv:2607.05571v1 Announce Type: new  Abstract: Large language models are increasingly explored as AI tutors, yet deploying them in K-12 settings raises concerns around privacy, cost, and reliance on proprietary models. Small language models (SLMs) offer a promising alternative, but selecting the r",
+      "theme": "AI + Business",
+      "category": "ai-tech",
+      "fetched_at": "2026-07-08T08:04:19.357036"
+    },
+    {
+      "title": "Foundation Models for Automatic CAD Generation",
+      "url": "https://arxiv.org/abs/2607.05573",
+      "source": "ArXiv AI",
+      "date": "Wed, 08 Jul 2026 00:00:00 -0400",
+      "synopsis": "arXiv:2607.05573v1 Announce Type: new  Abstract: Recent advances in Large Language Models (LLMs) and Vision-Language Models (VLMs) enable the automatic generation of parametric 3D designs from natural-language specifications. This chapter presents an empirical study of foundation models for automati",
+      "theme": "AI + Business",
+      "category": "ai-tech",
+      "fetched_at": "2026-07-08T08:04:19.357046"
+    },
+    {
+      "title": "Narrative World Model: Narratology-Grounded Writer Memory for Long-Form Fiction",
+      "url": "https://arxiv.org/abs/2607.05577",
+      "source": "ArXiv AI",
+      "date": "Wed, 08 Jul 2026 00:00:00 -0400",
+      "synopsis": "arXiv:2607.05577v1 Announce Type: new  Abstract: Long-form fiction writers need memory that answers multi-hop questions about evolving story state: who knows a secret and when they learned it, whether an event preceded the narration that revealed it, whether a setup paid off, and how a relationship",
+      "theme": "AI + Business",
+      "category": "ai-tech",
+      "fetched_at": "2026-07-08T08:04:19.357054"
+    },
+    {
       "title": "Google just redesigned the search box for the first time in 25 years — here’s why it matters more than you think.",
       "url": "https://venturebeat.com/technology/google-just-redesigned-the-search-box-for-the-first-time-in-25-years-heres-why-it-matters-more-than-you-think",
       "source": "VentureBeat AI",
@@ -8,7 +58,7 @@
       "synopsis": "<p>For a quarter century, the Google search box has been one of the most recognizable interfaces in computing: a thin white rectangle, a blinking cursor, a few typed words, and a list of blue links. On Tuesday, Google will formally retire that paradigm.</p><p>At its annual <a href=\"https://io.google",
       "theme": "AI General",
       "category": "ai-business",
-      "fetched_at": "2026-07-07T09:19:27.538268"
+      "fetched_at": "2026-07-08T08:04:18.269361"
     },
     {
       "title": "Salesforce rolls out new Slackbot AI agent as it battles Microsoft and Google in workplace AI",
@@ -18,57 +68,37 @@
       "synopsis": "<p><a href=\"https://www.salesforce.com/\">Salesforce</a> on Tuesday launched an entirely rebuilt version of <a href=\"https://slack.com/help/articles/202026038-An-introduction-to-Slackbot\">Slackbot</a>, the company&#x27;s workplace assistant, transforming it from a simple notification tool into what e",
       "theme": "AI + Business",
       "category": "ai-business",
-      "fetched_at": "2026-07-07T09:19:27.538312"
+      "fetched_at": "2026-07-08T08:04:18.269407"
     },
     {
-      "title": "iFLYTEK-Embodied-Omni Technical Report",
-      "url": "https://arxiv.org/abs/2607.02542",
-      "source": "ArXiv AI",
-      "date": "Tue, 07 Jul 2026 00:00:00 -0400",
-      "synopsis": "arXiv:2607.02542v1 Announce Type: new  Abstract: General-purpose embodied agents must understand multimodal instructions, anticipate how their environment will evolve, and produce precise control actions over extended horizons. Existing approaches typically specialize in visual-language reasoning, v",
-      "theme": "AI General",
-      "category": "ai-tech",
-      "fetched_at": "2026-07-07T09:19:28.915718"
-    },
-    {
-      "title": "Internal Pluralism and the Limits of Pairwise Comparisons",
-      "url": "https://arxiv.org/abs/2607.02672",
-      "source": "ArXiv AI",
-      "date": "Tue, 07 Jul 2026 00:00:00 -0400",
-      "synopsis": "arXiv:2607.02672v1 Announce Type: new  Abstract: Local pairwise comparisons are a standard tool for learning how people want decision rules to work, e.g., in participatory design or alignment. However, their use builds in two strong assumptions: that local comparisons are sufficient evidence about h",
+      "title": "The Download: your stake in OpenAI, and the Treasury’s AI warning",
+      "url": "https://www.technologyreview.com/2026/07/07/1140197/the-download-your-openai-stake-treasury-ai-warning/",
+      "source": "MIT Technology Review - AI",
+      "date": "Tue, 07 Jul 2026 12:10:00 +0000",
+      "synopsis": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Your family’s $300 stake in OpenAI Sam Altman’s proposal that Americans should share in the wealth created by AI is back in the spotlight, with report",
       "theme": "AI + Business",
-      "category": "ai-tech",
-      "fetched_at": "2026-07-07T09:19:28.915737"
+      "category": "ai-business",
+      "fetched_at": "2026-07-08T08:04:17.756375"
     },
     {
-      "title": "ASK in the Dark: Uncertainty-Gated LLM Assistance under Partial Observability",
-      "url": "https://arxiv.org/abs/2607.02686",
-      "source": "ArXiv AI",
-      "date": "Tue, 07 Jul 2026 00:00:00 -0400",
-      "synopsis": "arXiv:2607.02686v1 Announce Type: new  Abstract: Reinforcement learning agents operating under partial observability must act on incomplete information, making them natural candidates for guidance from small language models (SLMs) that carry broad reasoning priors. Yet integrating SLM guidance into",
+      "title": "The foundational elements of AI architecture that IT leaders need to scale",
+      "url": "https://www.technologyreview.com/2026/07/07/1139413/the-foundational-elements-of-ai-architecture-that-it-leaders-need-to-scale/",
+      "source": "MIT Technology Review - AI",
+      "date": "Tue, 07 Jul 2026 11:10:52 +0000",
+      "synopsis": "With the rapid progress of AI capabilities and the move to agentic systems, organizations are expanding their use cases as the technology continues to grow. That constant evolution also introduces risk, leaving IT leaders to wonder which investments will prove valuable even six months into the futur",
       "theme": "AI + Business",
-      "category": "ai-tech",
-      "fetched_at": "2026-07-07T09:19:28.915747"
+      "category": "ai-business",
+      "fetched_at": "2026-07-08T08:04:17.756393"
     },
     {
-      "title": "Automated Data Readiness for Scientific AI",
-      "url": "https://arxiv.org/abs/2607.02771",
-      "source": "ArXiv AI",
-      "date": "Tue, 07 Jul 2026 00:00:00 -0400",
-      "synopsis": "arXiv:2607.02771v1 Announce Type: new  Abstract: Leadership computing facilities steward large-scale scientific datasets that routinely require substantial transformation before serving as AI training data. However, no existing framework fully unifies automated transformation, readiness assessment,",
+      "title": "Why worms (and microbes) are catching on as a manure pollution solution",
+      "url": "https://www.technologyreview.com/2026/07/07/1140142/why-worms-and-microbes-are-catching-on-as-a-manure-pollution-solution/",
+      "source": "MIT Technology Review - AI",
+      "date": "Tue, 07 Jul 2026 10:00:00 +0000",
+      "synopsis": "Anthony Agueda, a third-generation California dairy farmer, pulls a rake through a bed of dark, wet wood chips on his family’s land in Hickman, a tiny town in the state’s agricultural heartland. He reaches down with both hands and pulls up a clump of muck, turning it over to reveal a half-dozen squi",
       "theme": "AI + Business",
-      "category": "ai-tech",
-      "fetched_at": "2026-07-07T09:19:28.915755"
-    },
-    {
-      "title": "SwarmResearch: Orchestrating Coding Agents for Open-Ended Discovery",
-      "url": "https://arxiv.org/abs/2607.02807",
-      "source": "ArXiv AI",
-      "date": "Tue, 07 Jul 2026 00:00:00 -0400",
-      "synopsis": "arXiv:2607.02807v1 Announce Type: new  Abstract: Long-running coding agents such as autoresearch can persistently discover optimizations for open-ended problems. However, they tend to converge onto a single high-level approach, then proceed with low-level edits while missing other superior approache",
-      "theme": "AI General",
-      "category": "ai-tech",
-      "fetched_at": "2026-07-07T09:19:28.915771"
+      "category": "ai-business",
+      "fetched_at": "2026-07-08T08:04:17.756407"
     },
     {
       "title": "Railway secures $100 million to challenge AWS with AI-native cloud infrastructure",
@@ -78,7 +108,7 @@
       "synopsis": "<p><a href=\"https://railway.com/\">Railway</a>, a San Francisco-based cloud platform that has quietly amassed two million developers without spending a dollar on marketing, announced Thursday that it raised $100 million in a Series B funding round, as surging demand for artificial intelligence applic",
       "theme": "AI + Business",
       "category": "ai-business",
-      "fetched_at": "2026-07-07T09:19:27.538287"
+      "fetched_at": "2026-07-08T08:04:18.269381"
     },
     {
       "title": "Claude Code costs up to $200 a month. Goose does the same thing for free.",
@@ -88,7 +118,7 @@
       "synopsis": "<p>The artificial intelligence coding revolution comes with a catch: it&#x27;s expensive.</p><p><a href=\"https://claude.com/product/claude-code\">Claude Code</a>, Anthropic&#x27;s terminal-based AI agent that can write, debug, and deploy code autonomously, has captured the imagination of software dev",
       "theme": "AI + Business",
       "category": "ai-business",
-      "fetched_at": "2026-07-07T09:19:27.538296"
+      "fetched_at": "2026-07-08T08:04:18.269390"
     },
     {
       "title": "Your family’s $300 stake in OpenAI",
@@ -98,7 +128,7 @@
       "synopsis": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. OpenAI CEO Sam Altman’s oft-discussed promise that Americans will share in the wealth AI creates was in the news again last week. On Thursday, the Financial Times",
       "theme": "AI + Business",
       "category": "ai-business",
-      "fetched_at": "2026-07-07T09:19:27.053610"
+      "fetched_at": "2026-07-08T08:04:17.756419"
     },
     {
       "title": "The Download: South Korea’s hottest bachelors, and advancing eye transplants",
@@ -108,17 +138,7 @@
       "synopsis": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. South Korea’s hottest new bachelors are chip workers Baek, a 35-year-old manager at the South Korean semiconductor titan SK Hynix, was enrolled in a m",
       "theme": "AI + Business",
       "category": "ai-business",
-      "fetched_at": "2026-07-07T09:19:27.053635"
-    },
-    {
-      "title": "South Korea’s hottest new bachelors are chip workers",
-      "url": "https://www.technologyreview.com/2026/07/06/1140000/south-korea-bachelors-samsung-skhynix-chip-workers/",
-      "source": "MIT Technology Review - AI",
-      "date": "Mon, 06 Jul 2026 09:00:00 +0000",
-      "synopsis": "Baek, a 35-year-old manager at the South Korean semiconductor titan SK Hynix, was enrolled in Sunoo, a matchmaking company based in Seoul, a year ago. In a move typical of anxious South Korean parents, his mother signed him up, hoping to find a good wife for her son. Lately, says Baek (who asked to",
-      "theme": "AI General",
-      "category": "ai-business",
-      "fetched_at": "2026-07-07T09:19:27.053663"
+      "fetched_at": "2026-07-08T08:04:17.756430"
     },
     {
       "title": "Listen Labs raises $69M after viral billboard hiring stunt to scale AI customer interviews",
@@ -128,29 +148,9 @@
       "synopsis": "<p>Alfred Wahlforss was running out of options. His startup, <a href=\"https://listenlabs.ai/\">Listen Labs</a>, needed to hire over 100 engineers, but competing against Mark Zuckerberg&#x27;s <a href=\"https://news.bloomberglaw.com/employee-benefits/zuckerbergs-100-million-ai-job-offers-pay-off-parmy-",
       "theme": "AI + Business",
       "category": "ai-business",
-      "fetched_at": "2026-07-07T09:19:27.538304"
-    },
-    {
-      "title": "A device that revives eyeballs from dead donors could make eye transplants possible",
-      "url": "https://www.technologyreview.com/2026/07/03/1140148/a-device-that-revives-eyeballs-from-dead-donors-could-make-eye-transplants-possible/",
-      "source": "MIT Technology Review - AI",
-      "date": "Fri, 03 Jul 2026 17:34:37 +0000",
-      "synopsis": "It’s not easy to transplant a whole human eye. The surgery is difficult. And the eyes themselves start to degenerate as soon as they’ve left the body. When surgeons attempted it a few years ago, the newly transplanted eye wasn’t able to see. But researchers believe they might have a solution: a devi",
-      "theme": "AI General",
-      "category": "ai-business",
-      "fetched_at": "2026-07-07T09:19:27.053686"
-    },
-    {
-      "title": "The Download: a smoking “endgame” and a new Elizabeth Bear story",
-      "url": "https://www.technologyreview.com/2026/07/03/1140134/the-download-uk-smoking-ban-elizabeth-bear-story/",
-      "source": "MIT Technology Review - AI",
-      "date": "Fri, 03 Jul 2026 12:10:00 +0000",
-      "synopsis": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The UK’s generational tobacco ban might not work. I’m supporting it anyway. —Jessica Hamzelou As the parent of two little girls, I often think about h",
-      "theme": "AI + Business",
-      "category": "ai-business",
-      "fetched_at": "2026-07-07T09:19:27.053699"
+      "fetched_at": "2026-07-08T08:04:18.269398"
     }
   ],
-  "last_updated": "2026-07-07T09:19:29.032287",
+  "last_updated": "2026-07-08T08:04:19.412658",
   "total_count": 15
 }
