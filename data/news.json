@@ -8,7 +8,7 @@
       "synopsis": "<p></p>    <figure class=\"wp-block-video\"><video controls=\"controls\" height=\"720\" src=\"https://wp.technologyreview.com/wp-content/uploads/2026/07/chapter_one__the_rise_of_the_ai_platform_v1-720p-1.mp4\" width=\"1280\"></video></figure>",
       "theme": "AI + Business",
       "category": "ai-business",
-      "fetched_at": "2026-07-09T09:00:15.829776"
+      "fetched_at": "2026-07-10T08:56:42.753488"
     },
     {
       "title": "The Download: worms fight pollution, and geoengineering faces reality",
@@ -18,7 +18,7 @@
       "synopsis": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Why worms (and microbes) are catching on as a manure pollution solution Anthony Agueda, a third-generation California dairy farmer, pulls a rake throu",
       "theme": "AI + Business",
       "category": "ai-business",
-      "fetched_at": "2026-07-09T09:00:15.829792"
+      "fetched_at": "2026-07-10T08:56:42.753495"
     },
     {
       "title": "Google just redesigned the search box for the first time in 25 years — here’s why it matters more than you think.",
@@ -28,7 +28,7 @@
       "synopsis": "<p>For a quarter century, the Google search box has been one of the most recognizable interfaces in computing: a thin white rectangle, a blinking cursor, a few typed words, and a list of blue links. On Tuesday, Google will formally retire that paradigm.</p><p>At its annual <a href=\"https://io.google",
       "theme": "AI General",
       "category": "ai-business",
-      "fetched_at": "2026-07-09T09:00:16.515567"
+      "fetched_at": "2026-07-10T08:56:43.345582"
     },
     {
       "title": "Salesforce rolls out new Slackbot AI agent as it battles Microsoft and Google in workplace AI",
@@ -38,37 +38,7 @@
       "synopsis": "<p><a href=\"https://www.salesforce.com/\">Salesforce</a> on Tuesday launched an entirely rebuilt version of <a href=\"https://slack.com/help/articles/202026038-An-introduction-to-Slackbot\">Slackbot</a>, the company&#x27;s workplace assistant, transforming it from a simple notification tool into what e",
       "theme": "AI + Business",
       "category": "ai-business",
-      "fetched_at": "2026-07-09T09:00:16.515604"
-    },
-    {
-      "title": "The Download: your stake in OpenAI, and the Treasury’s AI warning",
-      "url": "https://www.technologyreview.com/2026/07/07/1140197/the-download-your-openai-stake-treasury-ai-warning/",
-      "source": "MIT Technology Review - AI",
-      "date": "Tue, 07 Jul 2026 12:10:00 +0000",
-      "synopsis": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Your family’s $300 stake in OpenAI Sam Altman’s proposal that Americans should share in the wealth created by AI is back in the spotlight, with report",
-      "theme": "AI + Business",
-      "category": "ai-business",
-      "fetched_at": "2026-07-09T09:00:15.829804"
-    },
-    {
-      "title": "The foundational elements of AI architecture that IT leaders need to scale",
-      "url": "https://www.technologyreview.com/2026/07/07/1139413/the-foundational-elements-of-ai-architecture-that-it-leaders-need-to-scale/",
-      "source": "MIT Technology Review - AI",
-      "date": "Tue, 07 Jul 2026 11:10:52 +0000",
-      "synopsis": "With the rapid progress of AI capabilities and the move to agentic systems, organizations are expanding their use cases as the technology continues to grow. That constant evolution also introduces risk, leaving IT leaders to wonder which investments will prove valuable even six months into the futur",
-      "theme": "AI + Business",
-      "category": "ai-business",
-      "fetched_at": "2026-07-09T09:00:15.829811"
-    },
-    {
-      "title": "Why worms (and microbes) are catching on as a manure pollution solution",
-      "url": "https://www.technologyreview.com/2026/07/07/1140142/why-worms-and-microbes-are-catching-on-as-a-manure-pollution-solution/",
-      "source": "MIT Technology Review - AI",
-      "date": "Tue, 07 Jul 2026 10:00:00 +0000",
-      "synopsis": "Anthony Agueda, a third-generation California dairy farmer, pulls a rake through a bed of dark, wet wood chips on his family’s land in Hickman, a tiny town in the state’s agricultural heartland. He reaches down with both hands and pulls up a clump of muck, turning it over to reveal a half-dozen squi",
-      "theme": "AI + Business",
-      "category": "ai-business",
-      "fetched_at": "2026-07-09T09:00:15.829820"
+      "fetched_at": "2026-07-10T08:56:43.345617"
     },
     {
       "title": "Railway secures $100 million to challenge AWS with AI-native cloud infrastructure",
@@ -78,57 +48,37 @@
       "synopsis": "<p><a href=\"https://railway.com/\">Railway</a>, a San Francisco-based cloud platform that has quietly amassed two million developers without spending a dollar on marketing, announced Thursday that it raised $100 million in a Series B funding round, as surging demand for artificial intelligence applic",
       "theme": "AI + Business",
       "category": "ai-business",
-      "fetched_at": "2026-07-09T09:00:16.515585"
+      "fetched_at": "2026-07-10T08:56:43.345598"
     },
     {
-      "title": "AgentLens: Production-Assessed Trajectory Reviews for Coding Agent Evaluation",
-      "url": "https://arxiv.org/abs/2607.06624",
-      "source": "ArXiv AI",
-      "date": "Thu, 09 Jul 2026 00:00:00 -0400",
-      "synopsis": "arXiv:2607.06624v1 Announce Type: new  Abstract: We present AgentLens, a production-assessed benchmark for interactive code agents. Most code-agent benchmarks reduce a run to a single bit -- did the task pass? -- but the people who actually use these agents experience the entire trajectory: how the",
+      "title": "Anthropic found a hidden space where Claude puzzles over concepts",
+      "url": "https://www.technologyreview.com/2026/07/09/1140293/anthropic-found-a-hidden-space-where-claude-puzzles-over-concepts/",
+      "source": "MIT Technology Review - AI",
+      "date": "Thu, 09 Jul 2026 20:22:28 +0000",
+      "synopsis": "The AI firm Anthropic has developed a technique that has given it the clearest glimpse yet at what’s really going on inside large language models as they answer questions or carry out tasks. What they found ranges from the mundane to the unnerving. Researchers at the company built a tool called the",
+      "theme": "AI + Business",
+      "category": "ai-business",
+      "fetched_at": "2026-07-10T08:56:42.753442"
+    },
+    {
+      "title": "The Download: a nuclear landmark, and China eyes Nvidia chips",
+      "url": "https://www.technologyreview.com/2026/07/09/1140283/the-download-nuclear-power-milestone-nvidia-china-ai-chips/",
+      "source": "MIT Technology Review - AI",
+      "date": "Thu, 09 Jul 2026 12:10:00 +0000",
+      "synopsis": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Four nuclear reactors hit a big milestone in the US —Casey Crownhart I was really looking forward to July 4, and not just because I love a poolside ba",
+      "theme": "AI + Business",
+      "category": "ai-business",
+      "fetched_at": "2026-07-10T08:56:42.753459"
+    },
+    {
+      "title": "Four nuclear reactors hit a big milestone in the US",
+      "url": "https://www.technologyreview.com/2026/07/09/1140235/nuclear-reactor-milestone-criticality/",
+      "source": "MIT Technology Review - AI",
+      "date": "Thu, 09 Jul 2026 08:00:00 +0000",
+      "synopsis": "I was really looking forward to July 4, and not just because I love a poolside barbecue. This year the American holiday also marked a big symbolic deadline for US nuclear power. Last year the Trump administration set a goal to see three new microreactors achieve criticality, a technical milestone es",
       "theme": "AI General",
-      "category": "ai-tech",
-      "fetched_at": "2026-07-09T09:00:18.079519"
-    },
-    {
-      "title": "When Does In-Context Search Help? A Sampling-Complexity Theory of Reflection-Driven Reasoning",
-      "url": "https://arxiv.org/abs/2607.06720",
-      "source": "ArXiv AI",
-      "date": "Thu, 09 Jul 2026 00:00:00 -0400",
-      "synopsis": "arXiv:2607.06720v1 Announce Type: new  Abstract: Training large language models (LLMs) with extended reasoning has enabled in-context search, in which models iteratively generate, critique, and revise solution attempts. We provide a theoretical analysis of in-context search by modeling it as approxi",
-      "theme": "AI + Business",
-      "category": "ai-tech",
-      "fetched_at": "2026-07-09T09:00:18.079537"
-    },
-    {
-      "title": "LLM-powered reasoning in agent-based modeling",
-      "url": "https://arxiv.org/abs/2607.06757",
-      "source": "ArXiv AI",
-      "date": "Thu, 09 Jul 2026 00:00:00 -0400",
-      "synopsis": "arXiv:2607.06757v1 Announce Type: new  Abstract: Agent-based modeling (ABM) has the capability to model millions of individuals and their interactions, which is useful for policy making. However, ABMs have traditionally relied on static prior, which prevents the models from adapting to real-time cha",
-      "theme": "AI + Business",
-      "category": "ai-tech",
-      "fetched_at": "2026-07-09T09:00:18.079545"
-    },
-    {
-      "title": "QANTIS: Hardware-Calibrated Sequential POMDP Belief Updates on IBM Heron",
-      "url": "https://arxiv.org/abs/2607.06760",
-      "source": "ArXiv AI",
-      "date": "Thu, 09 Jul 2026 00:00:00 -0400",
-      "synopsis": "arXiv:2607.06760v1 Announce Type: new  Abstract: Autonomous systems under partial observability act on beliefs, not raw sensor events. QANTIS treats the quantum processor as a calibrated belief-update service in that loop: it receives a prior and an observation model, estimates the rare-event eviden",
-      "theme": "AI General",
-      "category": "ai-tech",
-      "fetched_at": "2026-07-09T09:00:18.079558"
-    },
-    {
-      "title": "Cost-Effective Agent Harnesses for Abstract Reasoning and Generalization on ARC-AGI-1",
-      "url": "https://arxiv.org/abs/2607.06764",
-      "source": "ArXiv AI",
-      "date": "Thu, 09 Jul 2026 00:00:00 -0400",
-      "synopsis": "arXiv:2607.06764v1 Announce Type: new  Abstract: Recent progress on ARC-AGI-1 from disclosed architectures has come broadly from two regimes: heavy test-time compute over frontier models (evolutionary search, exhaustive sampling, extended chain-of-thought), or benchmark-specific training in which sm",
-      "theme": "AI + Business",
-      "category": "ai-tech",
-      "fetched_at": "2026-07-09T09:00:18.079564"
+      "category": "ai-business",
+      "fetched_at": "2026-07-10T08:56:42.753478"
     },
     {
       "title": "Claude Code costs up to $200 a month. Goose does the same thing for free.",
@@ -138,7 +88,7 @@
       "synopsis": "<p>The artificial intelligence coding revolution comes with a catch: it&#x27;s expensive.</p><p><a href=\"https://claude.com/product/claude-code\">Claude Code</a>, Anthropic&#x27;s terminal-based AI agent that can write, debug, and deploy code autonomously, has captured the imagination of software dev",
       "theme": "AI + Business",
       "category": "ai-business",
-      "fetched_at": "2026-07-09T09:00:16.515592"
+      "fetched_at": "2026-07-10T08:56:43.345605"
     },
     {
       "title": "Listen Labs raises $69M after viral billboard hiring stunt to scale AI customer interviews",
@@ -148,9 +98,59 @@
       "synopsis": "<p>Alfred Wahlforss was running out of options. His startup, <a href=\"https://listenlabs.ai/\">Listen Labs</a>, needed to hire over 100 engineers, but competing against Mark Zuckerberg&#x27;s <a href=\"https://news.bloomberglaw.com/employee-benefits/zuckerbergs-100-million-ai-job-offers-pay-off-parmy-",
       "theme": "AI + Business",
       "category": "ai-business",
-      "fetched_at": "2026-07-09T09:00:16.515598"
+      "fetched_at": "2026-07-10T08:56:43.345611"
+    },
+    {
+      "title": "Context Graphs for Proactive Enterprise Agents",
+      "url": "https://arxiv.org/abs/2607.07721",
+      "source": "ArXiv AI",
+      "date": "Fri, 10 Jul 2026 00:00:00 -0400",
+      "synopsis": "arXiv:2607.07721v1 Announce Type: new  Abstract: Retrieval-Augmented Generation (RAG) and agentic frameworks have advanced enterprise AI considerably, yet agents remain fundamentally reactive: they wait for a human query before acting. This paper argues that genuine enterprise productivity gains req",
+      "theme": "AI + Business",
+      "category": "ai-tech",
+      "fetched_at": "2026-07-10T08:56:45.052821"
+    },
+    {
+      "title": "AI-integrated models for assessing agricultural resilience",
+      "url": "https://arxiv.org/abs/2607.07759",
+      "source": "ArXiv AI",
+      "date": "Fri, 10 Jul 2026 00:00:00 -0400",
+      "synopsis": "arXiv:2607.07759v1 Announce Type: new  Abstract: Agricultural supply chains are vulnerable to disruptions through linked biophysical and economic systems. We develop an AI-powered tool that integrates economic models (GTAP) with biophysical models (APSIM) to analyze supply chain shocks, enabling pol",
+      "theme": "AI + Business",
+      "category": "ai-tech",
+      "fetched_at": "2026-07-10T08:56:45.052835"
+    },
+    {
+      "title": "Adversarial Social Epistemology for Assemblies of Humans and Large Language Models",
+      "url": "https://arxiv.org/abs/2607.07760",
+      "source": "ArXiv AI",
+      "date": "Fri, 10 Jul 2026 00:00:00 -0400",
+      "synopsis": "arXiv:2607.07760v1 Announce Type: new  Abstract: We outline an adversarial social epistemology (ASE) for densely interactive communicative landscapes in which public assertions are scaffolded by chains of testimony, inference, institutional certification, and tacit trust. In such landscapes, agents",
+      "theme": "AI + Business",
+      "category": "ai-tech",
+      "fetched_at": "2026-07-10T08:56:45.052843"
+    },
+    {
+      "title": "Aligning Clinical Needs and AI Capabilities: A Survey on LLMs for Medical Reasoning",
+      "url": "https://arxiv.org/abs/2607.07761",
+      "source": "ArXiv AI",
+      "date": "Fri, 10 Jul 2026 00:00:00 -0400",
+      "synopsis": "arXiv:2607.07761v1 Announce Type: new  Abstract: Large language models (LLMs) have emerged as important tools in healthcare, showing growing potential for clinical reasoning and patient care. This survey examines recent progress in medical LLMs, focusing on reasoning applications and requirements. W",
+      "theme": "AI + Business",
+      "category": "ai-tech",
+      "fetched_at": "2026-07-10T08:56:45.052851"
+    },
+    {
+      "title": "Alignment Plausibility: A New Standard for Assuring AI in Healthcare",
+      "url": "https://arxiv.org/abs/2607.07766",
+      "source": "ArXiv AI",
+      "date": "Fri, 10 Jul 2026 00:00:00 -0400",
+      "synopsis": "arXiv:2607.07766v1 Announce Type: new  Abstract: Large language models (LLMs) have become significant providers of mental health support, yet they remain products of an attention economy whose operational and commercial targets favour sustained engagement over the friction that effective psychologic",
+      "theme": "AI + Business",
+      "category": "ai-tech",
+      "fetched_at": "2026-07-10T08:56:45.052857"
     }
   ],
-  "last_updated": "2026-07-09T09:00:18.123101",
+  "last_updated": "2026-07-10T08:56:45.163236",
   "total_count": 15
 }
