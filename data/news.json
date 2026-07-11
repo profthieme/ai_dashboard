@@ -1,26 +1,6 @@
 {
   "articles": [
     {
-      "title": "EmTech AI 2026: The Rise of the AI Platform",
-      "url": "https://www.technologyreview.com/2026/07/08/1140223/emtech-ai-2026-the-rise-of-the-ai-platform/",
-      "source": "MIT Technology Review - AI",
-      "date": "Wed, 08 Jul 2026 16:26:10 +0000",
-      "synopsis": "<p></p>    <figure class=\"wp-block-video\"><video controls=\"controls\" height=\"720\" src=\"https://wp.technologyreview.com/wp-content/uploads/2026/07/chapter_one__the_rise_of_the_ai_platform_v1-720p-1.mp4\" width=\"1280\"></video></figure>",
-      "theme": "AI + Business",
-      "category": "ai-business",
-      "fetched_at": "2026-07-10T08:56:42.753488"
-    },
-    {
-      "title": "The Download: worms fight pollution, and geoengineering faces reality",
-      "url": "https://www.technologyreview.com/2026/07/08/1140216/the-download-worms-manure-pollution-geoengineering-reality-check/",
-      "source": "MIT Technology Review - AI",
-      "date": "Wed, 08 Jul 2026 12:10:00 +0000",
-      "synopsis": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Why worms (and microbes) are catching on as a manure pollution solution Anthony Agueda, a third-generation California dairy farmer, pulls a rake throu",
-      "theme": "AI + Business",
-      "category": "ai-business",
-      "fetched_at": "2026-07-10T08:56:42.753495"
-    },
-    {
       "title": "Google just redesigned the search box for the first time in 25 years — here’s why it matters more than you think.",
       "url": "https://venturebeat.com/technology/google-just-redesigned-the-search-box-for-the-first-time-in-25-years-heres-why-it-matters-more-than-you-think",
       "source": "VentureBeat AI",
@@ -28,7 +8,7 @@
       "synopsis": "<p>For a quarter century, the Google search box has been one of the most recognizable interfaces in computing: a thin white rectangle, a blinking cursor, a few typed words, and a list of blue links. On Tuesday, Google will formally retire that paradigm.</p><p>At its annual <a href=\"https://io.google",
       "theme": "AI General",
       "category": "ai-business",
-      "fetched_at": "2026-07-10T08:56:43.345582"
+      "fetched_at": "2026-07-11T07:29:23.900255"
     },
     {
       "title": "Salesforce rolls out new Slackbot AI agent as it battles Microsoft and Google in workplace AI",
@@ -38,7 +18,7 @@
       "synopsis": "<p><a href=\"https://www.salesforce.com/\">Salesforce</a> on Tuesday launched an entirely rebuilt version of <a href=\"https://slack.com/help/articles/202026038-An-introduction-to-Slackbot\">Slackbot</a>, the company&#x27;s workplace assistant, transforming it from a simple notification tool into what e",
       "theme": "AI + Business",
       "category": "ai-business",
-      "fetched_at": "2026-07-10T08:56:43.345617"
+      "fetched_at": "2026-07-11T07:29:23.900301"
     },
     {
       "title": "Railway secures $100 million to challenge AWS with AI-native cloud infrastructure",
@@ -48,7 +28,7 @@
       "synopsis": "<p><a href=\"https://railway.com/\">Railway</a>, a San Francisco-based cloud platform that has quietly amassed two million developers without spending a dollar on marketing, announced Thursday that it raised $100 million in a Series B funding round, as surging demand for artificial intelligence applic",
       "theme": "AI + Business",
       "category": "ai-business",
-      "fetched_at": "2026-07-10T08:56:43.345598"
+      "fetched_at": "2026-07-11T07:29:23.900276"
     },
     {
       "title": "Anthropic found a hidden space where Claude puzzles over concepts",
@@ -58,7 +38,7 @@
       "synopsis": "The AI firm Anthropic has developed a technique that has given it the clearest glimpse yet at what’s really going on inside large language models as they answer questions or carry out tasks. What they found ranges from the mundane to the unnerving. Researchers at the company built a tool called the",
       "theme": "AI + Business",
       "category": "ai-business",
-      "fetched_at": "2026-07-10T08:56:42.753442"
+      "fetched_at": "2026-07-11T07:29:23.018286"
     },
     {
       "title": "The Download: a nuclear landmark, and China eyes Nvidia chips",
@@ -68,7 +48,7 @@
       "synopsis": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Four nuclear reactors hit a big milestone in the US —Casey Crownhart I was really looking forward to July 4, and not just because I love a poolside ba",
       "theme": "AI + Business",
       "category": "ai-business",
-      "fetched_at": "2026-07-10T08:56:42.753459"
+      "fetched_at": "2026-07-11T07:29:23.018297"
     },
     {
       "title": "Four nuclear reactors hit a big milestone in the US",
@@ -78,7 +58,7 @@
       "synopsis": "I was really looking forward to July 4, and not just because I love a poolside barbecue. This year the American holiday also marked a big symbolic deadline for US nuclear power. Last year the Trump administration set a goal to see three new microreactors achieve criticality, a technical milestone es",
       "theme": "AI General",
       "category": "ai-business",
-      "fetched_at": "2026-07-10T08:56:42.753478"
+      "fetched_at": "2026-07-11T07:29:23.018315"
     },
     {
       "title": "Claude Code costs up to $200 a month. Goose does the same thing for free.",
@@ -88,7 +68,7 @@
       "synopsis": "<p>The artificial intelligence coding revolution comes with a catch: it&#x27;s expensive.</p><p><a href=\"https://claude.com/product/claude-code\">Claude Code</a>, Anthropic&#x27;s terminal-based AI agent that can write, debug, and deploy code autonomously, has captured the imagination of software dev",
       "theme": "AI + Business",
       "category": "ai-business",
-      "fetched_at": "2026-07-10T08:56:43.345605"
+      "fetched_at": "2026-07-11T07:29:23.900285"
     },
     {
       "title": "Listen Labs raises $69M after viral billboard hiring stunt to scale AI customer interviews",
@@ -98,59 +78,29 @@
       "synopsis": "<p>Alfred Wahlforss was running out of options. His startup, <a href=\"https://listenlabs.ai/\">Listen Labs</a>, needed to hire over 100 engineers, but competing against Mark Zuckerberg&#x27;s <a href=\"https://news.bloomberglaw.com/employee-benefits/zuckerbergs-100-million-ai-job-offers-pay-off-parmy-",
       "theme": "AI + Business",
       "category": "ai-business",
-      "fetched_at": "2026-07-10T08:56:43.345611"
+      "fetched_at": "2026-07-11T07:29:23.900293"
     },
     {
-      "title": "Context Graphs for Proactive Enterprise Agents",
-      "url": "https://arxiv.org/abs/2607.07721",
-      "source": "ArXiv AI",
-      "date": "Fri, 10 Jul 2026 00:00:00 -0400",
-      "synopsis": "arXiv:2607.07721v1 Announce Type: new  Abstract: Retrieval-Augmented Generation (RAG) and agentic frameworks have advanced enterprise AI considerably, yet agents remain fundamentally reactive: they wait for a human query before acting. This paper argues that genuine enterprise productivity gains req",
+      "title": "The Download: Claude’s inner workings and OpenAI’s “super app”",
+      "url": "https://www.technologyreview.com/2026/07/10/1140316/the-download-anthropic-claude-hidden-space-openai-super-app/",
+      "source": "MIT Technology Review - AI",
+      "date": "Fri, 10 Jul 2026 12:10:00 +0000",
+      "synopsis": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Anthropic found a hidden space where Claude puzzles over concepts The AI firm Anthropic has got the clearest glimpse yet at what’s really going on ins",
       "theme": "AI + Business",
-      "category": "ai-tech",
-      "fetched_at": "2026-07-10T08:56:45.052821"
+      "category": "ai-business",
+      "fetched_at": "2026-07-11T07:29:23.018234"
     },
     {
-      "title": "AI-integrated models for assessing agricultural resilience",
-      "url": "https://arxiv.org/abs/2607.07759",
-      "source": "ArXiv AI",
-      "date": "Fri, 10 Jul 2026 00:00:00 -0400",
-      "synopsis": "arXiv:2607.07759v1 Announce Type: new  Abstract: Agricultural supply chains are vulnerable to disruptions through linked biophysical and economic systems. We develop an AI-powered tool that integrates economic models (GTAP) with biophysical models (APSIM) to analyze supply chain shocks, enabling pol",
-      "theme": "AI + Business",
-      "category": "ai-tech",
-      "fetched_at": "2026-07-10T08:56:45.052835"
-    },
-    {
-      "title": "Adversarial Social Epistemology for Assemblies of Humans and Large Language Models",
-      "url": "https://arxiv.org/abs/2607.07760",
-      "source": "ArXiv AI",
-      "date": "Fri, 10 Jul 2026 00:00:00 -0400",
-      "synopsis": "arXiv:2607.07760v1 Announce Type: new  Abstract: We outline an adversarial social epistemology (ASE) for densely interactive communicative landscapes in which public assertions are scaffolded by chains of testimony, inference, institutional certification, and tacit trust. In such landscapes, agents",
-      "theme": "AI + Business",
-      "category": "ai-tech",
-      "fetched_at": "2026-07-10T08:56:45.052843"
-    },
-    {
-      "title": "Aligning Clinical Needs and AI Capabilities: A Survey on LLMs for Medical Reasoning",
-      "url": "https://arxiv.org/abs/2607.07761",
-      "source": "ArXiv AI",
-      "date": "Fri, 10 Jul 2026 00:00:00 -0400",
-      "synopsis": "arXiv:2607.07761v1 Announce Type: new  Abstract: Large language models (LLMs) have emerged as important tools in healthcare, showing growing potential for clinical reasoning and patient care. This survey examines recent progress in medical LLMs, focusing on reasoning applications and requirements. W",
-      "theme": "AI + Business",
-      "category": "ai-tech",
-      "fetched_at": "2026-07-10T08:56:45.052851"
-    },
-    {
-      "title": "Alignment Plausibility: A New Standard for Assuring AI in Healthcare",
-      "url": "https://arxiv.org/abs/2607.07766",
-      "source": "ArXiv AI",
-      "date": "Fri, 10 Jul 2026 00:00:00 -0400",
-      "synopsis": "arXiv:2607.07766v1 Announce Type: new  Abstract: Large language models (LLMs) have become significant providers of mental health support, yet they remain products of an attention economy whose operational and commercial targets favour sustained engagement over the friction that effective psychologic",
-      "theme": "AI + Business",
-      "category": "ai-tech",
-      "fetched_at": "2026-07-10T08:56:45.052857"
+      "title": "Sperm donors need limits, says a European fertility group",
+      "url": "https://www.technologyreview.com/2026/07/10/1140289/sperm-donors-need-limits-says-a-european-fertility-group/",
+      "source": "MIT Technology Review - AI",
+      "date": "Fri, 10 Jul 2026 09:00:00 +0000",
+      "synopsis": "Ties van der Meer doesn’t know how many siblings he has. The 47-year-old was conceived at a private fertility clinic in the Netherlands using sperm provided by an anonymous donor. After the Netherlands banned anonymous donation in 2004, the doctor who ran the clinic destroyed records that might have",
+      "theme": "AI General",
+      "category": "ai-business",
+      "fetched_at": "2026-07-11T07:29:23.018272"
     }
   ],
-  "last_updated": "2026-07-10T08:56:45.163236",
-  "total_count": 15
+  "last_updated": "2026-07-11T07:29:25.477208",
+  "total_count": 10
 }
