@@ -1,65 +1,178 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>My Dashboard</title>
-    <link rel="stylesheet" href="styles.css">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>My Dashboard</title>
+<link rel="stylesheet" href="styles.css">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
 </head>
 <body>
-    <div class="dashboard">
-        <!-- Header -->
-        <header class="header">
-            <h1><i class="fas fa-chart-line"></i> My Dashboard</h1>
-            <div class="last-updated">Last updated: <span id="lastUpdated">Loading...</span></div>
-        </header>
 
-        <!-- Quick Links Section (Pulldown) -->
-        <section class="card" id="card-links">
-            <div class="card-header" onclick="toggleCard('card-links')">
-                <h2><i class="fas fa-link"></i> Quick Links</h2>
-                <i class="fas fa-chevron-down card-icon"></i>
-            </div>
-            <div class="card-content">
-                <div class="links-container" id="quick-links">
-                    <!-- Links will be populated by JavaScript -->
+<div class="workbench">
+
+    <!-- Title bar -->
+    <header class="titlebar">
+        <div class="titlebar-left">
+            <i class="fas fa-terminal"></i>
+            <span class="titlebar-name">prof.thieme</span>
+            <span class="titlebar-sep">&mdash;</span>
+            <span class="titlebar-file">dashboard</span>
+        </div>
+        <div class="titlebar-right">
+            <span id="clock" class="titlebar-clock"></span>
+        </div>
+    </header>
+
+    <!-- Quick Links -->
+    <section class="panel" id="panel-links">
+        <div class="panel-header" onclick="toggleCard('panel-links')">
+            <span class="panel-title"><span class="tok-kw">const</span> <span class="tok-var">quickLinks</span> <span class="tok-op">=</span> <span class="tok-punc">[ ... ]</span></span>
+            <i class="fas fa-chevron-down panel-chevron"></i>
+        </div>
+        <div class="panel-body">
+            <div class="links-grid" id="quick-links"></div>
+        </div>
+    </section>
+
+    <!-- Curated News : editor -->
+    <section class="panel" id="panel-news">
+        <div class="panel-header" onclick="if (!event.target.closest('button')) toggleCard('panel-news')">
+            <span class="panel-title"><span class="tok-kw">import</span> <span class="tok-var">curatedNews</span> <span class="tok-kw">from</span> <span class="tok-str">"./data"</span></span>
+            <span class="panel-header-actions">
+                <button class="icon-btn" onclick="openSettings(event)" title="GitHub token &amp; settings">
+                    <i class="fas fa-gear"></i>
+                </button>
+                <i class="fas fa-chevron-down panel-chevron"></i>
+            </span>
+        </div>
+        <div class="panel-body no-pad">
+            <div class="editor">
+                <!-- Tab bar -->
+                <div class="tabbar" id="news-tabbar" role="tablist"></div>
+                <!-- Breadcrumb + per-file actions -->
+                <div class="editor-toolbar">
+                    <span class="crumb" id="news-crumb">data &rsaquo; &hellip;</span>
+                    <span class="toolbar-actions">
+                        <button class="btn btn-upload" id="btn-upload" onclick="openUpload()">
+                            <i class="fas fa-upload"></i> Upload
+                        </button>
+                    </span>
                 </div>
-            </div>
-        </section>
-
-        <!-- Curated News Section (Pulldown with Refresh) -->
-        <section class="card" id="card-news">
-            <div class="card-header" onclick="event.target.closest('.btn-refresh') || toggleCard('card-news')">
-                <div class="card-header-actions">
-                    <h2><i class="fas fa-newspaper"></i> Curated News</h2>
-                    <button class="btn-refresh" onclick="refreshNews(event)" title="Refresh news articles">
-                        <i class="fas fa-sync-alt"></i> Refresh
+                <!-- Editor body -->
+                <div class="editor-scroll">
+                    <div class="codefile" id="news-content"></div>
+                </div>
+                <!-- Podcast footer -->
+                <div class="editor-actions" id="podcast-bar">
+                    <span class="selected-count" id="selected-count">0 selected</span>
+                    <button class="btn btn-ghost" onclick="sendToNotebookLM()" title="Copy selected URLs and open NotebookLM">
+                        <i class="fas fa-headphones"></i> NotebookLM
+                    </button>
+                    <button class="btn btn-ghost" onclick="sendToOpenNotebook()" title="Send selected articles to local Open Notebook">
+                        <i class="fas fa-microphone"></i> Open Notebook
                     </button>
                 </div>
-                <i class="fas fa-chevron-down card-icon"></i>
-            </div>
-            <div class="card-content">
-                <div class="news-pulldown" id="news-pulldown">
-                    <!-- News will be populated by JavaScript -->
+                <!-- Status bar -->
+                <div class="statusbar" id="news-statusbar">
+                    <span class="status-item"><i class="fas fa-code-branch"></i> main</span>
+                    <span class="status-item" id="status-counts"></span>
+                    <span class="status-item status-right" id="status-updated"></span>
+                    <span class="status-item" id="status-token"></span>
                 </div>
             </div>
-        </section>
+        </div>
+    </section>
 
-        <!-- Weather Station Section (Pulldown) -->
-        <section class="card" id="card-weather">
-            <div class="card-header" onclick="toggleCard('card-weather')">
-                <h2><i class="fas fa-cloud-sun"></i> Weather Station</h2>
-                <i class="fas fa-chevron-down card-icon"></i>
+    <!-- Weather -->
+    <section class="panel" id="panel-weather">
+        <div class="panel-header" onclick="toggleCard('panel-weather')">
+            <span class="panel-title"><span class="tok-var">station</span><span class="tok-punc">.</span><span class="tok-fn">report</span><span class="tok-punc">()</span></span>
+            <i class="fas fa-chevron-down panel-chevron"></i>
+        </div>
+        <div class="panel-body">
+            <div class="terminal" id="weather-data">
+                <div class="term-line tok-comment">// loading data/weather.json ...</div>
             </div>
-            <div class="card-content">
-                <div id="weather-data">
-                    <!-- Weather will be populated by JavaScript -->
+        </div>
+    </section>
+
+</div>
+
+<!-- ============ Upload modal ============ -->
+<div class="modal-backdrop hidden" id="upload-modal">
+    <div class="modal">
+        <div class="modal-titlebar">
+            <span><i class="fas fa-upload"></i> Upload curated articles <span class="tok-comment" id="upload-target-label"></span></span>
+            <button class="icon-btn" onclick="closeUpload()"><i class="fas fa-xmark"></i></button>
+        </div>
+        <div class="modal-body">
+
+            <div class="upload-step" id="upload-step-input">
+                <p class="hint">Paste the JSON produced by the curation prompt, or choose a saved <code>.json</code> file.
+                A full multi-section export fills all three subsections at once; a single array goes into the tab you opened this from.</p>
+                <textarea id="upload-text" spellcheck="false" placeholder='{ "sections": { "ai_business": [ ... ], "ai_highered": [ ... ], "other": [ ... ] } }'></textarea>
+                <div class="modal-row">
+                    <label class="btn btn-ghost file-btn">
+                        <i class="fas fa-folder-open"></i> Choose file
+                        <input type="file" id="upload-file" accept=".json,application/json" hidden>
+                    </label>
+                    <span class="spacer"></span>
+                    <button class="btn" onclick="parseUpload()"><i class="fas fa-play"></i> Parse &amp; preview</button>
                 </div>
+                <div class="modal-status" id="upload-parse-status"></div>
             </div>
-        </section>
+
+            <div class="upload-step hidden" id="upload-step-preview">
+                <div class="modal-row preview-controls">
+                    <span class="hint-inline">Edit titles and synopses, reassign sections, or remove items before posting.</span>
+                    <span class="spacer"></span>
+                    <label class="radio"><input type="radio" name="upload-mode" value="append" checked> Append</label>
+                    <label class="radio"><input type="radio" name="upload-mode" value="replace"> Replace section(s)</label>
+                </div>
+                <div class="preview-list" id="upload-preview"></div>
+                <div class="modal-row">
+                    <button class="btn btn-ghost" onclick="backToInput()"><i class="fas fa-arrow-left"></i> Back</button>
+                    <span class="spacer"></span>
+                    <button class="btn btn-ghost" onclick="downloadSectionFiles()" title="Download the merged JSON files to commit manually">
+                        <i class="fas fa-download"></i> Download JSON
+                    </button>
+                    <button class="btn btn-primary" onclick="commitToGitHub()" title="Commit directly to the repo via the GitHub API">
+                        <i class="fas fa-cloud-arrow-up"></i> Post to dashboard
+                    </button>
+                </div>
+                <div class="modal-status" id="upload-commit-status"></div>
+            </div>
+
+        </div>
     </div>
+</div>
 
-    <script src="app.js"></script>
+<!-- ============ Settings modal ============ -->
+<div class="modal-backdrop hidden" id="settings-modal">
+    <div class="modal modal-narrow">
+        <div class="modal-titlebar">
+            <span><i class="fas fa-gear"></i> Settings</span>
+            <button class="icon-btn" onclick="closeSettings()"><i class="fas fa-xmark"></i></button>
+        </div>
+        <div class="modal-body">
+            <p class="hint">To post articles straight from the browser, store a GitHub
+            <strong>fine-grained personal access token</strong> limited to this repository with
+            <em>Contents: Read and write</em> permission. It is kept in this browser's
+            localStorage only. Without a token you can still use <em>Download JSON</em>
+            and commit the files yourself.</p>
+            <label class="field-label" for="gh-token">GitHub token</label>
+            <input type="password" id="gh-token" autocomplete="off" placeholder="github_pat_...">
+            <div class="modal-row">
+                <button class="btn btn-ghost" onclick="clearToken()"><i class="fas fa-trash"></i> Clear</button>
+                <span class="spacer"></span>
+                <button class="btn btn-primary" onclick="saveToken()"><i class="fas fa-check"></i> Save</button>
+            </div>
+            <div class="modal-status" id="settings-status"></div>
+        </div>
+    </div>
+</div>
+
+<script src="app.js"></script>
 </body>
 </html>
