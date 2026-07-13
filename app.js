@@ -72,7 +72,11 @@ const CONFIG = {
        content shows up until the new files exist.              */
     legacyNewsFile: 'data/news.json',
 
-    weatherFile: 'data/weather.json',
+    /* Live weather embed: the "Embedded Share" URL from your
+       AmbientWeather.net account (devices > Share > Embedded
+       Share). This is your public dashboard link; swap it for
+       the official embed URL if that one differs.               */
+    weatherEmbedUrl: 'https://dashboard.ambientweather.net/devices/public/e38deadd664d7b3db91ec313040ea3b3',
 
     /* Open Notebook (local). If your previous app.js used a
        different endpoint or payload, mirror it in
@@ -617,101 +621,27 @@ function clearToken() {
 }
 
 /* ------------------------------------------------------------
-   11. Weather terminal
-   Field names match the flat structure written by the
-   fetch-weather workflow (Ambient Weather API).
+   11. Weather: live embed
+   AmbientWeather.net's own dashboard updates itself, so there's
+   no data to fetch or parse here. Refresh just forces the
+   iframe to reload from a clean URL.
    ------------------------------------------------------------ */
-function fmtNum(val, decimals = 1) {
-    const n = Number(val);
-    return (val === null || val === undefined || isNaN(n)) ? 'N/A' : n.toFixed(decimals);
-}
-
-function cardinal(deg) {
-    if (deg === null || deg === undefined) return '';
-    const dirs = ['N','NNE','NE','ENE','E','ESE','SE','SSE','S','SSW','SW','WSW','W','WNW','NW','NNW'];
-    return dirs[Math.round(deg / 22.5) % 16];
-}
-
-function uvRisk(uv) {
-    if (!uv || uv < 3) return 'Low';
-    if (uv < 6) return 'Moderate';
-    if (uv < 8) return 'High';
-    if (uv < 11) return 'Very High';
-    return 'Extreme';
-}
-
-async function loadWeather() {
-    const box = document.getElementById('weather-data');
-    try {
-        let d = await fetchJson(CONFIG.weatherFile);
-        if (Array.isArray(d)) d = d[0] || {};
-        if (d.lastData) d = { ...d, ...d.lastData };
-
-        const trend = (d.baromrelin || 0) > 30.0 ? 'rising'
-                    : (d.baromrelin || 0) < 29.8 ? 'falling' : 'steady';
-
-        const groups = [
-            ['outdoor', [
-                ['temp',       fmtNum(d.tempf), '°F'],
-                ['high / low', `${fmtNum(d.tempmaxf)} / ${fmtNum(d.tempminf)}`, '°F'],
-                ['feels_like', fmtNum(d.feelsLike), '°F'],
-                ['dew_point',  fmtNum(d.dewPoint), '°F']
-            ]],
-            ['wind', [
-                ['speed',     fmtNum(d.windspeedmph), 'mph'],
-                ['gust',      fmtNum(d.windgustmph), 'mph'],
-                ['direction', d.winddir != null ? `${d.winddir}° ${cardinal(d.winddir)}` : 'N/A', '']
-            ]],
-            ['rain', [
-                ['today',   fmtNum(d.dailyrainin, 2), 'in'],
-                ['month',   fmtNum(d.monthlyrainin, 2), 'in'],
-                ['total',   fmtNum(d.totalrainin, 2), 'in']
-            ]],
-            ['pressure', [
-                ['relative', fmtNum(d.baromrelin, 2), 'inHg'],
-                ['trend',    trend, '']
-            ]],
-            ['humidity', [
-                ['outdoor', fmtNum(d.humidity, 0), '%'],
-                ['indoor',  fmtNum(d.humidityin, 0), '%']
-            ]],
-            ['indoor', [
-                ['temp',     fmtNum(d.tempinf), '°F'],
-                ['humidity', fmtNum(d.humidityin, 0), '%']
-            ]],
-            ['uv_index', [
-                ['current', fmtNum(d.uv, 0), ''],
-                ['risk',    uvRisk(d.uv), '']
-            ]],
-            ['solar', [
-                ['radiation', fmtNum(d.solarradiation, 0), 'W/m²'],
-                ['level', d.solarradiation > 800 ? 'Very High'
-                        : d.solarradiation > 500 ? 'High' : 'Moderate', '']
-            ]]
-        ];
-
-        const when = d.date || d.dateutc || null;
-        const stamp = when
-            ? ` <span class="tok-comment">// ${esc(new Date(isNaN(when) ? when : Number(when)).toLocaleString())}</span>`
-            : '';
-
-        box.innerHTML = `
-            <div class="term-line"><span class="prompt">$</span> cat ${CONFIG.weatherFile}${stamp}</div>
-            <div class="term-groups">
-                ${groups.map(([title, rows]) => `
-                <div class="term-group">
-                    <div class="term-group-title">// ${title}</div>
-                    ${rows.map(([k, v, u]) => `
-                    <div class="term-kv">
-                        <span class="k">${k}</span>
-                        <span><span class="v">${v}</span>${u ? ` <span class="u">${u}</span>` : ''}</span>
-                    </div>`).join('')}
-                </div>`).join('')}
-            </div>`;
-    } catch {
-        box.innerHTML = `<div class="term-line tok-error">// weather data unavailable —
-            run the Fetch Weather Data workflow in GitHub Actions.</div>`;
-    }
+function refreshWeather(ev) {
+    ev?.stopPropagation();
+    const btn = document.getElementById('weather-refresh-btn');
+    const frame = document.getElementById('weather-iframe');
+    btn.classList.add('spinning');
+    btn.disabled = true;
+    frame.src = `${CONFIG.weatherEmbedUrl}?t=${Date.now()}`;
+    frame.addEventListener('load', () => {
+        btn.classList.remove('spinning');
+        btn.disabled = false;
+    }, { once: true });
+    /* fallback in case the load event never fires (blocked frame) */
+    setTimeout(() => {
+        btn.classList.remove('spinning');
+        btn.disabled = false;
+    }, 6000);
 }
 
 /* ------------------------------------------------------------
@@ -728,7 +658,6 @@ function tickClock() {
 document.addEventListener('DOMContentLoaded', () => {
     renderQuickLinks();
     loadNews();
-    loadWeather();
     tickClock();
     setInterval(tickClock, 30000);
 

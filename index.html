@@ -86,14 +86,30 @@
 
     <!-- Weather -->
     <section class="panel" id="panel-weather">
-        <div class="panel-header" onclick="toggleCard('panel-weather')">
+        <div class="panel-header" onclick="if (!event.target.closest('button')) toggleCard('panel-weather')">
             <span class="panel-title"><span class="tok-var">station</span><span class="tok-punc">.</span><span class="tok-fn">report</span><span class="tok-punc">()</span></span>
-            <i class="fas fa-chevron-down panel-chevron"></i>
+            <span class="panel-header-actions">
+                <button class="icon-btn" id="weather-refresh-btn" onclick="refreshWeather(event)" title="Reload live weather embed">
+                    <i class="fas fa-rotate"></i>
+                </button>
+                <i class="fas fa-chevron-down panel-chevron"></i>
+            </span>
         </div>
-        <div class="panel-body">
-            <div class="terminal" id="weather-data">
-                <div class="term-line tok-comment">// loading data/weather.json ...</div>
+        <div class="panel-body no-pad">
+            <div class="embed-frame">
+                <div class="embed-frame-bar">
+                    <span class="embed-dot embed-dot-r"></span>
+                    <span class="embed-dot embed-dot-y"></span>
+                    <span class="embed-dot embed-dot-g"></span>
+                    <span class="embed-url"><i class="fas fa-lock" aria-hidden="true"></i> dashboard.ambientweather.net &mdash; live, not a snapshot</span>
+                </div>
+                <iframe id="weather-iframe"
+                        src="https://dashboard.ambientweather.net/devices/public/e38deadd664d7b3db91ec313040ea3b3"
+                        title="Live weather station data from AmbientWeather.net"
+                        loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
             </div>
+            <p class="embed-note tok-comment">// if this appears blank, AmbientWeather.net is blocking direct embedding &mdash;
+                grab the official snippet from your account (devices &rsaquo; Share &rsaquo; Embedded Share &rsaquo; Copy Embedded Code) and send it over</p>
         </div>
     </section>
 

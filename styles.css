@@ -394,34 +394,61 @@ a { color: var(--syn-prop); }
     border-radius: 4px;
 }
 .icon-btn:hover { color: var(--fg); background: var(--bg-hover); }
+.icon-btn:disabled { cursor: default; opacity: 0.7; }
+.icon-btn.spinning i { animation: spin 0.8s linear infinite; }
 
-/* ---------------- weather terminal ---------------- */
+@keyframes spin {
+    from { transform: rotate(0deg); }
+    to   { transform: rotate(360deg); }
+}
 
-.terminal {
-    font-family: var(--mono);
-    font-size: 13px;
-    background: var(--bg-editor);
-    padding: 4px 2px;
-}
-.term-line { padding: 2px 0; }
-.term-line .prompt { color: var(--syn-type); }
-.term-groups {
-    display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
-    gap: 12px;
-    margin-top: 10px;
-}
-.term-group {
+/* ---------------- weather: live embed ---------------- */
+/* Framed like a minimal browser chrome so a foreign page
+   still feels intentionally placed rather than dropped in.   */
+
+.embed-frame {
     border: 1px solid var(--border-soft);
-    border-radius: 4px;
-    padding: 8px 12px 10px;
-    background: rgba(255, 255, 255, 0.015);
+    border-radius: 0 0 var(--radius) var(--radius);
+    overflow: hidden;
+    background: var(--bg-editor);
 }
-.term-group-title { color: var(--syn-comment); margin-bottom: 4px; }
-.term-kv { display: flex; justify-content: space-between; gap: 12px; padding: 2px 0; }
-.term-kv .k { color: var(--syn-prop); }
-.term-kv .v { color: var(--syn-number); }
-.term-kv .u { color: var(--fg-dim); }
+
+.embed-frame-bar {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    padding: 8px 12px;
+    background: var(--bg-panel);
+    border-bottom: 1px solid var(--border-soft);
+}
+.embed-dot { width: 9px; height: 9px; border-radius: 50%; display: inline-block; }
+.embed-dot-r { background: #ec6a5e; }
+.embed-dot-y { background: #f4bf4f; }
+.embed-dot-g { background: #61c454; }
+.embed-url {
+    margin-left: 6px;
+    font-family: var(--mono);
+    font-size: 11.5px;
+    color: var(--fg-dim);
+    display: flex;
+    align-items: center;
+    gap: 6px;
+}
+.embed-url i { font-size: 10px; color: var(--syn-comment); }
+
+.embed-frame iframe {
+    display: block;
+    width: 100%;
+    height: 620px;
+    border: none;
+    background: #ffffff;
+}
+
+.embed-note {
+    font-family: var(--mono);
+    font-size: 11.5px;
+    padding: 8px 14px 4px;
+}
 
 /* ---------------- modals ---------------- */
 
@@ -598,6 +625,8 @@ a { color: var(--syn-prop); }
     .ql-link::before, .ql-group::before { width: 26px; }
     .statusbar { flex-wrap: wrap; gap: 8px 14px; }
     .editor-scroll { max-height: 65vh; }
+    .embed-frame iframe { height: 480px; }
+    .embed-url { white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
 }
 
 @media (prefers-reduced-motion: reduce) {
