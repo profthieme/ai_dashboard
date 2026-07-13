@@ -136,74 +136,68 @@ a { color: var(--syn-prop); }
 .tok-error   { color: var(--syn-error); }
 
 /* ---------------- quick links ---------------- */
+/* Rendered as a code listing: comment lines for groups, then
+   "name": "url" entries with a continuous line-number gutter,
+   mirroring the news editor's .codefile look.                */
 
-.links-grid { display: flex; flex-direction: column; gap: 18px; }
-
-.link-group-title {
-    display: flex;
-    align-items: center;
-    gap: 8px;
+.links-grid {
     font-family: var(--mono);
-    font-size: 12.5px;
+    font-size: 13px;
+    line-height: 1.7;
+    counter-reset: ln;
+    padding: 4px 0;
+}
+
+.ql-group {
+    counter-increment: ln;
+    position: relative;
+    padding: 8px 12px 3px 46px;
     color: var(--syn-comment);
-    margin-bottom: 8px;
 }
-.link-group-title i { color: var(--syn-type); font-size: 12px; }
-
-.link-group-grid {
-    display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(88px, 1fr));
-    gap: 8px;
+.ql-group:first-child { padding-top: 0; }
+.ql-group::before {
+    content: counter(ln);
+    position: absolute;
+    left: 0;
+    top: 8px;
+    width: 34px;
+    text-align: right;
+    color: #6e7681;
+    font-size: 12px;
 }
+.ql-group:first-child::before { top: 0; }
 
-.quick-link {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
-    gap: 8px;
-    height: 92px;
-    border: 1px solid transparent;
-    border-radius: var(--radius);
+.ql-link {
+    counter-increment: ln;
+    display: block;
+    position: relative;
+    padding: 3px 12px 3px 46px;
     text-decoration: none;
-    color: var(--fg-dim);
-    background: transparent;
-    transition: background 0.15s ease, border-color 0.15s ease;
+    color: var(--fg);
+    border-left: 2px solid transparent;
+    word-break: break-all;
 }
-.quick-link img {
-    width: 48px;                        /* the big icon */
-    height: 48px;
-    object-fit: contain;
-    border-radius: 6px;
-    background: #ffffff;
-    padding: 3px;
-    transition: transform 0.15s ease;
+.ql-link::before {
+    content: counter(ln);
+    position: absolute;
+    left: 0;
+    width: 34px;
+    text-align: right;
+    color: #6e7681;
+    font-size: 12px;
 }
-.quick-link .ql-fallback { font-size: 2.2rem; color: var(--syn-prop); }
-.quick-link .ql-label {
-    font-family: var(--mono);
-    font-size: 11.5px;
-    color: var(--syn-prop);
-    opacity: 0;                         /* text hidden until hover */
-    transform: translateY(3px);
-    transition: opacity 0.15s ease, transform 0.15s ease;
-    max-width: 100%;
-    overflow: hidden;
-    text-overflow: ellipsis;
-    white-space: nowrap;
-    padding: 0 6px;
-}
-.quick-link:hover, .quick-link:focus-visible {
+.ql-link .prop { color: var(--syn-prop); }
+.ql-link .str  { color: var(--syn-string); }
+.ql-link .punc { color: var(--fg); }
+.ql-link:hover, .ql-link:focus-visible {
     background: var(--bg-hover);
-    border-color: var(--border);
+    border-left-color: var(--border);
 }
-.quick-link:hover img, .quick-link:focus-visible img { transform: translateY(-2px) scale(1.06); }
-.quick-link:hover .ql-label,
-.quick-link:focus-visible .ql-label {
-    opacity: 1;
-    transform: translateY(0);
+.ql-link:hover .str, .ql-link:focus-visible .str {
+    color: #e8b08f;
+    text-decoration: underline;
 }
-.quick-link:focus-visible { outline: 1px solid var(--focus); }
+.ql-link:focus-visible { outline: 1px solid var(--focus); outline-offset: -1px; }
 
 /* ---------------- news editor ---------------- */
 
@@ -599,9 +593,9 @@ a { color: var(--syn-prop); }
 ::-webkit-scrollbar-track { background: transparent; }
 
 @media (max-width: 640px) {
-    .link-group-grid { grid-template-columns: repeat(auto-fill, minmax(72px, 1fr)); }
-    .quick-link { height: 80px; }
-    .quick-link img { width: 40px; height: 40px; }
+    .links-grid { font-size: 12px; }
+    .ql-link, .ql-group { padding-left: 38px; }
+    .ql-link::before, .ql-group::before { width: 26px; }
     .statusbar { flex-wrap: wrap; gap: 8px 14px; }
     .editor-scroll { max-height: 65vh; }
 }

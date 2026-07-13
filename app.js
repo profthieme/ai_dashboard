@@ -157,24 +157,23 @@ function toggleCard(id) {
 
 /* ------------------------------------------------------------
    5. Quick links
+   Rendered as a JSON-style listing, matching the code aesthetic
+   of the news editor: group names as comments, links as
+   "name": "url" lines with a continuous line-number gutter.
    ------------------------------------------------------------ */
 function renderQuickLinks() {
     const box = document.getElementById('quick-links');
-    box.innerHTML = Object.entries(CONFIG.quickLinks).map(([group, links]) => `
-        <div class="link-group">
-            <div class="link-group-title">
-                <i class="${esc(CONFIG.linkGroupIcons[group] || 'fas fa-link')}" aria-hidden="true"></i>
-                <span class="tok-comment">// ${esc(group)}</span>
-            </div>
-            <div class="link-group-grid">
-                ${links.map(l => `
-                <a class="quick-link" href="${esc(l.url)}" target="_blank" rel="noopener" title="${esc(l.name)}">
-                    <img src="${esc(CONFIG.imageBaseUrl + l.image)}" alt="" loading="lazy"
-                         onerror="this.replaceWith(Object.assign(document.createElement('i'),{className:'fas fa-link ql-fallback'}))">
-                    <span class="ql-label">${esc(l.name)}</span>
-                </a>`).join('')}
-            </div>
-        </div>`).join('');
+    const rows = [];
+    for (const [group, links] of Object.entries(CONFIG.quickLinks)) {
+        rows.push(`<div class="ql-group">// ${esc(group)}</div>`);
+        links.forEach(l => {
+            rows.push(`
+                <a class="ql-link" href="${esc(l.url)}" target="_blank" rel="noopener">
+                    <span class="prop">"${esc(l.name)}"</span><span class="punc">: </span><span class="str">"${esc(l.url)}"</span><span class="punc">,</span>
+                </a>`);
+        });
+    }
+    box.innerHTML = rows.join('');
 }
 
 /* ------------------------------------------------------------
