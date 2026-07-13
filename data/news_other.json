@@ -1,7 +1,27 @@
 {
   "section": "other",
-  "last_updated": null,
+  "label": "Other News",
+  "last_updated": "2026-07-13T11:59:17.653Z",
   "curated_by": "manual_upload",
-  "total_count": 0,
-  "articles": []
+  "total_count": 2,
+  "articles": [
+    {
+      "title": "UN Report Sees Enormous Potential Benefits and Big Risks From AI",
+      "url": "https://www.usnews.com/news/top-news/articles/2026-07-01/un-report-sees-enormous-potential-benefits-and-big-risks-from-ai",
+      "source": "Reuters",
+      "date": "",
+      "synopsis": "A global UN report highlights both the benefits of AI and growing risks, including governance challenges and societal impact. [7](https://www.usnews.com/news/top-news/articles/2026-07-01/un-report-sees-enormous-potential-benefits-and-big-risks-from-ai)",
+      "tags": [],
+      "verification": ""
+    },
+    {
+      "title": "The Latest AI News and Breakthroughs That Matter Most",
+      "url": "https://www.crescendo.ai/news/latest-ai-news-and-updates",
+      "source": "Crescendo AI",
+      "date": "",
+      "synopsis": "Recent breakthroughs span healthcare, wearables, and enterprise AI, reflecting rapid cross-industry adoption. [8](https://www.crescendo.ai/news/latest-ai-news-and-updates)",
+      "tags": [],
+      "verification": ""
+    }
+  ]
 }
