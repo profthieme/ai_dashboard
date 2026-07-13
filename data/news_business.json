@@ -1,7 +1,23 @@
 {
-  "section": "business",
-  "last_updated": null,
+  "section": "ai_business",
+  "label": "AI + Business",
+  "last_updated": "2026-07-13T00:28:26.188Z",
   "curated_by": "manual_upload",
-  "total_count": 0,
-  "articles": []
+  "total_count": 1,
+  "articles": [
+    {
+      "title": "[AINews] OpenAI launches GPT 5.6 Sol/Terra/Luna, Codex becomes ChatGPT superapp",
+      "url": "https://www.latent.space/p/ainews-openai-launches-gpt-56-solterraluna",
+      "source": "Latent Space",
+      "date": "2026-07-10",
+      "synopsis": "OpenAI's GPT-5.6 family launch introduces three tiered models (Sol, Terra, Luna) with new pricing and performance characteristics, alongside ChatGPT Work and desktop app updates that signal a shift toward enterprise superapp positioning for AI productivity.",
+      "tags": [
+        "Business",
+        "Strategy",
+        "Productivity",
+        "Infrastructure"
+      ],
+      "verification": "Date and link verified from Substack publication timestamp (Jul 10, 2026)."
+    }
+  ]
 }
