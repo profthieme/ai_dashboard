@@ -1,10 +1,38 @@
 {
   "section": "other",
   "label": "Other News",
-  "last_updated": "2026-07-13T11:59:17.653Z",
+  "last_updated": "2026-07-14T00:48:33.068Z",
   "curated_by": "manual_upload",
-  "total_count": 2,
+  "total_count": 4,
   "articles": [
+    {
+      "title": "Trust Issues: AI Regulation Update (July 2026)",
+      "url": "https://www.jdsupra.com/legalnews/trust-issues-july-2026-4886266/",
+      "source": "JD Supra",
+      "date": "2026-07-08",
+      "synopsis": "A surge in state-level AI regulation is creating a fragmented compliance landscape. Organizations must navigate overlapping and evolving legal requirements.",
+      "tags": [
+        "regulation",
+        "policy",
+        "compliance",
+        "governance"
+      ],
+      "verification": ""
+    },
+    {
+      "title": "AI News Today: 15 Biggest Stories (July 12)",
+      "url": "https://www.buildfastwithai.com/blogs/ai-news-today-july-12-2026",
+      "source": "BuildFastWithAI",
+      "date": "2026-07-12",
+      "synopsis": "A roundup covering talent competition, legal tensions, and major AI developments across leading companies, highlighting rapid acceleration in the ecosystem.",
+      "tags": [
+        "AI trends",
+        "competition",
+        "industry",
+        "talent"
+      ],
+      "verification": ""
+    },
     {
       "title": "UN Report Sees Enormous Potential Benefits and Big Risks From AI",
       "url": "https://www.usnews.com/news/top-news/articles/2026-07-01/un-report-sees-enormous-potential-benefits-and-big-risks-from-ai",
