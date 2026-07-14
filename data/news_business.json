@@ -1,10 +1,52 @@
 {
   "section": "ai_business",
   "label": "AI + Business",
-  "last_updated": "2026-07-13T18:41:50.569Z",
+  "last_updated": "2026-07-14T00:48:33.068Z",
   "curated_by": "manual_upload",
-  "total_count": 2,
+  "total_count": 5,
   "articles": [
+    {
+      "title": "OpenAI Debuts ChatGPT Work Workplace AI Agent With GPT‑5.6",
+      "url": "https://www.forbes.com/sites/madhulika-pathak/2026/07/09/openai-debuts-chatgpt-work-workplace-ai-agent-with-gpt-56/",
+      "source": "Forbes",
+      "date": "2026-07-09",
+      "synopsis": "OpenAI introduced an enterprise-focused AI agent capable of executing multi-step knowledge work. This marks a significant shift from assistive copilots toward autonomous AI systems embedded in workflows.",
+      "tags": [
+        "AI agents",
+        "enterprise AI",
+        "automation",
+        "productivity"
+      ],
+      "verification": ""
+    },
+    {
+      "title": "Building An AI Strategy That Lasts",
+      "url": "https://www.forbes.com/sites/cio/2026/07/09/building-an-ai-strategy-that-lasts/",
+      "source": "Forbes",
+      "date": "2026-07-09",
+      "synopsis": "Organizations are moving beyond experimentation to durable AI strategies focused on long-term competitive advantage and governance. Strategic alignment is now the primary driver of success.",
+      "tags": [
+        "AI strategy",
+        "enterprise AI",
+        "governance",
+        "digital transformation"
+      ],
+      "verification": ""
+    },
+    {
+      "title": "How Did the Government Decide OpenAI’s Frontier Model Was Safe to Release?",
+      "url": "https://techcrunch.com/2026/07/09/how-did-the-government-decide-openais-frontier-model-was-safe-to-release/",
+      "source": "TechCrunch",
+      "date": "2026-07-09",
+      "synopsis": "This article highlights the lack of transparency around how advanced AI systems are evaluated for release, raising questions about the adequacy and consistency of current governance frameworks.",
+      "tags": [
+        "AI policy",
+        "governance",
+        "regulation",
+        "risk"
+      ],
+      "verification": ""
+    },
     {
       "title": "The Hackett Group® Establishes AI World Class Procurement Benchmarks",
       "url": "https://markets.ft.com/data/announce/detail?dockey=600-202607131000BIZWIRE_USPRX____20260713_BW704676-1",
