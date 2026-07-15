@@ -1,6 +1,56 @@
 {
   "articles": [
     {
+      "title": "Optimal Adaptive Market Making: A Theoretical Framework for High-Yield Liquidity Provision in Perpetual Futures Markets",
+      "url": "https://arxiv.org/abs/2607.11888",
+      "source": "ArXiv AI",
+      "date": "Wed, 15 Jul 2026 00:00:00 -0400",
+      "synopsis": "arXiv:2607.11888v1 Announce Type: new  Abstract: We develop a rigorous theoretical framework for optimal market making in perpetual futures markets with zero maker fees. We model the market maker's problem as a stochastic optimal control problem on a filtered probability space, where the controls ar",
+      "theme": "AI General",
+      "category": "ai-tech",
+      "fetched_at": "2026-07-15T07:46:45.766962"
+    },
+    {
+      "title": "In-Context Reinforcement Learning under Non-Stationarity: A Survey",
+      "url": "https://arxiv.org/abs/2607.11906",
+      "source": "ArXiv AI",
+      "date": "Wed, 15 Jul 2026 00:00:00 -0400",
+      "synopsis": "arXiv:2607.11906v1 Announce Type: new  Abstract: The development of decision-pretrained transformers, algorithm distillation, long-context meta-RL, and retrieval-augmented agents has renewed interest in in-context reinforcement learning (ICRL): the ability of a pretrained or fine-tuned decision mode",
+      "theme": "AI + Business",
+      "category": "ai-tech",
+      "fetched_at": "2026-07-15T07:46:45.766974"
+    },
+    {
+      "title": "Ontology-Amplified Distillation and Contextuality Auditing for Sovereign Enterprise Language Models: A Combined Proof-of-Mechanism and Negative-Results Method Study",
+      "url": "https://arxiv.org/abs/2607.11948",
+      "source": "ArXiv AI",
+      "date": "Wed, 15 Jul 2026 00:00:00 -0400",
+      "synopsis": "arXiv:2607.11948v1 Announce Type: new  Abstract: Regulated financial institutions operating under data-residency rules need tenant-owned language models that can run inside the institution's perimeter. This paper combines two related FAOS studies into one mechanism-and-control article. First, it rep",
+      "theme": "AI General",
+      "category": "ai-tech",
+      "fetched_at": "2026-07-15T07:46:45.766987"
+    },
+    {
+      "title": "GRID: Grammar-Railed Decoding for Enterprise SQL Generation",
+      "url": "https://arxiv.org/abs/2607.11951",
+      "source": "ArXiv AI",
+      "date": "Wed, 15 Jul 2026 00:00:00 -0400",
+      "synopsis": "arXiv:2607.11951v1 Announce Type: new  Abstract: Large language models can write SQL, but enterprise deployment demands more than plausible text: outputs must be syntactically valid, must respect per-role and per-schema policy, must carry provable (not best-effort) guarantees, must not slow down as",
+      "theme": "AI + Business",
+      "category": "ai-tech",
+      "fetched_at": "2026-07-15T07:46:45.766993"
+    },
+    {
+      "title": "Calibration-First Reward-Component Auditing for Reinforcement Learning Control in Smart Greenhouses",
+      "url": "https://arxiv.org/abs/2607.11959",
+      "source": "ArXiv AI",
+      "date": "Wed, 15 Jul 2026 00:00:00 -0400",
+      "synopsis": "arXiv:2607.11959v1 Announce Type: new  Abstract: Greenhouse reinforcement learning can test climate-control ideas at a speed and scale that is difficult to achieve with crop experiments alone. For smart-greenhouse control, however, a single simulator return is not enough: a grower or control enginee",
+      "theme": "AI General",
+      "category": "ai-tech",
+      "fetched_at": "2026-07-15T07:46:45.767005"
+    },
+    {
       "title": "Google just redesigned the search box for the first time in 25 years — here’s why it matters more than you think.",
       "url": "https://venturebeat.com/technology/google-just-redesigned-the-search-box-for-the-first-time-in-25-years-heres-why-it-matters-more-than-you-think",
       "source": "VentureBeat AI",
@@ -8,57 +58,7 @@
       "synopsis": "<p>For a quarter century, the Google search box has been one of the most recognizable interfaces in computing: a thin white rectangle, a blinking cursor, a few typed words, and a list of blue links. On Tuesday, Google will formally retire that paradigm.</p><p>At its annual <a href=\"https://io.google",
       "theme": "AI General",
       "category": "ai-business",
-      "fetched_at": "2026-07-14T07:43:18.254791"
-    },
-    {
-      "title": "From ML Predictions to Informed Diagnostic Assistance Using the Toulmin Model of Argumentation",
-      "url": "https://arxiv.org/abs/2607.09664",
-      "source": "ArXiv AI",
-      "date": "Tue, 14 Jul 2026 00:00:00 -0400",
-      "synopsis": "arXiv:2607.09664v1 Announce Type: new  Abstract: To provide a structured and interpretable assessment, we decompose the image-based diagnosis into components following the Toulmin model of argumentation. This model consists of a claim, grounds, warrant, qualifier, rebuttal, and backing. Consider a c",
-      "theme": "AI + Business",
-      "category": "ai-tech",
-      "fetched_at": "2026-07-14T07:43:20.323606"
-    },
-    {
-      "title": "Format Sensitivity Index: Token-Controlled Prompt Wrapper Robustness and Schema Compliance in LLM Benchmarking",
-      "url": "https://arxiv.org/abs/2607.09665",
-      "source": "ArXiv AI",
-      "date": "Tue, 14 Jul 2026 00:00:00 -0400",
-      "synopsis": "arXiv:2607.09665v1 Announce Type: new  Abstract: Prompt wrappers often differ only in formatting, yet they can change model scores enough to flip leaderboard conclusions. We study this variance under a token-controlled protocol and introduce two complementary metrics: the Format Sensitivity Index (F",
-      "theme": "AI + Business",
-      "category": "ai-tech",
-      "fetched_at": "2026-07-14T07:43:20.323629"
-    },
-    {
-      "title": "Faithful, Not Corrective: Message-Format Effects in Multi-Hop Agent Relays Are Tier-Dependent",
-      "url": "https://arxiv.org/abs/2607.09678",
-      "source": "ArXiv AI",
-      "date": "Tue, 14 Jul 2026 00:00:00 -0400",
-      "synopsis": "arXiv:2607.09678v1 Announce Type: new  Abstract: When LLM agents hand off information to one another, does the message format matter? Two literatures disagree: format-optimization work reports that structured messages cut cost without hurting accuracy, while format-restriction work finds that imposi",
-      "theme": "AI + Business",
-      "category": "ai-tech",
-      "fetched_at": "2026-07-14T07:43:20.323638"
-    },
-    {
-      "title": "Boltzmann MapReduce: A Partition-Function Reduce for Forkable Sandboxes",
-      "url": "https://arxiv.org/abs/2607.09689",
-      "source": "ArXiv AI",
-      "date": "Tue, 14 Jul 2026 00:00:00 -0400",
-      "synopsis": "arXiv:2607.09689v1 Announce Type: new  Abstract: To leading order under local asymptotic normality (LAN), the confidence density a worker emits over a chunk of size $n$ is a Gibbs--Boltzmann measure $\\exp\\{-\\beta E(\\theta)\\}$ whose inverse temperature is the sample size, $\\beta=n$. Three consequence",
-      "theme": "AI General",
-      "category": "ai-tech",
-      "fetched_at": "2026-07-14T07:43:20.323657"
-    },
-    {
-      "title": "Interpreting Latent CoT Reasoning as Dynamical Systems",
-      "url": "https://arxiv.org/abs/2607.09698",
-      "source": "ArXiv AI",
-      "date": "Tue, 14 Jul 2026 00:00:00 -0400",
-      "synopsis": "arXiv:2607.09698v1 Announce Type: new  Abstract: Recent latent reasoning methods, such as CODI and COCONUT, face a fundamental interpretability problem: they maintain multiple superimposed candidate traces in the hidden space at each step, unlike explicit- CoT, which follows a single transparent rea",
-      "theme": "AI + Business",
-      "category": "ai-tech",
-      "fetched_at": "2026-07-14T07:43:20.323666"
+      "fetched_at": "2026-07-15T07:46:44.349209"
     },
     {
       "title": "Salesforce rolls out new Slackbot AI agent as it battles Microsoft and Google in workplace AI",
@@ -68,7 +68,7 @@
       "synopsis": "<p><a href=\"https://www.salesforce.com/\">Salesforce</a> on Tuesday launched an entirely rebuilt version of <a href=\"https://slack.com/help/articles/202026038-An-introduction-to-Slackbot\">Slackbot</a>, the company&#x27;s workplace assistant, transforming it from a simple notification tool into what e",
       "theme": "AI + Business",
       "category": "ai-business",
-      "fetched_at": "2026-07-14T07:43:18.254834"
+      "fetched_at": "2026-07-15T07:46:44.349244"
     },
     {
       "title": "Railway secures $100 million to challenge AWS with AI-native cloud infrastructure",
@@ -78,17 +78,7 @@
       "synopsis": "<p><a href=\"https://railway.com/\">Railway</a>, a San Francisco-based cloud platform that has quietly amassed two million developers without spending a dollar on marketing, announced Thursday that it raised $100 million in a Series B funding round, as surging demand for artificial intelligence applic",
       "theme": "AI + Business",
       "category": "ai-business",
-      "fetched_at": "2026-07-14T07:43:18.254808"
-    },
-    {
-      "title": "Anthropic found a hidden space where Claude puzzles over concepts",
-      "url": "https://www.technologyreview.com/2026/07/09/1140293/anthropic-found-a-hidden-space-where-claude-puzzles-over-concepts/",
-      "source": "MIT Technology Review - AI",
-      "date": "Thu, 09 Jul 2026 20:22:28 +0000",
-      "synopsis": "The AI firm Anthropic has developed a technique that has given it the clearest glimpse yet at what’s really going on inside large language models as they answer questions or carry out tasks. What they found ranges from the mundane to the unnerving. Researchers at the company built a tool called the",
-      "theme": "AI + Business",
-      "category": "ai-business",
-      "fetched_at": "2026-07-14T07:43:17.673437"
+      "fetched_at": "2026-07-15T07:46:44.349223"
     },
     {
       "title": "Claude Code costs up to $200 a month. Goose does the same thing for free.",
@@ -98,27 +88,7 @@
       "synopsis": "<p>The artificial intelligence coding revolution comes with a catch: it&#x27;s expensive.</p><p><a href=\"https://claude.com/product/claude-code\">Claude Code</a>, Anthropic&#x27;s terminal-based AI agent that can write, debug, and deploy code autonomously, has captured the imagination of software dev",
       "theme": "AI + Business",
       "category": "ai-business",
-      "fetched_at": "2026-07-14T07:43:18.254818"
-    },
-    {
-      "title": "What Anthropic’s latest AI discovery does—and doesn’t—show",
-      "url": "https://www.technologyreview.com/2026/07/13/1140343/what-anthropics-latest-ai-discovery-does-and-doesnt-show/",
-      "source": "MIT Technology Review - AI",
-      "date": "Mon, 13 Jul 2026 18:00:00 +0000",
-      "synopsis": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Anthropic—currently the world’s most valuable AI company, with a nearly $1 trillion valuation—has a reputation for publishing strange and heady research. It’s loo",
-      "theme": "AI + Business",
-      "category": "ai-business",
-      "fetched_at": "2026-07-14T07:43:17.673366"
-    },
-    {
-      "title": "The Download: a donor conception cap and world models for AI",
-      "url": "https://www.technologyreview.com/2026/07/13/1140339/the-download-sperm-donor-limits-ai-world-models/",
-      "source": "MIT Technology Review - AI",
-      "date": "Mon, 13 Jul 2026 12:10:00 +0000",
-      "synopsis": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Sperm donors need limits, says a European fertility group Ties van der Meer doesn’t know how many siblings he has. The 47-year-old was conceived at a",
-      "theme": "AI + Business",
-      "category": "ai-business",
-      "fetched_at": "2026-07-14T07:43:17.673386"
+      "fetched_at": "2026-07-15T07:46:44.349229"
     },
     {
       "title": "Listen Labs raises $69M after viral billboard hiring stunt to scale AI customer interviews",
@@ -128,29 +98,9 @@
       "synopsis": "<p>Alfred Wahlforss was running out of options. His startup, <a href=\"https://listenlabs.ai/\">Listen Labs</a>, needed to hire over 100 engineers, but competing against Mark Zuckerberg&#x27;s <a href=\"https://news.bloomberglaw.com/employee-benefits/zuckerbergs-100-million-ai-job-offers-pay-off-parmy-",
       "theme": "AI + Business",
       "category": "ai-business",
-      "fetched_at": "2026-07-14T07:43:18.254826"
-    },
-    {
-      "title": "The Download: Claude’s inner workings and OpenAI’s “super app”",
-      "url": "https://www.technologyreview.com/2026/07/10/1140316/the-download-anthropic-claude-hidden-space-openai-super-app/",
-      "source": "MIT Technology Review - AI",
-      "date": "Fri, 10 Jul 2026 12:10:00 +0000",
-      "synopsis": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Anthropic found a hidden space where Claude puzzles over concepts The AI firm Anthropic has got the clearest glimpse yet at what’s really going on ins",
-      "theme": "AI + Business",
-      "category": "ai-business",
-      "fetched_at": "2026-07-14T07:43:17.673400"
-    },
-    {
-      "title": "Sperm donors need limits, says a European fertility group",
-      "url": "https://www.technologyreview.com/2026/07/10/1140289/sperm-donors-need-limits-says-a-european-fertility-group/",
-      "source": "MIT Technology Review - AI",
-      "date": "Fri, 10 Jul 2026 09:00:00 +0000",
-      "synopsis": "Ties van der Meer doesn’t know how many siblings he has. The 47-year-old was conceived at a private fertility clinic in the Netherlands using sperm provided by an anonymous donor. After the Netherlands banned anonymous donation in 2004, the doctor who ran the clinic destroyed records that might have",
-      "theme": "AI General",
-      "category": "ai-business",
-      "fetched_at": "2026-07-14T07:43:17.673424"
+      "fetched_at": "2026-07-15T07:46:44.349234"
     }
   ],
-  "last_updated": "2026-07-14T07:43:20.383270",
-  "total_count": 15
+  "last_updated": "2026-07-15T07:46:45.838821",
+  "total_count": 10
 }
