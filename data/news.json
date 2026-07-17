@@ -8,7 +8,7 @@
       "synopsis": "<p>Across 101 enterprises, agent orchestration is consolidating onto model-provider platforms — Anthropic’s Claude leads by a wide margin — chosen for the gravity of the underlying model and judged on reliable multi-step execution. But the ambition runs well ahead of the reality: most deployed “agen",
       "theme": "AI + Business",
       "category": "ai-business",
-      "fetched_at": "2026-07-16T07:51:56.641732"
+      "fetched_at": "2026-07-17T07:49:17.485614"
     },
     {
       "title": "Meet GPT-Red: an LLM super-hacker OpenAI built to make its models safer",
@@ -18,7 +18,7 @@
       "synopsis": "OpenAI has built an LLM super-hacker called GPT-Red that it uses as a sparring partner to help its other models boost their defenses against cyberattacks. Last week the company released the latest version of its flagship LLM, GPT-5.6. OpenAI says that training it against GPT-Red made the model its m",
       "theme": "AI + Business",
       "category": "ai-business",
-      "fetched_at": "2026-07-16T07:51:56.124413"
+      "fetched_at": "2026-07-17T07:49:16.570053"
     },
     {
       "title": "The Download: a useful quantum machine and a record-breaking subsea tunnel",
@@ -28,17 +28,7 @@
       "synopsis": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. PsiQuantum has a plan to make a massive quantum computer out of light The machine that could change the world will be housed in a room that looks like",
       "theme": "AI + Business",
       "category": "ai-business",
-      "fetched_at": "2026-07-16T07:51:56.124428"
-    },
-    {
-      "title": "Google just redesigned the search box for the first time in 25 years — here’s why it matters more than you think.",
-      "url": "https://venturebeat.com/technology/google-just-redesigned-the-search-box-for-the-first-time-in-25-years-heres-why-it-matters-more-than-you-think",
-      "source": "VentureBeat AI",
-      "date": "Tue, 19 May 2026 17:45:00 GMT",
-      "synopsis": "<p>For a quarter century, the Google search box has been one of the most recognizable interfaces in computing: a thin white rectangle, a blinking cursor, a few typed words, and a list of blue links. On Tuesday, Google will formally retire that paradigm.</p><p>At its annual <a href=\"https://io.google",
-      "theme": "AI General",
-      "category": "ai-business",
-      "fetched_at": "2026-07-16T07:51:56.641764"
+      "fetched_at": "2026-07-17T07:49:16.570063"
     },
     {
       "title": "The Download: Claude’s inner workings, and the future of world models",
@@ -48,109 +38,119 @@
       "synopsis": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. What Anthropic’s latest AI discovery does—and doesn’t—show —James O&#8217;Donnell When Anthropic announced last week that it had found a new window in",
       "theme": "AI + Business",
       "category": "ai-business",
-      "fetched_at": "2026-07-16T07:51:56.124443"
+      "fetched_at": "2026-07-17T07:49:16.570075"
     },
     {
-      "title": "PsiQuantum has a plan to make a massive quantum computer out of light",
-      "url": "https://www.technologyreview.com/2026/07/14/1140356/psiquantum-plan-massive-quantum-computer-out-of-light/",
-      "source": "MIT Technology Review - AI",
-      "date": "Tue, 14 Jul 2026 08:00:00 +0000",
-      "synopsis": "The machine that could change the world will be housed in a room that looks like a data center crossed with an ice cream factory. Inside will be some 100 stainless-steel cabinets, each about six feet tall and connected to a supply of liquid helium that keeps them only a few degrees above absolute ze",
-      "theme": "AI + Business",
-      "category": "ai-business",
-      "fetched_at": "2026-07-16T07:51:56.124453"
-    },
-    {
-      "title": "Railway secures $100 million to challenge AWS with AI-native cloud infrastructure",
-      "url": "https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud",
+      "title": "The AI compute gap: Enterprises are buying infrastructure faster than they can measure what it costs",
+      "url": "https://venturebeat.com/ai/the-ai-compute-gap-enterprises-are-buying-infrastructure-faster-than-they-can-measure-what-it-costs",
       "source": "VentureBeat AI",
-      "date": "Thu, 22 Jan 2026 14:00:00 GMT",
-      "synopsis": "<p><a href=\"https://railway.com/\">Railway</a>, a San Francisco-based cloud platform that has quietly amassed two million developers without spending a dollar on marketing, announced Thursday that it raised $100 million in a Series B funding round, as surging demand for artificial intelligence applic",
+      "date": "Thu, 16 Jul 2026 19:16:48 GMT",
+      "synopsis": "<p>Across 107 enterprises, AI infrastructure spending is accelerating well ahead of the ability to see or steer its economics. Most organizations run their AI on a familiar base of hyperscalers and model-provider APIs, yet the next dollar is aimed at specialized compute almost none of them use today",
       "theme": "AI + Business",
       "category": "ai-business",
-      "fetched_at": "2026-07-16T07:51:56.641775"
+      "fetched_at": "2026-07-17T07:49:17.485557"
     },
     {
-      "title": "OriginBlame: Record- and Token-Level Data Provenance for AI Training Datasets",
-      "url": "https://arxiv.org/abs/2607.13037",
-      "source": "ArXiv AI",
-      "date": "Thu, 16 Jul 2026 00:00:00 -0400",
-      "synopsis": "arXiv:2607.13037v1 Announce Type: new  Abstract: When a data contributor requests removal, model trainers face a practical gap: unlearning algorithms require a forget set, yet no tool can locate which training records belong to a given author. Existing provenance systems operate at file or dataset l",
+      "title": "The agent security gap: 54% of enterprises have already had an AI agent incident, and most still let agents share credentials",
+      "url": "https://venturebeat.com/ai/the-agent-security-gap-54-of-enterprises-have-already-had-an-ai-agent-incident-and-most-still-let-agents-share-credentials",
+      "source": "VentureBeat AI",
+      "date": "Thu, 16 Jul 2026 19:02:38 GMT",
+      "synopsis": "<p>Across 107 enterprises, AI agents are being given real access to systems and data while the controls meant to contain them lag behind. More than half have already had a confirmed agent security incident or a near-miss; only about a third give every agent its own scoped identity, and most agents s",
       "theme": "AI + Business",
-      "category": "ai-tech",
-      "fetched_at": "2026-07-16T07:51:57.798479"
+      "category": "ai-business",
+      "fetched_at": "2026-07-17T07:49:17.485575"
     },
     {
-      "title": "SPINE: Bridging the Cyber-Physical Gap with Agentic AI",
-      "url": "https://arxiv.org/abs/2607.13049",
-      "source": "ArXiv AI",
-      "date": "Thu, 16 Jul 2026 00:00:00 -0400",
-      "synopsis": "arXiv:2607.13049v1 Announce Type: new  Abstract: Foundation models have given robots a sophisticated brain for complex decision-making, yet deploying that intelligence into a physical platform still demands tedious, expert-driven calibration. This deployment gap, the robot's spinal cord, remains a p",
+      "title": "The AI context gap: Enterprise AI organizations have a trust problem, not a retrieval problem — and most are still building the fix",
+      "url": "https://venturebeat.com/ai/the-ai-context-gap-enterprise-ai-organizations-have-a-trust-problem-not-a-retrieval-problem-and-most-are-still-building-the-fix",
+      "source": "VentureBeat AI",
+      "date": "Thu, 16 Jul 2026 17:06:08 GMT",
+      "synopsis": "<p>Across 101 enterprises, the infrastructure that feeds AI agents their business context is being built faster than it can be trusted. Retrieval-augmented generation is already the default context source, and provider-native retrieval has quietly overtaken the dedicated vector databases that define",
       "theme": "AI + Business",
-      "category": "ai-tech",
-      "fetched_at": "2026-07-16T07:51:57.798493"
+      "category": "ai-business",
+      "fetched_at": "2026-07-17T07:49:17.485591"
     },
     {
-      "title": "Interventional Grounding Audits: Black-Box Premise-Dependency Tests for LLM Chain-of-Thought via Predicate Substitution",
-      "url": "https://arxiv.org/abs/2607.13069",
-      "source": "ArXiv AI",
-      "date": "Thu, 16 Jul 2026 00:00:00 -0400",
-      "synopsis": "arXiv:2607.13069v1 Announce Type: new  Abstract: Large language models produce chain-of-thought (CoT) reasoning that appears logically sound yet may not genuinely depend on its stated premises. We introduce interventional grounding audits, a black-box, step-level test of premise dependency: we inter",
+      "title": "The agent evaluation gap: Enterprise AI organizations have a reality-alignment problem, not a coverage problem — and most are shipping to production anyway",
+      "url": "https://venturebeat.com/ai/the-agent-evaluation-gap-enterprise-ai-organizations-have-a-reality-alignment-problem-not-a-coverage-problem-and-most-are-shipping-to-production-anyway",
+      "source": "VentureBeat AI",
+      "date": "Thu, 16 Jul 2026 16:40:48 GMT",
+      "synopsis": "<p>Across 157 enterprises, organizations are granting AI agents more autonomy while trusting the evaluations meant to gate that autonomy less. Half have already shipped an agent that passed their internal evaluations and then failed a customer in production; only one in twenty fully trusts automated",
       "theme": "AI + Business",
-      "category": "ai-tech",
-      "fetched_at": "2026-07-16T07:51:57.798502"
+      "category": "ai-business",
+      "fetched_at": "2026-07-17T07:49:17.485603"
     },
     {
-      "title": "Probabilistic Extension of Neuro-Symbolic AGI Robots based on Belnap's Typed Intensional FOL",
-      "url": "https://arxiv.org/abs/2607.13073",
-      "source": "ArXiv AI",
-      "date": "Thu, 16 Jul 2026 00:00:00 -0400",
-      "synopsis": "arXiv:2607.13073v1 Announce Type: new  Abstract: Neuro-symbolic AI based on $IFOL_B$ is a way to combine neural learning and symbolic reasoning to overcome limitations of purely neural systems (like lack of interpretability and logical structure) with formal logical machinery for self-reference. In",
+      "title": "The Download: OpenAI unveils GPT-Red and heat pumps rise in the US",
+      "url": "https://www.technologyreview.com/2026/07/16/1140600/the-download-openai-unveils-gpt-red-heat-pumps-rise-us/",
+      "source": "MIT Technology Review - AI",
+      "date": "Thu, 16 Jul 2026 12:10:00 +0000",
+      "synopsis": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Meet GPT-Red: an LLM super-hacker OpenAI built to make its models safer OpenAI has built an LLM super-hacker called GPT-Red that it uses as a sparring",
       "theme": "AI + Business",
-      "category": "ai-tech",
-      "fetched_at": "2026-07-16T07:51:57.798511"
+      "category": "ai-business",
+      "fetched_at": "2026-07-17T07:49:16.570001"
     },
     {
-      "title": "Self-Improvements in Modern Agentic Systems: A Survey",
-      "url": "https://arxiv.org/abs/2607.13104",
+      "title": "Why heat pumps are still so hot in the US",
+      "url": "https://www.technologyreview.com/2026/07/16/1140505/heat-pump-sales-us/",
+      "source": "MIT Technology Review - AI",
+      "date": "Thu, 16 Jul 2026 10:00:00 +0000",
+      "synopsis": "It feels as if it should be illegal to even think about heating appliances during the height of summer—seriously, these heat waves in New York have been brutal—but we need to talk about heat pumps. The appliances use electricity for heating, they’re incredibly efficient, and they’re on the rise. (Fo",
+      "theme": "AI General",
+      "category": "ai-business",
+      "fetched_at": "2026-07-17T07:49:16.570041"
+    },
+    {
+      "title": "Intelligent Three Level Learning Architecture for Autonomous UAV Swarms in Search and Rescue",
+      "url": "https://arxiv.org/abs/2607.14093",
       "source": "ArXiv AI",
-      "date": "Thu, 16 Jul 2026 00:00:00 -0400",
-      "synopsis": "arXiv:2607.13104v1 Announce Type: new  Abstract: Self-improving autonomous agents are moving from research prototypes to deployed systems. The primary goal is controllable evolution, or adaptation, from experience with minimal or even no human input. This survey frames modern self-improving agents a",
+      "date": "Fri, 17 Jul 2026 00:00:00 -0400",
+      "synopsis": "arXiv:2607.14093v1 Announce Type: new  Abstract: This paper presents a novel three level hierarchical learning architecture for autonomous UAV swarms performing search and rescue operations. Unlike conventional approaches that apply a single learning paradigm across all hierarchy levels, the propose",
       "theme": "AI General",
       "category": "ai-tech",
-      "fetched_at": "2026-07-16T07:51:57.798527"
+      "fetched_at": "2026-07-17T07:49:19.303124"
     },
     {
-      "title": "Claude Code costs up to $200 a month. Goose does the same thing for free.",
-      "url": "https://venturebeat.com/infrastructure/claude-code-costs-up-to-usd200-a-month-goose-does-the-same-thing-for-free",
-      "source": "VentureBeat AI",
-      "date": "Mon, 19 Jan 2026 14:00:00 GMT",
-      "synopsis": "<p>The artificial intelligence coding revolution comes with a catch: it&#x27;s expensive.</p><p><a href=\"https://claude.com/product/claude-code\">Claude Code</a>, Anthropic&#x27;s terminal-based AI agent that can write, debug, and deploy code autonomously, has captured the imagination of software dev",
+      "title": "HG-RAG: Hierarchy-Guided Retrieval-Augmented Generation for Structured Knowledge Graphs",
+      "url": "https://arxiv.org/abs/2607.14095",
+      "source": "ArXiv AI",
+      "date": "Fri, 17 Jul 2026 00:00:00 -0400",
+      "synopsis": "arXiv:2607.14095v1 Announce Type: new  Abstract: Retrieval Augmented Generation (RAG) has proven to be a widely successful process at improving the quality of outputs from a Large Language Model (LLM) for wider context. However, RAG systems typically retrieve context from flat document stores, which",
       "theme": "AI + Business",
-      "category": "ai-business",
-      "fetched_at": "2026-07-16T07:51:56.641783"
+      "category": "ai-tech",
+      "fetched_at": "2026-07-17T07:49:19.303143"
     },
     {
-      "title": "What Anthropic’s latest AI discovery does—and doesn’t—show",
-      "url": "https://www.technologyreview.com/2026/07/13/1140343/what-anthropics-latest-ai-discovery-does-and-doesnt-show/",
-      "source": "MIT Technology Review - AI",
-      "date": "Mon, 13 Jul 2026 18:00:00 +0000",
-      "synopsis": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Anthropic—currently the world’s most valuable AI company, with a nearly $1 trillion valuation—has a reputation for publishing strange and heady research. It’s loo",
+      "title": "IMEX Interaction-Based Model Explanation",
+      "url": "https://arxiv.org/abs/2607.14096",
+      "source": "ArXiv AI",
+      "date": "Fri, 17 Jul 2026 00:00:00 -0400",
+      "synopsis": "arXiv:2607.14096v1 Announce Type: new  Abstract: In predictive modeling, the ability to explain why a model produces a given target prediction has become increasingly important [5, 10]. Black-box models do not provide a transparent description of the internal mechanisms that generate the prediction,",
       "theme": "AI + Business",
-      "category": "ai-business",
-      "fetched_at": "2026-07-16T07:51:56.124464"
+      "category": "ai-tech",
+      "fetched_at": "2026-07-17T07:49:19.303153"
     },
     {
-      "title": "Listen Labs raises $69M after viral billboard hiring stunt to scale AI customer interviews",
-      "url": "https://venturebeat.com/technology/listen-labs-raises-usd69m-after-viral-billboard-hiring-stunt-to-scale-ai",
-      "source": "VentureBeat AI",
-      "date": "Fri, 16 Jan 2026 14:01:00 GMT",
-      "synopsis": "<p>Alfred Wahlforss was running out of options. His startup, <a href=\"https://listenlabs.ai/\">Listen Labs</a>, needed to hire over 100 engineers, but competing against Mark Zuckerberg&#x27;s <a href=\"https://news.bloomberglaw.com/employee-benefits/zuckerbergs-100-million-ai-job-offers-pay-off-parmy-",
+      "title": "RegNetAgents: A Multi-Agent Framework for Cross-Network Regulatory Driver Identification in Cancer Genomics",
+      "url": "https://arxiv.org/abs/2607.14097",
+      "source": "ArXiv AI",
+      "date": "Fri, 17 Jul 2026 00:00:00 -0400",
+      "synopsis": "arXiv:2607.14097v1 Announce Type: new  Abstract: We introduce RegNetAgents, an AI-oriented multi-agent framework for structured, query-driven regulatory candidate identification across heterogeneous gene regulatory networks. The system enables unified analysis of bulk tumor and single-cell-derived A",
       "theme": "AI + Business",
-      "category": "ai-business",
-      "fetched_at": "2026-07-16T07:51:56.641791"
+      "category": "ai-tech",
+      "fetched_at": "2026-07-17T07:49:19.303162"
+    },
+    {
+      "title": "DialogueVPR: Towards Conversational Visual Place Recognition",
+      "url": "https://arxiv.org/abs/2607.14115",
+      "source": "ArXiv AI",
+      "date": "Fri, 17 Jul 2026 00:00:00 -0400",
+      "synopsis": "arXiv:2607.14115v1 Announce Type: new  Abstract: Inspired by how humans communicate spatial information, language-guided geo-localization has gained significant traction for its intuitive and practical value. Despite this progress, most methods still rely on a static, one-shot retrieval paradigm, wh",
+      "theme": "AI + Business",
+      "category": "ai-tech",
+      "fetched_at": "2026-07-17T07:49:19.303171"
     }
   ],
-  "last_updated": "2026-07-16T07:51:57.852525",
+  "last_updated": "2026-07-17T07:49:19.404472",
   "total_count": 15
 }
