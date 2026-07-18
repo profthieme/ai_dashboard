@@ -1,55 +1,35 @@
 {
   "section": "other",
   "label": "Other News",
-  "last_updated": "2026-07-14T00:48:33.068Z",
+  "last_updated": "2026-07-18T12:06:42.285Z",
   "curated_by": "manual_upload",
-  "total_count": 4,
+  "total_count": 2,
   "articles": [
     {
-      "title": "Trust Issues: AI Regulation Update (July 2026)",
-      "url": "https://www.jdsupra.com/legalnews/trust-issues-july-2026-4886266/",
-      "source": "JD Supra",
-      "date": "2026-07-08",
-      "synopsis": "A surge in state-level AI regulation is creating a fragmented compliance landscape. Organizations must navigate overlapping and evolving legal requirements.",
+      "title": "Examining Google DeepMind's AI bioresilience push",
+      "url": "https://www.artificialintelligence-news.com/news/examining-google-deepmind-ai-bioresilience-push/",
+      "source": "AI News",
+      "date": "2026-07-16",
+      "synopsis": "The article examines DeepMind and Isomorphic Labs' attempt to support biological research while mitigating misuse through evaluations, monitoring, and partnerships.",
       "tags": [
-        "regulation",
-        "policy",
-        "compliance",
-        "governance"
+        "Governance",
+        "Ethics",
+        "Research"
       ],
-      "verification": ""
+      "verification": "Direct article URL, title, publisher, and publication date verified on the publisher's page."
     },
     {
-      "title": "AI News Today: 15 Biggest Stories (July 12)",
-      "url": "https://www.buildfastwithai.com/blogs/ai-news-today-july-12-2026",
-      "source": "BuildFastWithAI",
-      "date": "2026-07-12",
-      "synopsis": "A roundup covering talent competition, legal tensions, and major AI developments across leading companies, highlighting rapid acceleration in the ecosystem.",
+      "title": "The agent security gap: 54% of enterprises have already had an AI agent incident, and most still let agents share credentials",
+      "url": "https://venturebeat.com/ai/the-agent-security-gap-54-of-enterprises-have-already-had-an-ai-agent-incident-and-most-still-let-agents-share-credentials",
+      "source": "VentureBeat",
+      "date": "2026-07-16",
+      "synopsis": "VentureBeat's survey identifies weak agent identity and isolation controls as material governance and security risks in enterprise deployments.",
       "tags": [
-        "AI trends",
-        "competition",
-        "industry",
-        "talent"
+        "Governance",
+        "Infrastructure",
+        "Business"
       ],
-      "verification": ""
-    },
-    {
-      "title": "UN Report Sees Enormous Potential Benefits and Big Risks From AI",
-      "url": "https://www.usnews.com/news/top-news/articles/2026-07-01/un-report-sees-enormous-potential-benefits-and-big-risks-from-ai",
-      "source": "Reuters",
-      "date": "",
-      "synopsis": "A global UN report highlights both the benefits of AI and growing risks, including governance challenges and societal impact. [7](https://www.usnews.com/news/top-news/articles/2026-07-01/un-report-sees-enormous-potential-benefits-and-big-risks-from-ai)",
-      "tags": [],
-      "verification": ""
-    },
-    {
-      "title": "The Latest AI News and Breakthroughs That Matter Most",
-      "url": "https://www.crescendo.ai/news/latest-ai-news-and-updates",
-      "source": "Crescendo AI",
-      "date": "",
-      "synopsis": "Recent breakthroughs span healthcare, wearables, and enterprise AI, reflecting rapid cross-industry adoption. [8](https://www.crescendo.ai/news/latest-ai-news-and-updates)",
-      "tags": [],
-      "verification": ""
+      "verification": "Direct article URL, title, publisher, publication date, and reported survey results verified on the publisher's page."
     }
   ]
 }
