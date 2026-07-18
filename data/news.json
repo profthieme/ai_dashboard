@@ -8,37 +8,7 @@
       "synopsis": "<p>Across 101 enterprises, agent orchestration is consolidating onto model-provider platforms — Anthropic’s Claude leads by a wide margin — chosen for the gravity of the underlying model and judged on reliable multi-step execution. But the ambition runs well ahead of the reality: most deployed “agen",
       "theme": "AI + Business",
       "category": "ai-business",
-      "fetched_at": "2026-07-17T07:49:17.485614"
-    },
-    {
-      "title": "Meet GPT-Red: an LLM super-hacker OpenAI built to make its models safer",
-      "url": "https://www.technologyreview.com/2026/07/15/1140514/meet-gpt-red-an-llm-super-hacker-openai-built-to-make-its-models-safer/",
-      "source": "MIT Technology Review - AI",
-      "date": "Wed, 15 Jul 2026 17:09:37 +0000",
-      "synopsis": "OpenAI has built an LLM super-hacker called GPT-Red that it uses as a sparring partner to help its other models boost their defenses against cyberattacks. Last week the company released the latest version of its flagship LLM, GPT-5.6. OpenAI says that training it against GPT-Red made the model its m",
-      "theme": "AI + Business",
-      "category": "ai-business",
-      "fetched_at": "2026-07-17T07:49:16.570053"
-    },
-    {
-      "title": "The Download: a useful quantum machine and a record-breaking subsea tunnel",
-      "url": "https://www.technologyreview.com/2026/07/15/1140498/the-download-useful-quantum-computer-subsea-tunnel/",
-      "source": "MIT Technology Review - AI",
-      "date": "Wed, 15 Jul 2026 12:10:00 +0000",
-      "synopsis": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. PsiQuantum has a plan to make a massive quantum computer out of light The machine that could change the world will be housed in a room that looks like",
-      "theme": "AI + Business",
-      "category": "ai-business",
-      "fetched_at": "2026-07-17T07:49:16.570063"
-    },
-    {
-      "title": "The Download: Claude’s inner workings, and the future of world models",
-      "url": "https://www.technologyreview.com/2026/07/14/1140391/the-download-anthropic-claude-internal-thoughts-world-models/",
-      "source": "MIT Technology Review - AI",
-      "date": "Tue, 14 Jul 2026 12:10:00 +0000",
-      "synopsis": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. What Anthropic’s latest AI discovery does—and doesn’t—show —James O&#8217;Donnell When Anthropic announced last week that it had found a new window in",
-      "theme": "AI + Business",
-      "category": "ai-business",
-      "fetched_at": "2026-07-17T07:49:16.570075"
+      "fetched_at": "2026-07-18T07:23:49.243173"
     },
     {
       "title": "The AI compute gap: Enterprises are buying infrastructure faster than they can measure what it costs",
@@ -48,7 +18,7 @@
       "synopsis": "<p>Across 107 enterprises, AI infrastructure spending is accelerating well ahead of the ability to see or steer its economics. Most organizations run their AI on a familiar base of hyperscalers and model-provider APIs, yet the next dollar is aimed at specialized compute almost none of them use today",
       "theme": "AI + Business",
       "category": "ai-business",
-      "fetched_at": "2026-07-17T07:49:17.485557"
+      "fetched_at": "2026-07-18T07:23:49.243113"
     },
     {
       "title": "The agent security gap: 54% of enterprises have already had an AI agent incident, and most still let agents share credentials",
@@ -58,7 +28,7 @@
       "synopsis": "<p>Across 107 enterprises, AI agents are being given real access to systems and data while the controls meant to contain them lag behind. More than half have already had a confirmed agent security incident or a near-miss; only about a third give every agent its own scoped identity, and most agents s",
       "theme": "AI + Business",
       "category": "ai-business",
-      "fetched_at": "2026-07-17T07:49:17.485575"
+      "fetched_at": "2026-07-18T07:23:49.243132"
     },
     {
       "title": "The AI context gap: Enterprise AI organizations have a trust problem, not a retrieval problem — and most are still building the fix",
@@ -68,7 +38,7 @@
       "synopsis": "<p>Across 101 enterprises, the infrastructure that feeds AI agents their business context is being built faster than it can be trusted. Retrieval-augmented generation is already the default context source, and provider-native retrieval has quietly overtaken the dedicated vector databases that define",
       "theme": "AI + Business",
       "category": "ai-business",
-      "fetched_at": "2026-07-17T07:49:17.485591"
+      "fetched_at": "2026-07-18T07:23:49.243148"
     },
     {
       "title": "The agent evaluation gap: Enterprise AI organizations have a reality-alignment problem, not a coverage problem — and most are shipping to production anyway",
@@ -78,7 +48,7 @@
       "synopsis": "<p>Across 157 enterprises, organizations are granting AI agents more autonomy while trusting the evaluations meant to gate that autonomy less. Half have already shipped an agent that passed their internal evaluations and then failed a customer in production; only one in twenty fully trusts automated",
       "theme": "AI + Business",
       "category": "ai-business",
-      "fetched_at": "2026-07-17T07:49:17.485603"
+      "fetched_at": "2026-07-18T07:23:49.243161"
     },
     {
       "title": "The Download: OpenAI unveils GPT-Red and heat pumps rise in the US",
@@ -88,7 +58,7 @@
       "synopsis": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Meet GPT-Red: an LLM super-hacker OpenAI built to make its models safer OpenAI has built an LLM super-hacker called GPT-Red that it uses as a sparring",
       "theme": "AI + Business",
       "category": "ai-business",
-      "fetched_at": "2026-07-17T07:49:16.570001"
+      "fetched_at": "2026-07-18T07:23:48.455663"
     },
     {
       "title": "Why heat pumps are still so hot in the US",
@@ -98,59 +68,89 @@
       "synopsis": "It feels as if it should be illegal to even think about heating appliances during the height of summer—seriously, these heat waves in New York have been brutal—but we need to talk about heat pumps. The appliances use electricity for heating, they’re incredibly efficient, and they’re on the rise. (Fo",
       "theme": "AI General",
       "category": "ai-business",
-      "fetched_at": "2026-07-17T07:49:16.570041"
+      "fetched_at": "2026-07-18T07:23:48.455683"
     },
     {
       "title": "Intelligent Three Level Learning Architecture for Autonomous UAV Swarms in Search and Rescue",
       "url": "https://arxiv.org/abs/2607.14093",
       "source": "ArXiv AI",
-      "date": "Fri, 17 Jul 2026 00:00:00 -0400",
+      "date": "Sat, 18 Jul 2026 00:00:00 -0400",
       "synopsis": "arXiv:2607.14093v1 Announce Type: new  Abstract: This paper presents a novel three level hierarchical learning architecture for autonomous UAV swarms performing search and rescue operations. Unlike conventional approaches that apply a single learning paradigm across all hierarchy levels, the propose",
       "theme": "AI General",
       "category": "ai-tech",
-      "fetched_at": "2026-07-17T07:49:19.303124"
+      "fetched_at": "2026-07-18T07:23:51.038690"
     },
     {
       "title": "HG-RAG: Hierarchy-Guided Retrieval-Augmented Generation for Structured Knowledge Graphs",
       "url": "https://arxiv.org/abs/2607.14095",
       "source": "ArXiv AI",
-      "date": "Fri, 17 Jul 2026 00:00:00 -0400",
+      "date": "Sat, 18 Jul 2026 00:00:00 -0400",
       "synopsis": "arXiv:2607.14095v1 Announce Type: new  Abstract: Retrieval Augmented Generation (RAG) has proven to be a widely successful process at improving the quality of outputs from a Large Language Model (LLM) for wider context. However, RAG systems typically retrieve context from flat document stores, which",
       "theme": "AI + Business",
       "category": "ai-tech",
-      "fetched_at": "2026-07-17T07:49:19.303143"
+      "fetched_at": "2026-07-18T07:23:51.038710"
     },
     {
       "title": "IMEX Interaction-Based Model Explanation",
       "url": "https://arxiv.org/abs/2607.14096",
       "source": "ArXiv AI",
-      "date": "Fri, 17 Jul 2026 00:00:00 -0400",
+      "date": "Sat, 18 Jul 2026 00:00:00 -0400",
       "synopsis": "arXiv:2607.14096v1 Announce Type: new  Abstract: In predictive modeling, the ability to explain why a model produces a given target prediction has become increasingly important [5, 10]. Black-box models do not provide a transparent description of the internal mechanisms that generate the prediction,",
       "theme": "AI + Business",
       "category": "ai-tech",
-      "fetched_at": "2026-07-17T07:49:19.303153"
+      "fetched_at": "2026-07-18T07:23:51.038721"
     },
     {
       "title": "RegNetAgents: A Multi-Agent Framework for Cross-Network Regulatory Driver Identification in Cancer Genomics",
       "url": "https://arxiv.org/abs/2607.14097",
       "source": "ArXiv AI",
-      "date": "Fri, 17 Jul 2026 00:00:00 -0400",
+      "date": "Sat, 18 Jul 2026 00:00:00 -0400",
       "synopsis": "arXiv:2607.14097v1 Announce Type: new  Abstract: We introduce RegNetAgents, an AI-oriented multi-agent framework for structured, query-driven regulatory candidate identification across heterogeneous gene regulatory networks. The system enables unified analysis of bulk tumor and single-cell-derived A",
       "theme": "AI + Business",
       "category": "ai-tech",
-      "fetched_at": "2026-07-17T07:49:19.303162"
+      "fetched_at": "2026-07-18T07:23:51.038730"
     },
     {
       "title": "DialogueVPR: Towards Conversational Visual Place Recognition",
       "url": "https://arxiv.org/abs/2607.14115",
       "source": "ArXiv AI",
-      "date": "Fri, 17 Jul 2026 00:00:00 -0400",
+      "date": "Sat, 18 Jul 2026 00:00:00 -0400",
       "synopsis": "arXiv:2607.14115v1 Announce Type: new  Abstract: Inspired by how humans communicate spatial information, language-guided geo-localization has gained significant traction for its intuitive and practical value. Despite this progress, most methods still rely on a static, one-shot retrieval paradigm, wh",
       "theme": "AI + Business",
       "category": "ai-tech",
-      "fetched_at": "2026-07-17T07:49:19.303171"
+      "fetched_at": "2026-07-18T07:23:51.038739"
+    },
+    {
+      "title": "The Download: perimenopause misinformation and China’s latest AI leap",
+      "url": "https://www.technologyreview.com/2026/07/17/1140640/the-download-perimenopause-misinformation-china-moonshot-ai/",
+      "source": "MIT Technology Review - AI",
+      "date": "Fri, 17 Jul 2026 12:10:00 +0000",
+      "synopsis": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. There’s a lot of hype around perimenopause. Don’t buy it. Perimenopause used to be considered taboo, but not anymore. Thanks at least in part to TV do",
+      "theme": "AI + Business",
+      "category": "ai-business",
+      "fetched_at": "2026-07-18T07:23:48.455604"
+    },
+    {
+      "title": "There’s a lot of hype around perimenopause. Don’t buy it.",
+      "url": "https://www.technologyreview.com/2026/07/17/1140608/theres-a-lot-of-hype-around-perimenopause-dont-buy-it/",
+      "source": "MIT Technology Review - AI",
+      "date": "Fri, 17 Jul 2026 09:00:00 +0000",
+      "synopsis": "Perimenopause has entered the chat. Perimenopause—and its better-known relative, menopause—used to be considered taboo. Not anymore, thanks at least in part to TV doctors and social media influencers. Perhaps it’s my age, but these days, both my algorithm and my conversations with friends increasing",
+      "theme": "AI General",
+      "category": "ai-business",
+      "fetched_at": "2026-07-18T07:23:48.455641"
+    },
+    {
+      "title": "The risk of weather data sabotage is rising",
+      "url": "https://www.technologyreview.com/2026/07/17/1140622/weather-data-sabotage/",
+      "source": "MIT Technology Review - AI",
+      "date": "Fri, 17 Jul 2026 08:57:32 +0000",
+      "synopsis": "Every morning, airline dispatchers, grid operators, and farmers around the world make decisions based on the same thing: a weather forecast. While these forecasts are something that most people glance at for two seconds, weather predictions influence major strategic decisions in many industries, wit",
+      "theme": "AI + Business",
+      "category": "ai-business",
+      "fetched_at": "2026-07-18T07:23:48.455654"
     }
   ],
-  "last_updated": "2026-07-17T07:49:19.404472",
+  "last_updated": "2026-07-18T07:23:51.092760",
   "total_count": 15
 }
