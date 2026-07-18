@@ -1,79 +1,74 @@
 {
   "section": "ai_business",
   "label": "AI + Business",
-  "last_updated": "2026-07-14T00:48:33.068Z",
+  "last_updated": "2026-07-18T12:06:42.285Z",
   "curated_by": "manual_upload",
   "total_count": 5,
   "articles": [
     {
-      "title": "OpenAI Debuts ChatGPT Work Workplace AI Agent With GPT‑5.6",
-      "url": "https://www.forbes.com/sites/madhulika-pathak/2026/07/09/openai-debuts-chatgpt-work-workplace-ai-agent-with-gpt-56/",
-      "source": "Forbes",
-      "date": "2026-07-09",
-      "synopsis": "OpenAI introduced an enterprise-focused AI agent capable of executing multi-step knowledge work. This marks a significant shift from assistive copilots toward autonomous AI systems embedded in workflows.",
-      "tags": [
-        "AI agents",
-        "enterprise AI",
-        "automation",
-        "productivity"
-      ],
-      "verification": ""
-    },
-    {
-      "title": "Building An AI Strategy That Lasts",
-      "url": "https://www.forbes.com/sites/cio/2026/07/09/building-an-ai-strategy-that-lasts/",
-      "source": "Forbes",
-      "date": "2026-07-09",
-      "synopsis": "Organizations are moving beyond experimentation to durable AI strategies focused on long-term competitive advantage and governance. Strategic alignment is now the primary driver of success.",
-      "tags": [
-        "AI strategy",
-        "enterprise AI",
-        "governance",
-        "digital transformation"
-      ],
-      "verification": ""
-    },
-    {
-      "title": "How Did the Government Decide OpenAI’s Frontier Model Was Safe to Release?",
-      "url": "https://techcrunch.com/2026/07/09/how-did-the-government-decide-openais-frontier-model-was-safe-to-release/",
-      "source": "TechCrunch",
-      "date": "2026-07-09",
-      "synopsis": "This article highlights the lack of transparency around how advanced AI systems are evaluated for release, raising questions about the adequacy and consistency of current governance frameworks.",
-      "tags": [
-        "AI policy",
-        "governance",
-        "regulation",
-        "risk"
-      ],
-      "verification": ""
-    },
-    {
-      "title": "The Hackett Group® Establishes AI World Class Procurement Benchmarks",
-      "url": "https://markets.ft.com/data/announce/detail?dockey=600-202607131000BIZWIRE_USPRX____20260713_BW704676-1",
-      "source": "Financial Times (via Business Wire)",
-      "date": "2026-07-13",
-      "synopsis": "Introduces AI-driven procurement benchmarks highlighting how organizations are formalizing AI for cost optimization and performance improvement.",
+      "title": "Bunkerhill raises $55M to scale agentic AI across health systems",
+      "url": "https://www.artificialintelligence-news.com/news/bunkerhill-raises-55m-scale-agentic-ai-health-systems/",
+      "source": "AI News",
+      "date": "2026-07-17",
+      "synopsis": "Bunkerhill's funding and hospital deployments illustrate how agentic AI is moving from healthcare pilots into institution-scale operational use.",
       "tags": [
         "Business",
-        "Workforce",
+        "Startups",
+        "Strategy"
+      ],
+      "verification": "Direct article URL, title, publisher, and publication date verified on the publisher's page."
+    },
+    {
+      "title": "Neko Health raises $700 million to expand AI body scans in the US",
+      "url": "https://www.artificialintelligence-news.com/news/neko-health-700m-ai-body-scans-us/",
+      "source": "AI News",
+      "date": "2026-07-16",
+      "synopsis": "Neko Health's financing highlights investor demand for AI-enabled preventive care while leaving clinical-outcome and cost-effectiveness questions open.",
+      "tags": [
+        "Business",
+        "Startups",
+        "Strategy"
+      ],
+      "verification": "Direct article URL, title, publisher, and publication date verified on the publisher's page."
+    },
+    {
+      "title": "A scorecard for the AI age",
+      "url": "https://openai.com/index/a-scorecard-for-the-ai-age/",
+      "source": "OpenAI",
+      "date": "2026-07-17",
+      "synopsis": "OpenAI proposes evaluating AI spending through useful work completed per dollar rather than adoption or token costs alone.",
+      "tags": [
+        "Business",
         "Strategy",
         "Productivity"
       ],
-      "verification": "URL is accessible and publication date matches July 13, 2026; source is a verified press release distributed via Business Wire."
+      "verification": "Direct article URL, title, publisher, and publication date verified on the publisher's page; performance framing is OpenAI's own."
     },
     {
-      "title": "[AINews] OpenAI launches GPT 5.6 Sol/Terra/Luna, Codex becomes ChatGPT superapp",
-      "url": "https://www.latent.space/p/ainews-openai-launches-gpt-56-solterraluna",
-      "source": "Latent Space",
-      "date": "2026-07-10",
-      "synopsis": "OpenAI's GPT-5.6 family launch introduces three tiered models (Sol, Terra, Luna) with new pricing and performance characteristics, alongside ChatGPT Work and desktop app updates that signal a shift toward enterprise superapp positioning for AI productivity.",
+      "title": "The agent evaluation gap: Enterprise AI organizations have a reality-alignment problem, not a coverage problem — and most are shipping to production anyway",
+      "url": "https://venturebeat.com/ai/the-agent-evaluation-gap-enterprise-ai-organizations-have-a-reality-alignment-problem-not-a-coverage-problem-and-most-are-shipping-to-production-anyway",
+      "source": "VentureBeat",
+      "date": "2026-07-16",
+      "synopsis": "VentureBeat's survey indicates that enterprise agent evaluations often fail to predict customer-facing performance even as organizations move toward automated deployment.",
       "tags": [
         "Business",
         "Strategy",
-        "Productivity",
-        "Infrastructure"
+        "Governance"
       ],
-      "verification": "Date and link verified from Substack publication timestamp (Jul 10, 2026)."
+      "verification": "Direct article URL, title, publisher, publication date, and reported survey results verified on the publisher's page."
+    },
+    {
+      "title": "The AI compute gap: Enterprises are buying infrastructure faster than they can measure what it costs",
+      "url": "https://venturebeat.com/ai/the-ai-compute-gap-enterprises-are-buying-infrastructure-faster-than-they-can-measure-what-it-costs",
+      "source": "VentureBeat",
+      "date": "2026-07-16",
+      "synopsis": "VentureBeat's survey suggests that enterprise AI infrastructure investment is outpacing organizations' ability to measure utilization and total cost accurately.",
+      "tags": [
+        "Business",
+        "Infrastructure",
+        "Strategy"
+      ],
+      "verification": "Direct article URL, title, publisher, publication date, and reported survey results verified on the publisher's page."
     }
   ]
 }
