@@ -8,7 +8,7 @@
       "synopsis": "<p>Across 101 enterprises, agent orchestration is consolidating onto model-provider platforms — Anthropic’s Claude leads by a wide margin — chosen for the gravity of the underlying model and judged on reliable multi-step execution. But the ambition runs well ahead of the reality: most deployed “agen",
       "theme": "AI + Business",
       "category": "ai-business",
-      "fetched_at": "2026-07-19T07:54:51.961074"
+      "fetched_at": "2026-07-20T08:34:04.069662"
     },
     {
       "title": "The AI compute gap: Enterprises are buying infrastructure faster than they can measure what it costs",
@@ -18,7 +18,7 @@
       "synopsis": "<p>Across 107 enterprises, AI infrastructure spending is accelerating well ahead of the ability to see or steer its economics. Most organizations run their AI on a familiar base of hyperscalers and model-provider APIs, yet the next dollar is aimed at specialized compute almost none of them use today",
       "theme": "AI + Business",
       "category": "ai-business",
-      "fetched_at": "2026-07-19T07:54:51.961020"
+      "fetched_at": "2026-07-20T08:34:04.069607"
     },
     {
       "title": "The agent security gap: 54% of enterprises have already had an AI agent incident, and most still let agents share credentials",
@@ -28,7 +28,7 @@
       "synopsis": "<p>Across 107 enterprises, AI agents are being given real access to systems and data while the controls meant to contain them lag behind. More than half have already had a confirmed agent security incident or a near-miss; only about a third give every agent its own scoped identity, and most agents s",
       "theme": "AI + Business",
       "category": "ai-business",
-      "fetched_at": "2026-07-19T07:54:51.961037"
+      "fetched_at": "2026-07-20T08:34:04.069626"
     },
     {
       "title": "The AI context gap: Enterprise AI organizations have a trust problem, not a retrieval problem — and most are still building the fix",
@@ -38,7 +38,7 @@
       "synopsis": "<p>Across 101 enterprises, the infrastructure that feeds AI agents their business context is being built faster than it can be trusted. Retrieval-augmented generation is already the default context source, and provider-native retrieval has quietly overtaken the dedicated vector databases that define",
       "theme": "AI + Business",
       "category": "ai-business",
-      "fetched_at": "2026-07-19T07:54:51.961051"
+      "fetched_at": "2026-07-20T08:34:04.069640"
     },
     {
       "title": "The agent evaluation gap: Enterprise AI organizations have a reality-alignment problem, not a coverage problem — and most are shipping to production anyway",
@@ -48,7 +48,7 @@
       "synopsis": "<p>Across 157 enterprises, organizations are granting AI agents more autonomy while trusting the evaluations meant to gate that autonomy less. Half have already shipped an agent that passed their internal evaluations and then failed a customer in production; only one in twenty fully trusts automated",
       "theme": "AI + Business",
       "category": "ai-business",
-      "fetched_at": "2026-07-19T07:54:51.961062"
+      "fetched_at": "2026-07-20T08:34:04.069652"
     },
     {
       "title": "The Download: OpenAI unveils GPT-Red and heat pumps rise in the US",
@@ -58,7 +58,7 @@
       "synopsis": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Meet GPT-Red: an LLM super-hacker OpenAI built to make its models safer OpenAI has built an LLM super-hacker called GPT-Red that it uses as a sparring",
       "theme": "AI + Business",
       "category": "ai-business",
-      "fetched_at": "2026-07-19T07:54:51.224848"
+      "fetched_at": "2026-07-20T08:34:03.130321"
     },
     {
       "title": "Why heat pumps are still so hot in the US",
@@ -68,7 +68,57 @@
       "synopsis": "It feels as if it should be illegal to even think about heating appliances during the height of summer—seriously, these heat waves in New York have been brutal—but we need to talk about heat pumps. The appliances use electricity for heating, they’re incredibly efficient, and they’re on the rise. (Fo",
       "theme": "AI General",
       "category": "ai-business",
-      "fetched_at": "2026-07-19T07:54:51.224872"
+      "fetched_at": "2026-07-20T08:34:03.130339"
+    },
+    {
+      "title": "GraphDx: A Cost-Aware Knowledge-Enhanced Multi-Agent Framework for Sequential Diagnosis",
+      "url": "https://arxiv.org/abs/2607.15280",
+      "source": "ArXiv AI",
+      "date": "Mon, 20 Jul 2026 00:00:00 -0400",
+      "synopsis": "arXiv:2607.15280v1 Announce Type: new  Abstract: Sequential diagnosis requires balancing diagnostic accuracy against resource costs through iterative information gathering. Existing Large Language Model (LLM) approaches exhibit a critical knowledge-reasoning gap: despite encoding extensive medical k",
+      "theme": "AI + Business",
+      "category": "ai-tech",
+      "fetched_at": "2026-07-20T08:34:05.635480"
+    },
+    {
+      "title": "Causal-Audit: Explicit and Auditable Graph-based Reasoning via Target-Aware Causal Chain Construction",
+      "url": "https://arxiv.org/abs/2607.15281",
+      "source": "ArXiv AI",
+      "date": "Mon, 20 Jul 2026 00:00:00 -0400",
+      "synopsis": "arXiv:2607.15281v1 Announce Type: new  Abstract: Causal and intervention-based question answering is fundamental to advancing large language models (LLMs) toward reasoning beyond surface-level correlations and understanding underlying causal mechanisms. However, existing LLM-based methods often rely",
+      "theme": "AI + Business",
+      "category": "ai-tech",
+      "fetched_at": "2026-07-20T08:34:05.635498"
+    },
+    {
+      "title": "Cura 1T: Specialized Model for Agentic Healthcare",
+      "url": "https://arxiv.org/abs/2607.15314",
+      "source": "ArXiv AI",
+      "date": "Mon, 20 Jul 2026 00:00:00 -0400",
+      "synopsis": "arXiv:2607.15314v1 Announce Type: new  Abstract: Healthcare spans high-stakes communication, expert reasoning, and workflow execution, yet specialized LLMs that cover these use cases together remain limited. A healthcare model must handle patient consultation, clinical reasoning over text and images",
+      "theme": "AI + Business",
+      "category": "ai-tech",
+      "fetched_at": "2026-07-20T08:34:05.635508"
+    },
+    {
+      "title": "AnovaX: A Local, Multi-Agent Voice Assistant with LLM Planning, Typed Executors, and Adaptive Recovery",
+      "url": "https://arxiv.org/abs/2607.15367",
+      "source": "ArXiv AI",
+      "date": "Mon, 20 Jul 2026 00:00:00 -0400",
+      "synopsis": "arXiv:2607.15367v1 Announce Type: new  Abstract: Desktop voice assistants are still dominated by cloud pipelines that ship raw audio off the machine and expose a fixed set of skills. We describe AnovaX, a small local-first assistant that runs entirely on the user's computer and treats the desktop it",
+      "theme": "AI + Business",
+      "category": "ai-tech",
+      "fetched_at": "2026-07-20T08:34:05.635517"
+    },
+    {
+      "title": "Precise but Uncoupled: Reviewer Precision Does Not Guarantee Critique Uptake in Multi-Agent Math Reasoning",
+      "url": "https://arxiv.org/abs/2607.15388",
+      "source": "ArXiv AI",
+      "date": "Mon, 20 Jul 2026 00:00:00 -0400",
+      "synopsis": "arXiv:2607.15388v1 Announce Type: new  Abstract: Many math- and science-oriented agent systems use hierarchical designs with specialized reviewer roles, assuming that a dedicated review stage should help turn wrong candidates into correct ones. We test this assumption on 4,181 verifier-grounded Omni",
+      "theme": "AI General",
+      "category": "ai-tech",
+      "fetched_at": "2026-07-20T08:34:05.635538"
     },
     {
       "title": "The Download: perimenopause misinformation and China’s latest AI leap",
@@ -78,7 +128,7 @@
       "synopsis": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. There’s a lot of hype around perimenopause. Don’t buy it. Perimenopause used to be considered taboo, but not anymore. Thanks at least in part to TV do",
       "theme": "AI + Business",
       "category": "ai-business",
-      "fetched_at": "2026-07-19T07:54:51.224776"
+      "fetched_at": "2026-07-20T08:34:03.130269"
     },
     {
       "title": "There’s a lot of hype around perimenopause. Don’t buy it.",
@@ -88,7 +138,7 @@
       "synopsis": "Perimenopause has entered the chat. Perimenopause—and its better-known relative, menopause—used to be considered taboo. Not anymore, thanks at least in part to TV doctors and social media influencers. Perhaps it’s my age, but these days, both my algorithm and my conversations with friends increasing",
       "theme": "AI General",
       "category": "ai-business",
-      "fetched_at": "2026-07-19T07:54:51.224810"
+      "fetched_at": "2026-07-20T08:34:03.130304"
     },
     {
       "title": "The risk of weather data sabotage is rising",
@@ -98,9 +148,9 @@
       "synopsis": "Every morning, airline dispatchers, grid operators, and farmers around the world make decisions based on the same thing: a weather forecast. While these forecasts are something that most people glance at for two seconds, weather predictions influence major strategic decisions in many industries, wit",
       "theme": "AI + Business",
       "category": "ai-business",
-      "fetched_at": "2026-07-19T07:54:51.224821"
+      "fetched_at": "2026-07-20T08:34:03.130314"
     }
   ],
-  "last_updated": "2026-07-19T07:54:53.721577",
-  "total_count": 10
+  "last_updated": "2026-07-20T08:34:05.721100",
+  "total_count": 15
 }
