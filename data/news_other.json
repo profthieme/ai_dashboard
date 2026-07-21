@@ -1,35 +1,110 @@
 {
   "section": "other",
   "label": "Other News",
-  "last_updated": "2026-07-18T12:06:42.285Z",
+  "last_updated": "2026-07-21T01:37:25.098Z",
   "curated_by": "manual_upload",
-  "total_count": 2,
+  "total_count": 8,
   "articles": [
     {
-      "title": "Examining Google DeepMind's AI bioresilience push",
-      "url": "https://www.artificialintelligence-news.com/news/examining-google-deepmind-ai-bioresilience-push/",
-      "source": "AI News",
-      "date": "2026-07-16",
-      "synopsis": "The article examines DeepMind and Isomorphic Labs' attempt to support biological research while mitigating misuse through evaluations, monitoring, and partnerships.",
+      "title": "Import AI 465: Open vs closed gaps; Kimi K3; Demis' big policy plan",
+      "url": "https://importai.substack.com/p/import-ai-465-open-vs-closed-gaps",
+      "source": "Import AI",
+      "date": "2026-07-20",
+      "synopsis": "This research-focused newsletter evaluates the narrowing gap between open and closed models while connecting Kimi K3's capabilities to broader questions about competition and AI policy.",
+      "tags": [
+        "Research",
+        "Governance",
+        "Strategy"
+      ],
+      "verification": "Direct post link and exact title verified in the Import AI archive; the displayed relative timestamp was cross-checked against the current UTC date."
+    },
+    {
+      "title": "Safety and alignment in an era of long-horizon models",
+      "url": "https://openai.com/index/safety-alignment-long-horizon-models/",
+      "source": "OpenAI News",
+      "date": "2026-07-20",
+      "synopsis": "OpenAI's account of unexpected behavior in long-running models shows why autonomous systems require trajectory-level monitoring, incident-derived evaluations, and the ability to pause deployment.",
       "tags": [
         "Governance",
         "Ethics",
         "Research"
       ],
-      "verification": "Direct article URL, title, publisher, and publication date verified on the publisher's page."
+      "verification": "Direct OpenAI article link, title, publication date, authorship, and safety findings verified on the publisher's page."
     },
     {
-      "title": "The agent security gap: 54% of enterprises have already had an AI agent incident, and most still let agents share credentials",
-      "url": "https://venturebeat.com/ai/the-agent-security-gap-54-of-enterprises-have-already-had-an-ai-agent-incident-and-most-still-let-agents-share-credentials",
-      "source": "VentureBeat",
-      "date": "2026-07-16",
-      "synopsis": "VentureBeat's survey identifies weak agent identity and isolation controls as material governance and security risks in enterprise deployments.",
+      "title": "Anthropic’s landmark $1.5B copyright settlement is approved",
+      "url": "https://techcrunch.com/2026/07/20/anthropics-landmark-1-5b-copyright-settlement-is-approved/",
+      "source": "TechCrunch",
+      "date": "2026-07-20",
+      "synopsis": "Final approval of the settlement clarifies the immediate consequences of unlawfully acquired training materials while leaving broader fair-use questions unresolved across the AI industry.",
+      "tags": [
+        "Legal/IP",
+        "Governance"
+      ],
+      "verification": "Direct article link, exact title, publisher, publication timestamp, and settlement details verified on the TechCrunch page."
+    },
+    {
+      "title": "Google is working on a new AI chip designed to make Gemini more efficient",
+      "url": "https://techcrunch.com/2026/07/20/google-is-working-on-a-new-ai-chip-designed-to-make-gemini-more-efficient/",
+      "source": "TechCrunch",
+      "date": "2026-07-20",
+      "synopsis": "Google's reported custom inference chip highlights the strategic importance of reducing power consumption, controlling AI infrastructure costs, and decreasing dependence on Nvidia.",
+      "tags": [
+        "Infrastructure",
+        "Strategy"
+      ],
+      "verification": "Direct article link, title, publisher, publication timestamp, and reported chip details verified on the TechCrunch page."
+    },
+    {
+      "title": "AI’s most important protocol is getting a little bit easier to use",
+      "url": "https://techcrunch.com/2026/07/20/ais-most-important-protocol-is-getting-a-little-bit-easier-to-use/",
+      "source": "TechCrunch",
+      "date": "2026-07-20",
+      "synopsis": "Improvements to a key interoperability protocol could lower implementation barriers for developers connecting AI agents with tools, services, and external data.",
+      "tags": [
+        "Infrastructure",
+        "Productivity"
+      ],
+      "verification": "Direct article URL, exact title, publisher, and publication date verified through TechCrunch's July archive and AI listing."
+    },
+    {
+      "title": "OpenAI is scared of open-weight models. Should the US be?",
+      "url": "https://techcrunch.com/2026/07/20/openai-is-scared-of-open-weight-models-should-the-us-be/",
+      "source": "TechCrunch",
+      "date": "2026-07-20",
+      "synopsis": "The article examines the policy, security, and competitive tradeoffs surrounding open-weight models as governments consider how access may affect national AI leadership.",
       "tags": [
         "Governance",
-        "Infrastructure",
-        "Business"
+        "Strategy",
+        "Research"
       ],
-      "verification": "Direct article URL, title, publisher, publication date, and reported survey results verified on the publisher's page."
+      "verification": "Direct article URL, exact title, publisher, and publication date verified through TechCrunch's July archive and AI listing."
+    },
+    {
+      "title": "Can an Apple lawsuit derail OpenAI’s hardware plans?",
+      "url": "https://techcrunch.com/2026/07/19/can-an-apple-lawsuit-derail-openais-hardware-plans/",
+      "source": "TechCrunch",
+      "date": "2026-07-19",
+      "synopsis": "The dispute illustrates how intellectual-property claims and employee mobility can create material execution risks for AI companies expanding into proprietary hardware.",
+      "tags": [
+        "Legal/IP",
+        "Infrastructure",
+        "Strategy"
+      ],
+      "verification": "Direct article URL, exact title, publisher, and publication date verified through TechCrunch's July archive and AI listing."
+    },
+    {
+      "title": "Nonprofit Current AI is racing to build the World Wide Web of AI, free for all",
+      "url": "https://techcrunch.com/2026/07/19/nonprofit-current-ai-is-racing-to-build-the-world-wide-web-of-ai-free-for-all/",
+      "source": "TechCrunch",
+      "date": "2026-07-19",
+      "synopsis": "Current AI's effort to create shared public AI infrastructure raises important questions about open access, governance, and alternatives to privately controlled model ecosystems.",
+      "tags": [
+        "Infrastructure",
+        "Governance",
+        "Research"
+      ],
+      "verification": "Direct article URL, exact title, publisher, and publication date verified through TechCrunch's July archive and AI listing."
     }
   ]
 }
