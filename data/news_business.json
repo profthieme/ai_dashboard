@@ -1,74 +1,115 @@
 {
   "section": "ai_business",
   "label": "AI + Business",
-  "last_updated": "2026-07-18T12:06:42.285Z",
+  "last_updated": "2026-07-21T01:37:25.098Z",
   "curated_by": "manual_upload",
-  "total_count": 5,
+  "total_count": 8,
   "articles": [
     {
-      "title": "Bunkerhill raises $55M to scale agentic AI across health systems",
-      "url": "https://www.artificialintelligence-news.com/news/bunkerhill-raises-55m-scale-agentic-ai-health-systems/",
-      "source": "AI News",
-      "date": "2026-07-17",
-      "synopsis": "Bunkerhill's funding and hospital deployments illustrate how agentic AI is moving from healthcare pilots into institution-scale operational use.",
-      "tags": [
-        "Business",
-        "Startups",
-        "Strategy"
-      ],
-      "verification": "Direct article URL, title, publisher, and publication date verified on the publisher's page."
-    },
-    {
-      "title": "Neko Health raises $700 million to expand AI body scans in the US",
-      "url": "https://www.artificialintelligence-news.com/news/neko-health-700m-ai-body-scans-us/",
-      "source": "AI News",
-      "date": "2026-07-16",
-      "synopsis": "Neko Health's financing highlights investor demand for AI-enabled preventive care while leaving clinical-outcome and cost-effectiveness questions open.",
-      "tags": [
-        "Business",
-        "Startups",
-        "Strategy"
-      ],
-      "verification": "Direct article URL, title, publisher, and publication date verified on the publisher's page."
-    },
-    {
-      "title": "A scorecard for the AI age",
-      "url": "https://openai.com/index/a-scorecard-for-the-ai-age/",
-      "source": "OpenAI",
-      "date": "2026-07-17",
-      "synopsis": "OpenAI proposes evaluating AI spending through useful work completed per dollar rather than adoption or token costs alone.",
+      "title": "Design AI Systems That Actually Strengthen Human Reasoning",
+      "url": "https://hbr.org/2026/07/design-ai-systems-that-actually-strengthen-human-reasoning",
+      "source": "Harvard Business Review",
+      "date": "2026-07-20",
+      "synopsis": "This article offers leaders practical design principles for using AI to reinforce critical thinking, organizational agility, and innovation rather than weakening human judgment.",
       "tags": [
         "Business",
         "Strategy",
         "Productivity"
       ],
-      "verification": "Direct article URL, title, publisher, and publication date verified on the publisher's page; performance framing is OpenAI's own."
+      "verification": "Direct article link, title, source, and publication date verified on the Harvard Business Review page."
     },
     {
-      "title": "The agent evaluation gap: Enterprise AI organizations have a reality-alignment problem, not a coverage problem — and most are shipping to production anyway",
-      "url": "https://venturebeat.com/ai/the-agent-evaluation-gap-enterprise-ai-organizations-have-a-reality-alignment-problem-not-a-coverage-problem-and-most-are-shipping-to-production-anyway",
-      "source": "VentureBeat",
-      "date": "2026-07-16",
-      "synopsis": "VentureBeat's survey indicates that enterprise agent evaluations often fail to predict customer-facing performance even as organizations move toward automated deployment.",
+      "title": "Former Microsoft AI Leaders Are Spending $1M To Prove AI Can Replace CEOs",
+      "url": "https://www.forbes.com/sites/victordey/2026/07/20/former-microsoft-ai-leaders-are-spending-1m-to-prove-ai-can-replace-ceos/",
+      "source": "Forbes",
+      "date": "2026-07-20",
+      "synopsis": "Skyfall AI's plan to operate an acquired company with an AI chief executive creates a consequential real-world test of autonomous management, continuous learning, and human accountability.",
       "tags": [
         "Business",
         "Strategy",
-        "Governance"
+        "Startups",
+        "Workforce"
       ],
-      "verification": "Direct article URL, title, publisher, publication date, and reported survey results verified on the publisher's page."
+      "verification": "Direct article link, title, source, publication date, and article summary verified on the Forbes page."
     },
     {
-      "title": "The AI compute gap: Enterprises are buying infrastructure faster than they can measure what it costs",
-      "url": "https://venturebeat.com/ai/the-ai-compute-gap-enterprises-are-buying-infrastructure-faster-than-they-can-measure-what-it-costs",
-      "source": "VentureBeat",
-      "date": "2026-07-16",
-      "synopsis": "VentureBeat's survey suggests that enterprise AI infrastructure investment is outpacing organizations' ability to measure utilization and total cost accurately.",
+      "title": "Frontier AI Labs Are Renting Compute From Their Competitors",
+      "url": "https://www.forbes.com/sites/janakirammsv/2026/07/19/frontier-ai-labs-are-renting-compute-from-their-competitors/",
+      "source": "Forbes",
+      "date": "2026-07-19",
+      "synopsis": "The analysis shows how frontier laboratories are distributing compute, construction, financing, and permitting risks across cloud providers, specialized operators, and even direct competitors.",
       "tags": [
         "Business",
         "Infrastructure",
         "Strategy"
       ],
-      "verification": "Direct article URL, title, publisher, publication date, and reported survey results verified on the publisher's page."
+      "verification": "Direct article link, title, source, publication date, and substantive infrastructure analysis verified on the Forbes page."
+    },
+    {
+      "title": "Small Businesses Adopted AI Faster Than They Wrote Rules For It",
+      "url": "https://www.forbes.com/sites/terdawn-deboe/2026/07/19/small-businesses-adopted-ai-faster-than-they-wrote-rules-for-it/",
+      "source": "Forbes",
+      "date": "2026-07-19",
+      "synopsis": "The article gives small-business leaders a concise framework for controlling shadow AI, protecting sensitive data, documenting human review, and preparing for emerging disclosure requirements.",
+      "tags": [
+        "Business",
+        "Governance",
+        "Strategy"
+      ],
+      "verification": "Direct article link, title, source, publication date, and policy recommendations verified on the Forbes page."
+    },
+    {
+      "title": "Natural raises $30M to reinvent payments for AI agents — and take on Stripe",
+      "url": "https://techcrunch.com/2026/07/20/natural-raises-30m-to-reinvent-payments-for-ai-agents-and-take-on-stripe/",
+      "source": "TechCrunch",
+      "date": "2026-07-20",
+      "synopsis": "Natural's funding signals growing investor interest in payment infrastructure designed for autonomous agents that can initiate and complete commercial transactions.",
+      "tags": [
+        "Business",
+        "Startups",
+        "Infrastructure"
+      ],
+      "verification": "Direct article URL, exact title, publisher, and publication date verified through TechCrunch's July archive and venture listing."
+    },
+    {
+      "title": "Inference startup Infinity raises $15M from Touring Capital, OpenAI and Anthropic researchers",
+      "url": "https://techcrunch.com/2026/07/20/inference-startup-infinity-raises-15m-from-touring-capital-openai-and-anthropic-researchers/",
+      "source": "TechCrunch",
+      "date": "2026-07-20",
+      "synopsis": "Infinity's financing illustrates continued startup investment in inference technology aimed at reducing the cost and operational burden of deploying AI models.",
+      "tags": [
+        "Startups",
+        "Infrastructure",
+        "Business"
+      ],
+      "verification": "Direct article URL, exact title, publisher, and publication date verified through TechCrunch's July archive and venture listing."
+    },
+    {
+      "title": "Netflix paid $587M for Ben Affleck’s AI filmmaking startup",
+      "url": "https://techcrunch.com/2026/07/19/netflix-paid-587m-for-ben-afflecks-ai-filmmaking-startup/",
+      "source": "TechCrunch",
+      "date": "2026-07-19",
+      "synopsis": "Netflix's acquisition demonstrates how established media companies are purchasing AI production capabilities rather than relying exclusively on internal development.",
+      "tags": [
+        "Business",
+        "Startups",
+        "Strategy"
+      ],
+      "verification": "Direct article URL, title, publisher, and publication date verified in TechCrunch's July archive."
+    },
+    {
+      "title": "What to watch for after Jensen Huang’s Japan visit",
+      "url": "https://techcrunch.com/2026/07/19/what-to-watch-for-after-jensen-huangs-japan-visit/",
+      "source": "TechCrunch",
+      "date": "2026-07-19",
+      "synopsis": "The article connects Nvidia's Japanese partnerships to sovereign AI infrastructure, industrial robotics, workforce constraints, and the emerging market for physical AI.",
+      "tags": [
+        "Business",
+        "Infrastructure",
+        "Strategy",
+        "Workforce"
+      ],
+      "verification": "Direct article link, title, source, publication date, and substantive content verified on the TechCrunch page."
     }
   ]
 }
