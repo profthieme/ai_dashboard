@@ -1,6 +1,56 @@
 {
   "articles": [
     {
+      "title": "SysAdmin: Measuring Instrumental Power-Seeking in Frontier AI",
+      "url": "https://arxiv.org/abs/2607.18239",
+      "source": "ArXiv AI",
+      "date": "Wed, 22 Jul 2026 00:00:00 -0400",
+      "synopsis": "arXiv:2607.18239v1 Announce Type: new  Abstract: Power-seeking defined as behaviors where AI systems acquire resources, evade oversight, or resist termination beyond task requirements is identified as a key driver of Loss of Control (LoC) risk. In this work, we introduce SysAdmin, a benchmark that p",
+      "theme": "AI + Business",
+      "category": "ai-tech",
+      "fetched_at": "2026-07-22T08:04:56.496432"
+    },
+    {
+      "title": "Calibrated Selective Fact-Checking via Evidence Chain Evaluation",
+      "url": "https://arxiv.org/abs/2607.18240",
+      "source": "ArXiv AI",
+      "date": "Wed, 22 Jul 2026 00:00:00 -0400",
+      "synopsis": "arXiv:2607.18240v1 Announce Type: new  Abstract: Large language models (LLMs) can achieve strong fact-checking accuracy, yet forced binary decisions conceal a critical reliability problem: systems may issue confident verdicts even when supporting evidence is weak, sparse, or internally inconsistent.",
+      "theme": "AI + Business",
+      "category": "ai-tech",
+      "fetched_at": "2026-07-22T08:04:56.496449"
+    },
+    {
+      "title": "BatchDAG: LLM-Planned Execution Graphs for Scalable Ad-Hoc Analysis Over Enterprise Data",
+      "url": "https://arxiv.org/abs/2607.18241",
+      "source": "ArXiv AI",
+      "date": "Wed, 22 Jul 2026 00:00:00 -0400",
+      "synopsis": "arXiv:2607.18241v1 Announce Type: new  Abstract: Large language models (LLMs) excel at analyzing individual documents but break down on exhaustive, cross-entity analytical questions over enterprise-scale datasets due to context overflow, loss of per-entity attribution, and linear latency from sequen",
+      "theme": "AI + Business",
+      "category": "ai-tech",
+      "fetched_at": "2026-07-22T08:04:56.496461"
+    },
+    {
+      "title": "AI Tool Discovery at Scale: All You Need is DNS",
+      "url": "https://arxiv.org/abs/2607.18242",
+      "source": "ArXiv AI",
+      "date": "Wed, 22 Jul 2026 00:00:00 -0400",
+      "synopsis": "arXiv:2607.18242v1 Announce Type: new  Abstract: The coming era of autonomous AI agents demands a discovery mechanism capable of navigating millions of tools, yet existing solutions buckle under O(N) complexity and centralized governance. Instead of building another fragile overlay, we propose ToolD",
+      "theme": "AI + Business",
+      "category": "ai-tech",
+      "fetched_at": "2026-07-22T08:04:56.496468"
+    },
+    {
+      "title": "From Agent Failure Paths to Quantified Residual Risk: A Compositional Framework for Resilient Agentic AI",
+      "url": "https://arxiv.org/abs/2607.18243",
+      "source": "ArXiv AI",
+      "date": "Wed, 22 Jul 2026 00:00:00 -0400",
+      "synopsis": "arXiv:2607.18243v1 Announce Type: new  Abstract: Agentic AI is crossing trust boundaries faster than current risk models can represent. Existing approaches provide one of two partial views. They either describe failure mechanisms without producing a transferable residual-risk estimate, or they produ",
+      "theme": "AI + Business",
+      "category": "ai-tech",
+      "fetched_at": "2026-07-22T08:04:56.496476"
+    },
+    {
       "title": "Agentic orchestration: Enterprise AI organizations have a deployment problem, not a platform problem — and most are calling chatbots agents",
       "url": "https://venturebeat.com/ai/agentic-orchestration-enterprise-ai-organizations-have-a-deployment-problem-not-a-platform-problem-and-most-are-calling-chatbots-agents",
       "source": "VentureBeat AI",
@@ -8,57 +58,27 @@
       "synopsis": "<p>Across 101 enterprises, agent orchestration is consolidating onto model-provider platforms — Anthropic’s Claude leads by a wide margin — chosen for the gravity of the underlying model and judged on reliable multi-step execution. But the ambition runs well ahead of the reality: most deployed “agen",
       "theme": "AI + Business",
       "category": "ai-business",
-      "fetched_at": "2026-07-21T08:04:08.412385"
+      "fetched_at": "2026-07-22T08:04:54.738406"
     },
     {
-      "title": "Rater State Bias in RLHF Preference Data: An Audit Framework",
-      "url": "https://arxiv.org/abs/2607.16195",
-      "source": "ArXiv AI",
-      "date": "Tue, 21 Jul 2026 00:00:00 -0400",
-      "synopsis": "arXiv:2607.16195v1 Announce Type: new  Abstract: We identify a structured confound in Reinforcement Learning from Human Feedback (RLHF). Pairwise preference labels are intended to reflect the compared outputs, but they may also reflect the rater's state during annotation. Under sustained stressful o",
+      "title": "The Download: Chinese AI divides the White House, and a record copyright payout",
+      "url": "https://www.technologyreview.com/2026/07/21/1140685/the-download-chinese-ai-divides-white-house-anthropic-copyright-settlement/",
+      "source": "MIT Technology Review - AI",
+      "date": "Tue, 21 Jul 2026 12:10:00 +0000",
+      "synopsis": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. China’s AI models have Trump’s AI world at war with itself Last weekend, several current and former advisers to President Donald Trump on AI publicly",
       "theme": "AI + Business",
-      "category": "ai-tech",
-      "fetched_at": "2026-07-21T08:04:09.910683"
+      "category": "ai-business",
+      "fetched_at": "2026-07-22T08:04:54.053709"
     },
     {
-      "title": "Design and Validation of a Lightweight 1D CNN for Affective Touch Classification in Soft Plush Companions",
-      "url": "https://arxiv.org/abs/2607.16196",
-      "source": "ArXiv AI",
-      "date": "Tue, 21 Jul 2026 00:00:00 -0400",
-      "synopsis": "arXiv:2607.16196v1 Announce Type: new  Abstract: Soft, sensorized companions offer a physically safe and emotionally intuitive interface for socially assistive technologies, yet their deformability and multichannel tactile sensing complicate the robust interpretation of human affect. This study pres",
-      "theme": "AI General",
-      "category": "ai-tech",
-      "fetched_at": "2026-07-21T08:04:09.910718"
-    },
-    {
-      "title": "Some Large Language Models Exhibit Consistent Risk Attitudes",
-      "url": "https://arxiv.org/abs/2607.16197",
-      "source": "ArXiv AI",
-      "date": "Tue, 21 Jul 2026 00:00:00 -0400",
-      "synopsis": "arXiv:2607.16197v1 Announce Type: new  Abstract: As artificial intelligence systems are deployed in open-ended, high-stakes settings, a critical dimension remains unmeasured: how perceived risk is translated into action. We test whether large language models (LLMs) exhibit systematic and consistent",
+      "title": "Advancing next-gen AI with materials science innovation",
+      "url": "https://www.technologyreview.com/2026/07/21/1140602/advancing-next-gen-ai-with-materials-science-innovation/",
+      "source": "MIT Technology Review - AI",
+      "date": "Tue, 21 Jul 2026 10:37:34 +0000",
+      "synopsis": "The conversation about AI often centers on algorithms, computing power, or huge investments in new semiconductor fabrication plants and hyperscale data centers. But beneath each of these advances is another layer of innovation that makes them possible: advanced materials. Every new generation of AI",
       "theme": "AI + Business",
-      "category": "ai-tech",
-      "fetched_at": "2026-07-21T08:04:09.910728"
-    },
-    {
-      "title": "A Survey on GNN-based Link Prediction: Techniques, Applications, and Challenges",
-      "url": "https://arxiv.org/abs/2607.16198",
-      "source": "ArXiv AI",
-      "date": "Tue, 21 Jul 2026 00:00:00 -0400",
-      "synopsis": "arXiv:2607.16198v1 Announce Type: new  Abstract: Graph Neural Networks (GNNs) have emerged as the leading paradigm for link prediction, enabling the inference of missing connections and the anticipation of potential future links. However, existing reviews lack systematic exploration specifically tar",
-      "theme": "AI General",
-      "category": "ai-tech",
-      "fetched_at": "2026-07-21T08:04:09.910746"
-    },
-    {
-      "title": "PlanFlip: Attacking Multi-Agent LLM Systems via Planning-Phase Prompt Injection",
-      "url": "https://arxiv.org/abs/2607.16199",
-      "source": "ArXiv AI",
-      "date": "Tue, 21 Jul 2026 00:00:00 -0400",
-      "synopsis": "arXiv:2607.16199v1 Announce Type: new  Abstract: Multi-agent LLM systems increasingly rely on a Planner to decompose goals into sub-task sequences that downstream Executor and Critic agents execute and audit. We identify the planning phase as a critical attack surface: a single injection into the Pl",
-      "theme": "AI + Business",
-      "category": "ai-tech",
-      "fetched_at": "2026-07-21T08:04:09.910756"
+      "category": "ai-business",
+      "fetched_at": "2026-07-22T08:04:54.053740"
     },
     {
       "title": "The AI compute gap: Enterprises are buying infrastructure faster than they can measure what it costs",
@@ -68,7 +88,7 @@
       "synopsis": "<p>Across 107 enterprises, AI infrastructure spending is accelerating well ahead of the ability to see or steer its economics. Most organizations run their AI on a familiar base of hyperscalers and model-provider APIs, yet the next dollar is aimed at specialized compute almost none of them use today",
       "theme": "AI + Business",
       "category": "ai-business",
-      "fetched_at": "2026-07-21T08:04:08.412326"
+      "fetched_at": "2026-07-22T08:04:54.738344"
     },
     {
       "title": "The agent security gap: 54% of enterprises have already had an AI agent incident, and most still let agents share credentials",
@@ -78,7 +98,7 @@
       "synopsis": "<p>Across 107 enterprises, AI agents are being given real access to systems and data while the controls meant to contain them lag behind. More than half have already had a confirmed agent security incident or a near-miss; only about a third give every agent its own scoped identity, and most agents s",
       "theme": "AI + Business",
       "category": "ai-business",
-      "fetched_at": "2026-07-21T08:04:08.412347"
+      "fetched_at": "2026-07-22T08:04:54.738365"
     },
     {
       "title": "The AI context gap: Enterprise AI organizations have a trust problem, not a retrieval problem — and most are still building the fix",
@@ -88,7 +108,7 @@
       "synopsis": "<p>Across 101 enterprises, the infrastructure that feeds AI agents their business context is being built faster than it can be trusted. Retrieval-augmented generation is already the default context source, and provider-native retrieval has quietly overtaken the dedicated vector databases that define",
       "theme": "AI + Business",
       "category": "ai-business",
-      "fetched_at": "2026-07-21T08:04:08.412362"
+      "fetched_at": "2026-07-22T08:04:54.738382"
     },
     {
       "title": "The agent evaluation gap: Enterprise AI organizations have a reality-alignment problem, not a coverage problem — and most are shipping to production anyway",
@@ -98,7 +118,7 @@
       "synopsis": "<p>Across 157 enterprises, organizations are granting AI agents more autonomy while trusting the evaluations meant to gate that autonomy less. Half have already shipped an agent that passed their internal evaluations and then failed a customer in production; only one in twenty fully trusts automated",
       "theme": "AI + Business",
       "category": "ai-business",
-      "fetched_at": "2026-07-21T08:04:08.412373"
+      "fetched_at": "2026-07-22T08:04:54.738394"
     },
     {
       "title": "China’s AI models have Trump’s AI world at war with itself",
@@ -108,7 +128,7 @@
       "synopsis": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&#160;sign up here. Over the weekend, several current and former advisors to President Donald Trump on AI publicly lobbed insults at the country’s leading AI companies. David Sa",
       "theme": "AI + Business",
       "category": "ai-business",
-      "fetched_at": "2026-07-21T08:04:07.866908"
+      "fetched_at": "2026-07-22T08:04:54.053763"
     },
     {
       "title": "The Download: AI hiring biases, and weather data sabotage",
@@ -118,7 +138,7 @@
       "synopsis": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. AI is more likely than humans to form biases when hiring The next time you apply for a job, AI may screen your résumé before any human sees it. But th",
       "theme": "AI + Business",
       "category": "ai-business",
-      "fetched_at": "2026-07-21T08:04:07.866931"
+      "fetched_at": "2026-07-22T08:04:54.053783"
     },
     {
       "title": "AI is more likely than humans to form biases when hiring",
@@ -128,29 +148,9 @@
       "synopsis": "The next time you apply for a job, AI may screen your résumé before any human sees it. But there’s good reason to question whether AI will judge you fairly. Researchers already know that LLMs pick up human biases from their training data. New research suggests that LLMs can also develop their own bi",
       "theme": "AI + Business",
       "category": "ai-business",
-      "fetched_at": "2026-07-21T08:04:07.866945"
-    },
-    {
-      "title": "The Download: perimenopause misinformation and China’s latest AI leap",
-      "url": "https://www.technologyreview.com/2026/07/17/1140640/the-download-perimenopause-misinformation-china-moonshot-ai/",
-      "source": "MIT Technology Review - AI",
-      "date": "Fri, 17 Jul 2026 12:10:00 +0000",
-      "synopsis": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. There’s a lot of hype around perimenopause. Don’t buy it. Perimenopause used to be considered taboo, but not anymore. Thanks at least in part to TV do",
-      "theme": "AI + Business",
-      "category": "ai-business",
-      "fetched_at": "2026-07-21T08:04:07.866957"
-    },
-    {
-      "title": "There’s a lot of hype around perimenopause. Don’t buy it.",
-      "url": "https://www.technologyreview.com/2026/07/17/1140608/theres-a-lot-of-hype-around-perimenopause-dont-buy-it/",
-      "source": "MIT Technology Review - AI",
-      "date": "Fri, 17 Jul 2026 09:00:00 +0000",
-      "synopsis": "Perimenopause has entered the chat. Perimenopause—and its better-known relative, menopause—used to be considered taboo. Not anymore, thanks at least in part to TV doctors and social media influencers. Perhaps it’s my age, but these days, both my algorithm and my conversations with friends increasing",
-      "theme": "AI General",
-      "category": "ai-business",
-      "fetched_at": "2026-07-21T08:04:07.866984"
+      "fetched_at": "2026-07-22T08:04:54.053802"
     }
   ],
-  "last_updated": "2026-07-21T08:04:10.036148",
+  "last_updated": "2026-07-22T08:04:56.534209",
   "total_count": 15
 }
