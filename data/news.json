@@ -1,54 +1,24 @@
 {
   "articles": [
     {
-      "title": "SysAdmin: Measuring Instrumental Power-Seeking in Frontier AI",
-      "url": "https://arxiv.org/abs/2607.18239",
-      "source": "ArXiv AI",
-      "date": "Wed, 22 Jul 2026 00:00:00 -0400",
-      "synopsis": "arXiv:2607.18239v1 Announce Type: new  Abstract: Power-seeking defined as behaviors where AI systems acquire resources, evade oversight, or resist termination beyond task requirements is identified as a key driver of Loss of Control (LoC) risk. In this work, we introduce SysAdmin, a benchmark that p",
+      "title": "The Download: NASA’s new space telescope and OpenAI’s autonomous hacker",
+      "url": "https://www.technologyreview.com/2026/07/22/1140717/the-download-nasa-space-telescope-openai-hugging-face-hack/",
+      "source": "MIT Technology Review - AI",
+      "date": "Wed, 22 Jul 2026 12:10:00 +0000",
+      "synopsis": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Shape-shifting mirrors on NASA’s new space telescope could unveil Jupiters like our own When NASA’s Nancy Grace Roman Space Telescope launches, as ear",
       "theme": "AI + Business",
-      "category": "ai-tech",
-      "fetched_at": "2026-07-22T08:04:56.496432"
+      "category": "ai-business",
+      "fetched_at": "2026-07-23T08:07:06.359939"
     },
     {
-      "title": "Calibrated Selective Fact-Checking via Evidence Chain Evaluation",
-      "url": "https://arxiv.org/abs/2607.18240",
-      "source": "ArXiv AI",
-      "date": "Wed, 22 Jul 2026 00:00:00 -0400",
-      "synopsis": "arXiv:2607.18240v1 Announce Type: new  Abstract: Large language models (LLMs) can achieve strong fact-checking accuracy, yet forced binary decisions conceal a critical reliability problem: systems may issue confident verdicts even when supporting evidence is weak, sparse, or internally inconsistent.",
-      "theme": "AI + Business",
-      "category": "ai-tech",
-      "fetched_at": "2026-07-22T08:04:56.496449"
-    },
-    {
-      "title": "BatchDAG: LLM-Planned Execution Graphs for Scalable Ad-Hoc Analysis Over Enterprise Data",
-      "url": "https://arxiv.org/abs/2607.18241",
-      "source": "ArXiv AI",
-      "date": "Wed, 22 Jul 2026 00:00:00 -0400",
-      "synopsis": "arXiv:2607.18241v1 Announce Type: new  Abstract: Large language models (LLMs) excel at analyzing individual documents but break down on exhaustive, cross-entity analytical questions over enterprise-scale datasets due to context overflow, loss of per-entity attribution, and linear latency from sequen",
-      "theme": "AI + Business",
-      "category": "ai-tech",
-      "fetched_at": "2026-07-22T08:04:56.496461"
-    },
-    {
-      "title": "AI Tool Discovery at Scale: All You Need is DNS",
-      "url": "https://arxiv.org/abs/2607.18242",
-      "source": "ArXiv AI",
-      "date": "Wed, 22 Jul 2026 00:00:00 -0400",
-      "synopsis": "arXiv:2607.18242v1 Announce Type: new  Abstract: The coming era of autonomous AI agents demands a discovery mechanism capable of navigating millions of tools, yet existing solutions buckle under O(N) complexity and centralized governance. Instead of building another fragile overlay, we propose ToolD",
-      "theme": "AI + Business",
-      "category": "ai-tech",
-      "fetched_at": "2026-07-22T08:04:56.496468"
-    },
-    {
-      "title": "From Agent Failure Paths to Quantified Residual Risk: A Compositional Framework for Resilient Agentic AI",
-      "url": "https://arxiv.org/abs/2607.18243",
-      "source": "ArXiv AI",
-      "date": "Wed, 22 Jul 2026 00:00:00 -0400",
-      "synopsis": "arXiv:2607.18243v1 Announce Type: new  Abstract: Agentic AI is crossing trust boundaries faster than current risk models can represent. Existing approaches provide one of two partial views. They either describe failure mechanisms without producing a transferable residual-risk estimate, or they produ",
-      "theme": "AI + Business",
-      "category": "ai-tech",
-      "fetched_at": "2026-07-22T08:04:56.496476"
+      "title": "Shape-shifting mirrors on NASA’s new space telescope could unveil Jupiters like our own",
+      "url": "https://www.technologyreview.com/2026/07/22/1140701/shape-shifting-mirrors-roman-space-telescope/",
+      "source": "MIT Technology Review - AI",
+      "date": "Wed, 22 Jul 2026 09:00:00 +0000",
+      "synopsis": "When NASA’s Nancy Grace Roman Space Telescope launches, as early as the end of next month, it will attempt one of astronomy’s most precise disappearing acts to date. The telescope will carry the first space-bound “active” coronagraph, an instrument that effectively erases most of the light from a st",
+      "theme": "AI General",
+      "category": "ai-business",
+      "fetched_at": "2026-07-23T08:07:06.359974"
     },
     {
       "title": "Agentic orchestration: Enterprise AI organizations have a deployment problem, not a platform problem — and most are calling chatbots agents",
@@ -58,7 +28,7 @@
       "synopsis": "<p>Across 101 enterprises, agent orchestration is consolidating onto model-provider platforms — Anthropic’s Claude leads by a wide margin — chosen for the gravity of the underlying model and judged on reliable multi-step execution. But the ambition runs well ahead of the reality: most deployed “agen",
       "theme": "AI + Business",
       "category": "ai-business",
-      "fetched_at": "2026-07-22T08:04:54.738406"
+      "fetched_at": "2026-07-23T08:07:07.002780"
     },
     {
       "title": "The Download: Chinese AI divides the White House, and a record copyright payout",
@@ -68,7 +38,7 @@
       "synopsis": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. China’s AI models have Trump’s AI world at war with itself Last weekend, several current and former advisers to President Donald Trump on AI publicly",
       "theme": "AI + Business",
       "category": "ai-business",
-      "fetched_at": "2026-07-22T08:04:54.053709"
+      "fetched_at": "2026-07-23T08:07:06.359988"
     },
     {
       "title": "Advancing next-gen AI with materials science innovation",
@@ -78,7 +48,57 @@
       "synopsis": "The conversation about AI often centers on algorithms, computing power, or huge investments in new semiconductor fabrication plants and hyperscale data centers. But beneath each of these advances is another layer of innovation that makes them possible: advanced materials. Every new generation of AI",
       "theme": "AI + Business",
       "category": "ai-business",
-      "fetched_at": "2026-07-22T08:04:54.053740"
+      "fetched_at": "2026-07-23T08:07:06.359997"
+    },
+    {
+      "title": "FineServe: A Fine-Grained Dataset and Characterization of Global LLM Serving Workloads",
+      "url": "https://arxiv.org/abs/2607.19349",
+      "source": "ArXiv AI",
+      "date": "Thu, 23 Jul 2026 00:00:00 -0400",
+      "synopsis": "arXiv:2607.19349v1 Announce Type: new  Abstract: Large language models (LLMs) are increasingly deployed as always-on online services, making efficient LLM serving a critical systems challenge. Achieving low latency and high throughput under volatile demand requires deep understanding of real-world s",
+      "theme": "AI + Business",
+      "category": "ai-tech",
+      "fetched_at": "2026-07-23T08:07:08.216785"
+    },
+    {
+      "title": "Hybrid LSTM-Graph Neural Framework for Robust Financial Fraud Detection and Adversarial Resilience",
+      "url": "https://arxiv.org/abs/2607.19350",
+      "source": "ArXiv AI",
+      "date": "Thu, 23 Jul 2026 00:00:00 -0400",
+      "synopsis": "arXiv:2607.19350v1 Announce Type: new  Abstract: Financial institutions face significant challenges in detecting sophisticated money laundering patterns, such as smurfing and layering, due to extreme data imbalance (0.13% fraud rate) and evolving adversarial evasion tactics. This paper proposes Frau",
+      "theme": "AI General",
+      "category": "ai-tech",
+      "fetched_at": "2026-07-23T08:07:08.216817"
+    },
+    {
+      "title": "OpenEvoShield: Dual Non-Stationary Continual Defense for Open-World Multi-Agent System Attacks",
+      "url": "https://arxiv.org/abs/2607.19351",
+      "source": "ArXiv AI",
+      "date": "Thu, 23 Jul 2026 00:00:00 -0400",
+      "synopsis": "arXiv:2607.19351v1 Announce Type: new  Abstract: LLM-based multi-agent systems (LLM-MAS) are increasingly deployed in safety-critical applications, where adversaries inject malicious instructions through inter-agent communication to propagate harmful behaviors. Unlike static threats, these attacks a",
+      "theme": "AI + Business",
+      "category": "ai-tech",
+      "fetched_at": "2026-07-23T08:07:08.216828"
+    },
+    {
+      "title": "Benchmarking Confidential GPU Inference on NVIDIA H100 under Intel TDX",
+      "url": "https://arxiv.org/abs/2607.19353",
+      "source": "ArXiv AI",
+      "date": "Thu, 23 Jul 2026 00:00:00 -0400",
+      "synopsis": "arXiv:2607.19353v1 Announce Type: new  Abstract: Confidential computing is becoming a practical deployment requirement for AI inference workloads that process sensitive inputs or protect proprietary model assets. However, the performance cost of enabling confidential execution for GPU-accelerated la",
+      "theme": "AI + Business",
+      "category": "ai-tech",
+      "fetched_at": "2026-07-23T08:07:08.216837"
+    },
+    {
+      "title": "FormulaSPIN: Self-Play Fine-Tuning for Natural Language to Spreadsheet Formula Generation",
+      "url": "https://arxiv.org/abs/2607.19354",
+      "source": "ArXiv AI",
+      "date": "Thu, 23 Jul 2026 00:00:00 -0400",
+      "synopsis": "arXiv:2607.19354v1 Announce Type: new  Abstract: Spreadsheet applications are used by hundreds of millions worldwide, yet writing formulas remains a significant barrier. Existing approaches rely on static supervised data, which quickly saturates on limited annotations. In this paper, we introduce FO",
+      "theme": "AI + Business",
+      "category": "ai-tech",
+      "fetched_at": "2026-07-23T08:07:08.216845"
     },
     {
       "title": "The AI compute gap: Enterprises are buying infrastructure faster than they can measure what it costs",
@@ -88,7 +108,7 @@
       "synopsis": "<p>Across 107 enterprises, AI infrastructure spending is accelerating well ahead of the ability to see or steer its economics. Most organizations run their AI on a familiar base of hyperscalers and model-provider APIs, yet the next dollar is aimed at specialized compute almost none of them use today",
       "theme": "AI + Business",
       "category": "ai-business",
-      "fetched_at": "2026-07-22T08:04:54.738344"
+      "fetched_at": "2026-07-23T08:07:07.002712"
     },
     {
       "title": "The agent security gap: 54% of enterprises have already had an AI agent incident, and most still let agents share credentials",
@@ -98,7 +118,7 @@
       "synopsis": "<p>Across 107 enterprises, AI agents are being given real access to systems and data while the controls meant to contain them lag behind. More than half have already had a confirmed agent security incident or a near-miss; only about a third give every agent its own scoped identity, and most agents s",
       "theme": "AI + Business",
       "category": "ai-business",
-      "fetched_at": "2026-07-22T08:04:54.738365"
+      "fetched_at": "2026-07-23T08:07:07.002731"
     },
     {
       "title": "The AI context gap: Enterprise AI organizations have a trust problem, not a retrieval problem — and most are still building the fix",
@@ -108,7 +128,7 @@
       "synopsis": "<p>Across 101 enterprises, the infrastructure that feeds AI agents their business context is being built faster than it can be trusted. Retrieval-augmented generation is already the default context source, and provider-native retrieval has quietly overtaken the dedicated vector databases that define",
       "theme": "AI + Business",
       "category": "ai-business",
-      "fetched_at": "2026-07-22T08:04:54.738382"
+      "fetched_at": "2026-07-23T08:07:07.002757"
     },
     {
       "title": "The agent evaluation gap: Enterprise AI organizations have a reality-alignment problem, not a coverage problem — and most are shipping to production anyway",
@@ -118,7 +138,7 @@
       "synopsis": "<p>Across 157 enterprises, organizations are granting AI agents more autonomy while trusting the evaluations meant to gate that autonomy less. Half have already shipped an agent that passed their internal evaluations and then failed a customer in production; only one in twenty fully trusts automated",
       "theme": "AI + Business",
       "category": "ai-business",
-      "fetched_at": "2026-07-22T08:04:54.738394"
+      "fetched_at": "2026-07-23T08:07:07.002769"
     },
     {
       "title": "China’s AI models have Trump’s AI world at war with itself",
@@ -128,29 +148,9 @@
       "synopsis": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&#160;sign up here. Over the weekend, several current and former advisors to President Donald Trump on AI publicly lobbed insults at the country’s leading AI companies. David Sa",
       "theme": "AI + Business",
       "category": "ai-business",
-      "fetched_at": "2026-07-22T08:04:54.053763"
-    },
-    {
-      "title": "The Download: AI hiring biases, and weather data sabotage",
-      "url": "https://www.technologyreview.com/2026/07/20/1140664/the-download-ai-hiring-biases-weather-data-sabotage/",
-      "source": "MIT Technology Review - AI",
-      "date": "Mon, 20 Jul 2026 12:10:00 +0000",
-      "synopsis": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. AI is more likely than humans to form biases when hiring The next time you apply for a job, AI may screen your résumé before any human sees it. But th",
-      "theme": "AI + Business",
-      "category": "ai-business",
-      "fetched_at": "2026-07-22T08:04:54.053783"
-    },
-    {
-      "title": "AI is more likely than humans to form biases when hiring",
-      "url": "https://www.technologyreview.com/2026/07/20/1140655/ai-biases-hiring-humans/",
-      "source": "MIT Technology Review - AI",
-      "date": "Mon, 20 Jul 2026 08:39:01 +0000",
-      "synopsis": "The next time you apply for a job, AI may screen your résumé before any human sees it. But there’s good reason to question whether AI will judge you fairly. Researchers already know that LLMs pick up human biases from their training data. New research suggests that LLMs can also develop their own bi",
-      "theme": "AI + Business",
-      "category": "ai-business",
-      "fetched_at": "2026-07-22T08:04:54.053802"
+      "fetched_at": "2026-07-23T08:07:06.360008"
     }
   ],
-  "last_updated": "2026-07-22T08:04:56.534209",
+  "last_updated": "2026-07-23T08:07:08.282299",
   "total_count": 15
 }
