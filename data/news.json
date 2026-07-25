@@ -1,16 +1,6 @@
 {
   "articles": [
     {
-      "title": "The Download: NASA’s new space telescope and OpenAI’s autonomous hacker",
-      "url": "https://www.technologyreview.com/2026/07/22/1140717/the-download-nasa-space-telescope-openai-hugging-face-hack/",
-      "source": "MIT Technology Review - AI",
-      "date": "Wed, 22 Jul 2026 12:10:00 +0000",
-      "synopsis": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Shape-shifting mirrors on NASA’s new space telescope could unveil Jupiters like our own When NASA’s Nancy Grace Roman Space Telescope launches, as ear",
-      "theme": "AI + Business",
-      "category": "ai-business",
-      "fetched_at": "2026-07-24T08:03:34.291872"
-    },
-    {
       "title": "Google just redesigned the search box for the first time in 25 years — here’s why it matters more than you think.",
       "url": "https://venturebeat.com/technology/google-just-redesigned-the-search-box-for-the-first-time-in-25-years-heres-why-it-matters-more-than-you-think",
       "source": "VentureBeat AI",
@@ -18,7 +8,7 @@
       "synopsis": "<p>For a quarter century, the Google search box has been one of the most recognizable interfaces in computing: a thin white rectangle, a blinking cursor, a few typed words, and a list of blue links. On Tuesday, Google will formally retire that paradigm.</p><p>At its annual <a href=\"https://io.google",
       "theme": "AI General",
       "category": "ai-business",
-      "fetched_at": "2026-07-24T08:03:34.895828"
+      "fetched_at": "2026-07-25T07:47:29.096528"
     },
     {
       "title": "Salesforce rolls out new Slackbot AI agent as it battles Microsoft and Google in workplace AI",
@@ -28,7 +18,7 @@
       "synopsis": "<p><a href=\"https://www.salesforce.com/\">Salesforce</a> on Tuesday launched an entirely rebuilt version of <a href=\"https://slack.com/help/articles/202026038-An-introduction-to-Slackbot\">Slackbot</a>, the company&#x27;s workplace assistant, transforming it from a simple notification tool into what e",
       "theme": "AI + Business",
       "category": "ai-business",
-      "fetched_at": "2026-07-24T08:03:34.895873"
+      "fetched_at": "2026-07-25T07:47:29.096564"
     },
     {
       "title": "Supercooled kidneys have been transplanted into pigs in a “landmark achievement”",
@@ -38,7 +28,7 @@
       "synopsis": "When it comes to organ donation, time is everything. As soon as an organ has been carefully removed from a donor’s body, it starts to deteriorate. Surgeons have a matter of hours to get it into a recipient. Leave it too long and the organ will become unusable. In most cases, organs will be kept&#823",
       "theme": "AI General",
       "category": "ai-business",
-      "fetched_at": "2026-07-24T08:03:34.291817"
+      "fetched_at": "2026-07-25T07:47:28.193756"
     },
     {
       "title": "The Download: energy transmission and US threats against Chinese AI",
@@ -48,7 +38,7 @@
       "synopsis": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The power line that could reshape New York’s grid is hitting snags  During a heat wave on July 3, New York State’s grid imported enough electricity fr",
       "theme": "AI + Business",
       "category": "ai-business",
-      "fetched_at": "2026-07-24T08:03:34.291839"
+      "fetched_at": "2026-07-25T07:47:28.193766"
     },
     {
       "title": "How AI helps scientists design the next generation of medicines",
@@ -58,17 +48,7 @@
       "synopsis": "Designing and developing a new medicine is an expensive, failure-prone scientific challenge. A new drug can take many years to develop, at the cost of a significant investment. And even then, most possible candidates never reach the patient. For biologic medicines, therapies made from engineered pro",
       "theme": "AI + Business",
       "category": "ai-business",
-      "fetched_at": "2026-07-24T08:03:34.291850"
-    },
-    {
-      "title": "The power line that could reshape New York’s grid is hitting snags",
-      "url": "https://www.technologyreview.com/2026/07/23/1140739/power-line-grid-chpe/",
-      "source": "MIT Technology Review - AI",
-      "date": "Thu, 23 Jul 2026 09:00:00 +0000",
-      "synopsis": "On July 3, as a heat wave swept the region, New York State’s grid imported 52 gigawatt-hours of electricity from Canada—enough to meet about 9% of its total electricity demand that day. Some of that power shuttled in on a 339-mile power line stretching from Quebec to Queens called the Champlain Huds",
-      "theme": "AI + Business",
-      "category": "ai-business",
-      "fetched_at": "2026-07-24T08:03:34.291861"
+      "fetched_at": "2026-07-25T07:47:28.193772"
     },
     {
       "title": "Railway secures $100 million to challenge AWS with AI-native cloud infrastructure",
@@ -78,7 +58,7 @@
       "synopsis": "<p><a href=\"https://railway.com/\">Railway</a>, a San Francisco-based cloud platform that has quietly amassed two million developers without spending a dollar on marketing, announced Thursday that it raised $100 million in a Series B funding round, as surging demand for artificial intelligence applic",
       "theme": "AI + Business",
       "category": "ai-business",
-      "fetched_at": "2026-07-24T08:03:34.895848"
+      "fetched_at": "2026-07-25T07:47:29.096544"
     },
     {
       "title": "Claude Code costs up to $200 a month. Goose does the same thing for free.",
@@ -88,57 +68,27 @@
       "synopsis": "<p>The artificial intelligence coding revolution comes with a catch: it&#x27;s expensive.</p><p><a href=\"https://claude.com/product/claude-code\">Claude Code</a>, Anthropic&#x27;s terminal-based AI agent that can write, debug, and deploy code autonomously, has captured the imagination of software dev",
       "theme": "AI + Business",
       "category": "ai-business",
-      "fetched_at": "2026-07-24T08:03:34.895857"
+      "fetched_at": "2026-07-25T07:47:29.096551"
     },
     {
-      "title": "AINTMA: Agentic AI Architecture for Autonomous Test Management with Generative Intelligence, Secure Cloud Communication and Adaptive Quality Analytics",
-      "url": "https://arxiv.org/abs/2607.20452",
-      "source": "ArXiv AI",
-      "date": "Fri, 24 Jul 2026 00:00:00 -0400",
-      "synopsis": "arXiv:2607.20452v1 Announce Type: new  Abstract: Modern software quality assurance demands intelligent, autonomous systems capable of adaptive decision-making across distributed cloud environments. This paper presents AINTMA (Agentic Intelligent Test Management Architecture), a multi-agent agentic A",
+      "title": "The quest to keep organs alive outside the body",
+      "url": "https://www.technologyreview.com/2026/07/24/1140790/the-quest-to-keep-organs-alive-outside-the-body/",
+      "source": "MIT Technology Review - AI",
+      "date": "Fri, 24 Jul 2026 17:03:55 +0000",
+      "synopsis": "This week, I covered a fascinating effort to preserve organs outside the body. There’s a huge shortage of donor organs, and one of the main reasons is time—they survive only a matter of hours outside the body, even when they’re kept on ice. Doctors dream of organ banks—stores of human organs that ca",
       "theme": "AI + Business",
-      "category": "ai-tech",
-      "fetched_at": "2026-07-24T08:03:36.181781"
+      "category": "ai-business",
+      "fetched_at": "2026-07-25T07:47:28.193719"
     },
     {
-      "title": "Marking the Wrong Symptoms: Evaluating LLM Watermarks in Medical Texts",
-      "url": "https://arxiv.org/abs/2607.20462",
-      "source": "ArXiv AI",
-      "date": "Fri, 24 Jul 2026 00:00:00 -0400",
-      "synopsis": "arXiv:2607.20462v1 Announce Type: new  Abstract: Large language models (LLMs) are increasingly integrated into clinical workflows, stressing the need for reliable traceability of model-generated output with watermarking. Yet, most watermarks are evaluated on general-purpose benchmarks, leaving domai",
+      "title": "The Download: an organ transplant breakthrough, and homegrown Chinese chips",
+      "url": "https://www.technologyreview.com/2026/07/24/1140776/the-download-organ-transplant-breakthrough-chinese-chips/",
+      "source": "MIT Technology Review - AI",
+      "date": "Fri, 24 Jul 2026 12:10:00 +0000",
+      "synopsis": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Supercooled kidneys have been transplanted into pigs in a “landmark achievement”&#160; When it comes to organ donation, time is everything. As soon as",
       "theme": "AI + Business",
-      "category": "ai-tech",
-      "fetched_at": "2026-07-24T08:03:36.181800"
-    },
-    {
-      "title": "ClickGuard: Detecting and Spoiling Clickbait News with Informativeness Measures and Large Language Models",
-      "url": "https://arxiv.org/abs/2607.20463",
-      "source": "ArXiv AI",
-      "date": "Fri, 24 Jul 2026 00:00:00 -0400",
-      "synopsis": "arXiv:2607.20463v1 Announce Type: new  Abstract: This paper presents an AI-driven browser extension that identifies clickbait to help users avoid misleading Internet articles. Moving beyond traditional detection, the application employs a hybrid machine learning architecture that combines transforme",
-      "theme": "AI + Business",
-      "category": "ai-tech",
-      "fetched_at": "2026-07-24T08:03:36.181810"
-    },
-    {
-      "title": "Stochastic Sampling is Epistemically Shallow: The Dimensionality Gap Between Temperature Variation and Model Diversity in LLMs",
-      "url": "https://arxiv.org/abs/2607.20464",
-      "source": "ArXiv AI",
-      "date": "Fri, 24 Jul 2026 00:00:00 -0400",
-      "synopsis": "arXiv:2607.20464v1 Announce Type: new  Abstract: When a language model gives different answers on repeated runs, does that variation reveal what it does not know? Self-consistency turns the variation into a per-question uncertainty estimate via majority voting. But does the same variation reveal cro",
-      "theme": "AI + Business",
-      "category": "ai-tech",
-      "fetched_at": "2026-07-24T08:03:36.181819"
-    },
-    {
-      "title": "JAXBench: Benchmarking Autonomous TPU Kernel Optimization",
-      "url": "https://arxiv.org/abs/2607.20466",
-      "source": "ArXiv AI",
-      "date": "Fri, 24 Jul 2026 00:00:00 -0400",
-      "synopsis": "arXiv:2607.20466v1 Announce Type: new  Abstract: Rigorous benchmarks have driven progress in autonomous GPU kernel performance optimization by establishing a shared target to hillclimb on, but no equivalent exists for TPUs. We present JAXBench, a TPU-native benchmark suite for AI-generated kernel op",
-      "theme": "AI + Business",
-      "category": "ai-tech",
-      "fetched_at": "2026-07-24T08:03:36.181827"
+      "category": "ai-business",
+      "fetched_at": "2026-07-25T07:47:28.193734"
     },
     {
       "title": "Listen Labs raises $69M after viral billboard hiring stunt to scale AI customer interviews",
@@ -148,9 +98,9 @@
       "synopsis": "<p>Alfred Wahlforss was running out of options. His startup, <a href=\"https://listenlabs.ai/\">Listen Labs</a>, needed to hire over 100 engineers, but competing against Mark Zuckerberg&#x27;s <a href=\"https://news.bloomberglaw.com/employee-benefits/zuckerbergs-100-million-ai-job-offers-pay-off-parmy-",
       "theme": "AI + Business",
       "category": "ai-business",
-      "fetched_at": "2026-07-24T08:03:34.895865"
+      "fetched_at": "2026-07-25T07:47:29.096557"
     }
   ],
-  "last_updated": "2026-07-24T08:03:36.295440",
-  "total_count": 15
+  "last_updated": "2026-07-25T07:47:30.713325",
+  "total_count": 10
 }
