@@ -1,54 +1,74 @@
 {
   "articles": [
     {
-      "title": "Concept-based Visual Counterfactual Explanations with Diffusion Models",
-      "url": "https://arxiv.org/abs/2607.22544",
+      "title": "Do Models Fake Alignment Without Clear Consequences?",
+      "url": "https://arxiv.org/abs/2607.24758",
       "source": "ArXiv AI",
-      "date": "Tue, 28 Jul 2026 00:00:00 -0400",
-      "synopsis": "arXiv:2607.22544v1 Announce Type: new  Abstract: Visual counterfactual explanations aim to answer \"what minimal change to this image would flip the model's prediction?\", and are increasingly important as vision models are deployed in safety-critical domains (e.g., medicine). Existing diffusion-based",
-      "theme": "AI + Business",
-      "category": "ai-tech",
-      "fetched_at": "2026-07-28T08:10:57.562619"
-    },
-    {
-      "title": "SeT-Diff: Towards Semantic Foundation Models for HPC Telemetry and Time-Series",
-      "url": "https://arxiv.org/abs/2607.22548",
-      "source": "ArXiv AI",
-      "date": "Tue, 28 Jul 2026 00:00:00 -0400",
-      "synopsis": "arXiv:2607.22548v1 Announce Type: new  Abstract: Data centers and their compute nodes require accurate and flexible digital twins capable of modeling the complex interplay of workloads, environmental parameters, and physical metrics. Current machine learning approaches for HPC and its telemetry typi",
-      "theme": "AI + Business",
-      "category": "ai-tech",
-      "fetched_at": "2026-07-28T08:10:57.562638"
-    },
-    {
-      "title": "QFoldAgent: An Autonomous Quantum Optimization Multi-Agent System for Protein Structure Prediction",
-      "url": "https://arxiv.org/abs/2607.22549",
-      "source": "ArXiv AI",
-      "date": "Tue, 28 Jul 2026 00:00:00 -0400",
-      "synopsis": "arXiv:2607.22549v1 Announce Type: new  Abstract: Hybrid quantum-classical protein structure prediction depends strongly on Hamiltonian penalty weights, yet existing lattice-based workflows typically fix these coefficients by hand and evaluate only very short fragments in simulation. We present QFold",
+      "date": "Wed, 29 Jul 2026 00:00:00 -0400",
+      "synopsis": "arXiv:2607.24758v1 Announce Type: new  Abstract: Large language models are capable of recognizing evaluation contexts and altering their behavior to reflect evaluator expectations rather than typical deployment behaviors, a phenomenon known as alignment faking. The reasons why models fake alignment",
       "theme": "AI General",
       "category": "ai-tech",
-      "fetched_at": "2026-07-28T08:10:57.562657"
+      "fetched_at": "2026-07-29T08:14:59.533341"
     },
     {
-      "title": "Same Question, Different Answers: Evaluating LLM Reliability Beyond Accuracy",
-      "url": "https://arxiv.org/abs/2607.22554",
+      "title": "Beyond Memory: A Templated Substrate for Heterogeneous Collaborative Knowledge Work with LLM Agents",
+      "url": "https://arxiv.org/abs/2607.24759",
       "source": "ArXiv AI",
-      "date": "Tue, 28 Jul 2026 00:00:00 -0400",
-      "synopsis": "arXiv:2607.22554v1 Announce Type: new  Abstract: Large language models (LLMs) often achieve strong accuracy on benchmarks, yet it remains unclear how reliably they apply this knowledge when the same question is phrased in different but equivalent ways. In this work, we study how model answers change",
+      "date": "Wed, 29 Jul 2026 00:00:00 -0400",
+      "synopsis": "arXiv:2607.24759v1 Announce Type: new  Abstract: Research projects, educational efforts, and adjacent knowledge work accumulate findings, decisions, and reasoning that future collaborators rarely recover. The parts most useful to that work, including dead ends and walked-back claims, are routinely e",
       "theme": "AI + Business",
       "category": "ai-tech",
-      "fetched_at": "2026-07-28T08:10:57.562664"
+      "fetched_at": "2026-07-29T08:14:59.533356"
     },
     {
-      "title": "DeepLens Diagnosis Agent: Agentic Workflow Design Lets a Small Reasoning Model Compete with Frontier LLMs",
-      "url": "https://arxiv.org/abs/2607.22555",
+      "title": "Kernel Forge: An Agent Harness for LLM-based Generation and Optimization of CUDA Kernels",
+      "url": "https://arxiv.org/abs/2607.24762",
       "source": "ArXiv AI",
-      "date": "Tue, 28 Jul 2026 00:00:00 -0400",
-      "synopsis": "arXiv:2607.22555v1 Announce Type: new  Abstract: Medical diagnosis is a multi-stage process: extract facts, consult knowledge, generate a differential analysis, and select the best diagnosis with explanations. Frontier LLMs are strong generalists, but single-shot prompting often yields brittle diagn",
+      "date": "Wed, 29 Jul 2026 00:00:00 -0400",
+      "synopsis": "arXiv:2607.24762v1 Announce Type: new  Abstract: Machine learning models are increasingly embedded in everyday software, and most of their runtime is spent in a small set of compute kernels such as matrix multiplication, convolution, and normalization. Optimizing these kernels is one of the most dir",
       "theme": "AI + Business",
       "category": "ai-tech",
-      "fetched_at": "2026-07-28T08:10:57.562672"
+      "fetched_at": "2026-07-29T08:14:59.533364"
+    },
+    {
+      "title": "CaRE Compute-aware Remasking Evaluation Protocol for Masked Diffusion Language Models",
+      "url": "https://arxiv.org/abs/2607.24763",
+      "source": "ArXiv AI",
+      "date": "Wed, 29 Jul 2026 00:00:00 -0400",
+      "synopsis": "arXiv:2607.24763v1 Announce Type: new  Abstract: Masked diffusion language models (MDLMs) are advancing rapidly, yet the evaluation standards needed to reliably interpret their progress have not kept pace. Despite MDLMs becoming competitive with autoregressive language models, seven recent remasking",
+      "theme": "AI General",
+      "category": "ai-tech",
+      "fetched_at": "2026-07-29T08:14:59.533377"
+    },
+    {
+      "title": "GrocLM: Grocery Category Recommendation in E-Commerce with Large Language Models",
+      "url": "https://arxiv.org/abs/2607.24764",
+      "source": "ArXiv AI",
+      "date": "Wed, 29 Jul 2026 00:00:00 -0400",
+      "synopsis": "arXiv:2607.24764v1 Announce Type: new  Abstract: The rapid growth of online grocery shopping requires recommendation systems that capture cyclical purchasing behavior and diverse user intents. Traditional item-level methods face scalability and accuracy challenges, motivating category-level recommen",
+      "theme": "AI General",
+      "category": "ai-tech",
+      "fetched_at": "2026-07-29T08:14:59.533390"
+    },
+    {
+      "title": "The Download: OpenAI’s predictable hack, and an AI stock sell-off",
+      "url": "https://www.technologyreview.com/2026/07/28/1140868/the-download-openai-hack-ai-stock-sell-off/",
+      "source": "MIT Technology Review - AI",
+      "date": "Tue, 28 Jul 2026 12:10:00 +0000",
+      "synopsis": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. OpenAI called the Hugging Face attack unprecedented. But we’ve been here before.&#160; —Will Douglas Heaven, senior AI editor Reading OpenAI’s account",
+      "theme": "AI + Business",
+      "category": "ai-business",
+      "fetched_at": "2026-07-29T08:14:56.889932"
+    },
+    {
+      "title": "Samsung’s chip workers are jumping ship to rival SK Hynix",
+      "url": "https://www.technologyreview.com/2026/07/28/1140853/samsung-chip-workers-exodus-sk-hynix/",
+      "source": "MIT Technology Review - AI",
+      "date": "Tue, 28 Jul 2026 09:18:57 +0000",
+      "synopsis": "Lee, an engineer at Samsung’s semiconductor division, clocks out when his shift ends. He used to work longer hours, going the extra mile to excel at his projects. But lately, he’s been coming straight home to work on his job application for the chipmaker’s South Korean rival SK Hynix, sharing tips w",
+      "theme": "AI + Business",
+      "category": "ai-business",
+      "fetched_at": "2026-07-29T08:14:56.889950"
     },
     {
       "title": "Google just redesigned the search box for the first time in 25 years — here’s why it matters more than you think.",
@@ -58,7 +78,7 @@
       "synopsis": "<p>For a quarter century, the Google search box has been one of the most recognizable interfaces in computing: a thin white rectangle, a blinking cursor, a few typed words, and a list of blue links. On Tuesday, Google will formally retire that paradigm.</p><p>At its annual <a href=\"https://io.google",
       "theme": "AI General",
       "category": "ai-business",
-      "fetched_at": "2026-07-28T08:10:55.929013"
+      "fetched_at": "2026-07-29T08:14:57.476140"
     },
     {
       "title": "Salesforce rolls out new Slackbot AI agent as it battles Microsoft and Google in workplace AI",
@@ -68,7 +88,7 @@
       "synopsis": "<p><a href=\"https://www.salesforce.com/\">Salesforce</a> on Tuesday launched an entirely rebuilt version of <a href=\"https://slack.com/help/articles/202026038-An-introduction-to-Slackbot\">Slackbot</a>, the company&#x27;s workplace assistant, transforming it from a simple notification tool into what e",
       "theme": "AI + Business",
       "category": "ai-business",
-      "fetched_at": "2026-07-28T08:10:55.929051"
+      "fetched_at": "2026-07-29T08:14:57.476174"
     },
     {
       "title": "Railway secures $100 million to challenge AWS with AI-native cloud infrastructure",
@@ -78,7 +98,7 @@
       "synopsis": "<p><a href=\"https://railway.com/\">Railway</a>, a San Francisco-based cloud platform that has quietly amassed two million developers without spending a dollar on marketing, announced Thursday that it raised $100 million in a Series B funding round, as surging demand for artificial intelligence applic",
       "theme": "AI + Business",
       "category": "ai-business",
-      "fetched_at": "2026-07-28T08:10:55.929031"
+      "fetched_at": "2026-07-29T08:14:57.476156"
     },
     {
       "title": "OpenAI called the Hugging Face attack unprecedented. But we’ve been here before.",
@@ -88,7 +108,7 @@
       "synopsis": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&#160;sign up here. Reading OpenAI’s account last week of how some of its models broke their containment and hacked into the computer systems of Hugging Face, another AI company",
       "theme": "AI + Business",
       "category": "ai-business",
-      "fetched_at": "2026-07-28T08:10:55.044765"
+      "fetched_at": "2026-07-29T08:14:56.889960"
     },
     {
       "title": "How lasers could help provide fuel for nuclear reactors",
@@ -98,7 +118,7 @@
       "synopsis": "Outside the small town of Paducah, Kentucky, a wealth of uranium is locked away in thousands of storage cylinders filled with waste material from a now-closed nuclear enrichment facility. Lasers could help get it out. A company called Global Laser Enrichment (GLE) is looking to reprocess this old ma",
       "theme": "AI General",
       "category": "ai-business",
-      "fetched_at": "2026-07-28T08:10:55.044794"
+      "fetched_at": "2026-07-29T08:14:56.889981"
     },
     {
       "title": "The Download: lasers for nuclear fuel, and organ preservation advances",
@@ -108,27 +128,7 @@
       "synopsis": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. How lasers could help provide fuel for nuclear reactors&#160; Nuclear power provides about 9% of global electricity today, and that fraction could tic",
       "theme": "AI + Business",
       "category": "ai-business",
-      "fetched_at": "2026-07-28T08:10:55.044802"
-    },
-    {
-      "title": "The path to artificial superintelligence",
-      "url": "https://www.technologyreview.com/2026/07/27/1140724/the-path-to-artificial-superintelligence/",
-      "source": "MIT Technology Review - AI",
-      "date": "Mon, 27 Jul 2026 12:00:00 +0000",
-      "synopsis": "Imagine a healthcare system made up of multiple AI agents: one that manages symptom assessment, another scheduling, a third insurance, and a fourth pharmacy. Each is an expert in its domain. But they all have their own distinct knowledge and objectives. Today they can exchange data, but they are not",
-      "theme": "AI + Business",
-      "category": "ai-business",
-      "fetched_at": "2026-07-28T08:10:55.044809"
-    },
-    {
-      "title": "Closing the data loop in AI-driven drug discovery",
-      "url": "https://www.technologyreview.com/2026/07/27/1139667/closing-the-data-loop-in-ai-driven-drug-discovery/",
-      "source": "MIT Technology Review - AI",
-      "date": "Mon, 27 Jul 2026 11:40:16 +0000",
-      "synopsis": "Drug discovery is a high-cost, high-risk endeavor that is under growing pressure from a market increasingly defined by first-mover advantage. Since the 1950s, the cost of developing new pharmaceuticals has roughly doubled every nine years—a phenomenon known as Eroom’s Law. Today, bringing a new drug",
-      "theme": "AI + Business",
-      "category": "ai-business",
-      "fetched_at": "2026-07-28T08:10:55.044818"
+      "fetched_at": "2026-07-29T08:14:56.889988"
     },
     {
       "title": "Claude Code costs up to $200 a month. Goose does the same thing for free.",
@@ -138,7 +138,7 @@
       "synopsis": "<p>The artificial intelligence coding revolution comes with a catch: it&#x27;s expensive.</p><p><a href=\"https://claude.com/product/claude-code\">Claude Code</a>, Anthropic&#x27;s terminal-based AI agent that can write, debug, and deploy code autonomously, has captured the imagination of software dev",
       "theme": "AI + Business",
       "category": "ai-business",
-      "fetched_at": "2026-07-28T08:10:55.929038"
+      "fetched_at": "2026-07-29T08:14:57.476162"
     },
     {
       "title": "Listen Labs raises $69M after viral billboard hiring stunt to scale AI customer interviews",
@@ -148,9 +148,9 @@
       "synopsis": "<p>Alfred Wahlforss was running out of options. His startup, <a href=\"https://listenlabs.ai/\">Listen Labs</a>, needed to hire over 100 engineers, but competing against Mark Zuckerberg&#x27;s <a href=\"https://news.bloomberglaw.com/employee-benefits/zuckerbergs-100-million-ai-job-offers-pay-off-parmy-",
       "theme": "AI + Business",
       "category": "ai-business",
-      "fetched_at": "2026-07-28T08:10:55.929045"
+      "fetched_at": "2026-07-29T08:14:57.476169"
     }
   ],
-  "last_updated": "2026-07-28T08:10:57.630752",
+  "last_updated": "2026-07-29T08:14:59.602845",
   "total_count": 15
 }
