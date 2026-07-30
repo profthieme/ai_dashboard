@@ -1,54 +1,34 @@
 {
   "articles": [
     {
-      "title": "Do Models Fake Alignment Without Clear Consequences?",
-      "url": "https://arxiv.org/abs/2607.24758",
-      "source": "ArXiv AI",
-      "date": "Wed, 29 Jul 2026 00:00:00 -0400",
-      "synopsis": "arXiv:2607.24758v1 Announce Type: new  Abstract: Large language models are capable of recognizing evaluation contexts and altering their behavior to reflect evaluator expectations rather than typical deployment behaviors, a phenomenon known as alignment faking. The reasons why models fake alignment",
-      "theme": "AI General",
-      "category": "ai-tech",
-      "fetched_at": "2026-07-29T08:14:59.533341"
-    },
-    {
-      "title": "Beyond Memory: A Templated Substrate for Heterogeneous Collaborative Knowledge Work with LLM Agents",
-      "url": "https://arxiv.org/abs/2607.24759",
-      "source": "ArXiv AI",
-      "date": "Wed, 29 Jul 2026 00:00:00 -0400",
-      "synopsis": "arXiv:2607.24759v1 Announce Type: new  Abstract: Research projects, educational efforts, and adjacent knowledge work accumulate findings, decisions, and reasoning that future collaborators rarely recover. The parts most useful to that work, including dead ends and walked-back claims, are routinely e",
+      "title": "How an overlooked geothermal plant got a second chance",
+      "url": "https://www.technologyreview.com/2026/07/29/1140896/geothermal-second-chance/",
+      "source": "MIT Technology Review - AI",
+      "date": "Wed, 29 Jul 2026 17:58:44 +0000",
+      "synopsis": "In June 2024, a small company called Zanskar purchased a geothermal power plant in New Mexico that was failing fast. The water coming from the underground reservoir was getting colder by the day, making the plant uneconomical to run. Now, two years later, that plant is running at full capacity again",
       "theme": "AI + Business",
-      "category": "ai-tech",
-      "fetched_at": "2026-07-29T08:14:59.533356"
+      "category": "ai-business",
+      "fetched_at": "2026-07-30T08:03:18.199484"
     },
     {
-      "title": "Kernel Forge: An Agent Harness for LLM-based Generation and Optimization of CUDA Kernels",
-      "url": "https://arxiv.org/abs/2607.24762",
-      "source": "ArXiv AI",
-      "date": "Wed, 29 Jul 2026 00:00:00 -0400",
-      "synopsis": "arXiv:2607.24762v1 Announce Type: new  Abstract: Machine learning models are increasingly embedded in everyday software, and most of their runtime is spent in a small set of compute kernels such as matrix multiplication, convolution, and normalization. Optimizing these kernels is one of the most dir",
+      "title": "The Download: a chip talent battle, and deflating AI hype",
+      "url": "https://www.technologyreview.com/2026/07/29/1140884/the-download-chip-talent-battle-deflating-ai-hype/",
+      "source": "MIT Technology Review - AI",
+      "date": "Wed, 29 Jul 2026 12:10:00 +0000",
+      "synopsis": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Samsung’s chip workers are jumping ship to rival SK Hynix   Lee, an engineer at Samsung’s semiconductor division, used to work late. But lately, he’s",
       "theme": "AI + Business",
-      "category": "ai-tech",
-      "fetched_at": "2026-07-29T08:14:59.533364"
+      "category": "ai-business",
+      "fetched_at": "2026-07-30T08:03:18.199504"
     },
     {
-      "title": "CaRE Compute-aware Remasking Evaluation Protocol for Masked Diffusion Language Models",
-      "url": "https://arxiv.org/abs/2607.24763",
-      "source": "ArXiv AI",
-      "date": "Wed, 29 Jul 2026 00:00:00 -0400",
-      "synopsis": "arXiv:2607.24763v1 Announce Type: new  Abstract: Masked diffusion language models (MDLMs) are advancing rapidly, yet the evaluation standards needed to reliably interpret their progress have not kept pace. Despite MDLMs becoming competitive with autoregressive language models, seven recent remasking",
-      "theme": "AI General",
-      "category": "ai-tech",
-      "fetched_at": "2026-07-29T08:14:59.533377"
-    },
-    {
-      "title": "GrocLM: Grocery Category Recommendation in E-Commerce with Large Language Models",
-      "url": "https://arxiv.org/abs/2607.24764",
-      "source": "ArXiv AI",
-      "date": "Wed, 29 Jul 2026 00:00:00 -0400",
-      "synopsis": "arXiv:2607.24764v1 Announce Type: new  Abstract: The rapid growth of online grocery shopping requires recommendation systems that capture cyclical purchasing behavior and diverse user intents. Traditional item-level methods face scalability and accuracy challenges, motivating category-level recommen",
-      "theme": "AI General",
-      "category": "ai-tech",
-      "fetched_at": "2026-07-29T08:14:59.533390"
+      "title": "The AI Hype Index: Unsexy AI",
+      "url": "https://www.technologyreview.com/2026/07/29/1140795/the-ai-hype-index-unsexy-ai/",
+      "source": "MIT Technology Review - AI",
+      "date": "Wed, 29 Jul 2026 08:42:57 +0000",
+      "synopsis": "It feels bad enough when an open letter signed by leading economists warns that AI might steal your job. The fact it may soon be better than you at making dinner? Insult to injury. But that’s exactly what the company 1X promised when it showed off a pair of new, impressively dexterous (and, to some,",
+      "theme": "AI + Business",
+      "category": "ai-business",
+      "fetched_at": "2026-07-30T08:03:18.199518"
     },
     {
       "title": "The Download: OpenAI’s predictable hack, and an AI stock sell-off",
@@ -58,7 +38,7 @@
       "synopsis": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. OpenAI called the Hugging Face attack unprecedented. But we’ve been here before.&#160; —Will Douglas Heaven, senior AI editor Reading OpenAI’s account",
       "theme": "AI + Business",
       "category": "ai-business",
-      "fetched_at": "2026-07-29T08:14:56.889932"
+      "fetched_at": "2026-07-30T08:03:18.199529"
     },
     {
       "title": "Samsung’s chip workers are jumping ship to rival SK Hynix",
@@ -68,7 +48,7 @@
       "synopsis": "Lee, an engineer at Samsung’s semiconductor division, clocks out when his shift ends. He used to work longer hours, going the extra mile to excel at his projects. But lately, he’s been coming straight home to work on his job application for the chipmaker’s South Korean rival SK Hynix, sharing tips w",
       "theme": "AI + Business",
       "category": "ai-business",
-      "fetched_at": "2026-07-29T08:14:56.889950"
+      "fetched_at": "2026-07-30T08:03:18.199563"
     },
     {
       "title": "Google just redesigned the search box for the first time in 25 years — here’s why it matters more than you think.",
@@ -78,7 +58,7 @@
       "synopsis": "<p>For a quarter century, the Google search box has been one of the most recognizable interfaces in computing: a thin white rectangle, a blinking cursor, a few typed words, and a list of blue links. On Tuesday, Google will formally retire that paradigm.</p><p>At its annual <a href=\"https://io.google",
       "theme": "AI General",
       "category": "ai-business",
-      "fetched_at": "2026-07-29T08:14:57.476140"
+      "fetched_at": "2026-07-30T08:03:18.907581"
     },
     {
       "title": "Salesforce rolls out new Slackbot AI agent as it battles Microsoft and Google in workplace AI",
@@ -88,7 +68,57 @@
       "synopsis": "<p><a href=\"https://www.salesforce.com/\">Salesforce</a> on Tuesday launched an entirely rebuilt version of <a href=\"https://slack.com/help/articles/202026038-An-introduction-to-Slackbot\">Slackbot</a>, the company&#x27;s workplace assistant, transforming it from a simple notification tool into what e",
       "theme": "AI + Business",
       "category": "ai-business",
-      "fetched_at": "2026-07-29T08:14:57.476174"
+      "fetched_at": "2026-07-30T08:03:18.907625"
+    },
+    {
+      "title": "Do Models Fake Alignment Without Clear Consequences?",
+      "url": "https://arxiv.org/abs/2607.24758",
+      "source": "ArXiv AI",
+      "date": "Thu, 30 Jul 2026 00:00:00 -0400",
+      "synopsis": "arXiv:2607.24758v2 Announce Type: new  Abstract: Large language models are capable of recognizing evaluation contexts and altering their behavior to reflect evaluator expectations rather than typical deployment behaviors, a phenomenon known as alignment faking. The reasons why models fake alignment",
+      "theme": "AI General",
+      "category": "ai-tech",
+      "fetched_at": "2026-07-30T08:03:20.102980"
+    },
+    {
+      "title": "Beyond Memory: A Templated Substrate for Heterogeneous Collaborative Knowledge Work with LLM Agents",
+      "url": "https://arxiv.org/abs/2607.24759",
+      "source": "ArXiv AI",
+      "date": "Thu, 30 Jul 2026 00:00:00 -0400",
+      "synopsis": "arXiv:2607.24759v1 Announce Type: new  Abstract: Research projects, educational efforts, and adjacent knowledge work accumulate findings, decisions, and reasoning that future collaborators rarely recover. The parts most useful to that work, including dead ends and walked-back claims, are routinely e",
+      "theme": "AI + Business",
+      "category": "ai-tech",
+      "fetched_at": "2026-07-30T08:03:20.102997"
+    },
+    {
+      "title": "Kernel Forge: An Agent Harness for LLM-based Generation and Optimization of CUDA Kernels",
+      "url": "https://arxiv.org/abs/2607.24762",
+      "source": "ArXiv AI",
+      "date": "Thu, 30 Jul 2026 00:00:00 -0400",
+      "synopsis": "arXiv:2607.24762v1 Announce Type: new  Abstract: Machine learning models are increasingly embedded in everyday software, and most of their runtime is spent in a small set of compute kernels such as matrix multiplication, convolution, and normalization. Optimizing these kernels is one of the most dir",
+      "theme": "AI + Business",
+      "category": "ai-tech",
+      "fetched_at": "2026-07-30T08:03:20.103006"
+    },
+    {
+      "title": "CaRE Compute-aware Remasking Evaluation Protocol for Masked Diffusion Language Models",
+      "url": "https://arxiv.org/abs/2607.24763",
+      "source": "ArXiv AI",
+      "date": "Thu, 30 Jul 2026 00:00:00 -0400",
+      "synopsis": "arXiv:2607.24763v1 Announce Type: new  Abstract: Masked diffusion language models (MDLMs) are advancing rapidly, yet the evaluation standards needed to reliably interpret their progress have not kept pace. Despite MDLMs becoming competitive with autoregressive language models, seven recent remasking",
+      "theme": "AI General",
+      "category": "ai-tech",
+      "fetched_at": "2026-07-30T08:03:20.103023"
+    },
+    {
+      "title": "GrocLM: Grocery Category Recommendation in E-Commerce with Large Language Models",
+      "url": "https://arxiv.org/abs/2607.24764",
+      "source": "ArXiv AI",
+      "date": "Thu, 30 Jul 2026 00:00:00 -0400",
+      "synopsis": "arXiv:2607.24764v1 Announce Type: new  Abstract: The rapid growth of online grocery shopping requires recommendation systems that capture cyclical purchasing behavior and diverse user intents. Traditional item-level methods face scalability and accuracy challenges, motivating category-level recommen",
+      "theme": "AI General",
+      "category": "ai-tech",
+      "fetched_at": "2026-07-30T08:03:20.103038"
     },
     {
       "title": "Railway secures $100 million to challenge AWS with AI-native cloud infrastructure",
@@ -98,37 +128,7 @@
       "synopsis": "<p><a href=\"https://railway.com/\">Railway</a>, a San Francisco-based cloud platform that has quietly amassed two million developers without spending a dollar on marketing, announced Thursday that it raised $100 million in a Series B funding round, as surging demand for artificial intelligence applic",
       "theme": "AI + Business",
       "category": "ai-business",
-      "fetched_at": "2026-07-29T08:14:57.476156"
-    },
-    {
-      "title": "OpenAI called the Hugging Face attack unprecedented. But we’ve been here before.",
-      "url": "https://www.technologyreview.com/2026/07/27/1140836/openai-hugging-face-attack-precedent/",
-      "source": "MIT Technology Review - AI",
-      "date": "Mon, 27 Jul 2026 18:00:00 +0000",
-      "synopsis": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&#160;sign up here. Reading OpenAI’s account last week of how some of its models broke their containment and hacked into the computer systems of Hugging Face, another AI company",
-      "theme": "AI + Business",
-      "category": "ai-business",
-      "fetched_at": "2026-07-29T08:14:56.889960"
-    },
-    {
-      "title": "How lasers could help provide fuel for nuclear reactors",
-      "url": "https://www.technologyreview.com/2026/07/27/1140798/laser-nuclear-enrichment/",
-      "source": "MIT Technology Review - AI",
-      "date": "Mon, 27 Jul 2026 14:24:42 +0000",
-      "synopsis": "Outside the small town of Paducah, Kentucky, a wealth of uranium is locked away in thousands of storage cylinders filled with waste material from a now-closed nuclear enrichment facility. Lasers could help get it out. A company called Global Laser Enrichment (GLE) is looking to reprocess this old ma",
-      "theme": "AI General",
-      "category": "ai-business",
-      "fetched_at": "2026-07-29T08:14:56.889981"
-    },
-    {
-      "title": "The Download: lasers for nuclear fuel, and organ preservation advances",
-      "url": "https://www.technologyreview.com/2026/07/27/1140833/the-download-lasers-nuclear-organ-preservation/",
-      "source": "MIT Technology Review - AI",
-      "date": "Mon, 27 Jul 2026 12:10:00 +0000",
-      "synopsis": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. How lasers could help provide fuel for nuclear reactors&#160; Nuclear power provides about 9% of global electricity today, and that fraction could tic",
-      "theme": "AI + Business",
-      "category": "ai-business",
-      "fetched_at": "2026-07-29T08:14:56.889988"
+      "fetched_at": "2026-07-30T08:03:18.907599"
     },
     {
       "title": "Claude Code costs up to $200 a month. Goose does the same thing for free.",
@@ -138,7 +138,7 @@
       "synopsis": "<p>The artificial intelligence coding revolution comes with a catch: it&#x27;s expensive.</p><p><a href=\"https://claude.com/product/claude-code\">Claude Code</a>, Anthropic&#x27;s terminal-based AI agent that can write, debug, and deploy code autonomously, has captured the imagination of software dev",
       "theme": "AI + Business",
       "category": "ai-business",
-      "fetched_at": "2026-07-29T08:14:57.476162"
+      "fetched_at": "2026-07-30T08:03:18.907608"
     },
     {
       "title": "Listen Labs raises $69M after viral billboard hiring stunt to scale AI customer interviews",
@@ -148,9 +148,9 @@
       "synopsis": "<p>Alfred Wahlforss was running out of options. His startup, <a href=\"https://listenlabs.ai/\">Listen Labs</a>, needed to hire over 100 engineers, but competing against Mark Zuckerberg&#x27;s <a href=\"https://news.bloomberglaw.com/employee-benefits/zuckerbergs-100-million-ai-job-offers-pay-off-parmy-",
       "theme": "AI + Business",
       "category": "ai-business",
-      "fetched_at": "2026-07-29T08:14:57.476169"
+      "fetched_at": "2026-07-30T08:03:18.907617"
     }
   ],
-  "last_updated": "2026-07-29T08:14:59.602845",
+  "last_updated": "2026-07-30T08:03:20.208408",
   "total_count": 15
 }
