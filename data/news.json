@@ -8,7 +8,7 @@
       "synopsis": "<p>For a quarter century, the Google search box has been one of the most recognizable interfaces in computing: a thin white rectangle, a blinking cursor, a few typed words, and a list of blue links. On Tuesday, Google will formally retire that paradigm.</p><p>At its annual <a href=\"https://io.google",
       "theme": "AI General",
       "category": "ai-business",
-      "fetched_at": "2026-08-01T07:58:25.443181"
+      "fetched_at": "2026-08-02T08:00:17.398981"
     },
     {
       "title": "Salesforce rolls out new Slackbot AI agent as it battles Microsoft and Google in workplace AI",
@@ -18,7 +18,7 @@
       "synopsis": "<p><a href=\"https://www.salesforce.com/\">Salesforce</a> on Tuesday launched an entirely rebuilt version of <a href=\"https://slack.com/help/articles/202026038-An-introduction-to-Slackbot\">Slackbot</a>, the company&#x27;s workplace assistant, transforming it from a simple notification tool into what e",
       "theme": "AI + Business",
       "category": "ai-business",
-      "fetched_at": "2026-08-01T07:58:25.443227"
+      "fetched_at": "2026-08-02T08:00:17.399026"
     },
     {
       "title": "Montana’s plan to become an experimental medical hub just pushed forward",
@@ -28,7 +28,7 @@
       "synopsis": "As of this week in Montana, any biotech company with an experimental drug has a clear path to selling it to consumers. Companies whose drugs have been through preliminary testing—sometimes in as few as 10 healthy people—can pay $12,500 to apply to a newly established review board for approval. Once",
       "theme": "AI General",
       "category": "ai-business",
-      "fetched_at": "2026-08-01T07:58:24.702166"
+      "fetched_at": "2026-08-02T08:00:16.920148"
     },
     {
       "title": "The Download: tricking LLMs, and reviving geothermal plants",
@@ -38,7 +38,7 @@
       "synopsis": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. A fundamental flaw leaves LLMs strikingly vulnerable to attack  It is impossible to make large language models fully secure against hacks because of a",
       "theme": "AI + Business",
       "category": "ai-business",
-      "fetched_at": "2026-08-01T07:58:24.702178"
+      "fetched_at": "2026-08-02T08:00:16.920160"
     },
     {
       "title": "A fundamental flaw leaves LLMs strikingly vulnerable to attack",
@@ -48,7 +48,7 @@
       "synopsis": "It is impossible to make large language models fully secure against hacks because of a fundamental flaw in how they work, a team of researchers argue in a paper presented at the International Conference on Machine Learning, a top AI conference, this month. The claim has huge implications for the saf",
       "theme": "AI + Business",
       "category": "ai-business",
-      "fetched_at": "2026-08-01T07:58:24.702187"
+      "fetched_at": "2026-08-02T08:00:16.920170"
     },
     {
       "title": "Railway secures $100 million to challenge AWS with AI-native cloud infrastructure",
@@ -58,7 +58,7 @@
       "synopsis": "<p><a href=\"https://railway.com/\">Railway</a>, a San Francisco-based cloud platform that has quietly amassed two million developers without spending a dollar on marketing, announced Thursday that it raised $100 million in a Series B funding round, as surging demand for artificial intelligence applic",
       "theme": "AI + Business",
       "category": "ai-business",
-      "fetched_at": "2026-08-01T07:58:25.443202"
+      "fetched_at": "2026-08-02T08:00:17.399000"
     },
     {
       "title": "Claude Code costs up to $200 a month. Goose does the same thing for free.",
@@ -68,7 +68,7 @@
       "synopsis": "<p>The artificial intelligence coding revolution comes with a catch: it&#x27;s expensive.</p><p><a href=\"https://claude.com/product/claude-code\">Claude Code</a>, Anthropic&#x27;s terminal-based AI agent that can write, debug, and deploy code autonomously, has captured the imagination of software dev",
       "theme": "AI + Business",
       "category": "ai-business",
-      "fetched_at": "2026-08-01T07:58:25.443211"
+      "fetched_at": "2026-08-02T08:00:17.399010"
     },
     {
       "title": "The Download: Montana’s new experimental drug rules",
@@ -78,7 +78,7 @@
       "synopsis": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Montana’s plan to become an experimental medical hub just pushed forward  As of this week in Montana, biotech companies whose drugs have been through",
       "theme": "AI + Business",
       "category": "ai-business",
-      "fetched_at": "2026-08-01T07:58:24.702104"
+      "fetched_at": "2026-08-02T08:00:16.920091"
     },
     {
       "title": "Montana’s new “right to try” law can’t come soon enough for some",
@@ -88,7 +88,7 @@
       "synopsis": "Kris DeVault is desperate. His son, Brody, was born in March 2023. It wasn’t long before he started to show signs of developmental delay, says DeVault. As time went on, Brody started missing key milestones in speech, movement, and coordination, he says. When Brody was around two and a half years old",
       "theme": "AI General",
       "category": "ai-business",
-      "fetched_at": "2026-08-01T07:58:24.702144"
+      "fetched_at": "2026-08-02T08:00:16.920126"
     },
     {
       "title": "Listen Labs raises $69M after viral billboard hiring stunt to scale AI customer interviews",
@@ -98,9 +98,9 @@
       "synopsis": "<p>Alfred Wahlforss was running out of options. His startup, <a href=\"https://listenlabs.ai/\">Listen Labs</a>, needed to hire over 100 engineers, but competing against Mark Zuckerberg&#x27;s <a href=\"https://news.bloomberglaw.com/employee-benefits/zuckerbergs-100-million-ai-job-offers-pay-off-parmy-",
       "theme": "AI + Business",
       "category": "ai-business",
-      "fetched_at": "2026-08-01T07:58:25.443219"
+      "fetched_at": "2026-08-02T08:00:17.399018"
     }
   ],
-  "last_updated": "2026-08-01T07:58:26.823262",
+  "last_updated": "2026-08-02T08:00:18.366904",
   "total_count": 10
 }
