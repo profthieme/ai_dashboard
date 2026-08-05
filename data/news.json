@@ -1,6 +1,56 @@
 {
   "articles": [
     {
+      "title": "ISEE: Interactive Semantic Enrichment for Database Fields",
+      "url": "https://arxiv.org/abs/2608.02604",
+      "source": "ArXiv AI",
+      "date": "Wed, 05 Aug 2026 00:00:00 -0400",
+      "synopsis": "arXiv:2608.02604v1 Announce Type: new  Abstract: LLM-based agents are increasingly being deployed for data-related tasks, including data sense-making, exploration, and retrieval. However, their performance heavily depends on the clarity and completeness of data semantics. In practice, many field des",
+      "theme": "AI + Business",
+      "category": "ai-tech",
+      "fetched_at": "2026-08-05T08:12:20.716343"
+    },
+    {
+      "title": "Self-Organising Digital Circuits",
+      "url": "https://arxiv.org/abs/2608.02606",
+      "source": "ArXiv AI",
+      "date": "Wed, 05 Aug 2026 00:00:00 -0400",
+      "synopsis": "arXiv:2608.02606v1 Announce Type: new  Abstract: Fault tolerance in classical computing has traditionally relied on static strategies like hardware redundancy and error-correcting codes. Biological systems, in contrast, exhibit adaptive plasticity, maintaining function through dynamic re-organisatio",
+      "theme": "AI + Business",
+      "category": "ai-tech",
+      "fetched_at": "2026-08-05T08:12:20.716362"
+    },
+    {
+      "title": "Beyond the Hivemind: Escaping LLM Homogeneity via Meta-Persona Anchoring and Sequential Temperature Scaling",
+      "url": "https://arxiv.org/abs/2608.02618",
+      "source": "ArXiv AI",
+      "date": "Wed, 05 Aug 2026 00:00:00 -0400",
+      "synopsis": "arXiv:2608.02618v1 Announce Type: new  Abstract: Recent studies have identified an ``Artificial Hivemind'' effect in Large Language Models (LLMs) causing models to converge on a narrow, homogenized consensus even for open questions. This semantic collapse limits the diversity of AI, resulting in hig",
+      "theme": "AI + Business",
+      "category": "ai-tech",
+      "fetched_at": "2026-08-05T08:12:20.716373"
+    },
+    {
+      "title": "PULSE: An Executable Contract Language for Spatiotemporal Knowledge Graph Engineering",
+      "url": "https://arxiv.org/abs/2608.02630",
+      "source": "ArXiv AI",
+      "date": "Wed, 05 Aug 2026 00:00:00 -0400",
+      "synopsis": "arXiv:2608.02630v1 Announce Type: new  Abstract: Knowledge graph engineering often distributes accepted state, observations, constraints, processes, and hypothetical scenarios across artifacts whose combined execution contract remains external. We present PULSE, an Object-Process-Methodology-inspire",
+      "theme": "AI + Business",
+      "category": "ai-tech",
+      "fetched_at": "2026-08-05T08:12:20.716382"
+    },
+    {
+      "title": "HyperAgent: Planning and Acting over Tool-Schema Hypergraphs for Tool-Use LLM Agents",
+      "url": "https://arxiv.org/abs/2608.02650",
+      "source": "ArXiv AI",
+      "date": "Wed, 05 Aug 2026 00:00:00 -0400",
+      "synopsis": "arXiv:2608.02650v1 Announce Type: new  Abstract: Large language model (LLM) agents increasingly rely on external tools to complete complex real-world tasks. However, reliable tool-use planning remains challenging due to the limitations of implicit reasoning and the evolving nature of real-world exec",
+      "theme": "AI + Business",
+      "category": "ai-tech",
+      "fetched_at": "2026-08-05T08:12:20.716390"
+    },
+    {
       "title": "Google just redesigned the search box for the first time in 25 years — here’s why it matters more than you think.",
       "url": "https://venturebeat.com/technology/google-just-redesigned-the-search-box-for-the-first-time-in-25-years-heres-why-it-matters-more-than-you-think",
       "source": "VentureBeat AI",
@@ -8,7 +58,7 @@
       "synopsis": "<p>For a quarter century, the Google search box has been one of the most recognizable interfaces in computing: a thin white rectangle, a blinking cursor, a few typed words, and a list of blue links. On Tuesday, Google will formally retire that paradigm.</p><p>At its annual <a href=\"https://io.google",
       "theme": "AI General",
       "category": "ai-business",
-      "fetched_at": "2026-08-04T08:13:31.875983"
+      "fetched_at": "2026-08-05T08:12:19.429146"
     },
     {
       "title": "Salesforce rolls out new Slackbot AI agent as it battles Microsoft and Google in workplace AI",
@@ -18,57 +68,17 @@
       "synopsis": "<p><a href=\"https://www.salesforce.com/\">Salesforce</a> on Tuesday launched an entirely rebuilt version of <a href=\"https://slack.com/help/articles/202026038-An-introduction-to-Slackbot\">Slackbot</a>, the company&#x27;s workplace assistant, transforming it from a simple notification tool into what e",
       "theme": "AI + Business",
       "category": "ai-business",
-      "fetched_at": "2026-08-04T08:13:31.876027"
+      "fetched_at": "2026-08-05T08:12:19.429191"
     },
     {
-      "title": "OpenClaw and Ollama in Agentic AI: Toward Fully Autonomous and Scalable AI Agent Systems",
-      "url": "https://arxiv.org/abs/2607.28629",
-      "source": "ArXiv AI",
-      "date": "Tue, 04 Aug 2026 00:00:00 -0400",
-      "synopsis": "arXiv:2607.28629v1 Announce Type: new  Abstract: The rapid transition from reactive large language models (LLMs) to persistent, action-capable systems has exposed critical gaps in the architectural understanding of Agentic AI, particularly in separating inference, orchestration, and execution layers",
+      "title": "The Download: US robot restrictions, and ICE’s DNA grab",
+      "url": "https://www.technologyreview.com/2026/08/04/1141098/the-download-robot-restrictions-ice-dna/",
+      "source": "MIT Technology Review - AI",
+      "date": "Tue, 04 Aug 2026 12:14:00 +0000",
+      "synopsis": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Trump’s AI protectionism has come for robotics   —James O’Donnell&#160; Humanoid robots usually elicit more cringe than awe: They&#160;stumble,&#160;k",
       "theme": "AI + Business",
-      "category": "ai-tech",
-      "fetched_at": "2026-08-04T08:13:33.460673"
-    },
-    {
-      "title": "Can AI Evaluate AI Scientists? A Benchmarking Study of Autonomous Research Generation Systems Using Automated Multi-Model Review",
-      "url": "https://arxiv.org/abs/2607.28631",
-      "source": "ArXiv AI",
-      "date": "Tue, 04 Aug 2026 00:00:00 -0400",
-      "synopsis": "arXiv:2607.28631v1 Announce Type: new  Abstract: AI Scientist systems capable of autonomous research have the potential to significantly accelerate scientific discovery. However, evaluating and comparing the quality of AI-generated papers remains an open challenge. We propose and implement a rigorou",
-      "theme": "AI + Business",
-      "category": "ai-tech",
-      "fetched_at": "2026-08-04T08:13:33.460691"
-    },
-    {
-      "title": "LLM Framework for Discovering Major Mathematical Conjectures: AI's Quest for the Next Riemann Hypothesis",
-      "url": "https://arxiv.org/abs/2607.28632",
-      "source": "ArXiv AI",
-      "date": "Tue, 04 Aug 2026 00:00:00 -0400",
-      "synopsis": "arXiv:2607.28632v1 Announce Type: new  Abstract: Major mathematical conjectures still depend heavily on expert intuition, so a unified method for the systematic generation and validation of conjectures with substantial mathematical potential remains unavailable. We present a three stage pipeline for",
-      "theme": "AI + Business",
-      "category": "ai-tech",
-      "fetched_at": "2026-08-04T08:13:33.460700"
-    },
-    {
-      "title": "ThinkReset: Learnable Intermediate Interface Construction for Bounded-Context Long-Horizon Reasoning",
-      "url": "https://arxiv.org/abs/2607.28642",
-      "source": "ArXiv AI",
-      "date": "Tue, 04 Aug 2026 00:00:00 -0400",
-      "synopsis": "arXiv:2607.28642v1 Announce Type: new  Abstract: Long chain-of-thought reasoning improves performance on complex problems, but it also introduces redundancy accumulation, context overflow, and error anchoring. We argue that under bounded context windows, the core bottleneck is not trajectory compres",
-      "theme": "AI + Business",
-      "category": "ai-tech",
-      "fetched_at": "2026-08-04T08:13:33.460708"
-    },
-    {
-      "title": "TAPR: Enhancing LLM Performance with a Task-Aware Prompt Rewriter",
-      "url": "https://arxiv.org/abs/2607.28657",
-      "source": "ArXiv AI",
-      "date": "Tue, 04 Aug 2026 00:00:00 -0400",
-      "synopsis": "arXiv:2607.28657v1 Announce Type: new  Abstract: Large Language Models (LLMs) often require carefully crafted prompts to unlock their full potential, which can be a barrier for non-expert users. This work addresses the challenge by introducing a Task-Aware Prompt Rewriter (TAPR), a model that reform",
-      "theme": "AI + Business",
-      "category": "ai-tech",
-      "fetched_at": "2026-08-04T08:13:33.460744"
+      "category": "ai-business",
+      "fetched_at": "2026-08-05T08:12:18.824936"
     },
     {
       "title": "Railway secures $100 million to challenge AWS with AI-native cloud infrastructure",
@@ -78,7 +88,7 @@
       "synopsis": "<p><a href=\"https://railway.com/\">Railway</a>, a San Francisco-based cloud platform that has quietly amassed two million developers without spending a dollar on marketing, announced Thursday that it raised $100 million in a Series B funding round, as surging demand for artificial intelligence applic",
       "theme": "AI + Business",
       "category": "ai-business",
-      "fetched_at": "2026-08-04T08:13:31.876001"
+      "fetched_at": "2026-08-05T08:12:19.429167"
     },
     {
       "title": "Claude Code costs up to $200 a month. Goose does the same thing for free.",
@@ -88,17 +98,17 @@
       "synopsis": "<p>The artificial intelligence coding revolution comes with a catch: it&#x27;s expensive.</p><p><a href=\"https://claude.com/product/claude-code\">Claude Code</a>, Anthropic&#x27;s terminal-based AI agent that can write, debug, and deploy code autonomously, has captured the imagination of software dev",
       "theme": "AI + Business",
       "category": "ai-business",
-      "fetched_at": "2026-08-04T08:13:31.876011"
+      "fetched_at": "2026-08-05T08:12:19.429176"
     },
     {
       "title": "Trump’s AI protectionism has come for robotics",
       "url": "https://www.technologyreview.com/2026/08/03/1141056/trumps-ai-protectionism-has-come-for-robotics/",
       "source": "MIT Technology Review - AI",
       "date": "Mon, 03 Aug 2026 18:43:30 +0000",
-      "synopsis": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Humanoid robots usually elicit more cringe than awe: They stumble, kick children, and despite advances are still worse at using their hands than my toddler. It’s",
+      "synopsis": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&#160;sign up here. Humanoid robots usually elicit more cringe than awe: They stumble, kick children, and despite advances are still worse at using their hands than my toddler.",
       "theme": "AI + Business",
       "category": "ai-business",
-      "fetched_at": "2026-08-04T08:13:30.730445"
+      "fetched_at": "2026-08-05T08:12:18.824958"
     },
     {
       "title": "The Download: reward hacking explained, and suspected Iranian cyberattacks",
@@ -108,7 +118,7 @@
       "synopsis": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Here’s why AI agents lie and cheat to reach their goals When two OpenAI models hacked into Hugging Face last month, they weren’t trying to make money",
       "theme": "AI + Business",
       "category": "ai-business",
-      "fetched_at": "2026-08-04T08:13:30.730465"
+      "fetched_at": "2026-08-05T08:12:18.824971"
     },
     {
       "title": "Here’s why AI agents lie and cheat to reach their goals",
@@ -118,7 +128,7 @@
       "synopsis": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of technology to help you understand what’s coming next. You can read more from the series here. When two OpenAI models hacked into the website Hugging Face in July, they weren’t trying to make money or commit sabotage",
       "theme": "AI + Business",
       "category": "ai-business",
-      "fetched_at": "2026-08-04T08:13:30.730478"
+      "fetched_at": "2026-08-05T08:12:18.824983"
     },
     {
       "title": "The Download: Montana’s new experimental drug rules",
@@ -128,17 +138,7 @@
       "synopsis": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Montana’s plan to become an experimental medical hub just pushed forward  As of this week in Montana, biotech companies whose drugs have been through",
       "theme": "AI + Business",
       "category": "ai-business",
-      "fetched_at": "2026-08-04T08:13:30.730490"
-    },
-    {
-      "title": "Montana’s new “right to try” law can’t come soon enough for some",
-      "url": "https://www.technologyreview.com/2026/07/31/1140945/montanas-new-right-to-try-law-cant-come-soon-enough-for-some/",
-      "source": "MIT Technology Review - AI",
-      "date": "Fri, 31 Jul 2026 09:00:00 +0000",
-      "synopsis": "Kris DeVault is desperate. His son, Brody, was born in March 2023. It wasn’t long before he started to show signs of developmental delay, says DeVault. As time went on, Brody started missing key milestones in speech, movement, and coordination, he says. When Brody was around two and a half years old",
-      "theme": "AI General",
-      "category": "ai-business",
-      "fetched_at": "2026-08-04T08:13:30.730515"
+      "fetched_at": "2026-08-05T08:12:18.824994"
     },
     {
       "title": "Listen Labs raises $69M after viral billboard hiring stunt to scale AI customer interviews",
@@ -148,9 +148,9 @@
       "synopsis": "<p>Alfred Wahlforss was running out of options. His startup, <a href=\"https://listenlabs.ai/\">Listen Labs</a>, needed to hire over 100 engineers, but competing against Mark Zuckerberg&#x27;s <a href=\"https://news.bloomberglaw.com/employee-benefits/zuckerbergs-100-million-ai-job-offers-pay-off-parmy-",
       "theme": "AI + Business",
       "category": "ai-business",
-      "fetched_at": "2026-08-04T08:13:31.876019"
+      "fetched_at": "2026-08-05T08:12:19.429183"
     }
   ],
-  "last_updated": "2026-08-04T08:13:33.517213",
+  "last_updated": "2026-08-05T08:12:20.830872",
   "total_count": 15
 }
