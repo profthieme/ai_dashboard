@@ -1,54 +1,34 @@
 {
   "articles": [
     {
-      "title": "ISEE: Interactive Semantic Enrichment for Database Fields",
-      "url": "https://arxiv.org/abs/2608.02604",
-      "source": "ArXiv AI",
-      "date": "Wed, 05 Aug 2026 00:00:00 -0400",
-      "synopsis": "arXiv:2608.02604v1 Announce Type: new  Abstract: LLM-based agents are increasingly being deployed for data-related tasks, including data sense-making, exploration, and retrieval. However, their performance heavily depends on the clarity and completeness of data semantics. In practice, many field des",
-      "theme": "AI + Business",
-      "category": "ai-tech",
-      "fetched_at": "2026-08-05T08:12:20.716343"
+      "title": "Puzzle Corner",
+      "url": "https://www.technologyreview.com/2026/08/05/1141230/puzzle-corner-84/",
+      "source": "MIT Technology Review - AI",
+      "date": "Wed, 05 Aug 2026 14:56:29 +0000",
+      "synopsis": "Ready for a fresh set of puzzles? Click here for the September/October 2026 Puzzle Corner, brought to you by Michael S. Branicky, ScD ’95, of the Puzzle Corner Puzzle Crew (aka PC2), which also includes Edward Faulkner ’03, MEng ’04, and Abe Kunin ’03. This column includes solutions to the May/June",
+      "theme": "AI General",
+      "category": "ai-business",
+      "fetched_at": "2026-08-06T08:11:14.870838"
     },
     {
-      "title": "Self-Organising Digital Circuits",
-      "url": "https://arxiv.org/abs/2608.02606",
-      "source": "ArXiv AI",
-      "date": "Wed, 05 Aug 2026 00:00:00 -0400",
-      "synopsis": "arXiv:2608.02606v1 Announce Type: new  Abstract: Fault tolerance in classical computing has traditionally relied on static strategies like hardware redundancy and error-correcting codes. Biological systems, in contrast, exhibit adaptive plasticity, maintaining function through dynamic re-organisatio",
+      "title": "The Download: NASA’s new telescope and Chinese tech import curbs",
+      "url": "https://www.technologyreview.com/2026/08/05/1141212/the-download-nasa-telescope-chinese-tech-import-curbs/",
+      "source": "MIT Technology Review - AI",
+      "date": "Wed, 05 Aug 2026 12:10:00 +0000",
+      "synopsis": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. NASA’s new dark energy space telescope can also detect killer asteroids   At the end of August, NASA is set to launch the Nancy Grace Roman Space Tele",
       "theme": "AI + Business",
-      "category": "ai-tech",
-      "fetched_at": "2026-08-05T08:12:20.716362"
+      "category": "ai-business",
+      "fetched_at": "2026-08-06T08:11:14.870862"
     },
     {
-      "title": "Beyond the Hivemind: Escaping LLM Homogeneity via Meta-Persona Anchoring and Sequential Temperature Scaling",
-      "url": "https://arxiv.org/abs/2608.02618",
-      "source": "ArXiv AI",
-      "date": "Wed, 05 Aug 2026 00:00:00 -0400",
-      "synopsis": "arXiv:2608.02618v1 Announce Type: new  Abstract: Recent studies have identified an ``Artificial Hivemind'' effect in Large Language Models (LLMs) causing models to converge on a narrow, homogenized consensus even for open questions. This semantic collapse limits the diversity of AI, resulting in hig",
-      "theme": "AI + Business",
-      "category": "ai-tech",
-      "fetched_at": "2026-08-05T08:12:20.716373"
-    },
-    {
-      "title": "PULSE: An Executable Contract Language for Spatiotemporal Knowledge Graph Engineering",
-      "url": "https://arxiv.org/abs/2608.02630",
-      "source": "ArXiv AI",
-      "date": "Wed, 05 Aug 2026 00:00:00 -0400",
-      "synopsis": "arXiv:2608.02630v1 Announce Type: new  Abstract: Knowledge graph engineering often distributes accepted state, observations, constraints, processes, and hypothetical scenarios across artifacts whose combined execution contract remains external. We present PULSE, an Object-Process-Methodology-inspire",
-      "theme": "AI + Business",
-      "category": "ai-tech",
-      "fetched_at": "2026-08-05T08:12:20.716382"
-    },
-    {
-      "title": "HyperAgent: Planning and Acting over Tool-Schema Hypergraphs for Tool-Use LLM Agents",
-      "url": "https://arxiv.org/abs/2608.02650",
-      "source": "ArXiv AI",
-      "date": "Wed, 05 Aug 2026 00:00:00 -0400",
-      "synopsis": "arXiv:2608.02650v1 Announce Type: new  Abstract: Large language model (LLM) agents increasingly rely on external tools to complete complex real-world tasks. However, reliable tool-use planning remains challenging due to the limitations of implicit reasoning and the evolving nature of real-world exec",
-      "theme": "AI + Business",
-      "category": "ai-tech",
-      "fetched_at": "2026-08-05T08:12:20.716390"
+      "title": "NASA’s new dark-energy space telescope can also detect killer asteroids",
+      "url": "https://www.technologyreview.com/2026/08/05/1141200/nasas-roman-telescope-detect-asteroids/",
+      "source": "MIT Technology Review - AI",
+      "date": "Wed, 05 Aug 2026 08:06:40 +0000",
+      "synopsis": "At the end of August, NASA is set to launch the Nancy Grace Roman Space Telescope from Kennedy Space Center in Florida. Its goal is to help us better understand how the universe works, from the glue-like dark matter that keeps galaxies together to the elusive dark energy that drives the expansion of",
+      "theme": "AI General",
+      "category": "ai-business",
+      "fetched_at": "2026-08-06T08:11:14.870884"
     },
     {
       "title": "Google just redesigned the search box for the first time in 25 years — here’s why it matters more than you think.",
@@ -58,7 +38,7 @@
       "synopsis": "<p>For a quarter century, the Google search box has been one of the most recognizable interfaces in computing: a thin white rectangle, a blinking cursor, a few typed words, and a list of blue links. On Tuesday, Google will formally retire that paradigm.</p><p>At its annual <a href=\"https://io.google",
       "theme": "AI General",
       "category": "ai-business",
-      "fetched_at": "2026-08-05T08:12:19.429146"
+      "fetched_at": "2026-08-06T08:11:15.540698"
     },
     {
       "title": "Salesforce rolls out new Slackbot AI agent as it battles Microsoft and Google in workplace AI",
@@ -68,17 +48,17 @@
       "synopsis": "<p><a href=\"https://www.salesforce.com/\">Salesforce</a> on Tuesday launched an entirely rebuilt version of <a href=\"https://slack.com/help/articles/202026038-An-introduction-to-Slackbot\">Slackbot</a>, the company&#x27;s workplace assistant, transforming it from a simple notification tool into what e",
       "theme": "AI + Business",
       "category": "ai-business",
-      "fetched_at": "2026-08-05T08:12:19.429191"
+      "fetched_at": "2026-08-06T08:11:15.540745"
     },
     {
-      "title": "The Download: US robot restrictions, and ICE’s DNA grab",
+      "title": "The Download: US robot restrictions and ICE’s DNA grab",
       "url": "https://www.technologyreview.com/2026/08/04/1141098/the-download-robot-restrictions-ice-dna/",
       "source": "MIT Technology Review - AI",
       "date": "Tue, 04 Aug 2026 12:14:00 +0000",
       "synopsis": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Trump’s AI protectionism has come for robotics   —James O’Donnell&#160; Humanoid robots usually elicit more cringe than awe: They&#160;stumble,&#160;k",
       "theme": "AI + Business",
       "category": "ai-business",
-      "fetched_at": "2026-08-05T08:12:18.824936"
+      "fetched_at": "2026-08-06T08:11:14.870896"
     },
     {
       "title": "Railway secures $100 million to challenge AWS with AI-native cloud infrastructure",
@@ -88,7 +68,57 @@
       "synopsis": "<p><a href=\"https://railway.com/\">Railway</a>, a San Francisco-based cloud platform that has quietly amassed two million developers without spending a dollar on marketing, announced Thursday that it raised $100 million in a Series B funding round, as surging demand for artificial intelligence applic",
       "theme": "AI + Business",
       "category": "ai-business",
-      "fetched_at": "2026-08-05T08:12:19.429167"
+      "fetched_at": "2026-08-06T08:11:15.540720"
+    },
+    {
+      "title": "A Long-Run Persistence Theory for AI Systems under the Redundancy-Adjusted Artificial Age Score (AAS)",
+      "url": "https://arxiv.org/abs/2608.04012",
+      "source": "ArXiv AI",
+      "date": "Thu, 06 Aug 2026 00:00:00 -0400",
+      "synopsis": "arXiv:2608.04012v1 Announce Type: new  Abstract: Artificial intelligence systems are increasingly expected to operate over repeated cycles of interaction, adaptation, and update rather than through isolated one-shot outputs. This raises a fundamental theoretical question: can an AI system persist in",
+      "theme": "AI + Business",
+      "category": "ai-tech",
+      "fetched_at": "2026-08-06T08:11:16.691437"
+    },
+    {
+      "title": "The LLM Proposes, the Executive Disposes: A Self-Verifying Agent Instrument that Dissociates Commitment Drift from Binding Drift in Long-Horizon Agents",
+      "url": "https://arxiv.org/abs/2608.04066",
+      "source": "ArXiv AI",
+      "date": "Thu, 06 Aug 2026 00:00:00 -0400",
+      "synopsis": "arXiv:2608.04066v1 Announce Type: new  Abstract: How do you verify a long-horizon agent when its own state and self-reports are exactly what you cannot trust? We present an agent instrument built so that verification is structural rather than post-hoc. A deterministic Executive owns all belief; a la",
+      "theme": "AI + Business",
+      "category": "ai-tech",
+      "fetched_at": "2026-08-06T08:11:16.691459"
+    },
+    {
+      "title": "Monte Carlo Tree Search for Table-to-Multimodal Report Generation",
+      "url": "https://arxiv.org/abs/2608.04071",
+      "source": "ArXiv AI",
+      "date": "Thu, 06 Aug 2026 00:00:00 -0400",
+      "synopsis": "arXiv:2608.04071v1 Announce Type: new  Abstract: Automatically generating professional multimodal reports comprising both textual analysis and visual charts from structured tabular data is a critical challenge in data intelligence. Existing methods suffer from fixed linear pipelines and isolated sub",
+      "theme": "AI General",
+      "category": "ai-tech",
+      "fetched_at": "2026-08-06T08:11:16.691483"
+    },
+    {
+      "title": "FinProBench: Evaluating Financial AI Agents with Role-Grounded Rubrics Derived from Professional Deliverables",
+      "url": "https://arxiv.org/abs/2608.04077",
+      "source": "ArXiv AI",
+      "date": "Thu, 06 Aug 2026 00:00:00 -0400",
+      "synopsis": "arXiv:2608.04077v1 Announce Type: new  Abstract: Evaluating financial AI agents requires criteria aligned with real professional work. Existing rubric methods typically derive criteria from task prompts or model outputs, overlooking tacit standards visible only in practitioner deliverables. We intro",
+      "theme": "AI + Business",
+      "category": "ai-tech",
+      "fetched_at": "2026-08-06T08:11:16.691492"
+    },
+    {
+      "title": "FinPerMA: A Theory-Informed, Event-Grounded Personalized-Memory Benchmark for LLM Agents",
+      "url": "https://arxiv.org/abs/2608.04095",
+      "source": "ArXiv AI",
+      "date": "Thu, 06 Aug 2026 00:00:00 -0400",
+      "synopsis": "arXiv:2608.04095v1 Announce Type: new  Abstract: Large language model (LLM) agents are increasingly used as personalized assistants in high-stakes domains such as financial advising, yet it remains unclear whether they can maintain and update an individualized user model over long horizons. Existing",
+      "theme": "AI + Business",
+      "category": "ai-tech",
+      "fetched_at": "2026-08-06T08:11:16.691501"
     },
     {
       "title": "Claude Code costs up to $200 a month. Goose does the same thing for free.",
@@ -98,7 +128,7 @@
       "synopsis": "<p>The artificial intelligence coding revolution comes with a catch: it&#x27;s expensive.</p><p><a href=\"https://claude.com/product/claude-code\">Claude Code</a>, Anthropic&#x27;s terminal-based AI agent that can write, debug, and deploy code autonomously, has captured the imagination of software dev",
       "theme": "AI + Business",
       "category": "ai-business",
-      "fetched_at": "2026-08-05T08:12:19.429176"
+      "fetched_at": "2026-08-06T08:11:15.540729"
     },
     {
       "title": "Trump’s AI protectionism has come for robotics",
@@ -108,37 +138,7 @@
       "synopsis": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&#160;sign up here. Humanoid robots usually elicit more cringe than awe: They stumble, kick children, and despite advances are still worse at using their hands than my toddler.",
       "theme": "AI + Business",
       "category": "ai-business",
-      "fetched_at": "2026-08-05T08:12:18.824958"
-    },
-    {
-      "title": "The Download: reward hacking explained, and suspected Iranian cyberattacks",
-      "url": "https://www.technologyreview.com/2026/08/03/1141039/the-download-reward-hacking-water-cyberattacks/",
-      "source": "MIT Technology Review - AI",
-      "date": "Mon, 03 Aug 2026 12:08:00 +0000",
-      "synopsis": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Here’s why AI agents lie and cheat to reach their goals When two OpenAI models hacked into Hugging Face last month, they weren’t trying to make money",
-      "theme": "AI + Business",
-      "category": "ai-business",
-      "fetched_at": "2026-08-05T08:12:18.824971"
-    },
-    {
-      "title": "Here’s why AI agents lie and cheat to reach their goals",
-      "url": "https://www.technologyreview.com/2026/08/03/1141009/heres-why-ai-agents-lie-and-cheat-to-reach-their-goals/",
-      "source": "MIT Technology Review - AI",
-      "date": "Mon, 03 Aug 2026 08:30:05 +0000",
-      "synopsis": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of technology to help you understand what’s coming next. You can read more from the series here. When two OpenAI models hacked into the website Hugging Face in July, they weren’t trying to make money or commit sabotage",
-      "theme": "AI + Business",
-      "category": "ai-business",
-      "fetched_at": "2026-08-05T08:12:18.824983"
-    },
-    {
-      "title": "The Download: Montana’s new experimental drug rules",
-      "url": "https://www.technologyreview.com/2026/07/31/1140999/the-download-montanas-right-to-try-law-anthropic-hacks/",
-      "source": "MIT Technology Review - AI",
-      "date": "Fri, 31 Jul 2026 12:16:00 +0000",
-      "synopsis": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Montana’s plan to become an experimental medical hub just pushed forward  As of this week in Montana, biotech companies whose drugs have been through",
-      "theme": "AI + Business",
-      "category": "ai-business",
-      "fetched_at": "2026-08-05T08:12:18.824994"
+      "fetched_at": "2026-08-06T08:11:14.870907"
     },
     {
       "title": "Listen Labs raises $69M after viral billboard hiring stunt to scale AI customer interviews",
@@ -148,9 +148,9 @@
       "synopsis": "<p>Alfred Wahlforss was running out of options. His startup, <a href=\"https://listenlabs.ai/\">Listen Labs</a>, needed to hire over 100 engineers, but competing against Mark Zuckerberg&#x27;s <a href=\"https://news.bloomberglaw.com/employee-benefits/zuckerbergs-100-million-ai-job-offers-pay-off-parmy-",
       "theme": "AI + Business",
       "category": "ai-business",
-      "fetched_at": "2026-08-05T08:12:19.429183"
+      "fetched_at": "2026-08-06T08:11:15.540737"
     }
   ],
-  "last_updated": "2026-08-05T08:12:20.830872",
+  "last_updated": "2026-08-06T08:11:16.807762",
   "total_count": 15
 }
