@@ -8,7 +8,7 @@
       "synopsis": "Ready for a fresh set of puzzles? Click here for the September/October 2026 Puzzle Corner, brought to you by Michael S. Branicky, ScD ’95, of the Puzzle Corner Puzzle Crew (aka PC2), which also includes Edward Faulkner ’03, MEng ’04, and Abe Kunin ’03. This column includes solutions to the May/June",
       "theme": "AI General",
       "category": "ai-business",
-      "fetched_at": "2026-08-09T06:34:36.661349"
+      "fetched_at": "2026-08-10T07:04:10.438727"
     },
     {
       "title": "The Download: NASA’s new telescope and Chinese tech import curbs",
@@ -18,7 +18,7 @@
       "synopsis": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. NASA’s new dark energy space telescope can also detect killer asteroids   At the end of August, NASA is set to launch the Nancy Grace Roman Space Tele",
       "theme": "AI + Business",
       "category": "ai-business",
-      "fetched_at": "2026-08-09T06:34:36.661362"
+      "fetched_at": "2026-08-10T07:04:10.438743"
     },
     {
       "title": "Google just redesigned the search box for the first time in 25 years — here’s why it matters more than you think.",
@@ -28,7 +28,7 @@
       "synopsis": "<p>For a quarter century, the Google search box has been one of the most recognizable interfaces in computing: a thin white rectangle, a blinking cursor, a few typed words, and a list of blue links. On Tuesday, Google will formally retire that paradigm.</p><p>At its annual <a href=\"https://io.google",
       "theme": "AI General",
       "category": "ai-business",
-      "fetched_at": "2026-08-09T06:34:37.329585"
+      "fetched_at": "2026-08-10T07:04:11.252321"
     },
     {
       "title": "Salesforce rolls out new Slackbot AI agent as it battles Microsoft and Google in workplace AI",
@@ -38,7 +38,7 @@
       "synopsis": "<p><a href=\"https://www.salesforce.com/\">Salesforce</a> on Tuesday launched an entirely rebuilt version of <a href=\"https://slack.com/help/articles/202026038-An-introduction-to-Slackbot\">Slackbot</a>, the company&#x27;s workplace assistant, transforming it from a simple notification tool into what e",
       "theme": "AI + Business",
       "category": "ai-business",
-      "fetched_at": "2026-08-09T06:34:37.329625"
+      "fetched_at": "2026-08-10T07:04:11.252389"
     },
     {
       "title": "Railway secures $100 million to challenge AWS with AI-native cloud infrastructure",
@@ -48,7 +48,7 @@
       "synopsis": "<p><a href=\"https://railway.com/\">Railway</a>, a San Francisco-based cloud platform that has quietly amassed two million developers without spending a dollar on marketing, announced Thursday that it raised $100 million in a Series B funding round, as surging demand for artificial intelligence applic",
       "theme": "AI + Business",
       "category": "ai-business",
-      "fetched_at": "2026-08-09T06:34:37.329601"
+      "fetched_at": "2026-08-10T07:04:11.252345"
     },
     {
       "title": "The Download: Google’s AI shake-up and Meta’s rogue model",
@@ -58,7 +58,7 @@
       "synopsis": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Google’s AI empire is being reshaped. Here’s what’s changed. After a wave of painful losses in the tech talent wars, delays to its next flagship model",
       "theme": "AI + Business",
       "category": "ai-business",
-      "fetched_at": "2026-08-09T06:34:36.661326"
+      "fetched_at": "2026-08-10T07:04:10.438686"
     },
     {
       "title": "Claude Code costs up to $200 a month. Goose does the same thing for free.",
@@ -68,7 +68,57 @@
       "synopsis": "<p>The artificial intelligence coding revolution comes with a catch: it&#x27;s expensive.</p><p><a href=\"https://claude.com/product/claude-code\">Claude Code</a>, Anthropic&#x27;s terminal-based AI agent that can write, debug, and deploy code autonomously, has captured the imagination of software dev",
       "theme": "AI + Business",
       "category": "ai-business",
-      "fetched_at": "2026-08-09T06:34:37.329609"
+      "fetched_at": "2026-08-10T07:04:11.252360"
+    },
+    {
+      "title": "Towards Multi-Label Graph Foundation Models: from Single-Vector Representation Learning to Multi-Semantic Basis Learning",
+      "url": "https://arxiv.org/abs/2608.06394",
+      "source": "ArXiv AI",
+      "date": "Mon, 10 Aug 2026 00:00:00 -0400",
+      "synopsis": "arXiv:2608.06394v1 Announce Type: new  Abstract: Multi-label node classification is an important yet challenging task in graph learning, where nodes exhibit multiple semantics simultaneously. Existing methods for multi-label node classification can effectively model multiple labels, while only consi",
+      "theme": "AI Technology",
+      "category": "ai-tech",
+      "fetched_at": "2026-08-10T07:04:12.672615"
+    },
+    {
+      "title": "EntropyMoE: Entropy-Aware Sparse Expert Routing for Tokenizer-Free LLMs",
+      "url": "https://arxiv.org/abs/2608.06398",
+      "source": "ArXiv AI",
+      "date": "Mon, 10 Aug 2026 00:00:00 -0400",
+      "synopsis": "arXiv:2608.06398v1 Announce Type: new  Abstract: Recent byte-level large language models (LLMs) have made tokenizer-free modeling increasingly competitive by grouping bytes into dynamically sized patches. However, existing byte-patch architectures still apply the same dense feed-forward computation",
+      "theme": "AI + Business",
+      "category": "ai-tech",
+      "fetched_at": "2026-08-10T07:04:12.672632"
+    },
+    {
+      "title": "Beyond Routing Weights: Faithful Response-Level Interpretation of Mixture-of-Experts Reward Models via Contribution Contrast",
+      "url": "https://arxiv.org/abs/2608.06400",
+      "source": "ArXiv AI",
+      "date": "Mon, 10 Aug 2026 00:00:00 -0400",
+      "synopsis": "arXiv:2608.06400v1 Announce Type: new  Abstract: Reward models are central to learning from human preferences, yet identifying what drives their predictions remains challenging. Recent sparse Mixture-of-Experts (MoE) reward models seek to improve interpretability by routing prompts to specialized ex",
+      "theme": "AI + Business",
+      "category": "ai-tech",
+      "fetched_at": "2026-08-10T07:04:12.672642"
+    },
+    {
+      "title": "Interpretable Unsupervised Community Detection with LLM-Symbolized Structured Processes",
+      "url": "https://arxiv.org/abs/2608.06402",
+      "source": "ArXiv AI",
+      "date": "Mon, 10 Aug 2026 00:00:00 -0400",
+      "synopsis": "arXiv:2608.06402v1 Announce Type: new  Abstract: Community detection is a fundamental task in graph analytics that aims to identify cohesive groups of entities with similar behaviors or interests. Classic objective-driven methods struggle with complex graph structures, while deep-learning approaches",
+      "theme": "AI + Business",
+      "category": "ai-tech",
+      "fetched_at": "2026-08-10T07:04:12.672650"
+    },
+    {
+      "title": "ADIAS: Automated Design of Interactive Agentic Systems",
+      "url": "https://arxiv.org/abs/2608.06410",
+      "source": "ArXiv AI",
+      "date": "Mon, 10 Aug 2026 00:00:00 -0400",
+      "synopsis": "arXiv:2608.06410v1 Announce Type: new  Abstract: Automated agent design improves agent harnesses through iterative revision, evaluation, and feedback summarization. Existing methods are largely candidate-centric: cross-round experience is organized around candidate agents, which leaves the repair pr",
+      "theme": "AI + Business",
+      "category": "ai-tech",
+      "fetched_at": "2026-08-10T07:04:12.672658"
     },
     {
       "title": "Listen Labs raises $69M after viral billboard hiring stunt to scale AI customer interviews",
@@ -78,7 +128,7 @@
       "synopsis": "<p>Alfred Wahlforss was running out of options. His startup, <a href=\"https://listenlabs.ai/\">Listen Labs</a>, needed to hire over 100 engineers, but competing against Mark Zuckerberg&#x27;s <a href=\"https://news.bloomberglaw.com/employee-benefits/zuckerbergs-100-million-ai-job-offers-pay-off-parmy-",
       "theme": "AI + Business",
       "category": "ai-business",
-      "fetched_at": "2026-08-09T06:34:37.329617"
+      "fetched_at": "2026-08-10T07:04:11.252374"
     },
     {
       "title": "The Download: a censorship conspiracy theory and the first virus created by AI",
@@ -88,7 +138,7 @@
       "synopsis": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. How ideas of a vast censorship network moved from the online fringe to Trump policy For years, narratives about a “censorship-industrial complex” spre",
       "theme": "AI + Business",
       "category": "ai-business",
-      "fetched_at": "2026-08-09T06:34:36.661293"
+      "fetched_at": "2026-08-10T07:04:10.438652"
     },
     {
       "title": "How ideas of a vast censorship network moved from the online fringe to Trump policy",
@@ -98,9 +148,9 @@
       "synopsis": "This article was produced in partnership with Type Investigations, with support from the Wayne Barrett Project. One morning in April 2025, employees of a small office in the US State Department got the email many of them had been dreading.&#160; For months, Elon Musk’s Department of Government Effic",
       "theme": "AI + Business",
       "category": "ai-business",
-      "fetched_at": "2026-08-09T06:34:36.661313"
+      "fetched_at": "2026-08-10T07:04:10.438672"
     }
   ],
-  "last_updated": "2026-08-09T06:34:38.490897",
-  "total_count": 10
+  "last_updated": "2026-08-10T07:04:12.778454",
+  "total_count": 15
 }
