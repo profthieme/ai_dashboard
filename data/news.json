@@ -1,6 +1,56 @@
 {
   "articles": [
     {
+      "title": "Closed-Loop LLM Co-Pilots for Digital Agriculture",
+      "url": "https://arxiv.org/abs/2608.09949",
+      "source": "ArXiv AI",
+      "date": "Wed, 12 Aug 2026 00:00:00 -0400",
+      "synopsis": "arXiv:2608.09949v1 Announce Type: new  Abstract: This study evaluates the application of Large Language Models (LLMs) in complex biological systems, evolving from data analysis to autonomous, AI-guided experimentation. The framework is driven by data from a 49-channel phytosensor network, encompassi",
+      "theme": "AI + Business",
+      "category": "ai-tech",
+      "fetched_at": "2026-08-12T07:03:23.289508"
+    },
+    {
+      "title": "SPOTting the Future: Lookahead Explanations for Deep Reinforcement Learning",
+      "url": "https://arxiv.org/abs/2608.09967",
+      "source": "ArXiv AI",
+      "date": "Wed, 12 Aug 2026 00:00:00 -0400",
+      "synopsis": "arXiv:2608.09967v1 Announce Type: new  Abstract: Deep reinforcement learning (DRL) agents achieve strong performance in complex environments, yet their decision-making processes remain difficult to interpret. We introduce SPOT (Sampling Policy Observation Tree), a novel model-agnostic, sampling-base",
+      "theme": "AI + Business",
+      "category": "ai-tech",
+      "fetched_at": "2026-08-12T07:03:23.289525"
+    },
+    {
+      "title": "MIDAS: Mutual Information Disentanglement with Uncertainty-Aware Fusion for Incomplete Multimodal Sentiment Analysis",
+      "url": "https://arxiv.org/abs/2608.09986",
+      "source": "ArXiv AI",
+      "date": "Wed, 12 Aug 2026 00:00:00 -0400",
+      "synopsis": "arXiv:2608.09986v1 Announce Type: new  Abstract: Most existing multimodal sentiment analysis approaches assume access to complete multimodal inputs. However, real-world applications frequently encounter incomplete or corrupted modalities, posing a critical challenge. Although several methods have be",
+      "theme": "AI + Business",
+      "category": "ai-tech",
+      "fetched_at": "2026-08-12T07:03:23.289532"
+    },
+    {
+      "title": "Towards Sustainable Artificial Intelligence: A Comprehensive Review and Comparative Analysis of Deep Learning Models' Carbon Footprint",
+      "url": "https://arxiv.org/abs/2608.09998",
+      "source": "ArXiv AI",
+      "date": "Wed, 12 Aug 2026 00:00:00 -0400",
+      "synopsis": "arXiv:2608.09998v1 Announce Type: new  Abstract: Artificial Intelligence (AI) and Machine Learning (ML) have become powerful tools for supporting and automating complex human tasks. Despite their benefits, growing attention has been directed toward their environmental implications, primarily due to",
+      "theme": "AI + Business",
+      "category": "ai-tech",
+      "fetched_at": "2026-08-12T07:03:23.289539"
+    },
+    {
+      "title": "ReCBM: Uncertainty-Gated Relational Reasoning for Concept Bottleneck Models",
+      "url": "https://arxiv.org/abs/2608.10004",
+      "source": "ArXiv AI",
+      "date": "Wed, 12 Aug 2026 00:00:00 -0400",
+      "synopsis": "arXiv:2608.10004v1 Announce Type: new  Abstract: Concept Bottleneck Models (CBMs) provide an interpretable framework by grounding predictions in human-understandable concepts, enabling semantic inspection and test-time intervention. Recent variants have improved CBMs through richer concept represent",
+      "theme": "AI + Business",
+      "category": "ai-tech",
+      "fetched_at": "2026-08-12T07:03:23.289545"
+    },
+    {
       "title": "Google just redesigned the search box for the first time in 25 years — here’s why it matters more than you think.",
       "url": "https://venturebeat.com/technology/google-just-redesigned-the-search-box-for-the-first-time-in-25-years-heres-why-it-matters-more-than-you-think",
       "source": "VentureBeat AI",
@@ -8,7 +58,7 @@
       "synopsis": "<p>For a quarter century, the Google search box has been one of the most recognizable interfaces in computing: a thin white rectangle, a blinking cursor, a few typed words, and a list of blue links. On Tuesday, Google will formally retire that paradigm.</p><p>At its annual <a href=\"https://io.google",
       "theme": "AI General",
       "category": "ai-business",
-      "fetched_at": "2026-08-11T06:43:12.638266"
+      "fetched_at": "2026-08-12T07:03:21.840448"
     },
     {
       "title": "Salesforce rolls out new Slackbot AI agent as it battles Microsoft and Google in workplace AI",
@@ -18,57 +68,27 @@
       "synopsis": "<p><a href=\"https://www.salesforce.com/\">Salesforce</a> on Tuesday launched an entirely rebuilt version of <a href=\"https://slack.com/help/articles/202026038-An-introduction-to-Slackbot\">Slackbot</a>, the company&#x27;s workplace assistant, transforming it from a simple notification tool into what e",
       "theme": "AI + Business",
       "category": "ai-business",
-      "fetched_at": "2026-08-11T06:43:12.638307"
+      "fetched_at": "2026-08-12T07:03:21.840488"
     },
     {
-      "title": "Towards an Argumentative Foundation for Evaluative AI",
-      "url": "https://arxiv.org/abs/2608.07473",
-      "source": "ArXiv AI",
-      "date": "Tue, 11 Aug 2026 00:00:00 -0400",
-      "synopsis": "arXiv:2608.07473v1 Announce Type: new  Abstract: Evaluative AI (EAI) has been recently proposed as a way to support human decision-making, not by producing a single recommendation, but by presenting competing hypotheses together with evidence for and against each. In this position paper, we advocate",
-      "theme": "AI + Business",
-      "category": "ai-tech",
-      "fetched_at": "2026-08-11T06:43:14.007266"
-    },
-    {
-      "title": "Flow-by-Flow:Content-Judgment Bypass for Governing AI Output in High-Loss Domains",
-      "url": "https://arxiv.org/abs/2608.07474",
-      "source": "ArXiv AI",
-      "date": "Tue, 11 Aug 2026 00:00:00 -0400",
-      "synopsis": "arXiv:2608.07474v1 Announce Type: new  Abstract: Prior work showed that human-in-the-loop oversight becomes structurally untenable in high-loss domains when AI output velocity V exceeds human cognitive capacity C_max. The operative constraint, however, is not V alone but V x L, where L denotes per-i",
-      "theme": "AI + Business",
-      "category": "ai-tech",
-      "fetched_at": "2026-08-11T06:43:14.007283"
-    },
-    {
-      "title": "Determinization in Structure Theories: A Unified Framework via Closure, Comparability, and Joint Admissibility",
-      "url": "https://arxiv.org/abs/2608.07476",
-      "source": "ArXiv AI",
-      "date": "Tue, 11 Aug 2026 00:00:00 -0400",
-      "synopsis": "arXiv:2608.07476v1 Announce Type: new  Abstract: We develop a formal framework for constructing canonical interpretations from plural structure theories. A structure theory is a triple T = ({\\Sigma}, A, I) consisting of a signature, axioms, and an inference policy, whose admissible interpretation fa",
+      "title": "How the “censorship-industrial complex” is changing the Internet and US policy",
+      "url": "https://www.technologyreview.com/2026/08/11/1141635/how-the-censorship-industrial-complex-is-changing-the-internet-and-us-policy/",
+      "source": "MIT Technology Review - AI",
+      "date": "Tue, 11 Aug 2026 17:58:57 +0000",
+      "synopsis": "I first heard the term “censorship-industrial complex” on April 15, 2025.&#160; That’s when I got the tip that a small office in the U.S. State Department, which focused on monitoring and countering foreign disinformation from the likes of Russia, Iran, and China, was facing imminent shutdown—the ne",
       "theme": "AI General",
-      "category": "ai-tech",
-      "fetched_at": "2026-08-11T06:43:14.007304"
+      "category": "ai-business",
+      "fetched_at": "2026-08-12T07:03:20.770771"
     },
     {
-      "title": "Emotion in an active inference model of human driving",
-      "url": "https://arxiv.org/abs/2608.07480",
-      "source": "ArXiv AI",
-      "date": "Tue, 11 Aug 2026 00:00:00 -0400",
-      "synopsis": "arXiv:2608.07480v1 Announce Type: new  Abstract: Active inference has emerged as a principled framework for modeling adaptive behavior by balancing goal-directed action with uncertainty reduction. It has been successfully applied across biological and artificial systems, including recent work on hum",
+      "title": "The Download: the next big thing in LLMs and how AI academic research is shifting",
+      "url": "https://www.technologyreview.com/2026/08/11/1141610/the-download-next-big-thing-llms-ai-academic-research-shifting/",
+      "source": "MIT Technology Review - AI",
+      "date": "Tue, 11 Aug 2026 12:10:00 +0000",
+      "synopsis": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. These startups are chasing the next big thing in LLMs Nine years after Google researchers introduced the transformer, this family of neural networks h",
       "theme": "AI + Business",
-      "category": "ai-tech",
-      "fetched_at": "2026-08-11T06:43:14.007313"
-    },
-    {
-      "title": "Training Variable Long Sequences with Data-Centric Parallel",
-      "url": "https://arxiv.org/abs/2608.07524",
-      "source": "ArXiv AI",
-      "date": "Tue, 11 Aug 2026 00:00:00 -0400",
-      "synopsis": "arXiv:2608.07524v1 Announce Type: new  Abstract: Training deep learning models on variable long sequences poses significant computational challenges. Existing methods force a difficult trade-off between efficiency and ease-of-use. Simple approaches use static configurations that cause workload imbal",
-      "theme": "AI + Business",
-      "category": "ai-tech",
-      "fetched_at": "2026-08-11T06:43:14.007321"
+      "category": "ai-business",
+      "fetched_at": "2026-08-12T07:03:20.770788"
     },
     {
       "title": "Railway secures $100 million to challenge AWS with AI-native cloud infrastructure",
@@ -78,7 +98,7 @@
       "synopsis": "<p><a href=\"https://railway.com/\">Railway</a>, a San Francisco-based cloud platform that has quietly amassed two million developers without spending a dollar on marketing, announced Thursday that it raised $100 million in a Series B funding round, as surging demand for artificial intelligence applic",
       "theme": "AI + Business",
       "category": "ai-business",
-      "fetched_at": "2026-08-11T06:43:12.638283"
+      "fetched_at": "2026-08-12T07:03:21.840467"
     },
     {
       "title": "Claude Code costs up to $200 a month. Goose does the same thing for free.",
@@ -88,7 +108,7 @@
       "synopsis": "<p>The artificial intelligence coding revolution comes with a catch: it&#x27;s expensive.</p><p><a href=\"https://claude.com/product/claude-code\">Claude Code</a>, Anthropic&#x27;s terminal-based AI agent that can write, debug, and deploy code autonomously, has captured the imagination of software dev",
       "theme": "AI + Business",
       "category": "ai-business",
-      "fetched_at": "2026-08-11T06:43:12.638291"
+      "fetched_at": "2026-08-12T07:03:21.840475"
     },
     {
       "title": "AI professors are negotiating the new realities of academic research",
@@ -98,7 +118,7 @@
       "synopsis": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Last week, I headed 30 miles south of San Francisco to a hotel in Mountain View, California, to join some of the most accomplished, and some of the most promising",
       "theme": "AI + Business",
       "category": "ai-business",
-      "fetched_at": "2026-08-11T06:43:12.133563"
+      "fetched_at": "2026-08-12T07:03:20.770795"
     },
     {
       "title": "The Download: AI agents for science, and the “censorship-industrial complex”",
@@ -108,7 +128,7 @@
       "synopsis": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. AI for science needs reasoning, not just data —Eric Schmidt, the former CEO of Google and the cofounder of Schmidt Sciences, and Suhas Mahesh, who lea",
       "theme": "AI + Business",
       "category": "ai-business",
-      "fetched_at": "2026-08-11T06:43:12.133584"
+      "fetched_at": "2026-08-12T07:03:20.770804"
     },
     {
       "title": "AI for science needs reasoning, not just data",
@@ -118,17 +138,7 @@
       "synopsis": "Every few decades, someone announces that science has reached its end. In 1903, the revered physicist Albert Michelson wrote that the “facts of physical science have all been discovered.” In the 1980s, Stephen Hawking predicted that theoretical physics might be finished by the end of the century. Wi",
       "theme": "AI + Business",
       "category": "ai-business",
-      "fetched_at": "2026-08-11T06:43:12.133597"
-    },
-    {
-      "title": "These startups are chasing the next big thing in LLMs",
-      "url": "https://www.technologyreview.com/2026/08/10/1141511/these-startups-are-chasing-the-next-big-thing-in-llms/",
-      "source": "MIT Technology Review - AI",
-      "date": "Mon, 10 Aug 2026 09:00:00 +0000",
-      "synopsis": "MIT Technology Review’s What’s Next series looks across industries, trends, and technologies to give you a first look at the future. You can read the rest of them&#160;here. Way back in the summer of 2017, AI researchers at Google put out a paper called “Attention Is All You Need,” in which they des",
-      "theme": "AI + Business",
-      "category": "ai-business",
-      "fetched_at": "2026-08-11T06:43:12.133609"
+      "fetched_at": "2026-08-12T07:03:20.770812"
     },
     {
       "title": "Listen Labs raises $69M after viral billboard hiring stunt to scale AI customer interviews",
@@ -138,19 +148,9 @@
       "synopsis": "<p>Alfred Wahlforss was running out of options. His startup, <a href=\"https://listenlabs.ai/\">Listen Labs</a>, needed to hire over 100 engineers, but competing against Mark Zuckerberg&#x27;s <a href=\"https://news.bloomberglaw.com/employee-benefits/zuckerbergs-100-million-ai-job-offers-pay-off-parmy-",
       "theme": "AI + Business",
       "category": "ai-business",
-      "fetched_at": "2026-08-11T06:43:12.638299"
-    },
-    {
-      "title": "The Download: a censorship conspiracy theory and the first virus created by AI",
-      "url": "https://www.technologyreview.com/2026/08/07/1141389/the-download-censorship-conspiracy-theory-first-ai-virus/",
-      "source": "MIT Technology Review - AI",
-      "date": "Fri, 07 Aug 2026 14:20:00 +0000",
-      "synopsis": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. How ideas of a vast censorship network moved from the online fringe to Trump policy For years, narratives about a “censorship-industrial complex” spre",
-      "theme": "AI + Business",
-      "category": "ai-business",
-      "fetched_at": "2026-08-11T06:43:12.133620"
+      "fetched_at": "2026-08-12T07:03:21.840481"
     }
   ],
-  "last_updated": "2026-08-11T06:43:14.065879",
+  "last_updated": "2026-08-12T07:03:23.368787",
   "total_count": 15
 }
