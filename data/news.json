@@ -1,46 +1,6 @@
 {
   "articles": [
     {
-      "title": "Scientists just created female clones of male mice",
-      "url": "https://www.technologyreview.com/2026/08/12/1141768/scientists-just-created-female-clones-of-male-mice/",
-      "source": "MIT Technology Review - AI",
-      "date": "Wed, 12 Aug 2026 18:59:48 +0000",
-      "synopsis": "Scientists have deliberately turned male mouse embryos into females for the first time. A team based in Japan used a CRISPR-based approach to remove the Y chromosome from male cells and create female clones of male mice.&#160; “No one has done this before,” says Monika Ward, a reproductive biologist",
-      "theme": "AI General",
-      "category": "ai-business",
-      "fetched_at": "2026-08-13T07:07:18.641596"
-    },
-    {
-      "title": "Scaling AI agents with trustworthy data",
-      "url": "https://www.technologyreview.com/2026/08/12/1141032/scaling-ai-agents-with-trustworthy-data/",
-      "source": "MIT Technology Review - AI",
-      "date": "Wed, 12 Aug 2026 16:51:57 +0000",
-      "synopsis": "Business and technology leaders need no convincing that the time of agentic AI is here. Organizations are rapidly adopting agents, and few executives doubt the technology’s potential to transform work. But many organizations find that realizing the desired return on investment (ROI) from AI hinges o",
-      "theme": "AI + Business",
-      "category": "ai-business",
-      "fetched_at": "2026-08-13T07:07:18.641620"
-    },
-    {
-      "title": "The Download: our 35 young innovators and the “censorship-industrial complex”",
-      "url": "https://www.technologyreview.com/2026/08/12/1141714/the-download-innovators-under-35-censorship-industrial-complex/",
-      "source": "MIT Technology Review - AI",
-      "date": "Wed, 12 Aug 2026 12:10:00 +0000",
-      "synopsis": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. How we picked 35 of the world’s top young scientists and engineers On September 8, MIT Technology Review will reveal its 2026 list of Innovators Under",
-      "theme": "AI + Business",
-      "category": "ai-business",
-      "fetched_at": "2026-08-13T07:07:18.641634"
-    },
-    {
-      "title": "How we picked 35 of the world’s top young scientists and engineers",
-      "url": "https://www.technologyreview.com/2026/08/12/1141605/2026-innovators-under-35-top-young-scientists-engineers/",
-      "source": "MIT Technology Review - AI",
-      "date": "Wed, 12 Aug 2026 09:08:40 +0000",
-      "synopsis": "Next month, on September 8, MIT Technology Review will reveal its 2026 list of Innovators Under 35, recognizing 35 young people from around the world who are doing groundbreaking scientific work and building clever technical fixes for sticky problems.&#160; By finding the top young innovators global",
-      "theme": "AI + Higher Ed",
-      "category": "ai-business",
-      "fetched_at": "2026-08-13T07:07:18.641651"
-    },
-    {
       "title": "Google just redesigned the search box for the first time in 25 years — here’s why it matters more than you think.",
       "url": "https://venturebeat.com/technology/google-just-redesigned-the-search-box-for-the-first-time-in-25-years-heres-why-it-matters-more-than-you-think",
       "source": "VentureBeat AI",
@@ -48,7 +8,7 @@
       "synopsis": "<p>For a quarter century, the Google search box has been one of the most recognizable interfaces in computing: a thin white rectangle, a blinking cursor, a few typed words, and a list of blue links. On Tuesday, Google will formally retire that paradigm.</p><p>At its annual <a href=\"https://io.google",
       "theme": "AI General",
       "category": "ai-business",
-      "fetched_at": "2026-08-13T07:07:19.321211"
+      "fetched_at": "2026-08-14T07:04:03.827476"
     },
     {
       "title": "Salesforce rolls out new Slackbot AI agent as it battles Microsoft and Google in workplace AI",
@@ -58,17 +18,7 @@
       "synopsis": "<p><a href=\"https://www.salesforce.com/\">Salesforce</a> on Tuesday launched an entirely rebuilt version of <a href=\"https://slack.com/help/articles/202026038-An-introduction-to-Slackbot\">Slackbot</a>, the company&#x27;s workplace assistant, transforming it from a simple notification tool into what e",
       "theme": "AI + Business",
       "category": "ai-business",
-      "fetched_at": "2026-08-13T07:07:19.321259"
-    },
-    {
-      "title": "How the “censorship-industrial complex” is changing the internet and US policy",
-      "url": "https://www.technologyreview.com/2026/08/11/1141635/how-the-censorship-industrial-complex-is-changing-the-internet-and-us-policy/",
-      "source": "MIT Technology Review - AI",
-      "date": "Tue, 11 Aug 2026 17:58:57 +0000",
-      "synopsis": "I first heard the term “censorship-industrial complex” on April 15, 2025.&#160; That’s when I got the tip that a small office in the U.S. State Department, which focused on monitoring and countering foreign disinformation from the likes of Russia, Iran, and China, was facing imminent shutdown—the ne",
-      "theme": "AI General",
-      "category": "ai-business",
-      "fetched_at": "2026-08-13T07:07:18.641671"
+      "fetched_at": "2026-08-14T07:04:03.827517"
     },
     {
       "title": "Railway secures $100 million to challenge AWS with AI-native cloud infrastructure",
@@ -78,57 +28,57 @@
       "synopsis": "<p><a href=\"https://railway.com/\">Railway</a>, a San Francisco-based cloud platform that has quietly amassed two million developers without spending a dollar on marketing, announced Thursday that it raised $100 million in a Series B funding round, as surging demand for artificial intelligence applic",
       "theme": "AI + Business",
       "category": "ai-business",
-      "fetched_at": "2026-08-13T07:07:19.321233"
+      "fetched_at": "2026-08-14T07:04:03.827492"
     },
     {
-      "title": "Dynamic Governance of Multi-LLM Agent Systems for Collaborative Conversational Outcomes",
-      "url": "https://arxiv.org/abs/2608.11207",
-      "source": "ArXiv AI",
-      "date": "Thu, 13 Aug 2026 00:00:00 -0400",
-      "synopsis": "arXiv:2608.11207v1 Announce Type: new  Abstract: When two LLM agents with structurally opposed objectives interact across multiple turns, the absence of a shared goal function produces not competition but collapse: the visitor capitulates, the site agent stops varying its approach, and the conversat",
-      "theme": "AI + Business",
-      "category": "ai-tech",
-      "fetched_at": "2026-08-13T07:07:20.720458"
-    },
-    {
-      "title": "Distribird: Literature-Informed Prior Distribution Design for Bayesian Model Calibration",
-      "url": "https://arxiv.org/abs/2608.11210",
-      "source": "ArXiv AI",
-      "date": "Thu, 13 Aug 2026 00:00:00 -0400",
-      "synopsis": "arXiv:2608.11210v1 Announce Type: new  Abstract: Bayesian calibration of process-based models requires a prior distribution for each model parameter. Despite decades of methodological work, researchers almost always fall back on uniform priors. The main reason is that building informative priors fro",
-      "theme": "AI + Business",
-      "category": "ai-tech",
-      "fetched_at": "2026-08-13T07:07:20.720480"
-    },
-    {
-      "title": "A Forced-Structure Reduction and Verifiable Bounds for Conway's 99-Graph",
-      "url": "https://arxiv.org/abs/2608.11211",
-      "source": "ArXiv AI",
-      "date": "Thu, 13 Aug 2026 00:00:00 -0400",
-      "synopsis": "arXiv:2608.11211v1 Announce Type: new  Abstract: Conway's 99-graph problem asks whether a strongly regular graph with parameters $\\mathrm{srg}(99,14,1,2)$ exists. We report a systematic, fully reproducible attack by an autonomous AI research agent, scored under the track's partial-credit metric. Our",
-      "theme": "AI + Business",
-      "category": "ai-tech",
-      "fetched_at": "2026-08-13T07:07:20.720490"
-    },
-    {
-      "title": "Detecting a Route Flip Is Easier Than Knowing Whether to Fix It: Causal Route-Mediated Damage in Quantized Mixture-of-Experts",
-      "url": "https://arxiv.org/abs/2608.11212",
-      "source": "ArXiv AI",
-      "date": "Thu, 13 Aug 2026 00:00:00 -0400",
-      "synopsis": "arXiv:2608.11212v1 Announce Type: new  Abstract: Top-k Mixture-of-Experts (MoE) routing is discontinuous, so a deployment-motivated numerical disturbance -- simulated 4-bit KV-cache quantization read by a protected BF16 gate -- pushes tokens across decision boundaries and flips which experts fire. T",
+      "title": "Roundtables: Inside the “Censorship-Industrial Complex” Idea Shaping US Policy",
+      "url": "https://www.technologyreview.com/2026/08/13/1141399/roundtables-inside-the-censorship-industrial-complex-idea-shaping-us-policy/",
+      "source": "MIT Technology Review - AI",
+      "date": "Thu, 13 Aug 2026 21:00:00 +0000",
+      "synopsis": "Listen to the session or watch below The “censorship-industrial complex” is an idea that a network of government, tech, and research groups is collaborating to suppress conservative online speech. This was fodder for the right-wing information sphere for years—then it began making its way into US po",
       "theme": "AI General",
-      "category": "ai-tech",
-      "fetched_at": "2026-08-13T07:07:20.720512"
+      "category": "ai-business",
+      "fetched_at": "2026-08-14T07:04:03.263523"
     },
     {
-      "title": "Poor Man's Agentic Modeling: Simulating Large LLM-Agent Societies on a Laptop",
-      "url": "https://arxiv.org/abs/2608.11215",
-      "source": "ArXiv AI",
-      "date": "Thu, 13 Aug 2026 00:00:00 -0400",
-      "synopsis": "arXiv:2608.11215v1 Announce Type: new  Abstract: Simulating societies of many large language model (LLM) agents is expensive, yet the questions asked of such simulations are usually macroscopic: phase behaviour, stylised facts, and scaling with the number of agents $N$, not the cognition of any sing",
+      "title": "Building a practical path to post-quantum cryptography",
+      "url": "https://www.technologyreview.com/2026/08/13/1141041/building-a-practical-path-to-post-quantum-cryptography/",
+      "source": "MIT Technology Review - AI",
+      "date": "Thu, 13 Aug 2026 18:11:42 +0000",
+      "synopsis": "Quantum computing has alternated between breakthrough darling and overhyped promise in technology circles. Its powerful new capabilities come with a threat to break current cryptography, but for business leaders navigating the noise, the signal should be clear: post-quantum cryptography (PQC) is a m",
+      "theme": "AI + Higher Ed",
+      "category": "ai-business",
+      "fetched_at": "2026-08-14T07:04:03.263544"
+    },
+    {
+      "title": "Flock is tightening its rules in response to a growing surveillance backlash",
+      "url": "https://www.technologyreview.com/2026/08/13/1141904/flock-is-tightening-its-rules-in-response-to-a-growing-surveillance-backlash/",
+      "source": "MIT Technology Review - AI",
+      "date": "Thu, 13 Aug 2026 13:41:10 +0000",
+      "synopsis": "The police-tech giant Flock is announcing today that it will change officers’ access to its nationwide network of license plate readers, in an apparent effort to quell a growing backlash and win back contracts lost amid concerns about mass surveillance and police abuse. Several changes aim directly",
       "theme": "AI + Business",
-      "category": "ai-tech",
-      "fetched_at": "2026-08-13T07:07:20.720521"
+      "category": "ai-business",
+      "fetched_at": "2026-08-14T07:04:03.263558"
+    },
+    {
+      "title": "The Download: kids’ thoughts on AI, and female clones of male mice",
+      "url": "https://www.technologyreview.com/2026/08/13/1141896/the-download-kids-thoughts-on-ai-female-clones-male-mice/",
+      "source": "MIT Technology Review - AI",
+      "date": "Thu, 13 Aug 2026 12:10:00 +0000",
+      "synopsis": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. How kids feel about AI, in their own words —Jen Swetzoff and Keeley McNamara, the founding editors of Anyway, an independent print magazine for tweens",
+      "theme": "AI + Business",
+      "category": "ai-business",
+      "fetched_at": "2026-08-14T07:04:03.263570"
+    },
+    {
+      "title": "What’s behind this summer’s heat, and why 2027 could be worse",
+      "url": "https://www.technologyreview.com/2026/08/13/1141788/summer-heat-el-nino/",
+      "source": "MIT Technology Review - AI",
+      "date": "Thu, 13 Aug 2026 10:00:00 +0000",
+      "synopsis": "This summer has been a scorcher for much of the Northern Hemisphere. June and July marked the hottest two-month stretch in Europe since record-keeping began. The contiguous US endured its hottest month on record in July. South Korea saw its highest-ever recorded temperature.   The heat isn’t over ye",
+      "theme": "AI General",
+      "category": "ai-business",
+      "fetched_at": "2026-08-14T07:04:03.263590"
     },
     {
       "title": "Claude Code costs up to $200 a month. Goose does the same thing for free.",
@@ -138,7 +88,7 @@
       "synopsis": "<p>The artificial intelligence coding revolution comes with a catch: it&#x27;s expensive.</p><p><a href=\"https://claude.com/product/claude-code\">Claude Code</a>, Anthropic&#x27;s terminal-based AI agent that can write, debug, and deploy code autonomously, has captured the imagination of software dev",
       "theme": "AI + Business",
       "category": "ai-business",
-      "fetched_at": "2026-08-13T07:07:19.321243"
+      "fetched_at": "2026-08-14T07:04:03.827501"
     },
     {
       "title": "Listen Labs raises $69M after viral billboard hiring stunt to scale AI customer interviews",
@@ -148,9 +98,59 @@
       "synopsis": "<p>Alfred Wahlforss was running out of options. His startup, <a href=\"https://listenlabs.ai/\">Listen Labs</a>, needed to hire over 100 engineers, but competing against Mark Zuckerberg&#x27;s <a href=\"https://news.bloomberglaw.com/employee-benefits/zuckerbergs-100-million-ai-job-offers-pay-off-parmy-",
       "theme": "AI + Business",
       "category": "ai-business",
-      "fetched_at": "2026-08-13T07:07:19.321251"
+      "fetched_at": "2026-08-14T07:04:03.827509"
+    },
+    {
+      "title": "Position: Reasoning is a Learnable Rule-Based Process",
+      "url": "https://arxiv.org/abs/2608.12325",
+      "source": "ArXiv AI",
+      "date": "Fri, 14 Aug 2026 00:00:00 -0400",
+      "synopsis": "arXiv:2608.12325v1 Announce Type: new  Abstract: Autonomous reasoning is among the most scientifically and economically motivating topics in AI today. Historically the purview of symbolic AI, recent advances have mainly emerged from deep probabilistic generative models. Despite immense interest and",
+      "theme": "AI + Business",
+      "category": "ai-tech",
+      "fetched_at": "2026-08-14T07:04:05.058754"
+    },
+    {
+      "title": "Diagnostic Foundation for Evaluating LLMs' Research Integrity as Co-Scientists",
+      "url": "https://arxiv.org/abs/2608.12345",
+      "source": "ArXiv AI",
+      "date": "Fri, 14 Aug 2026 00:00:00 -0400",
+      "synopsis": "arXiv:2608.12345v1 Announce Type: new  Abstract: Language models are increasingly deployed as co-scientists, yet their ability to uphold research integrity under institutional pressure remains unmeasured. We introduce IntegrityBench, a benchmark evaluating misconduct classification, ethical action r",
+      "theme": "AI + Business",
+      "category": "ai-tech",
+      "fetched_at": "2026-08-14T07:04:05.058769"
+    },
+    {
+      "title": "Position: The Alignment Community is Unintentionally Building a Censor's Toolkit",
+      "url": "https://arxiv.org/abs/2608.12346",
+      "source": "ArXiv AI",
+      "date": "Fri, 14 Aug 2026 00:00:00 -0400",
+      "synopsis": "arXiv:2608.12346v1 Announce Type: new  Abstract: This position paper argues that modern AI alignment methods - originally designed to prevent harmful output - are dual-use technologies that may easily be misused by malicious actors for censorship and manipulation. By mapping current alignment techni",
+      "theme": "AI + Business",
+      "category": "ai-tech",
+      "fetched_at": "2026-08-14T07:04:05.058778"
+    },
+    {
+      "title": "Agreement Is Not Alignment: Divergent Moral Grounds in Human and LLM Ethical Judgments",
+      "url": "https://arxiv.org/abs/2608.12368",
+      "source": "ArXiv AI",
+      "date": "Fri, 14 Aug 2026 00:00:00 -0400",
+      "synopsis": "arXiv:2608.12368v1 Announce Type: new  Abstract: Agreement with human judgments is a common proxy for evaluating the alignment of large language models (LLMs). Yet agreement in final labels does not show that human annotators and models rely on the same moral grounds. Two agents may reach the same j",
+      "theme": "AI + Business",
+      "category": "ai-tech",
+      "fetched_at": "2026-08-14T07:04:05.058787"
+    },
+    {
+      "title": "Multi-Agent Scheduling with LLM-Assisted Contract Net Negotiation for Stream Processing in Mobile Edge Computing",
+      "url": "https://arxiv.org/abs/2608.12371",
+      "source": "ArXiv AI",
+      "date": "Fri, 14 Aug 2026 00:00:00 -0400",
+      "synopsis": "arXiv:2608.12371v1 Announce Type: new  Abstract: Stream-processing systems increasingly operate across heterogeneous mobile edge--cloud infrastructures, where workload volatility, resource contention, and stringent quality-of-service (QoS) requirements complicate decentralized scheduling. This paper",
+      "theme": "AI + Business",
+      "category": "ai-tech",
+      "fetched_at": "2026-08-14T07:04:05.058796"
     }
   ],
-  "last_updated": "2026-08-13T07:07:20.783490",
+  "last_updated": "2026-08-14T07:04:05.089939",
   "total_count": 15
 }
