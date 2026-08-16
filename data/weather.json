@@ -1,6 +1,6 @@
 {
-  "dateutc": 1786851540000,
-  "winddir": 156,
+  "dateutc": 1786854300000,
+  "winddir": 138,
   "windspeedmph": 0,
   "windgustmph": 0,
   "maxdailygust": 10.3,
@@ -11,18 +11,18 @@
   "weeklyrainin": 0.33,
   "monthlyrainin": 0.33,
   "totalrainin": 236.22,
-  "baromrelin": 29.91,
+  "baromrelin": 29.9,
   "baromabsin": 29.8,
   "humidity": 74,
-  "tempinf": 73.8,
-  "humidityin": 48,
+  "tempinf": 74.1,
+  "humidityin": 47,
   "uv": 0,
   "solarradiation": 0,
   "feelsLike": 93.51,
   "dewPoint": 75.47,
-  "feelsLikein": 73.1,
-  "dewPointin": 52.9,
+  "feelsLikein": 73.4,
+  "dewPointin": 52.6,
   "lastRain": "2026-08-09T22:26:00.000Z",
   "tz": "America/Chicago",
-  "date": "2026-08-16T03:39:00.000Z"
+  "date": "2026-08-16T04:25:00.000Z"
 }
