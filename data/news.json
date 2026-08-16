@@ -8,7 +8,7 @@
       "synopsis": "<p>For a quarter century, the Google search box has been one of the most recognizable interfaces in computing: a thin white rectangle, a blinking cursor, a few typed words, and a list of blue links. On Tuesday, Google will formally retire that paradigm.</p><p>At its annual <a href=\"https://io.google",
       "theme": "AI General",
       "category": "ai-business",
-      "fetched_at": "2026-08-15T06:16:37.132874"
+      "fetched_at": "2026-08-16T06:18:28.117372"
     },
     {
       "title": "Salesforce rolls out new Slackbot AI agent as it battles Microsoft and Google in workplace AI",
@@ -18,7 +18,7 @@
       "synopsis": "<p><a href=\"https://www.salesforce.com/\">Salesforce</a> on Tuesday launched an entirely rebuilt version of <a href=\"https://slack.com/help/articles/202026038-An-introduction-to-Slackbot\">Slackbot</a>, the company&#x27;s workplace assistant, transforming it from a simple notification tool into what e",
       "theme": "AI + Business",
       "category": "ai-business",
-      "fetched_at": "2026-08-15T06:16:37.132921"
+      "fetched_at": "2026-08-16T06:18:28.117417"
     },
     {
       "title": "Railway secures $100 million to challenge AWS with AI-native cloud infrastructure",
@@ -28,7 +28,7 @@
       "synopsis": "<p><a href=\"https://railway.com/\">Railway</a>, a San Francisco-based cloud platform that has quietly amassed two million developers without spending a dollar on marketing, announced Thursday that it raised $100 million in a Series B funding round, as surging demand for artificial intelligence applic",
       "theme": "AI + Business",
       "category": "ai-business",
-      "fetched_at": "2026-08-15T06:16:37.132896"
+      "fetched_at": "2026-08-16T06:18:28.117391"
     },
     {
       "title": "Roundtables: Inside the “Censorship-Industrial Complex” Idea Shaping US Policy",
@@ -38,57 +38,7 @@
       "synopsis": "Listen to the session or watch below The “censorship-industrial complex” is an idea that a network of government, tech, and research groups is collaborating to suppress conservative online speech. This was fodder for the right-wing information sphere for years—then it began making its way into US po",
       "theme": "AI General",
       "category": "ai-business",
-      "fetched_at": "2026-08-15T06:16:36.570028"
-    },
-    {
-      "title": "Position: Reasoning is a Learnable Rule-Based Process",
-      "url": "https://arxiv.org/abs/2608.12325",
-      "source": "ArXiv AI",
-      "date": "Sat, 15 Aug 2026 00:00:00 -0400",
-      "synopsis": "arXiv:2608.12325v1 Announce Type: new  Abstract: Autonomous reasoning is among the most scientifically and economically motivating topics in AI today. Historically the purview of symbolic AI, recent advances have mainly emerged from deep probabilistic generative models. Despite immense interest and",
-      "theme": "AI + Business",
-      "category": "ai-tech",
-      "fetched_at": "2026-08-15T06:16:38.409137"
-    },
-    {
-      "title": "Diagnostic Foundation for Evaluating LLMs' Research Integrity as Co-Scientists",
-      "url": "https://arxiv.org/abs/2608.12345",
-      "source": "ArXiv AI",
-      "date": "Sat, 15 Aug 2026 00:00:00 -0400",
-      "synopsis": "arXiv:2608.12345v1 Announce Type: new  Abstract: Language models are increasingly deployed as co-scientists, yet their ability to uphold research integrity under institutional pressure remains unmeasured. We introduce IntegrityBench, a benchmark evaluating misconduct classification, ethical action r",
-      "theme": "AI + Business",
-      "category": "ai-tech",
-      "fetched_at": "2026-08-15T06:16:38.409158"
-    },
-    {
-      "title": "Position: The Alignment Community is Unintentionally Building a Censor's Toolkit",
-      "url": "https://arxiv.org/abs/2608.12346",
-      "source": "ArXiv AI",
-      "date": "Sat, 15 Aug 2026 00:00:00 -0400",
-      "synopsis": "arXiv:2608.12346v1 Announce Type: new  Abstract: This position paper argues that modern AI alignment methods - originally designed to prevent harmful output - are dual-use technologies that may easily be misused by malicious actors for censorship and manipulation. By mapping current alignment techni",
-      "theme": "AI + Business",
-      "category": "ai-tech",
-      "fetched_at": "2026-08-15T06:16:38.409168"
-    },
-    {
-      "title": "Agreement Is Not Alignment: Divergent Moral Grounds in Human and LLM Ethical Judgments",
-      "url": "https://arxiv.org/abs/2608.12368",
-      "source": "ArXiv AI",
-      "date": "Sat, 15 Aug 2026 00:00:00 -0400",
-      "synopsis": "arXiv:2608.12368v1 Announce Type: new  Abstract: Agreement with human judgments is a common proxy for evaluating the alignment of large language models (LLMs). Yet agreement in final labels does not show that human annotators and models rely on the same moral grounds. Two agents may reach the same j",
-      "theme": "AI + Business",
-      "category": "ai-tech",
-      "fetched_at": "2026-08-15T06:16:38.409178"
-    },
-    {
-      "title": "Multi-Agent Scheduling with LLM-Assisted Contract Net Negotiation for Stream Processing in Mobile Edge Computing",
-      "url": "https://arxiv.org/abs/2608.12371",
-      "source": "ArXiv AI",
-      "date": "Sat, 15 Aug 2026 00:00:00 -0400",
-      "synopsis": "arXiv:2608.12371v1 Announce Type: new  Abstract: Stream-processing systems increasingly operate across heterogeneous mobile edge--cloud infrastructures, where workload volatility, resource contention, and stringent quality-of-service (QoS) requirements complicate decentralized scheduling. This paper",
-      "theme": "AI + Business",
-      "category": "ai-tech",
-      "fetched_at": "2026-08-15T06:16:38.409187"
+      "fetched_at": "2026-08-16T06:18:27.373141"
     },
     {
       "title": "Claude Code costs up to $200 a month. Goose does the same thing for free.",
@@ -98,7 +48,7 @@
       "synopsis": "<p>The artificial intelligence coding revolution comes with a catch: it&#x27;s expensive.</p><p><a href=\"https://claude.com/product/claude-code\">Claude Code</a>, Anthropic&#x27;s terminal-based AI agent that can write, debug, and deploy code autonomously, has captured the imagination of software dev",
       "theme": "AI + Business",
       "category": "ai-business",
-      "fetched_at": "2026-08-15T06:16:37.132905"
+      "fetched_at": "2026-08-16T06:18:28.117401"
     },
     {
       "title": "Listen Labs raises $69M after viral billboard hiring stunt to scale AI customer interviews",
@@ -108,7 +58,7 @@
       "synopsis": "<p>Alfred Wahlforss was running out of options. His startup, <a href=\"https://listenlabs.ai/\">Listen Labs</a>, needed to hire over 100 engineers, but competing against Mark Zuckerberg&#x27;s <a href=\"https://news.bloomberglaw.com/employee-benefits/zuckerbergs-100-million-ai-job-offers-pay-off-parmy-",
       "theme": "AI + Business",
       "category": "ai-business",
-      "fetched_at": "2026-08-15T06:16:37.132913"
+      "fetched_at": "2026-08-16T06:18:28.117409"
     },
     {
       "title": "The Download: Flock’s new rules, cloning’s future, and children’s cells",
@@ -118,7 +68,7 @@
       "synopsis": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Flock is tightening its rules in response to a growing surveillance backlash The police-tech giant Flock is changing officers’ access to its nationwid",
       "theme": "AI + Business",
       "category": "ai-business",
-      "fetched_at": "2026-08-15T06:16:36.569939"
+      "fetched_at": "2026-08-16T06:18:27.373055"
     },
     {
       "title": "This scientist is helping build a missing map of childhood",
@@ -128,7 +78,7 @@
       "synopsis": "In 2017, Deanne Taylor attended a presentation at the University of Pennsylvania, just a short walk from her office. A researcher was there to unveil the Human Cell Atlas, an ambitious project that aimed to map every cell in the human body. Taylor was floored, and then concerned. As details emerged,",
       "theme": "AI + Business",
       "category": "ai-business",
-      "fetched_at": "2026-08-15T06:16:36.569961"
+      "fetched_at": "2026-08-16T06:18:27.373074"
     },
     {
       "title": "Job titles of the future: Space travel agent",
@@ -138,7 +88,7 @@
       "synopsis": "Roman Chiporukha has long turned wild travel dreams into reality. Over two decades as co-owner of the luxury lifestyle firm Roman &#38; Erica, he has orchestrated everything from the construction of a client’s superyacht to vacations in the Bahamas at a location so private that guests must sign an N",
       "theme": "AI General",
       "category": "ai-business",
-      "fetched_at": "2026-08-15T06:16:36.569989"
+      "fetched_at": "2026-08-16T06:18:27.373102"
     },
     {
       "title": "Cloning could be used to save species—or make human “organ sacks”",
@@ -148,9 +98,9 @@
       "synopsis": "This week I spoke to scientists who have found a way to turn male mouse embryos female. They’ve developed a CRISPR-based approach to essentially cut out the Y chromosome. It allowed them to create female clones of male mice. That’s right: female animals that are genetically identical to males, excep",
       "theme": "AI General",
       "category": "ai-business",
-      "fetched_at": "2026-08-15T06:16:36.570010"
+      "fetched_at": "2026-08-16T06:18:27.373122"
     }
   ],
-  "last_updated": "2026-08-15T06:16:38.561205",
-  "total_count": 15
+  "last_updated": "2026-08-16T06:18:29.489309",
+  "total_count": 10
 }
