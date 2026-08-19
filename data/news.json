@@ -1,6 +1,56 @@
 {
   "articles": [
     {
+      "title": "GxP-Agent: Process-DAG Topology for Reliable Clinical Trial Programming with LLM Agents",
+      "url": "https://arxiv.org/abs/2608.16890",
+      "source": "ArXiv AI",
+      "date": "Wed, 19 Aug 2026 00:00:00 -0400",
+      "synopsis": "arXiv:2608.16890v1 Announce Type: new  Abstract: Clinical trial programming -- transforming study protocols into analysis-ready datasets under CDISC standards -- is a bottleneck in regulatory submissions, yet LLM-based code generation fails catastrophically on this task: across 11 single-shot attemp",
+      "theme": "AI + Business",
+      "category": "ai-tech",
+      "fetched_at": "2026-08-19T06:22:04.359603"
+    },
+    {
+      "title": "Runtime Governance for Agentic AI: Action-Boundary Control with Trusted Provenance and Fail-Closed Execution",
+      "url": "https://arxiv.org/abs/2608.16891",
+      "source": "ArXiv AI",
+      "date": "Wed, 19 Aug 2026 00:00:00 -0400",
+      "synopsis": "arXiv:2608.16891v1 Announce Type: new  Abstract: Agentic AI systems request tool actions that can modify files, send messages, launch jobs, or change workflow state. This shifts the safety problem from harmful text generation to harmful operational side effects. Prompt-level governance can shape mod",
+      "theme": "AI + Business",
+      "category": "ai-tech",
+      "fetched_at": "2026-08-19T06:22:04.359621"
+    },
+    {
+      "title": "The Price of Thinking: Reasoning Effort as a Model-Specific API Contract",
+      "url": "https://arxiv.org/abs/2608.16956",
+      "source": "ArXiv AI",
+      "date": "Wed, 19 Aug 2026 00:00:00 -0400",
+      "synopsis": "arXiv:2608.16956v1 Announce Type: new  Abstract: API buyers purchase a dated contract, not a model name alone: the contract includes the requested and served model, reasoning-effort term or its omission, output rail, service product, prompt, and price schedule. We study the reasoning-effort term thr",
+      "theme": "AI + Business",
+      "category": "ai-tech",
+      "fetched_at": "2026-08-19T06:22:04.359630"
+    },
+    {
+      "title": "FedPref: Federated Preference Learning for Structured Radiology Report Extraction",
+      "url": "https://arxiv.org/abs/2608.16971",
+      "source": "ArXiv AI",
+      "date": "Wed, 19 Aug 2026 00:00:00 -0400",
+      "synopsis": "arXiv:2608.16971v1 Announce Type: new  Abstract: Radiology reports describe findings and locations in free text, but downstream search and analysis require these relations in a fixed schema. Learning this extraction requires labels that are unevenly distributed across institutions: smaller hospitals",
+      "theme": "AI General",
+      "category": "ai-tech",
+      "fetched_at": "2026-08-19T06:22:04.359651"
+    },
+    {
+      "title": "The Problem Is the Problem: Towards Scalable Mathematical Discovery",
+      "url": "https://arxiv.org/abs/2608.16977",
+      "source": "ArXiv AI",
+      "date": "Wed, 19 Aug 2026 00:00:00 -0400",
+      "synopsis": "arXiv:2608.16977v1 Announce Type: new  Abstract: AI systems are increasingly capable of contributing to mathematical research. In research practice, frontier-model reasoning is a limited resource, and expert mathematical review is even more sharply constrained. Allocating these scarce resources well",
+      "theme": "AI + Business",
+      "category": "ai-tech",
+      "fetched_at": "2026-08-19T06:22:04.359659"
+    },
+    {
       "title": "Google just redesigned the search box for the first time in 25 years — here’s why it matters more than you think.",
       "url": "https://venturebeat.com/technology/google-just-redesigned-the-search-box-for-the-first-time-in-25-years-heres-why-it-matters-more-than-you-think",
       "source": "VentureBeat AI",
@@ -8,57 +58,47 @@
       "synopsis": "<p>For a quarter century, the Google search box has been one of the most recognizable interfaces in computing: a thin white rectangle, a blinking cursor, a few typed words, and a list of blue links. On Tuesday, Google will formally retire that paradigm.</p><p>At its annual <a href=\"https://io.google",
       "theme": "AI General",
       "category": "ai-business",
-      "fetched_at": "2026-08-18T06:20:56.964698"
+      "fetched_at": "2026-08-19T06:22:02.831529"
     },
     {
-      "title": "FLOPs vs Real Work: The Importance of Replication in AI Efficiency Assessment",
-      "url": "https://arxiv.org/abs/2608.14550",
-      "source": "ArXiv AI",
-      "date": "Tue, 18 Aug 2026 00:00:00 -0400",
-      "synopsis": "arXiv:2608.14550v1 Announce Type: new  Abstract: AI efficiency has recently taken the spotlight in both academy and industry due to massive model scales, high energy demands, and environmental costs. While reporting Floating Point Operations (FLOPs) is a traditional approach for assessing computatio",
+      "title": "The Download: how people really use AI, and Flock’s design choices",
+      "url": "https://www.technologyreview.com/2026/08/18/1142229/the-download-how-people-use-ai-flock-cameras-design/",
+      "source": "MIT Technology Review - AI",
+      "date": "Tue, 18 Aug 2026 12:10:00 +0000",
+      "synopsis": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. We still don’t know how people are really using AI AI companies like Anthropic and OpenAI regularly publish reports on how people are using their prod",
       "theme": "AI + Business",
-      "category": "ai-tech",
-      "fetched_at": "2026-08-18T06:20:59.159148"
+      "category": "ai-business",
+      "fetched_at": "2026-08-19T06:22:02.045066"
     },
     {
-      "title": "Large Language Models Show Metacognitive Sensitivity in Medical Reasoning",
-      "url": "https://arxiv.org/abs/2608.14552",
-      "source": "ArXiv AI",
-      "date": "Tue, 18 Aug 2026 00:00:00 -0400",
-      "synopsis": "arXiv:2608.14552v1 Announce Type: new  Abstract: Large language models (LLMs) are increasingly evaluated and used in medicine, but clinical usefulness depends on answer accuracy and whether confidence tracks evidence quality and uncertainty. We developed a controlled, psychophysics-inspired clinical",
+      "title": "We still don’t know how people are really using AI",
+      "url": "https://www.technologyreview.com/2026/08/18/1142226/how-people-use-ai/",
+      "source": "MIT Technology Review - AI",
+      "date": "Tue, 18 Aug 2026 10:06:43 +0000",
+      "synopsis": "AI companies like Anthropic and OpenAI regularly publish reports on how people are using products like Claude and ChatGPT, but they only release the data they want us to see, AI researchers say.&#160; “There is no independent source to corroborate it,” says Anka Reuel, a computer science PhD candida",
       "theme": "AI + Business",
-      "category": "ai-tech",
-      "fetched_at": "2026-08-18T06:20:59.159169"
+      "category": "ai-business",
+      "fetched_at": "2026-08-19T06:22:02.045087"
     },
     {
-      "title": "The Unwritten Benchmark: A New Challenge for Multimodal Machine Learning in Abstract Perceptual Reasoning",
-      "url": "https://arxiv.org/abs/2608.14558",
-      "source": "ArXiv AI",
-      "date": "Tue, 18 Aug 2026 00:00:00 -0400",
-      "synopsis": "arXiv:2608.14558v1 Announce Type: new  Abstract: Current multimodal models have demonstrated remarkable proficiency in recognizing static visual and auditory content. However, their capacity for abstract perceptual reasoning, inferring unseen information from dynamic, generative processes, remains a",
-      "theme": "AI + Business",
-      "category": "ai-tech",
-      "fetched_at": "2026-08-18T06:20:59.159179"
-    },
-    {
-      "title": "When to Communicate: Belief Distributions and KL Divergence for Principled Gating in Multi-Agent RL",
-      "url": "https://arxiv.org/abs/2608.14559",
-      "source": "ArXiv AI",
-      "date": "Tue, 18 Aug 2026 00:00:00 -0400",
-      "synopsis": "arXiv:2608.14559v1 Announce Type: new  Abstract: Effective communication in multi-agent reinforcement learning requires agents to decide not only \\textit{what} to communicate, but when? Existing approaches either communicate at every timestep or learn a binary gate through REINFORCE policy gradients",
+      "title": "The role of the astronaut is in flux",
+      "url": "https://www.technologyreview.com/2026/08/18/1141614/book-review-astronaut-role-in-flux/",
+      "source": "MIT Technology Review - AI",
+      "date": "Tue, 18 Aug 2026 09:00:00 +0000",
+      "synopsis": "When the four astronauts on board NASA’s Artemis II swung around the moon earlier this year, they set a new record for the farthest humans have ever ventured from Earth, surpassing the distance set by Apollo 13 in 1972 by some 4,000 miles.&#160; While no space mission can live up to the historic tou",
       "theme": "AI General",
-      "category": "ai-tech",
-      "fetched_at": "2026-08-18T06:20:59.159203"
+      "category": "ai-business",
+      "fetched_at": "2026-08-19T06:22:02.045114"
     },
     {
-      "title": "Global AI Regulations for FAIR and Ethics in High-Risk Use Cases: A Comparative Review",
-      "url": "https://arxiv.org/abs/2608.14562",
-      "source": "ArXiv AI",
-      "date": "Tue, 18 Aug 2026 00:00:00 -0400",
-      "synopsis": "arXiv:2608.14562v1 Announce Type: new  Abstract: AI governance is shifting from voluntary ethics to enforceable, risk-based regulation, yet cross-jurisdictional divergence creates compliance uncertainty for operators of high-stakes AI. We present a comparative matrix for the EU, US, and China that m",
+      "title": "AI’s recursive self-improvement might not come so quickly after all",
+      "url": "https://www.technologyreview.com/2026/08/18/1142188/ai-recursive-self-improvement/",
+      "source": "MIT Technology Review - AI",
+      "date": "Tue, 18 Aug 2026 09:00:00 +0000",
+      "synopsis": "The AI industry’s boldest promise right now is that AI will soon improve itself, with almost no need for human oversight. LLMs can already write code, generate synthetic data for training, and optimize the computer chips they run on. Forecasts of explosive AI progress predict that what researchers c",
       "theme": "AI + Business",
-      "category": "ai-tech",
-      "fetched_at": "2026-08-18T06:20:59.159210"
+      "category": "ai-business",
+      "fetched_at": "2026-08-19T06:22:02.045125"
     },
     {
       "title": "Salesforce rolls out new Slackbot AI agent as it battles Microsoft and Google in workplace AI",
@@ -68,7 +108,7 @@
       "synopsis": "<p><a href=\"https://www.salesforce.com/\">Salesforce</a> on Tuesday launched an entirely rebuilt version of <a href=\"https://slack.com/help/articles/202026038-An-introduction-to-Slackbot\">Slackbot</a>, the company&#x27;s workplace assistant, transforming it from a simple notification tool into what e",
       "theme": "AI + Business",
       "category": "ai-business",
-      "fetched_at": "2026-08-18T06:20:56.964742"
+      "fetched_at": "2026-08-19T06:22:02.831575"
     },
     {
       "title": "Railway secures $100 million to challenge AWS with AI-native cloud infrastructure",
@@ -78,7 +118,7 @@
       "synopsis": "<p><a href=\"https://railway.com/\">Railway</a>, a San Francisco-based cloud platform that has quietly amassed two million developers without spending a dollar on marketing, announced Thursday that it raised $100 million in a Series B funding round, as surging demand for artificial intelligence applic",
       "theme": "AI + Business",
       "category": "ai-business",
-      "fetched_at": "2026-08-18T06:20:56.964719"
+      "fetched_at": "2026-08-19T06:22:02.831550"
     },
     {
       "title": "Claude Code costs up to $200 a month. Goose does the same thing for free.",
@@ -88,47 +128,17 @@
       "synopsis": "<p>The artificial intelligence coding revolution comes with a catch: it&#x27;s expensive.</p><p><a href=\"https://claude.com/product/claude-code\">Claude Code</a>, Anthropic&#x27;s terminal-based AI agent that can write, debug, and deploy code autonomously, has captured the imagination of software dev",
       "theme": "AI + Business",
       "category": "ai-business",
-      "fetched_at": "2026-08-18T06:20:56.964727"
+      "fetched_at": "2026-08-19T06:22:02.831559"
     },
     {
       "title": "What Flock’s defenders are missing",
       "url": "https://www.technologyreview.com/2026/08/17/1142200/what-flocks-defenders-are-missing/",
       "source": "MIT Technology Review - AI",
       "date": "Mon, 17 Aug 2026 19:16:09 +0000",
-      "synopsis": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Flock, the police-tech giant known for its network of some 120,000 automatic license plate readers around the US, announced some changes to its platform last Thur",
+      "synopsis": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&#160;sign up here. Flock, the police-tech giant known for its network of some 120,000 automatic license plate readers around the US, announced some changes to its platform last",
       "theme": "AI + Business",
       "category": "ai-business",
-      "fetched_at": "2026-08-18T06:20:56.007844"
-    },
-    {
-      "title": "The Download: dead robot friends and the “censorship-industrial complex”",
-      "url": "https://www.technologyreview.com/2026/08/17/1142175/the-download-dead-robot-friends-censorship-industrial-complex/",
-      "source": "MIT Technology Review - AI",
-      "date": "Mon, 17 Aug 2026 12:10:00 +0000",
-      "synopsis": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. What happens when a kid’s robot best friend dies? When Xander first met Moxie, she taught him how to calm down when he was anxious or mad. Six years l",
-      "theme": "AI + Business",
-      "category": "ai-business",
-      "fetched_at": "2026-08-18T06:20:56.007865"
-    },
-    {
-      "title": "How much hydrogen awaits us underground?",
-      "url": "https://www.technologyreview.com/2026/08/17/1141560/how-much-hydrogen-awaits-underground/",
-      "source": "MIT Technology Review - AI",
-      "date": "Mon, 17 Aug 2026 09:00:00 +0000",
-      "synopsis": "In the 1990s, Barbara Sherwood Lollar descended into the Kidd Creek mine in northern Ontario, which cuts more than three kilometers into the ancient root of North America. There her team of geochemists found water that had been confined underground for more than a billion years. This ancient brine t",
-      "theme": "AI + Business",
-      "category": "ai-business",
-      "fetched_at": "2026-08-18T06:20:56.007874"
-    },
-    {
-      "title": "What happens when a kid’s robot best friend dies?",
-      "url": "https://www.technologyreview.com/2026/08/17/1141568/moxie-when-kids-robot-best-friend-dies/",
-      "source": "MIT Technology Review - AI",
-      "date": "Mon, 17 Aug 2026 09:00:00 +0000",
-      "synopsis": "When Xander first met Moxie, she taught him that when he was anxious, he could calm down by exhaling through his lips so that he buzzed like a bee. They practiced breathing like dragons to manage feeling mad and sniffing like bunnies to boost his energy. But in the six years they’ve known each other",
-      "theme": "AI General",
-      "category": "ai-business",
-      "fetched_at": "2026-08-18T06:20:56.007900"
+      "fetched_at": "2026-08-19T06:22:02.045136"
     },
     {
       "title": "Listen Labs raises $69M after viral billboard hiring stunt to scale AI customer interviews",
@@ -138,19 +148,9 @@
       "synopsis": "<p>Alfred Wahlforss was running out of options. His startup, <a href=\"https://listenlabs.ai/\">Listen Labs</a>, needed to hire over 100 engineers, but competing against Mark Zuckerberg&#x27;s <a href=\"https://news.bloomberglaw.com/employee-benefits/zuckerbergs-100-million-ai-job-offers-pay-off-parmy-",
       "theme": "AI + Business",
       "category": "ai-business",
-      "fetched_at": "2026-08-18T06:20:56.964735"
-    },
-    {
-      "title": "The Download: Flock’s new rules, cloning’s future, and children’s cells",
-      "url": "https://www.technologyreview.com/2026/08/14/1142033/the-download-flock-new-rules-cloning-future/",
-      "source": "MIT Technology Review - AI",
-      "date": "Fri, 14 Aug 2026 12:17:21 +0000",
-      "synopsis": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Flock is tightening its rules in response to a growing surveillance backlash The police-tech giant Flock is changing officers’ access to its nationwid",
-      "theme": "AI + Business",
-      "category": "ai-business",
-      "fetched_at": "2026-08-18T06:20:56.007911"
+      "fetched_at": "2026-08-19T06:22:02.831567"
     }
   ],
-  "last_updated": "2026-08-18T06:20:59.252937",
+  "last_updated": "2026-08-19T06:22:04.441925",
   "total_count": 15
 }
