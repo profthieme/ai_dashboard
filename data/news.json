@@ -1,54 +1,34 @@
 {
   "articles": [
     {
-      "title": "GxP-Agent: Process-DAG Topology for Reliable Clinical Trial Programming with LLM Agents",
-      "url": "https://arxiv.org/abs/2608.16890",
-      "source": "ArXiv AI",
-      "date": "Wed, 19 Aug 2026 00:00:00 -0400",
-      "synopsis": "arXiv:2608.16890v1 Announce Type: new  Abstract: Clinical trial programming -- transforming study protocols into analysis-ready datasets under CDISC standards -- is a bottleneck in regulatory submissions, yet LLM-based code generation fails catastrophically on this task: across 11 single-shot attemp",
+      "title": "VentureBeat names Rob Strechay as its first Lead Analyst, expanding its enterprise AI research push",
+      "url": "https://venturebeat.com/ai/venturebeat-names-rob-strechay-as-its-first-lead-analyst-expanding-its-enterprise-ai-research-push",
+      "source": "VentureBeat AI",
+      "date": "Wed, 19 Aug 2026 14:18:12 GMT",
+      "synopsis": "<p>Rob Strechay, until recently managing director and principal analyst at theCUBE Research, has joined VentureBeat as our first Lead Analyst and a founding analyst of VentureBeat Research. His arrival is the next step in a deliberate move at VentureBeat toward deeper specialization: analysis built",
       "theme": "AI + Business",
-      "category": "ai-tech",
-      "fetched_at": "2026-08-19T06:22:04.359603"
+      "category": "ai-business",
+      "fetched_at": "2026-08-20T06:22:41.026376"
     },
     {
-      "title": "Runtime Governance for Agentic AI: Action-Boundary Control with Trusted Provenance and Fail-Closed Execution",
-      "url": "https://arxiv.org/abs/2608.16891",
-      "source": "ArXiv AI",
-      "date": "Wed, 19 Aug 2026 00:00:00 -0400",
-      "synopsis": "arXiv:2608.16891v1 Announce Type: new  Abstract: Agentic AI systems request tool actions that can modify files, send messages, launch jobs, or change workflow state. This shifts the safety problem from harmful text generation to harmful operational side effects. Prompt-level governance can shape mod",
+      "title": "The Download: AI’s self-improvement problem, and what’s driving the heat",
+      "url": "https://www.technologyreview.com/2026/08/19/1140195/the-download-ai-recursive-self-improvement-problem-heatwave-causes/",
+      "source": "MIT Technology Review - AI",
+      "date": "Wed, 19 Aug 2026 12:10:00 +0000",
+      "synopsis": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. AI’s recursive self-improvement might not come so quickly after all The AI industry’s boldest promise right now is that AI will soon improve itself, w",
       "theme": "AI + Business",
-      "category": "ai-tech",
-      "fetched_at": "2026-08-19T06:22:04.359621"
+      "category": "ai-business",
+      "fetched_at": "2026-08-20T06:22:40.349076"
     },
     {
-      "title": "The Price of Thinking: Reasoning Effort as a Model-Specific API Contract",
-      "url": "https://arxiv.org/abs/2608.16956",
-      "source": "ArXiv AI",
-      "date": "Wed, 19 Aug 2026 00:00:00 -0400",
-      "synopsis": "arXiv:2608.16956v1 Announce Type: new  Abstract: API buyers purchase a dated contract, not a model name alone: the contract includes the requested and served model, reasoning-effort term or its omission, output rail, service product, prompt, and price schedule. We study the reasoning-effort term thr",
+      "title": "Child-monitoring apps might need a reboot",
+      "url": "https://www.technologyreview.com/2026/08/19/1141623/child-monitoring-apps-need-reboot/",
+      "source": "MIT Technology Review - AI",
+      "date": "Wed, 19 Aug 2026 09:00:00 +0000",
+      "synopsis": "Pam Wisniewski’s digital adolescence showed her the best and the worst of the internet. At 14, she left an abusive home, where she’d been isolated in a fifth-wheel trailer at the end of a seven-­mile dirt road. She moved in with her older sister and taught herself to type on AOL Instant Messenger. O",
       "theme": "AI + Business",
-      "category": "ai-tech",
-      "fetched_at": "2026-08-19T06:22:04.359630"
-    },
-    {
-      "title": "FedPref: Federated Preference Learning for Structured Radiology Report Extraction",
-      "url": "https://arxiv.org/abs/2608.16971",
-      "source": "ArXiv AI",
-      "date": "Wed, 19 Aug 2026 00:00:00 -0400",
-      "synopsis": "arXiv:2608.16971v1 Announce Type: new  Abstract: Radiology reports describe findings and locations in free text, but downstream search and analysis require these relations in a fixed schema. Learning this extraction requires labels that are unevenly distributed across institutions: smaller hospitals",
-      "theme": "AI General",
-      "category": "ai-tech",
-      "fetched_at": "2026-08-19T06:22:04.359651"
-    },
-    {
-      "title": "The Problem Is the Problem: Towards Scalable Mathematical Discovery",
-      "url": "https://arxiv.org/abs/2608.16977",
-      "source": "ArXiv AI",
-      "date": "Wed, 19 Aug 2026 00:00:00 -0400",
-      "synopsis": "arXiv:2608.16977v1 Announce Type: new  Abstract: AI systems are increasingly capable of contributing to mathematical research. In research practice, frontier-model reasoning is a limited resource, and expert mathematical review is even more sharply constrained. Allocating these scarce resources well",
-      "theme": "AI + Business",
-      "category": "ai-tech",
-      "fetched_at": "2026-08-19T06:22:04.359659"
+      "category": "ai-business",
+      "fetched_at": "2026-08-20T06:22:40.349097"
     },
     {
       "title": "Google just redesigned the search box for the first time in 25 years — here’s why it matters more than you think.",
@@ -58,7 +38,7 @@
       "synopsis": "<p>For a quarter century, the Google search box has been one of the most recognizable interfaces in computing: a thin white rectangle, a blinking cursor, a few typed words, and a list of blue links. On Tuesday, Google will formally retire that paradigm.</p><p>At its annual <a href=\"https://io.google",
       "theme": "AI General",
       "category": "ai-business",
-      "fetched_at": "2026-08-19T06:22:02.831529"
+      "fetched_at": "2026-08-20T06:22:41.026416"
     },
     {
       "title": "The Download: how people really use AI, and Flock’s design choices",
@@ -68,7 +48,7 @@
       "synopsis": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. We still don’t know how people are really using AI AI companies like Anthropic and OpenAI regularly publish reports on how people are using their prod",
       "theme": "AI + Business",
       "category": "ai-business",
-      "fetched_at": "2026-08-19T06:22:02.045066"
+      "fetched_at": "2026-08-20T06:22:40.349111"
     },
     {
       "title": "We still don’t know how people are really using AI",
@@ -78,7 +58,7 @@
       "synopsis": "AI companies like Anthropic and OpenAI regularly publish reports on how people are using products like Claude and ChatGPT, but they only release the data they want us to see, AI researchers say.&#160; “There is no independent source to corroborate it,” says Anka Reuel, a computer science PhD candida",
       "theme": "AI + Business",
       "category": "ai-business",
-      "fetched_at": "2026-08-19T06:22:02.045087"
+      "fetched_at": "2026-08-20T06:22:40.349121"
     },
     {
       "title": "The role of the astronaut is in flux",
@@ -88,27 +68,7 @@
       "synopsis": "When the four astronauts on board NASA’s Artemis II swung around the moon earlier this year, they set a new record for the farthest humans have ever ventured from Earth, surpassing the distance set by Apollo 13 in 1972 by some 4,000 miles.&#160; While no space mission can live up to the historic tou",
       "theme": "AI General",
       "category": "ai-business",
-      "fetched_at": "2026-08-19T06:22:02.045114"
-    },
-    {
-      "title": "AI’s recursive self-improvement might not come so quickly after all",
-      "url": "https://www.technologyreview.com/2026/08/18/1142188/ai-recursive-self-improvement/",
-      "source": "MIT Technology Review - AI",
-      "date": "Tue, 18 Aug 2026 09:00:00 +0000",
-      "synopsis": "The AI industry’s boldest promise right now is that AI will soon improve itself, with almost no need for human oversight. LLMs can already write code, generate synthetic data for training, and optimize the computer chips they run on. Forecasts of explosive AI progress predict that what researchers c",
-      "theme": "AI + Business",
-      "category": "ai-business",
-      "fetched_at": "2026-08-19T06:22:02.045125"
-    },
-    {
-      "title": "Salesforce rolls out new Slackbot AI agent as it battles Microsoft and Google in workplace AI",
-      "url": "https://venturebeat.com/technology/salesforce-rolls-out-new-slackbot-ai-agent-as-it-battles-microsoft-and",
-      "source": "VentureBeat AI",
-      "date": "Tue, 13 Jan 2026 13:00:00 GMT",
-      "synopsis": "<p><a href=\"https://www.salesforce.com/\">Salesforce</a> on Tuesday launched an entirely rebuilt version of <a href=\"https://slack.com/help/articles/202026038-An-introduction-to-Slackbot\">Slackbot</a>, the company&#x27;s workplace assistant, transforming it from a simple notification tool into what e",
-      "theme": "AI + Business",
-      "category": "ai-business",
-      "fetched_at": "2026-08-19T06:22:02.831575"
+      "fetched_at": "2026-08-20T06:22:40.349148"
     },
     {
       "title": "Railway secures $100 million to challenge AWS with AI-native cloud infrastructure",
@@ -118,7 +78,57 @@
       "synopsis": "<p><a href=\"https://railway.com/\">Railway</a>, a San Francisco-based cloud platform that has quietly amassed two million developers without spending a dollar on marketing, announced Thursday that it raised $100 million in a Series B funding round, as surging demand for artificial intelligence applic",
       "theme": "AI + Business",
       "category": "ai-business",
-      "fetched_at": "2026-08-19T06:22:02.831550"
+      "fetched_at": "2026-08-20T06:22:41.026426"
+    },
+    {
+      "title": "Position: Collusion Risks Among AI Reasoning Agents Justify Certification Requirements for Making Market Decisions",
+      "url": "https://arxiv.org/abs/2608.18078",
+      "source": "ArXiv AI",
+      "date": "Thu, 20 Aug 2026 00:00:00 -0400",
+      "synopsis": "arXiv:2608.18078v1 Announce Type: new  Abstract: This position paper argues that AI agents with chain-of-thought reasoning capabilities are predisposed to exhibit collusive behavior and should be required to obtain behavioral certification before making decisions that affect economic markets. This i",
+      "theme": "AI + Business",
+      "category": "ai-tech",
+      "fetched_at": "2026-08-20T06:22:42.658955"
+    },
+    {
+      "title": "Position: Profiling Game Worlds by Transition Complexity",
+      "url": "https://arxiv.org/abs/2608.18079",
+      "source": "ArXiv AI",
+      "date": "Thu, 20 Aug 2026 00:00:00 -0400",
+      "synopsis": "arXiv:2608.18079v1 Announce Type: new  Abstract: Game world modeling (GWM) and reinforcement learning (RL) are often confounded because research papers rarely quantify how difficult the underlying transition prediction problem is at the declared interface (pixels/tokens/latents with finite history).",
+      "theme": "AI General",
+      "category": "ai-tech",
+      "fetched_at": "2026-08-20T06:22:42.658987"
+    },
+    {
+      "title": "Large Language Models in Mental Health: A Systematic Review of Applications, Innovations, and Ethical Challenges",
+      "url": "https://arxiv.org/abs/2608.18080",
+      "source": "ArXiv AI",
+      "date": "Thu, 20 Aug 2026 00:00:00 -0400",
+      "synopsis": "arXiv:2608.18080v1 Announce Type: new  Abstract: We present a review on the applications of large language models (LLMs) in health, e.g., social media analysis, clinical conversational agents, therapy support tools, prompt engineering, multimodal learning, and ethical considerations. We integrate fi",
+      "theme": "AI + Business",
+      "category": "ai-tech",
+      "fetched_at": "2026-08-20T06:22:42.658999"
+    },
+    {
+      "title": "Position: Behavioral Systems Require Behavioral Tests",
+      "url": "https://arxiv.org/abs/2608.18081",
+      "source": "ArXiv AI",
+      "date": "Thu, 20 Aug 2026 00:00:00 -0400",
+      "synopsis": "arXiv:2608.18081v1 Announce Type: new  Abstract: Artificial agentic systems increasingly operate as behavioral systems by interacting with dynamic environments, pursuing goals, and adapting over time. Yet, current evaluation methods largely focus on performance outcomes, not the underlying behaviora",
+      "theme": "AI General",
+      "category": "ai-tech",
+      "fetched_at": "2026-08-20T06:22:42.659014"
+    },
+    {
+      "title": "Position: Current Model Cards Are Insufficient for Downstream Governance of Open-Weight Foundation Models",
+      "url": "https://arxiv.org/abs/2608.18086",
+      "source": "ArXiv AI",
+      "date": "Thu, 20 Aug 2026 00:00:00 -0400",
+      "synopsis": "arXiv:2608.18086v1 Announce Type: new  Abstract: The growth of open-weight foundation models (OWFMs) has prompted the AI community to re-evaluate strategies for effective downstream governance. Although model cards have been widely adopted as transparency artifacts in model repositories, existing fr",
+      "theme": "AI + Business",
+      "category": "ai-tech",
+      "fetched_at": "2026-08-20T06:22:42.659022"
     },
     {
       "title": "Claude Code costs up to $200 a month. Goose does the same thing for free.",
@@ -128,17 +138,7 @@
       "synopsis": "<p>The artificial intelligence coding revolution comes with a catch: it&#x27;s expensive.</p><p><a href=\"https://claude.com/product/claude-code\">Claude Code</a>, Anthropic&#x27;s terminal-based AI agent that can write, debug, and deploy code autonomously, has captured the imagination of software dev",
       "theme": "AI + Business",
       "category": "ai-business",
-      "fetched_at": "2026-08-19T06:22:02.831559"
-    },
-    {
-      "title": "What Flock’s defenders are missing",
-      "url": "https://www.technologyreview.com/2026/08/17/1142200/what-flocks-defenders-are-missing/",
-      "source": "MIT Technology Review - AI",
-      "date": "Mon, 17 Aug 2026 19:16:09 +0000",
-      "synopsis": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&#160;sign up here. Flock, the police-tech giant known for its network of some 120,000 automatic license plate readers around the US, announced some changes to its platform last",
-      "theme": "AI + Business",
-      "category": "ai-business",
-      "fetched_at": "2026-08-19T06:22:02.045136"
+      "fetched_at": "2026-08-20T06:22:41.026433"
     },
     {
       "title": "Listen Labs raises $69M after viral billboard hiring stunt to scale AI customer interviews",
@@ -148,9 +148,9 @@
       "synopsis": "<p>Alfred Wahlforss was running out of options. His startup, <a href=\"https://listenlabs.ai/\">Listen Labs</a>, needed to hire over 100 engineers, but competing against Mark Zuckerberg&#x27;s <a href=\"https://news.bloomberglaw.com/employee-benefits/zuckerbergs-100-million-ai-job-offers-pay-off-parmy-",
       "theme": "AI + Business",
       "category": "ai-business",
-      "fetched_at": "2026-08-19T06:22:02.831567"
+      "fetched_at": "2026-08-20T06:22:41.026441"
     }
   ],
-  "last_updated": "2026-08-19T06:22:04.441925",
+  "last_updated": "2026-08-20T06:22:42.733350",
   "total_count": 15
 }
