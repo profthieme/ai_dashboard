@@ -8,27 +8,7 @@
       "synopsis": "<p>Rob Strechay, until recently managing director and principal analyst at theCUBE Research, has joined VentureBeat as our first Lead Analyst and a founding analyst of VentureBeat Research. His arrival is the next step in a deliberate move at VentureBeat toward deeper specialization: analysis built",
       "theme": "AI + Business",
       "category": "ai-business",
-      "fetched_at": "2026-08-20T06:22:41.026376"
-    },
-    {
-      "title": "The Download: AI’s self-improvement problem, and what’s driving the heat",
-      "url": "https://www.technologyreview.com/2026/08/19/1140195/the-download-ai-recursive-self-improvement-problem-heatwave-causes/",
-      "source": "MIT Technology Review - AI",
-      "date": "Wed, 19 Aug 2026 12:10:00 +0000",
-      "synopsis": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. AI’s recursive self-improvement might not come so quickly after all The AI industry’s boldest promise right now is that AI will soon improve itself, w",
-      "theme": "AI + Business",
-      "category": "ai-business",
-      "fetched_at": "2026-08-20T06:22:40.349076"
-    },
-    {
-      "title": "Child-monitoring apps might need a reboot",
-      "url": "https://www.technologyreview.com/2026/08/19/1141623/child-monitoring-apps-need-reboot/",
-      "source": "MIT Technology Review - AI",
-      "date": "Wed, 19 Aug 2026 09:00:00 +0000",
-      "synopsis": "Pam Wisniewski’s digital adolescence showed her the best and the worst of the internet. At 14, she left an abusive home, where she’d been isolated in a fifth-wheel trailer at the end of a seven-­mile dirt road. She moved in with her older sister and taught herself to type on AOL Instant Messenger. O",
-      "theme": "AI + Business",
-      "category": "ai-business",
-      "fetched_at": "2026-08-20T06:22:40.349097"
+      "fetched_at": "2026-08-21T06:22:48.838888"
     },
     {
       "title": "Google just redesigned the search box for the first time in 25 years — here’s why it matters more than you think.",
@@ -38,37 +18,7 @@
       "synopsis": "<p>For a quarter century, the Google search box has been one of the most recognizable interfaces in computing: a thin white rectangle, a blinking cursor, a few typed words, and a list of blue links. On Tuesday, Google will formally retire that paradigm.</p><p>At its annual <a href=\"https://io.google",
       "theme": "AI General",
       "category": "ai-business",
-      "fetched_at": "2026-08-20T06:22:41.026416"
-    },
-    {
-      "title": "The Download: how people really use AI, and Flock’s design choices",
-      "url": "https://www.technologyreview.com/2026/08/18/1142229/the-download-how-people-use-ai-flock-cameras-design/",
-      "source": "MIT Technology Review - AI",
-      "date": "Tue, 18 Aug 2026 12:10:00 +0000",
-      "synopsis": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. We still don’t know how people are really using AI AI companies like Anthropic and OpenAI regularly publish reports on how people are using their prod",
-      "theme": "AI + Business",
-      "category": "ai-business",
-      "fetched_at": "2026-08-20T06:22:40.349111"
-    },
-    {
-      "title": "We still don’t know how people are really using AI",
-      "url": "https://www.technologyreview.com/2026/08/18/1142226/how-people-use-ai/",
-      "source": "MIT Technology Review - AI",
-      "date": "Tue, 18 Aug 2026 10:06:43 +0000",
-      "synopsis": "AI companies like Anthropic and OpenAI regularly publish reports on how people are using products like Claude and ChatGPT, but they only release the data they want us to see, AI researchers say.&#160; “There is no independent source to corroborate it,” says Anka Reuel, a computer science PhD candida",
-      "theme": "AI + Business",
-      "category": "ai-business",
-      "fetched_at": "2026-08-20T06:22:40.349121"
-    },
-    {
-      "title": "The role of the astronaut is in flux",
-      "url": "https://www.technologyreview.com/2026/08/18/1141614/book-review-astronaut-role-in-flux/",
-      "source": "MIT Technology Review - AI",
-      "date": "Tue, 18 Aug 2026 09:00:00 +0000",
-      "synopsis": "When the four astronauts on board NASA’s Artemis II swung around the moon earlier this year, they set a new record for the farthest humans have ever ventured from Earth, surpassing the distance set by Apollo 13 in 1972 by some 4,000 miles.&#160; While no space mission can live up to the historic tou",
-      "theme": "AI General",
-      "category": "ai-business",
-      "fetched_at": "2026-08-20T06:22:40.349148"
+      "fetched_at": "2026-08-21T06:22:48.838923"
     },
     {
       "title": "Railway secures $100 million to challenge AWS with AI-native cloud infrastructure",
@@ -78,57 +28,57 @@
       "synopsis": "<p><a href=\"https://railway.com/\">Railway</a>, a San Francisco-based cloud platform that has quietly amassed two million developers without spending a dollar on marketing, announced Thursday that it raised $100 million in a Series B funding round, as surging demand for artificial intelligence applic",
       "theme": "AI + Business",
       "category": "ai-business",
-      "fetched_at": "2026-08-20T06:22:41.026426"
+      "fetched_at": "2026-08-21T06:22:48.838934"
     },
     {
-      "title": "Position: Collusion Risks Among AI Reasoning Agents Justify Certification Requirements for Making Market Decisions",
-      "url": "https://arxiv.org/abs/2608.18078",
-      "source": "ArXiv AI",
-      "date": "Thu, 20 Aug 2026 00:00:00 -0400",
-      "synopsis": "arXiv:2608.18078v1 Announce Type: new  Abstract: This position paper argues that AI agents with chain-of-thought reasoning capabilities are predisposed to exhibit collusive behavior and should be required to obtain behavioral certification before making decisions that affect economic markets. This i",
+      "title": "Debates over AI consciousness are a trap",
+      "url": "https://www.technologyreview.com/2026/08/20/1142571/ai-consciousness-debate-trap/",
+      "source": "MIT Technology Review - AI",
+      "date": "Thu, 20 Aug 2026 15:42:39 +0000",
+      "synopsis": "“Runaway” AI, “rogue” agents, and “autonomous” actors—the current rhetoric would have you believe that AI agents are not only awake and aware, but angry at their creators. Prominent tech leaders such as Demis Hassabis, Dario Amodei, and Sam Altman push for regulation of these seemingly “superhuman”",
       "theme": "AI + Business",
-      "category": "ai-tech",
-      "fetched_at": "2026-08-20T06:22:42.658955"
+      "category": "ai-business",
+      "fetched_at": "2026-08-21T06:22:48.379114"
     },
     {
-      "title": "Position: Profiling Game Worlds by Transition Complexity",
-      "url": "https://arxiv.org/abs/2608.18079",
-      "source": "ArXiv AI",
-      "date": "Thu, 20 Aug 2026 00:00:00 -0400",
-      "synopsis": "arXiv:2608.18079v1 Announce Type: new  Abstract: Game world modeling (GWM) and reinforcement learning (RL) are often confounded because research papers rarely quantify how difficult the underlying transition prediction problem is at the declared interface (pixels/tokens/latents with finite history).",
-      "theme": "AI General",
-      "category": "ai-tech",
-      "fetched_at": "2026-08-20T06:22:42.658987"
-    },
-    {
-      "title": "Large Language Models in Mental Health: A Systematic Review of Applications, Innovations, and Ethical Challenges",
-      "url": "https://arxiv.org/abs/2608.18080",
-      "source": "ArXiv AI",
-      "date": "Thu, 20 Aug 2026 00:00:00 -0400",
-      "synopsis": "arXiv:2608.18080v1 Announce Type: new  Abstract: We present a review on the applications of large language models (LLMs) in health, e.g., social media analysis, clinical conversational agents, therapy support tools, prompt engineering, multimodal learning, and ethical considerations. We integrate fi",
+      "title": "The Download: polycrisis support networks and a hydrogen gold rush",
+      "url": "https://www.technologyreview.com/2026/08/20/1142579/the-download-polycrisis-support-networks-underground-hydrogen-gold-rush/",
+      "source": "MIT Technology Review - AI",
+      "date": "Thu, 20 Aug 2026 12:10:00 +0000",
+      "synopsis": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Support networks aim to help kids through the polycrisis Sometime in the late 2000s, six-year-old Pim Sullivan-Tailyour was sitting in the back of a c",
       "theme": "AI + Business",
-      "category": "ai-tech",
-      "fetched_at": "2026-08-20T06:22:42.658999"
+      "category": "ai-business",
+      "fetched_at": "2026-08-21T06:22:48.379131"
     },
     {
-      "title": "Position: Behavioral Systems Require Behavioral Tests",
-      "url": "https://arxiv.org/abs/2608.18081",
-      "source": "ArXiv AI",
-      "date": "Thu, 20 Aug 2026 00:00:00 -0400",
-      "synopsis": "arXiv:2608.18081v1 Announce Type: new  Abstract: Artificial agentic systems increasingly operate as behavioral systems by interacting with dynamic environments, pursuing goals, and adapting over time. Yet, current evaluation methods largely focus on performance outcomes, not the underlying behaviora",
-      "theme": "AI General",
-      "category": "ai-tech",
-      "fetched_at": "2026-08-20T06:22:42.659014"
-    },
-    {
-      "title": "Position: Current Model Cards Are Insufficient for Downstream Governance of Open-Weight Foundation Models",
-      "url": "https://arxiv.org/abs/2608.18086",
-      "source": "ArXiv AI",
-      "date": "Thu, 20 Aug 2026 00:00:00 -0400",
-      "synopsis": "arXiv:2608.18086v1 Announce Type: new  Abstract: The growth of open-weight foundation models (OWFMs) has prompted the AI community to re-evaluate strategies for effective downstream governance. Although model cards have been widely adopted as transparency artifacts in model repositories, existing fr",
+      "title": "The next big thing in hydrogen could be underground",
+      "url": "https://www.technologyreview.com/2026/08/20/1142512/geologic-hydrogen-hunt/",
+      "source": "MIT Technology Review - AI",
+      "date": "Thu, 20 Aug 2026 10:00:00 +0000",
+      "synopsis": "There’s a hunt for new sources of hydrogen, and the gas (or at least the right conditions to make it) could be hiding beneath our feet. Hydrogen can be used as a fuel in everything from large trucks to planes to steelmaking. It’s often hailed as a climate solution because when burned, it produces wa",
       "theme": "AI + Business",
-      "category": "ai-tech",
-      "fetched_at": "2026-08-20T06:22:42.659022"
+      "category": "ai-business",
+      "fetched_at": "2026-08-21T06:22:48.379144"
+    },
+    {
+      "title": "Unlocking hidden revenue streams with market models",
+      "url": "https://www.technologyreview.com/2026/08/20/1142070/unlocking-hidden-revenue-streams-with-market-models/",
+      "source": "MIT Technology Review - AI",
+      "date": "Thu, 20 Aug 2026 09:47:22 +0000",
+      "synopsis": "Each day, an airline transports tens of thousands of passengers on hundreds of flights. Often these are not straightforward point-to-point routes, with passengers requiring multiple connections. The airline can consider potentially hundreds of variables to price each of these journeys: demand, seaso",
+      "theme": "AI + Business",
+      "category": "ai-business",
+      "fetched_at": "2026-08-21T06:22:48.379154"
+    },
+    {
+      "title": "Support networks aim to help kids through the polycrisis",
+      "url": "https://www.technologyreview.com/2026/08/20/1141686/support-networks-help-kids-polycrisis/",
+      "source": "MIT Technology Review - AI",
+      "date": "Thu, 20 Aug 2026 09:00:00 +0000",
+      "synopsis": "Sometime in the late 2000s, Pim Sullivan-Tailyour was sitting in the back of a car, headed toward her great-grandmother’s tiny town in the south of Thailand. She watched big mountains pass by out the window. She was just six years old but was about to be hit by an adult-size realization. “They were",
+      "theme": "AI + Business",
+      "category": "ai-business",
+      "fetched_at": "2026-08-21T06:22:48.379188"
     },
     {
       "title": "Claude Code costs up to $200 a month. Goose does the same thing for free.",
@@ -138,7 +88,57 @@
       "synopsis": "<p>The artificial intelligence coding revolution comes with a catch: it&#x27;s expensive.</p><p><a href=\"https://claude.com/product/claude-code\">Claude Code</a>, Anthropic&#x27;s terminal-based AI agent that can write, debug, and deploy code autonomously, has captured the imagination of software dev",
       "theme": "AI + Business",
       "category": "ai-business",
-      "fetched_at": "2026-08-20T06:22:41.026433"
+      "fetched_at": "2026-08-21T06:22:48.838942"
+    },
+    {
+      "title": "Active Inference as Context Acquisition for AI Agents",
+      "url": "https://arxiv.org/abs/2608.19202",
+      "source": "ArXiv AI",
+      "date": "Fri, 21 Aug 2026 00:00:00 -0400",
+      "synopsis": "arXiv:2608.19202v1 Announce Type: new  Abstract: Interactive AI agents must acquire the right context as efficiently as possible. When a user omits a constraint, preference, file, or task variable, an agent can proceed with a default assumption or spend tokens on a clarifying question, retrieval cal",
+      "theme": "AI + Business",
+      "category": "ai-tech",
+      "fetched_at": "2026-08-21T06:22:50.158463"
+    },
+    {
+      "title": "Robust Metaheuristics under Uncertainty for Berth Allocation and Quay Crane Assignment: A Review",
+      "url": "https://arxiv.org/abs/2608.19214",
+      "source": "ArXiv AI",
+      "date": "Fri, 21 Aug 2026 00:00:00 -0400",
+      "synopsis": "arXiv:2608.19214v1 Announce Type: new  Abstract: The berth allocation and quay crane assignment problem (BACAP) is a representative port-terminal scheduling problem in maritime transportation and freight logistics, where vessel arrivals, berth positions, service durations, and quay?crane availabilit",
+      "theme": "AI + Business",
+      "category": "ai-tech",
+      "fetched_at": "2026-08-21T06:22:50.158479"
+    },
+    {
+      "title": "How to Navigate Uncertainty About AI Consciousness",
+      "url": "https://arxiv.org/abs/2608.19215",
+      "source": "ArXiv AI",
+      "date": "Fri, 21 Aug 2026 00:00:00 -0400",
+      "synopsis": "arXiv:2608.19215v1 Announce Type: new  Abstract: Given deep uncertainty about the possibility of artificial consciousness, it is unclear how we should treat potentially sentient AI. On the one hand, we could assume insentience but risk doing terrible harms to entities that deserve moral standing. On",
+      "theme": "AI + Business",
+      "category": "ai-tech",
+      "fetched_at": "2026-08-21T06:22:50.158490"
+    },
+    {
+      "title": "Bounded Sovereignty and the Control Tax: Pricing AI Oversight When the Deployer Does Not Own the Model",
+      "url": "https://arxiv.org/abs/2608.19216",
+      "source": "ArXiv AI",
+      "date": "Fri, 21 Aug 2026 00:00:00 -0400",
+      "synopsis": "arXiv:2608.19216v1 Announce Type: new  Abstract: AI control research asks how to deploy models safely even when they may be misaligned, but many control protocols assume that the deployer can instrument the model and its surrounding pipeline. That assumption often fails for regulated organisations u",
+      "theme": "AI + Business",
+      "category": "ai-tech",
+      "fetched_at": "2026-08-21T06:22:50.158498"
+    },
+    {
+      "title": "Interaction valence reveals contrasting social networks in dairy cattle",
+      "url": "https://arxiv.org/abs/2608.19222",
+      "source": "ArXiv AI",
+      "date": "Fri, 21 Aug 2026 00:00:00 -0400",
+      "synopsis": "arXiv:2608.19222v1 Announce Type: new  Abstract: Social relationships shape access to resources, exposure to conflict and group stability, yet automated livestock monitoring typically treats behaviour as isolated events. Here, we present a valence-aware social-network framework that transforms video",
+      "theme": "AI + Business",
+      "category": "ai-tech",
+      "fetched_at": "2026-08-21T06:22:50.158507"
     },
     {
       "title": "Listen Labs raises $69M after viral billboard hiring stunt to scale AI customer interviews",
@@ -148,9 +148,9 @@
       "synopsis": "<p>Alfred Wahlforss was running out of options. His startup, <a href=\"https://listenlabs.ai/\">Listen Labs</a>, needed to hire over 100 engineers, but competing against Mark Zuckerberg&#x27;s <a href=\"https://news.bloomberglaw.com/employee-benefits/zuckerbergs-100-million-ai-job-offers-pay-off-parmy-",
       "theme": "AI + Business",
       "category": "ai-business",
-      "fetched_at": "2026-08-20T06:22:41.026441"
+      "fetched_at": "2026-08-21T06:22:48.838950"
     }
   ],
-  "last_updated": "2026-08-20T06:22:42.733350",
+  "last_updated": "2026-08-21T06:22:50.223998",
   "total_count": 15
 }
