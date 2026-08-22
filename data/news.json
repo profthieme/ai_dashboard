@@ -8,7 +8,7 @@
       "synopsis": "<p>Rob Strechay, until recently managing director and principal analyst at theCUBE Research, has joined VentureBeat as our first Lead Analyst and a founding analyst of VentureBeat Research. His arrival is the next step in a deliberate move at VentureBeat toward deeper specialization: analysis built",
       "theme": "AI + Business",
       "category": "ai-business",
-      "fetched_at": "2026-08-21T06:22:48.838888"
+      "fetched_at": "2026-08-22T06:18:17.669928"
     },
     {
       "title": "Google just redesigned the search box for the first time in 25 years — here’s why it matters more than you think.",
@@ -18,7 +18,7 @@
       "synopsis": "<p>For a quarter century, the Google search box has been one of the most recognizable interfaces in computing: a thin white rectangle, a blinking cursor, a few typed words, and a list of blue links. On Tuesday, Google will formally retire that paradigm.</p><p>At its annual <a href=\"https://io.google",
       "theme": "AI General",
       "category": "ai-business",
-      "fetched_at": "2026-08-21T06:22:48.838923"
+      "fetched_at": "2026-08-22T06:18:17.669964"
     },
     {
       "title": "Railway secures $100 million to challenge AWS with AI-native cloud infrastructure",
@@ -28,7 +28,7 @@
       "synopsis": "<p><a href=\"https://railway.com/\">Railway</a>, a San Francisco-based cloud platform that has quietly amassed two million developers without spending a dollar on marketing, announced Thursday that it raised $100 million in a Series B funding round, as surging demand for artificial intelligence applic",
       "theme": "AI + Business",
       "category": "ai-business",
-      "fetched_at": "2026-08-21T06:22:48.838934"
+      "fetched_at": "2026-08-22T06:18:17.669974"
     },
     {
       "title": "Debates over AI consciousness are a trap",
@@ -38,47 +38,7 @@
       "synopsis": "“Runaway” AI, “rogue” agents, and “autonomous” actors—the current rhetoric would have you believe that AI agents are not only awake and aware, but angry at their creators. Prominent tech leaders such as Demis Hassabis, Dario Amodei, and Sam Altman push for regulation of these seemingly “superhuman”",
       "theme": "AI + Business",
       "category": "ai-business",
-      "fetched_at": "2026-08-21T06:22:48.379114"
-    },
-    {
-      "title": "The Download: polycrisis support networks and a hydrogen gold rush",
-      "url": "https://www.technologyreview.com/2026/08/20/1142579/the-download-polycrisis-support-networks-underground-hydrogen-gold-rush/",
-      "source": "MIT Technology Review - AI",
-      "date": "Thu, 20 Aug 2026 12:10:00 +0000",
-      "synopsis": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Support networks aim to help kids through the polycrisis Sometime in the late 2000s, six-year-old Pim Sullivan-Tailyour was sitting in the back of a c",
-      "theme": "AI + Business",
-      "category": "ai-business",
-      "fetched_at": "2026-08-21T06:22:48.379131"
-    },
-    {
-      "title": "The next big thing in hydrogen could be underground",
-      "url": "https://www.technologyreview.com/2026/08/20/1142512/geologic-hydrogen-hunt/",
-      "source": "MIT Technology Review - AI",
-      "date": "Thu, 20 Aug 2026 10:00:00 +0000",
-      "synopsis": "There’s a hunt for new sources of hydrogen, and the gas (or at least the right conditions to make it) could be hiding beneath our feet. Hydrogen can be used as a fuel in everything from large trucks to planes to steelmaking. It’s often hailed as a climate solution because when burned, it produces wa",
-      "theme": "AI + Business",
-      "category": "ai-business",
-      "fetched_at": "2026-08-21T06:22:48.379144"
-    },
-    {
-      "title": "Unlocking hidden revenue streams with market models",
-      "url": "https://www.technologyreview.com/2026/08/20/1142070/unlocking-hidden-revenue-streams-with-market-models/",
-      "source": "MIT Technology Review - AI",
-      "date": "Thu, 20 Aug 2026 09:47:22 +0000",
-      "synopsis": "Each day, an airline transports tens of thousands of passengers on hundreds of flights. Often these are not straightforward point-to-point routes, with passengers requiring multiple connections. The airline can consider potentially hundreds of variables to price each of these journeys: demand, seaso",
-      "theme": "AI + Business",
-      "category": "ai-business",
-      "fetched_at": "2026-08-21T06:22:48.379154"
-    },
-    {
-      "title": "Support networks aim to help kids through the polycrisis",
-      "url": "https://www.technologyreview.com/2026/08/20/1141686/support-networks-help-kids-polycrisis/",
-      "source": "MIT Technology Review - AI",
-      "date": "Thu, 20 Aug 2026 09:00:00 +0000",
-      "synopsis": "Sometime in the late 2000s, Pim Sullivan-Tailyour was sitting in the back of a car, headed toward her great-grandmother’s tiny town in the south of Thailand. She watched big mountains pass by out the window. She was just six years old but was about to be hit by an adult-size realization. “They were",
-      "theme": "AI + Business",
-      "category": "ai-business",
-      "fetched_at": "2026-08-21T06:22:48.379188"
+      "fetched_at": "2026-08-22T06:18:17.026355"
     },
     {
       "title": "Claude Code costs up to $200 a month. Goose does the same thing for free.",
@@ -88,57 +48,47 @@
       "synopsis": "<p>The artificial intelligence coding revolution comes with a catch: it&#x27;s expensive.</p><p><a href=\"https://claude.com/product/claude-code\">Claude Code</a>, Anthropic&#x27;s terminal-based AI agent that can write, debug, and deploy code autonomously, has captured the imagination of software dev",
       "theme": "AI + Business",
       "category": "ai-business",
-      "fetched_at": "2026-08-21T06:22:48.838942"
+      "fetched_at": "2026-08-22T06:18:17.669982"
     },
     {
-      "title": "Active Inference as Context Acquisition for AI Agents",
-      "url": "https://arxiv.org/abs/2608.19202",
-      "source": "ArXiv AI",
-      "date": "Fri, 21 Aug 2026 00:00:00 -0400",
-      "synopsis": "arXiv:2608.19202v1 Announce Type: new  Abstract: Interactive AI agents must acquire the right context as efficiently as possible. When a user omits a constraint, preference, file, or task variable, an agent can proceed with a default assumption or spend tokens on a clarifying question, retrieval cal",
+      "title": "The Download: threats from space mirrors and credit for AI drugs",
+      "url": "https://www.technologyreview.com/2026/08/21/1142762/the-download-space-mirrors-threats-ai-designed-drugs-credit/",
+      "source": "MIT Technology Review - AI",
+      "date": "Fri, 21 Aug 2026 12:10:00 +0000",
+      "synopsis": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. This company’s plans to deploy space mirrors could jeopardize the night sky for many A company that plans to beam sunlight from space to Earth on dema",
       "theme": "AI + Business",
-      "category": "ai-tech",
-      "fetched_at": "2026-08-21T06:22:50.158463"
+      "category": "ai-business",
+      "fetched_at": "2026-08-22T06:18:17.026280"
     },
     {
-      "title": "Robust Metaheuristics under Uncertainty for Berth Allocation and Quay Crane Assignment: A Review",
-      "url": "https://arxiv.org/abs/2608.19214",
-      "source": "ArXiv AI",
-      "date": "Fri, 21 Aug 2026 00:00:00 -0400",
-      "synopsis": "arXiv:2608.19214v1 Announce Type: new  Abstract: The berth allocation and quay crane assignment problem (BACAP) is a representative port-terminal scheduling problem in maritime transportation and freight logistics, where vessel arrivals, berth positions, service durations, and quay?crane availabilit",
+      "title": "Mother tongue",
+      "url": "https://www.technologyreview.com/2026/08/21/1141726/mother-tongue-fiction/",
+      "source": "MIT Technology Review - AI",
+      "date": "Fri, 21 Aug 2026 09:00:00 +0000",
+      "synopsis": "“Daddy?” Theo curled against my side in bed. “Where do words go when they die?” I’d orchestrated the bedtime routine flawlessly: bath (taken), teeth (brushed), potty (tinkled), books (two), song (one, poorly sung), and snuggle (his chin on my second rib). Now was the moment when our son’s eyelids we",
       "theme": "AI + Business",
-      "category": "ai-tech",
-      "fetched_at": "2026-08-21T06:22:50.158479"
+      "category": "ai-business",
+      "fetched_at": "2026-08-22T06:18:17.026301"
     },
     {
-      "title": "How to Navigate Uncertainty About AI Consciousness",
-      "url": "https://arxiv.org/abs/2608.19215",
-      "source": "ArXiv AI",
-      "date": "Fri, 21 Aug 2026 00:00:00 -0400",
-      "synopsis": "arXiv:2608.19215v1 Announce Type: new  Abstract: Given deep uncertainty about the possibility of artificial consciousness, it is unclear how we should treat potentially sentient AI. On the one hand, we could assume insentience but risk doing terrible harms to entities that deserve moral standing. On",
+      "title": "When AI designs a drug, who gets the credit?",
+      "url": "https://www.technologyreview.com/2026/08/21/1142627/when-ai-designs-a-drug-who-gets-the-credit/",
+      "source": "MIT Technology Review - AI",
+      "date": "Fri, 21 Aug 2026 09:00:00 +0000",
+      "synopsis": "When the biotech company Insilico Medicine used its computer models to propose a promising drug for pulmonary fibrosis, it enthusiastically claimed in a press release that the molecule had been “discovered by” its generative AI platform. Insilico leads a pack of companies using AI to rapidly come up",
       "theme": "AI + Business",
-      "category": "ai-tech",
-      "fetched_at": "2026-08-21T06:22:50.158490"
+      "category": "ai-business",
+      "fetched_at": "2026-08-22T06:18:17.026314"
     },
     {
-      "title": "Bounded Sovereignty and the Control Tax: Pricing AI Oversight When the Deployer Does Not Own the Model",
-      "url": "https://arxiv.org/abs/2608.19216",
-      "source": "ArXiv AI",
-      "date": "Fri, 21 Aug 2026 00:00:00 -0400",
-      "synopsis": "arXiv:2608.19216v1 Announce Type: new  Abstract: AI control research asks how to deploy models safely even when they may be misaligned, but many control protocols assume that the deployer can instrument the model and its surrounding pipeline. That assumption often fails for regulated organisations u",
-      "theme": "AI + Business",
-      "category": "ai-tech",
-      "fetched_at": "2026-08-21T06:22:50.158498"
-    },
-    {
-      "title": "Interaction valence reveals contrasting social networks in dairy cattle",
-      "url": "https://arxiv.org/abs/2608.19222",
-      "source": "ArXiv AI",
-      "date": "Fri, 21 Aug 2026 00:00:00 -0400",
-      "synopsis": "arXiv:2608.19222v1 Announce Type: new  Abstract: Social relationships shape access to resources, exposure to conflict and group stability, yet automated livestock monitoring typically treats behaviour as isolated events. Here, we present a valence-aware social-network framework that transforms video",
-      "theme": "AI + Business",
-      "category": "ai-tech",
-      "fetched_at": "2026-08-21T06:22:50.158507"
+      "title": "This company’s plans to deploy space mirrors could jeopardize the night sky for many",
+      "url": "https://www.technologyreview.com/2026/08/21/1142755/space-mirrors-night-sky/",
+      "source": "MIT Technology Review - AI",
+      "date": "Fri, 21 Aug 2026 09:00:00 +0000",
+      "synopsis": "A company that plans to beam sunlight from space to Earth on demand might unintentionally brighten the night sky for many more people than intended, according to a new study. Later this year, the US company Reflect Orbital plans to launch a test satellite called Eärendil-1 that will extend an 18-by-",
+      "theme": "AI General",
+      "category": "ai-business",
+      "fetched_at": "2026-08-22T06:18:17.026343"
     },
     {
       "title": "Listen Labs raises $69M after viral billboard hiring stunt to scale AI customer interviews",
@@ -148,9 +98,9 @@
       "synopsis": "<p>Alfred Wahlforss was running out of options. His startup, <a href=\"https://listenlabs.ai/\">Listen Labs</a>, needed to hire over 100 engineers, but competing against Mark Zuckerberg&#x27;s <a href=\"https://news.bloomberglaw.com/employee-benefits/zuckerbergs-100-million-ai-job-offers-pay-off-parmy-",
       "theme": "AI + Business",
       "category": "ai-business",
-      "fetched_at": "2026-08-21T06:22:48.838950"
+      "fetched_at": "2026-08-22T06:18:17.669991"
     }
   ],
-  "last_updated": "2026-08-21T06:22:50.223998",
-  "total_count": 15
+  "last_updated": "2026-08-22T06:18:19.519154",
+  "total_count": 10
 }
