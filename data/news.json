@@ -1,6 +1,56 @@
 {
   "articles": [
     {
+      "title": "RENDER: Controlling Reader-Facing Evidence in LLM Memory Evaluation",
+      "url": "https://arxiv.org/abs/2608.23568",
+      "source": "ArXiv AI",
+      "date": "Wed, 26 Aug 2026 00:00:00 -0400",
+      "synopsis": "arXiv:2608.23568v1 Announce Type: new  Abstract: Memory and RAG evaluations often treat the answering model's input as an implementation detail, even though systems may render the same history as a memory entry, summary, typed record, or raw excerpt. We introduce RENDER, a benchmark control that fix",
+      "theme": "AI + Business",
+      "category": "ai-tech",
+      "fetched_at": "2026-08-26T06:25:21.073978"
+    },
+    {
+      "title": "ESQ-Bench: A Multi-Tier Enterprise Oracle Benchmark for Evaluating NL2SQL Dialect Generalization and Silent Semantic Divergence",
+      "url": "https://arxiv.org/abs/2608.23569",
+      "source": "ArXiv AI",
+      "date": "Wed, 26 Aug 2026 00:00:00 -0400",
+      "synopsis": "arXiv:2608.23569v1 Announce Type: new  Abstract: State-of-the-art Natural Language to SQL (NL2SQL) models report execution accuracy exceeding 89 percent on established benchmarks such as Spider and BIRD. However, these benchmarks rely on simplified academic schemas and open-source SQL dialects that",
+      "theme": "AI General",
+      "category": "ai-tech",
+      "fetched_at": "2026-08-26T06:25:21.074010"
+    },
+    {
+      "title": "LLM Agents Perform Controlled Experiments Using Simulation Models",
+      "url": "https://arxiv.org/abs/2608.23622",
+      "source": "ArXiv AI",
+      "date": "Wed, 26 Aug 2026 00:00:00 -0400",
+      "synopsis": "arXiv:2608.23622v1 Announce Type: new  Abstract: Large language models (LLMs) have shown strong capabilities in reasoning, planning, and tool use, but many scientific and engineering tasks require more than plausible text and code generation. They require understanding how a system responds to inter",
+      "theme": "AI + Business",
+      "category": "ai-tech",
+      "fetched_at": "2026-08-26T06:25:21.074022"
+    },
+    {
+      "title": "A survey detection channel overrides the pixels in an astronomical foundation model, and biases tomographic mean redshifts",
+      "url": "https://arxiv.org/abs/2608.23626",
+      "source": "ArXiv AI",
+      "date": "Wed, 26 Aug 2026 00:00:00 -0400",
+      "synopsis": "arXiv:2608.23626v1 Announce Type: new  Abstract: Foundation models for astronomy are trained on survey pixels together with the catalogue products derived from those pixels. Those catalogues are incomplete at a measurable rate, and a model trained on both inherits that incompleteness as a systematic",
+      "theme": "AI + Business",
+      "category": "ai-tech",
+      "fetched_at": "2026-08-26T06:25:21.074031"
+    },
+    {
+      "title": "TRACE: Transition-Aware Residual Control for Multi-Objective Materials Discovery",
+      "url": "https://arxiv.org/abs/2608.23631",
+      "source": "ArXiv AI",
+      "date": "Wed, 26 Aug 2026 00:00:00 -0400",
+      "synopsis": "arXiv:2608.23631v1 Announce Type: new  Abstract: Multi-objective materials discovery with LLM agents is often limited not only by how many candidates can be proposed, but by how effectively each costly property evaluation informs the next search step. Existing agents mainly store evaluated candidate",
+      "theme": "AI + Business",
+      "category": "ai-tech",
+      "fetched_at": "2026-08-26T06:25:21.074039"
+    },
+    {
       "title": "VentureBeat names Rob Strechay as its first Lead Analyst, expanding its enterprise AI research push",
       "url": "https://venturebeat.com/ai/venturebeat-names-rob-strechay-as-its-first-lead-analyst-expanding-its-enterprise-ai-research-push",
       "source": "VentureBeat AI",
@@ -8,57 +58,57 @@
       "synopsis": "<p>Rob Strechay, until recently managing director and principal analyst at theCUBE Research, has joined VentureBeat as our first Lead Analyst and a founding analyst of VentureBeat Research. His arrival is the next step in a deliberate move at VentureBeat toward deeper specialization: analysis built",
       "theme": "AI + Business",
       "category": "ai-business",
-      "fetched_at": "2026-08-25T06:23:13.735325"
+      "fetched_at": "2026-08-26T06:25:19.548101"
     },
     {
-      "title": "KVBoost: Chunk-Level Key-Value Cache Reuse with Deviation-Guided Recomputation for Efficient Large Language Model Inference",
-      "url": "https://arxiv.org/abs/2608.21362",
-      "source": "ArXiv AI",
-      "date": "Tue, 25 Aug 2026 00:00:00 -0400",
-      "synopsis": "arXiv:2608.21362v1 Announce Type: new  Abstract: Transformer-based large language models (LLMs) incur high prefill latency because key-value (KV) tensors must be recomputed for each request. Existing prefix-caching systems reduce this cost but require prompts to share a leading contiguous prefix, li",
+      "title": "Addressing a sticking point in sustainable adhesives",
+      "url": "https://www.technologyreview.com/2026/08/25/1140902/addressing-a-sticking-point-in-sustainable-adhesives/",
+      "source": "MIT Technology Review - AI",
+      "date": "Tue, 25 Aug 2026 21:00:00 +0000",
+      "synopsis": "Petroleum-based adhesives are everywhere: bonding the wood and drywall in a construction project, holding together the joints of furniture, and even sticking labels to otherwise recyclable containers.  “The labels on a container are held up with petroleum-based glue. And because of that, even though",
       "theme": "AI + Business",
-      "category": "ai-tech",
-      "fetched_at": "2026-08-25T06:23:15.541765"
+      "category": "ai-business",
+      "fetched_at": "2026-08-26T06:25:18.740346"
     },
     {
-      "title": "AIREP: A Protocol for Per-Decision Evidence in AI Runtime Governance",
-      "url": "https://arxiv.org/abs/2608.21363",
-      "source": "ArXiv AI",
-      "date": "Tue, 25 Aug 2026 00:00:00 -0400",
-      "synopsis": "arXiv:2608.21363v1 Announce Type: new  Abstract: A protocol is presented for recording the governance decisions of automated AI runtimes. When a runtime releases, blocks, defers, redacts, or escalates an individual output, AIREP records that decision as a single signed object that any party can chec",
-      "theme": "AI + Business",
-      "category": "ai-tech",
-      "fetched_at": "2026-08-25T06:23:15.541785"
+      "title": "YouTuber finds niche as college admissions mentor",
+      "url": "https://www.technologyreview.com/2026/08/25/1140905/youtuber-finds-niche-as-college-admissions-mentor/",
+      "source": "MIT Technology Review - AI",
+      "date": "Tue, 25 Aug 2026 21:00:00 +0000",
+      "synopsis": "As a first-generation student from a small town, Gohar Khan ’21 had to navigate the college admissions process largely on his own. He founded his YouTube channel, Gohar’s Guide, to make things easier for other young people. Today, more than 10 million people follow Khan on social media for college a",
+      "theme": "AI General",
+      "category": "ai-business",
+      "fetched_at": "2026-08-26T06:25:18.740383"
     },
     {
-      "title": "Reviewing Model Collapse and Countermeasures",
-      "url": "https://arxiv.org/abs/2608.21366",
-      "source": "ArXiv AI",
-      "date": "Tue, 25 Aug 2026 00:00:00 -0400",
-      "synopsis": "arXiv:2608.21366v1 Announce Type: new  Abstract: Driven by massive amounts of web-scale data, generative AI (GenAI) has achieved remarkable progress, enabling various applications in diverse sectors. The advances of GenAI have actuated practitioners to use AI-synthesized data for training next-gener",
-      "theme": "AI + Business",
-      "category": "ai-tech",
-      "fetched_at": "2026-08-25T06:23:15.541794"
+      "title": "Launching youth entrepreneurship",
+      "url": "https://www.technologyreview.com/2026/08/25/1140911/launching-youth-entrepreneurship/",
+      "source": "MIT Technology Review - AI",
+      "date": "Tue, 25 Aug 2026 21:00:00 +0000",
+      "synopsis": "Even as a teenager, Laurie Stach ’06 says, she had a “crazy ambition to take on the world and solve problems.” At MIT, she realized she wasn’t the only one. “Adults always see these youth who are good at math and science and say, ‘You’re going to do great things—someday,’” says Stach. “Meanwhile, tr",
+      "theme": "AI General",
+      "category": "ai-business",
+      "fetched_at": "2026-08-26T06:25:18.740405"
     },
     {
-      "title": "AI Learning and Conceptual Transfer in the Game of Hidden Rules",
-      "url": "https://arxiv.org/abs/2608.21372",
-      "source": "ArXiv AI",
-      "date": "Tue, 25 Aug 2026 00:00:00 -0400",
-      "synopsis": "arXiv:2608.21372v1 Announce Type: new  Abstract: This report summarizes the work conducted on the Game of Hidden Rules (GOHR), focusing on reinforcement learning agents trained to infer hidden rules from trial-and-error feedback, representation design, rule difficulty analysis, transfer learning, ge",
+      "title": "A new stamp on cyberfraud prevention",
+      "url": "https://www.technologyreview.com/2026/08/25/1140914/a-new-stamp-on-cyberfraud-prevention/",
+      "source": "MIT Technology Review - AI",
+      "date": "Tue, 25 Aug 2026 21:00:00 +0000",
+      "synopsis": "For Rupert Young ’95, SM ’95, his career in data science and cybersecurity began when his grandfather gifted him thousands of stamps: He built intricate databases to catalogue them, displaying the “precise eye” for detail and nuance that his MIT application essay said would make him a good engineer.",
       "theme": "AI + Business",
-      "category": "ai-tech",
-      "fetched_at": "2026-08-25T06:23:15.541803"
+      "category": "ai-business",
+      "fetched_at": "2026-08-26T06:25:18.740417"
     },
     {
-      "title": "LitReview Arena: Evaluating Literature Review Agents with Battle-Style Peer Review Platform",
-      "url": "https://arxiv.org/abs/2608.21374",
-      "source": "ArXiv AI",
-      "date": "Tue, 25 Aug 2026 00:00:00 -0400",
-      "synopsis": "arXiv:2608.21374v1 Announce Type: new  Abstract: Literature reviews are essential to scientific progress, but rigorously evaluating automatically generated reviews remains difficult because many aspects of research utility depend on expert judgment rather than reference-overlap metrics. We introduce",
-      "theme": "AI + Business",
-      "category": "ai-tech",
-      "fetched_at": "2026-08-25T06:23:15.541811"
+      "title": "AgeLab research inspires an A I startup",
+      "url": "https://www.technologyreview.com/2026/08/25/1140917/agelab-research-inspires-an-a-i-startup/",
+      "source": "MIT Technology Review - AI",
+      "date": "Tue, 25 Aug 2026 21:00:00 +0000",
+      "synopsis": "When Don Yansen ’63 arrived at the MIT AgeLab for a study on technology in care­giving for older adults, he didn’t plan to launch another company. But when he heard participants talk about how hard modern devices can be to use, he decided to develop an alternative. Yansen, a serial entrepreneur who",
+      "theme": "AI + Higher Ed",
+      "category": "ai-business",
+      "fetched_at": "2026-08-26T06:25:18.740432"
     },
     {
       "title": "Google just redesigned the search box for the first time in 25 years — here’s why it matters more than you think.",
@@ -68,7 +118,7 @@
       "synopsis": "<p>For a quarter century, the Google search box has been one of the most recognizable interfaces in computing: a thin white rectangle, a blinking cursor, a few typed words, and a list of blue links. On Tuesday, Google will formally retire that paradigm.</p><p>At its annual <a href=\"https://io.google",
       "theme": "AI General",
       "category": "ai-business",
-      "fetched_at": "2026-08-25T06:23:13.735368"
+      "fetched_at": "2026-08-26T06:25:19.548143"
     },
     {
       "title": "Railway secures $100 million to challenge AWS with AI-native cloud infrastructure",
@@ -78,37 +128,7 @@
       "synopsis": "<p><a href=\"https://railway.com/\">Railway</a>, a San Francisco-based cloud platform that has quietly amassed two million developers without spending a dollar on marketing, announced Thursday that it raised $100 million in a Series B funding round, as surging demand for artificial intelligence applic",
       "theme": "AI + Business",
       "category": "ai-business",
-      "fetched_at": "2026-08-25T06:23:13.735379"
-    },
-    {
-      "title": "How to encourage smarter AI use in the classroom",
-      "url": "https://www.technologyreview.com/2026/08/24/1142630/ai-school-classroom-policies/",
-      "source": "MIT Technology Review - AI",
-      "date": "Mon, 24 Aug 2026 14:20:19 +0000",
-      "synopsis": "This article is from Making AI Work, MIT Technology Review’s limited-run newsletter examining how to apply LLMs across industries. To receive it in your inbox, sign up here. Chatbots took many schools by surprise upon their release a few years ago. Suddenly, students carried an app in their phones t",
-      "theme": "AI + Business",
-      "category": "ai-business",
-      "fetched_at": "2026-08-25T06:23:13.066393"
-    },
-    {
-      "title": "The Download: kids outlearning AI, and space travel agents",
-      "url": "https://www.technologyreview.com/2026/08/24/1142863/the-download-kids-outlearning-ai-space-travel-agents/",
-      "source": "MIT Technology Review - AI",
-      "date": "Mon, 24 Aug 2026 12:10:00 +0000",
-      "synopsis": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Kids outlearn AI—and we still don’t know why Teaching a computer to use human language requires an inhuman amount of data. An LLM can easily churn thr",
-      "theme": "AI + Business",
-      "category": "ai-business",
-      "fetched_at": "2026-08-25T06:23:13.066414"
-    },
-    {
-      "title": "Kids outlearn AI—and we still don’t know why",
-      "url": "https://www.technologyreview.com/2026/08/24/1141740/kids-machines-language-learning/",
-      "source": "MIT Technology Review - AI",
-      "date": "Mon, 24 Aug 2026 09:00:00 +0000",
-      "synopsis": "People have been talking to each other for at least 100,000 years, as best we can tell. And in all that time, there has been only one thing in the world that could learn a human language to perfect fluency: a human child.&#160; Now there are two.&#160; Four short years after the release of ChatGPT,&",
-      "theme": "AI + Business",
-      "category": "ai-business",
-      "fetched_at": "2026-08-25T06:23:13.066428"
+      "fetched_at": "2026-08-26T06:25:19.548153"
     },
     {
       "title": "Claude Code costs up to $200 a month. Goose does the same thing for free.",
@@ -118,27 +138,7 @@
       "synopsis": "<p>The artificial intelligence coding revolution comes with a catch: it&#x27;s expensive.</p><p><a href=\"https://claude.com/product/claude-code\">Claude Code</a>, Anthropic&#x27;s terminal-based AI agent that can write, debug, and deploy code autonomously, has captured the imagination of software dev",
       "theme": "AI + Business",
       "category": "ai-business",
-      "fetched_at": "2026-08-25T06:23:13.735387"
-    },
-    {
-      "title": "The Download: threats from space mirrors and credit for AI drugs",
-      "url": "https://www.technologyreview.com/2026/08/21/1142762/the-download-space-mirrors-threats-ai-designed-drugs-credit/",
-      "source": "MIT Technology Review - AI",
-      "date": "Fri, 21 Aug 2026 12:10:00 +0000",
-      "synopsis": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. This company’s plans to deploy space mirrors could jeopardize the night sky for many A company that plans to beam sunlight from space to Earth on dema",
-      "theme": "AI + Business",
-      "category": "ai-business",
-      "fetched_at": "2026-08-25T06:23:13.066439"
-    },
-    {
-      "title": "Mother tongue",
-      "url": "https://www.technologyreview.com/2026/08/21/1141726/mother-tongue-fiction/",
-      "source": "MIT Technology Review - AI",
-      "date": "Fri, 21 Aug 2026 09:00:00 +0000",
-      "synopsis": "“Daddy?” Theo curled against my side in bed. “Where do words go when they die?” I’d orchestrated the bedtime routine flawlessly: bath (taken), teeth (brushed), potty (tinkled), books (two), song (one, poorly sung), and snuggle (his chin on my second rib). Now was the moment when our son’s eyelids we",
-      "theme": "AI + Business",
-      "category": "ai-business",
-      "fetched_at": "2026-08-25T06:23:13.066449"
+      "fetched_at": "2026-08-26T06:25:19.548161"
     },
     {
       "title": "Listen Labs raises $69M after viral billboard hiring stunt to scale AI customer interviews",
@@ -148,9 +148,9 @@
       "synopsis": "<p>Alfred Wahlforss was running out of options. His startup, <a href=\"https://listenlabs.ai/\">Listen Labs</a>, needed to hire over 100 engineers, but competing against Mark Zuckerberg&#x27;s <a href=\"https://news.bloomberglaw.com/employee-benefits/zuckerbergs-100-million-ai-job-offers-pay-off-parmy-",
       "theme": "AI + Business",
       "category": "ai-business",
-      "fetched_at": "2026-08-25T06:23:13.735396"
+      "fetched_at": "2026-08-26T06:25:19.548171"
     }
   ],
-  "last_updated": "2026-08-25T06:23:15.656915",
+  "last_updated": "2026-08-26T06:25:21.115118",
   "total_count": 15
 }
