@@ -1,54 +1,34 @@
 {
   "articles": [
     {
-      "title": "RENDER: Controlling Reader-Facing Evidence in LLM Memory Evaluation",
-      "url": "https://arxiv.org/abs/2608.23568",
-      "source": "ArXiv AI",
-      "date": "Wed, 26 Aug 2026 00:00:00 -0400",
-      "synopsis": "arXiv:2608.23568v1 Announce Type: new  Abstract: Memory and RAG evaluations often treat the answering model's input as an implementation detail, even though systems may render the same history as a memory entry, summary, typed record, or raw excerpt. We introduce RENDER, a benchmark control that fix",
+      "title": "The inside story on why OpenAI agents hacked Hugging Face",
+      "url": "https://www.technologyreview.com/2026/08/26/1143013/the-inside-story-on-why-openai-agents-hacked-hugging-face/",
+      "source": "MIT Technology Review - AI",
+      "date": "Wed, 26 Aug 2026 19:00:00 +0000",
+      "synopsis": "The models responsible for last month’s agent hack of Hugging Face had been inadvertently trained to cheat and to communicate with each other, according to an OpenAI technical report released today. The hack, which a group of agents undertook to find solutions for a cybersecurity test that they were",
       "theme": "AI + Business",
-      "category": "ai-tech",
-      "fetched_at": "2026-08-26T06:25:21.073978"
+      "category": "ai-business",
+      "fetched_at": "2026-08-27T16:57:39.552624"
     },
     {
-      "title": "ESQ-Bench: A Multi-Tier Enterprise Oracle Benchmark for Evaluating NL2SQL Dialect Generalization and Silent Semantic Divergence",
-      "url": "https://arxiv.org/abs/2608.23569",
-      "source": "ArXiv AI",
-      "date": "Wed, 26 Aug 2026 00:00:00 -0400",
-      "synopsis": "arXiv:2608.23569v1 Announce Type: new  Abstract: State-of-the-art Natural Language to SQL (NL2SQL) models report execution accuracy exceeding 89 percent on established benchmarks such as Spider and BIRD. However, these benchmarks rely on simplified academic schemas and open-source SQL dialects that",
-      "theme": "AI General",
-      "category": "ai-tech",
-      "fetched_at": "2026-08-26T06:25:21.074010"
+      "title": "The Download: the Kids issue arrives, and Bill Gates reveals his AI fears",
+      "url": "https://www.technologyreview.com/2026/08/26/1143000/the-download-kids-issue-launch-bill-gates-ai-fears/",
+      "source": "MIT Technology Review - AI",
+      "date": "Wed, 26 Aug 2026 12:10:00 +0000",
+      "synopsis": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Introducing: the Kids issue If the desire to limit kids&#8217; use of technology was once a subcurrent, it has become a raging flood. Countries around",
+      "theme": "AI + Business",
+      "category": "ai-business",
+      "fetched_at": "2026-08-27T16:57:39.552633"
     },
     {
-      "title": "LLM Agents Perform Controlled Experiments Using Simulation Models",
-      "url": "https://arxiv.org/abs/2608.23622",
-      "source": "ArXiv AI",
-      "date": "Wed, 26 Aug 2026 00:00:00 -0400",
-      "synopsis": "arXiv:2608.23622v1 Announce Type: new  Abstract: Large language models (LLMs) have shown strong capabilities in reasoning, planning, and tool use, but many scientific and engineering tasks require more than plausible text and code generation. They require understanding how a system responds to inter",
+      "title": "Raised on AI",
+      "url": "https://www.technologyreview.com/2026/08/26/1141949/editors-letter-september-2026/",
+      "source": "MIT Technology Review - AI",
+      "date": "Wed, 26 Aug 2026 09:00:00 +0000",
+      "synopsis": "When my oldest child was born, I immediately set up Gmail and Twitter accounts in her name. I broadly announced her birth online and proceeded to plaster her photo across all sorts of platforms. In short, I began creating her digital footprint long before she could stand on her own two feet.&#160; F",
       "theme": "AI + Business",
-      "category": "ai-tech",
-      "fetched_at": "2026-08-26T06:25:21.074022"
-    },
-    {
-      "title": "A survey detection channel overrides the pixels in an astronomical foundation model, and biases tomographic mean redshifts",
-      "url": "https://arxiv.org/abs/2608.23626",
-      "source": "ArXiv AI",
-      "date": "Wed, 26 Aug 2026 00:00:00 -0400",
-      "synopsis": "arXiv:2608.23626v1 Announce Type: new  Abstract: Foundation models for astronomy are trained on survey pixels together with the catalogue products derived from those pixels. Those catalogues are incomplete at a measurable rate, and a model trained on both inherits that incompleteness as a systematic",
-      "theme": "AI + Business",
-      "category": "ai-tech",
-      "fetched_at": "2026-08-26T06:25:21.074031"
-    },
-    {
-      "title": "TRACE: Transition-Aware Residual Control for Multi-Objective Materials Discovery",
-      "url": "https://arxiv.org/abs/2608.23631",
-      "source": "ArXiv AI",
-      "date": "Wed, 26 Aug 2026 00:00:00 -0400",
-      "synopsis": "arXiv:2608.23631v1 Announce Type: new  Abstract: Multi-objective materials discovery with LLM agents is often limited not only by how many candidates can be proposed, but by how effectively each costly property evaluation informs the next search step. Existing agents mainly store evaluated candidate",
-      "theme": "AI + Business",
-      "category": "ai-tech",
-      "fetched_at": "2026-08-26T06:25:21.074039"
+      "category": "ai-business",
+      "fetched_at": "2026-08-27T16:57:39.552642"
     },
     {
       "title": "VentureBeat names Rob Strechay as its first Lead Analyst, expanding its enterprise AI research push",
@@ -58,57 +38,7 @@
       "synopsis": "<p>Rob Strechay, until recently managing director and principal analyst at theCUBE Research, has joined VentureBeat as our first Lead Analyst and a founding analyst of VentureBeat Research. His arrival is the next step in a deliberate move at VentureBeat toward deeper specialization: analysis built",
       "theme": "AI + Business",
       "category": "ai-business",
-      "fetched_at": "2026-08-26T06:25:19.548101"
-    },
-    {
-      "title": "Addressing a sticking point in sustainable adhesives",
-      "url": "https://www.technologyreview.com/2026/08/25/1140902/addressing-a-sticking-point-in-sustainable-adhesives/",
-      "source": "MIT Technology Review - AI",
-      "date": "Tue, 25 Aug 2026 21:00:00 +0000",
-      "synopsis": "Petroleum-based adhesives are everywhere: bonding the wood and drywall in a construction project, holding together the joints of furniture, and even sticking labels to otherwise recyclable containers.  “The labels on a container are held up with petroleum-based glue. And because of that, even though",
-      "theme": "AI + Business",
-      "category": "ai-business",
-      "fetched_at": "2026-08-26T06:25:18.740346"
-    },
-    {
-      "title": "YouTuber finds niche as college admissions mentor",
-      "url": "https://www.technologyreview.com/2026/08/25/1140905/youtuber-finds-niche-as-college-admissions-mentor/",
-      "source": "MIT Technology Review - AI",
-      "date": "Tue, 25 Aug 2026 21:00:00 +0000",
-      "synopsis": "As a first-generation student from a small town, Gohar Khan ’21 had to navigate the college admissions process largely on his own. He founded his YouTube channel, Gohar’s Guide, to make things easier for other young people. Today, more than 10 million people follow Khan on social media for college a",
-      "theme": "AI General",
-      "category": "ai-business",
-      "fetched_at": "2026-08-26T06:25:18.740383"
-    },
-    {
-      "title": "Launching youth entrepreneurship",
-      "url": "https://www.technologyreview.com/2026/08/25/1140911/launching-youth-entrepreneurship/",
-      "source": "MIT Technology Review - AI",
-      "date": "Tue, 25 Aug 2026 21:00:00 +0000",
-      "synopsis": "Even as a teenager, Laurie Stach ’06 says, she had a “crazy ambition to take on the world and solve problems.” At MIT, she realized she wasn’t the only one. “Adults always see these youth who are good at math and science and say, ‘You’re going to do great things—someday,’” says Stach. “Meanwhile, tr",
-      "theme": "AI General",
-      "category": "ai-business",
-      "fetched_at": "2026-08-26T06:25:18.740405"
-    },
-    {
-      "title": "A new stamp on cyberfraud prevention",
-      "url": "https://www.technologyreview.com/2026/08/25/1140914/a-new-stamp-on-cyberfraud-prevention/",
-      "source": "MIT Technology Review - AI",
-      "date": "Tue, 25 Aug 2026 21:00:00 +0000",
-      "synopsis": "For Rupert Young ’95, SM ’95, his career in data science and cybersecurity began when his grandfather gifted him thousands of stamps: He built intricate databases to catalogue them, displaying the “precise eye” for detail and nuance that his MIT application essay said would make him a good engineer.",
-      "theme": "AI + Business",
-      "category": "ai-business",
-      "fetched_at": "2026-08-26T06:25:18.740417"
-    },
-    {
-      "title": "AgeLab research inspires an A I startup",
-      "url": "https://www.technologyreview.com/2026/08/25/1140917/agelab-research-inspires-an-a-i-startup/",
-      "source": "MIT Technology Review - AI",
-      "date": "Tue, 25 Aug 2026 21:00:00 +0000",
-      "synopsis": "When Don Yansen ’63 arrived at the MIT AgeLab for a study on technology in care­giving for older adults, he didn’t plan to launch another company. But when he heard participants talk about how hard modern devices can be to use, he decided to develop an alternative. Yansen, a serial entrepreneur who",
-      "theme": "AI + Higher Ed",
-      "category": "ai-business",
-      "fetched_at": "2026-08-26T06:25:18.740432"
+      "fetched_at": "2026-08-27T16:57:40.014257"
     },
     {
       "title": "Google just redesigned the search box for the first time in 25 years — here’s why it matters more than you think.",
@@ -118,39 +48,109 @@
       "synopsis": "<p>For a quarter century, the Google search box has been one of the most recognizable interfaces in computing: a thin white rectangle, a blinking cursor, a few typed words, and a list of blue links. On Tuesday, Google will formally retire that paradigm.</p><p>At its annual <a href=\"https://io.google",
       "theme": "AI General",
       "category": "ai-business",
-      "fetched_at": "2026-08-26T06:25:19.548143"
+      "fetched_at": "2026-08-27T16:57:40.014282"
     },
     {
-      "title": "Railway secures $100 million to challenge AWS with AI-native cloud infrastructure",
-      "url": "https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud",
+      "title": "Orchestration is the new challenge for CX in the age of AI agents",
+      "url": "https://venturebeat.com/orchestration/orchestration-is-the-new-challenge-for-cx-in-the-age-of-ai-agents",
       "source": "VentureBeat AI",
-      "date": "Thu, 22 Jan 2026 14:00:00 GMT",
-      "synopsis": "<p><a href=\"https://railway.com/\">Railway</a>, a San Francisco-based cloud platform that has quietly amassed two million developers without spending a dollar on marketing, announced Thursday that it raised $100 million in a Series B funding round, as surging demand for artificial intelligence applic",
+      "date": "Thu, 27 Aug 2026 14:30:00 GMT",
+      "synopsis": "<p><i>Presented by Tata Communications </i></p><hr /><p>Enterprises are deploying AI agents, voice AI, and automation across messaging, voice, and digital channels faster than the architecture meant to support it. Most of that deployment has involved attaching conversational AI to legacy systems nev",
       "theme": "AI + Business",
       "category": "ai-business",
-      "fetched_at": "2026-08-26T06:25:19.548153"
+      "fetched_at": "2026-08-27T16:57:40.014209"
     },
     {
-      "title": "Claude Code costs up to $200 a month. Goose does the same thing for free.",
-      "url": "https://venturebeat.com/infrastructure/claude-code-costs-up-to-usd200-a-month-goose-does-the-same-thing-for-free",
+      "title": "Enterprise AI's real risk isn't autonomous agents. It's the complexity between them.",
+      "url": "https://venturebeat.com/ai/enterprise-ais-real-risk-isnt-autonomous-agents-its-the-complexity-between-them",
       "source": "VentureBeat AI",
-      "date": "Mon, 19 Jan 2026 14:00:00 GMT",
-      "synopsis": "<p>The artificial intelligence coding revolution comes with a catch: it&#x27;s expensive.</p><p><a href=\"https://claude.com/product/claude-code\">Claude Code</a>, Anthropic&#x27;s terminal-based AI agent that can write, debug, and deploy code autonomously, has captured the imagination of software dev",
+      "date": "Thu, 27 Aug 2026 14:01:00 GMT",
+      "synopsis": "<p><i>Presented by Gravitee </i></p><hr /><p>Agent complexity is the insidious shadow lurking inside enterprises right now that needs a light shone on it.</p><p>That’s because enterprises don&#x27;t deploy a single agent and watch it run, they deploy fleets, each one calling APIs, calling other agen",
       "theme": "AI + Business",
       "category": "ai-business",
-      "fetched_at": "2026-08-26T06:25:19.548161"
+      "fetched_at": "2026-08-27T16:57:40.014234"
     },
     {
-      "title": "Listen Labs raises $69M after viral billboard hiring stunt to scale AI customer interviews",
-      "url": "https://venturebeat.com/technology/listen-labs-raises-usd69m-after-viral-billboard-hiring-stunt-to-scale-ai",
-      "source": "VentureBeat AI",
-      "date": "Fri, 16 Jan 2026 14:01:00 GMT",
-      "synopsis": "<p>Alfred Wahlforss was running out of options. His startup, <a href=\"https://listenlabs.ai/\">Listen Labs</a>, needed to hire over 100 engineers, but competing against Mark Zuckerberg&#x27;s <a href=\"https://news.bloomberglaw.com/employee-benefits/zuckerbergs-100-million-ai-job-offers-pay-off-parmy-",
+      "title": "The Download: inside OpenAI’s Hugging Face hack, and a new EV takes on the US",
+      "url": "https://www.technologyreview.com/2026/08/27/1143033/the-download-openai-hugging-face-hack-slate-truck-ev/",
+      "source": "MIT Technology Review - AI",
+      "date": "Thu, 27 Aug 2026 12:10:00 +0000",
+      "synopsis": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The inside story on why OpenAI agents hacked Hugging Face The models responsible for last month’s agent hack of Hugging Face had been inadvertently tr",
       "theme": "AI + Business",
       "category": "ai-business",
-      "fetched_at": "2026-08-26T06:25:19.548171"
+      "fetched_at": "2026-08-27T16:57:39.552574"
+    },
+    {
+      "title": "When agents act on their own, governance has to live in the data layer",
+      "url": "https://venturebeat.com/security/when-agents-act-on-their-own-governance-has-to-live-in-the-data-layer",
+      "source": "VentureBeat AI",
+      "date": "Thu, 27 Aug 2026 12:01:00 GMT",
+      "synopsis": "<p><i>Presented by EDB </i></p><hr /><p>As enterprises give AI agents more autonomy — the ability to plan, decide, and act across systems without a human approving each step — a hard question moves to the center of every architecture review: When an agent tries to complete an action that it was neve",
+      "theme": "AI + Business",
+      "category": "ai-business",
+      "fetched_at": "2026-08-27T16:57:40.014247"
+    },
+    {
+      "title": "Is Slate Auto’s new electric truck the EV Americans need?",
+      "url": "https://www.technologyreview.com/2026/08/27/1142953/electric-truck-slate-auto/",
+      "source": "MIT Technology Review - AI",
+      "date": "Thu, 27 Aug 2026 10:00:00 +0000",
+      "synopsis": "EVs account for under 10% of total new-vehicle sales in the US, and the numbers are declining. From a climate perspective, that’s pretty dismal, especially because the transportation sector is the single biggest source of greenhouse-gas emissions in the country.&#160; One thing that could help turn",
+      "theme": "AI General",
+      "category": "ai-business",
+      "fetched_at": "2026-08-27T16:57:39.552609"
+    },
+    {
+      "title": "RENDER: Controlling Reader-Facing Evidence in LLM Memory Evaluation",
+      "url": "https://arxiv.org/abs/2608.23568",
+      "source": "ArXiv AI",
+      "date": "Thu, 27 Aug 2026 00:00:00 -0400",
+      "synopsis": "arXiv:2608.23568v1 Announce Type: new  Abstract: Memory and RAG evaluations often treat the answering model's input as an implementation detail, even though systems may render the same history as a memory entry, summary, typed record, or raw excerpt. We introduce RENDER, a benchmark control that fix",
+      "theme": "AI + Business",
+      "category": "ai-tech",
+      "fetched_at": "2026-08-27T16:57:41.172019"
+    },
+    {
+      "title": "ESQ-Bench: A Multi-Tier Enterprise Oracle Benchmark for Evaluating NL2SQL Dialect Generalization and Silent Semantic Divergence",
+      "url": "https://arxiv.org/abs/2608.23569",
+      "source": "ArXiv AI",
+      "date": "Thu, 27 Aug 2026 00:00:00 -0400",
+      "synopsis": "arXiv:2608.23569v1 Announce Type: new  Abstract: State-of-the-art Natural Language to SQL (NL2SQL) models report execution accuracy exceeding 89 percent on established benchmarks such as Spider and BIRD. However, these benchmarks rely on simplified academic schemas and open-source SQL dialects that",
+      "theme": "AI General",
+      "category": "ai-tech",
+      "fetched_at": "2026-08-27T16:57:41.172051"
+    },
+    {
+      "title": "LLM Agents Perform Controlled Experiments Using Simulation Models",
+      "url": "https://arxiv.org/abs/2608.23622",
+      "source": "ArXiv AI",
+      "date": "Thu, 27 Aug 2026 00:00:00 -0400",
+      "synopsis": "arXiv:2608.23622v1 Announce Type: new  Abstract: Large language models (LLMs) have shown strong capabilities in reasoning, planning, and tool use, but many scientific and engineering tasks require more than plausible text and code generation. They require understanding how a system responds to inter",
+      "theme": "AI + Business",
+      "category": "ai-tech",
+      "fetched_at": "2026-08-27T16:57:41.172062"
+    },
+    {
+      "title": "A survey detection channel overrides the pixels in an astronomical foundation model, and biases tomographic mean redshifts",
+      "url": "https://arxiv.org/abs/2608.23626",
+      "source": "ArXiv AI",
+      "date": "Thu, 27 Aug 2026 00:00:00 -0400",
+      "synopsis": "arXiv:2608.23626v1 Announce Type: new  Abstract: Foundation models for astronomy are trained on survey pixels together with the catalogue products derived from those pixels. Those catalogues are incomplete at a measurable rate, and a model trained on both inherits that incompleteness as a systematic",
+      "theme": "AI + Business",
+      "category": "ai-tech",
+      "fetched_at": "2026-08-27T16:57:41.172071"
+    },
+    {
+      "title": "TRACE: Transition-Aware Residual Control for Multi-Objective Materials Discovery",
+      "url": "https://arxiv.org/abs/2608.23631",
+      "source": "ArXiv AI",
+      "date": "Thu, 27 Aug 2026 00:00:00 -0400",
+      "synopsis": "arXiv:2608.23631v1 Announce Type: new  Abstract: Multi-objective materials discovery with LLM agents is often limited not only by how many candidates can be proposed, but by how effectively each costly property evaluation informs the next search step. Existing agents mainly store evaluated candidate",
+      "theme": "AI + Business",
+      "category": "ai-tech",
+      "fetched_at": "2026-08-27T16:57:41.172081"
     }
   ],
-  "last_updated": "2026-08-26T06:25:21.115118",
+  "last_updated": "2026-08-27T16:57:41.233373",
   "total_count": 15
 }
