@@ -8,7 +8,7 @@
       "synopsis": "<p><i>Presented by Tata Communications </i></p><hr /><p>Enterprises are deploying AI agents, voice AI, and automation across messaging, voice, and digital channels faster than the architecture meant to support it. Most of that deployment has involved attaching conversational AI to legacy systems nev",
       "theme": "AI + Business",
       "category": "ai-business",
-      "fetched_at": "2026-08-28T17:47:45.003001"
+      "fetched_at": "2026-08-29T11:51:59.034341"
     },
     {
       "title": "VentureBeat names Rob Strechay as its first Lead Analyst, expanding its enterprise AI research push",
@@ -18,7 +18,7 @@
       "synopsis": "<p>Rob Strechay, until recently managing director and principal analyst at theCUBE Research, has joined VentureBeat as our first Lead Analyst and a founding analyst of VentureBeat Research. His arrival is the next step in a deliberate move at VentureBeat toward deeper specialization: analysis built",
       "theme": "AI + Business",
       "category": "ai-business",
-      "fetched_at": "2026-08-28T17:47:45.003007"
+      "fetched_at": "2026-08-29T11:51:59.034349"
     },
     {
       "title": "Google just redesigned the search box for the first time in 25 years — here’s why it matters more than you think.",
@@ -28,7 +28,7 @@
       "synopsis": "<p>For a quarter century, the Google search box has been one of the most recognizable interfaces in computing: a thin white rectangle, a blinking cursor, a few typed words, and a list of blue links. On Tuesday, Google will formally retire that paradigm.</p><p>At its annual <a href=\"https://io.google",
       "theme": "AI General",
       "category": "ai-business",
-      "fetched_at": "2026-08-28T17:47:45.003029"
+      "fetched_at": "2026-08-29T11:51:59.034374"
     },
     {
       "title": "A startup claims it’s found a drug to make your blood young",
@@ -38,7 +38,7 @@
       "synopsis": "I knew I’d officially become a “longevity influencer” this month when a company called Generation Lab reached out to offer me the chance to write about—and even receive—their new rejuvenation treatment,&#160;an injectable combination of two existing drugs which they call 1 Generation. This wasn’t ju",
       "theme": "AI + Business",
       "category": "ai-business",
-      "fetched_at": "2026-08-28T17:47:43.994130"
+      "fetched_at": "2026-08-29T11:51:58.317913"
     },
     {
       "title": "Enterprise AI's real risk isn't autonomous agents. It's the complexity between them.",
@@ -48,7 +48,7 @@
       "synopsis": "<p><i>Presented by Gravitee </i></p><hr /><p>Agent complexity is the insidious shadow lurking inside enterprises right now that needs a light shone on it.</p><p>That’s because enterprises don&#x27;t deploy a single agent and watch it run, they deploy fleets, each one calling APIs, calling other agen",
       "theme": "AI + Business",
       "category": "ai-business",
-      "fetched_at": "2026-08-28T17:47:45.002974"
+      "fetched_at": "2026-08-29T11:51:59.034309"
     },
     {
       "title": "The Download: inside OpenAI’s Hugging Face hack, and a new EV takes on the US",
@@ -58,7 +58,7 @@
       "synopsis": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The inside story on why OpenAI agents hacked Hugging Face The models responsible for last month’s agent hack of Hugging Face had been inadvertently tr",
       "theme": "AI + Business",
       "category": "ai-business",
-      "fetched_at": "2026-08-28T17:47:43.994140"
+      "fetched_at": "2026-08-29T11:51:58.317926"
     },
     {
       "title": "When agents act on their own, governance has to live in the data layer",
@@ -68,7 +68,7 @@
       "synopsis": "<p><i>Presented by EDB </i></p><hr /><p>As enterprises give AI agents more autonomy — the ability to plan, decide, and act across systems without a human approving each step — a hard question moves to the center of every architecture review: When an agent tries to complete an action that it was neve",
       "theme": "AI + Business",
       "category": "ai-business",
-      "fetched_at": "2026-08-28T17:47:45.002993"
+      "fetched_at": "2026-08-29T11:51:59.034330"
     },
     {
       "title": "Is Slate Auto’s new electric truck the EV Americans need?",
@@ -78,7 +78,57 @@
       "synopsis": "EVs account for under 10% of total new-vehicle sales in the US, and the numbers are declining. From a climate perspective, that’s pretty dismal, especially because the transportation sector is the single biggest source of greenhouse-gas emissions in the country.&#160; One thing that could help turn",
       "theme": "AI General",
       "category": "ai-business",
-      "fetched_at": "2026-08-28T17:47:43.994158"
+      "fetched_at": "2026-08-29T11:51:58.317949"
+    },
+    {
+      "title": "EduRiskX: A Neuro-Symbolic Framework with F-Logic Reasoning for Early Academic Risk Prediction",
+      "url": "https://arxiv.org/abs/2608.26107",
+      "source": "ArXiv AI",
+      "date": "Sat, 29 Aug 2026 00:00:00 -0400",
+      "synopsis": "arXiv:2608.26107v1 Announce Type: new  Abstract: Predicting students' academic risk in online education is crucial for enabling timely interventions that can improve retention and learning outcomes. However, existing models often suffer from limited early detection capability and insufficient interp",
+      "theme": "AI General",
+      "category": "ai-tech",
+      "fetched_at": "2026-08-29T11:52:00.632838"
+    },
+    {
+      "title": "Standalone LLM and a Pre-specified Agentic Pipeline for Explaining ICU Mortality Predictions: a Feasibility Study on the eICU Demo Dataset",
+      "url": "https://arxiv.org/abs/2608.26109",
+      "source": "ArXiv AI",
+      "date": "Sat, 29 Aug 2026 00:00:00 -0400",
+      "synopsis": "arXiv:2608.26109v1 Announce Type: new  Abstract: Machine-learning models can predict ICU mortality accurately, but feature-attribution methods alone rarely provide the clinical narrative needed for bedside use. Large language models (LLMs) may bridge this gap, and multi-step agentic pipelines are a",
+      "theme": "AI + Business",
+      "category": "ai-tech",
+      "fetched_at": "2026-08-29T11:52:00.632857"
+    },
+    {
+      "title": "Large Models for Battery Prognostics and Health Management: A Review and Future Roadmap",
+      "url": "https://arxiv.org/abs/2608.26111",
+      "source": "ArXiv AI",
+      "date": "Sat, 29 Aug 2026 00:00:00 -0400",
+      "synopsis": "arXiv:2608.26111v1 Announce Type: new  Abstract: Battery Prognostics and Health Management (BPHM) is critical for ensuring the safe, reliable, and cost-effective operation of batteries across electric vehicles, grid storage, and consumer electronics. Conventional BPHM approaches, including physics-b",
+      "theme": "AI General",
+      "category": "ai-tech",
+      "fetched_at": "2026-08-29T11:52:00.632876"
+    },
+    {
+      "title": "PICasso: An AI-Enabled Design Framework for Autonomous Optimization of Silicon Photonic Devices",
+      "url": "https://arxiv.org/abs/2608.26113",
+      "source": "ArXiv AI",
+      "date": "Sat, 29 Aug 2026 00:00:00 -0400",
+      "synopsis": "arXiv:2608.26113v1 Announce Type: new  Abstract: We present PICasso, an AI-assisted framework for automated synthesis, verification, and optimization of photonic integrated circuits (PICs) from natural-language specifications. PICasso couples a structured NL -> YAML -> GDS generation pipeline with P",
+      "theme": "AI + Business",
+      "category": "ai-tech",
+      "fetched_at": "2026-08-29T11:52:00.632885"
+    },
+    {
+      "title": "CIFQA: A Deterministic Tool-Grounded Multi-Agent LLM Framework for Financial Query Answering",
+      "url": "https://arxiv.org/abs/2608.26114",
+      "source": "ArXiv AI",
+      "date": "Sat, 29 Aug 2026 00:00:00 -0400",
+      "synopsis": "arXiv:2608.26114v1 Announce Type: new  Abstract: Calculation-intensive financial question answering requires exact reasoning over structured rates, temporal conditions, numerical formulas, and rule-based constraints. Although Large Language Models (LLMs) perform strongly on natural language tasks, t",
+      "theme": "AI + Business",
+      "category": "ai-tech",
+      "fetched_at": "2026-08-29T11:52:00.632893"
     },
     {
       "title": "The Download: a secretive antiaging drug and joining virtual power plants",
@@ -88,7 +138,7 @@
       "synopsis": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. A startup claims it’s found a drug to make your blood young —Antonio Regalado I knew I’d officially become a “longevity influencer” when a company cal",
       "theme": "AI + Business",
       "category": "ai-business",
-      "fetched_at": "2026-08-28T17:47:43.994095"
+      "fetched_at": "2026-08-29T11:51:58.317870"
     },
     {
       "title": "How to sign up for a virtual power plant—and decide whether you should",
@@ -98,59 +148,9 @@
       "synopsis": "MIT Technology Review’s How To series helps you get things done.&#160; Your thermostat may not look like a power plant. Neither does your electric vehicle, home battery, or HVAC system. But utility and energy companies increasingly want to treat them like one. A virtual power plant, or VPP, is a col",
       "theme": "AI + Higher Ed",
       "category": "ai-business",
-      "fetched_at": "2026-08-28T17:47:43.994120"
-    },
-    {
-      "title": "EduRiskX: A Neuro-Symbolic Framework with F-Logic Reasoning for Early Academic Risk Prediction",
-      "url": "https://arxiv.org/abs/2608.26107",
-      "source": "ArXiv AI",
-      "date": "Fri, 28 Aug 2026 00:00:00 -0400",
-      "synopsis": "arXiv:2608.26107v1 Announce Type: new  Abstract: Predicting students' academic risk in online education is crucial for enabling timely interventions that can improve retention and learning outcomes. However, existing models often suffer from limited early detection capability and insufficient interp",
-      "theme": "AI General",
-      "category": "ai-tech",
-      "fetched_at": "2026-08-28T17:47:46.695838"
-    },
-    {
-      "title": "Standalone LLM and a Pre-specified Agentic Pipeline for Explaining ICU Mortality Predictions: a Feasibility Study on the eICU Demo Dataset",
-      "url": "https://arxiv.org/abs/2608.26109",
-      "source": "ArXiv AI",
-      "date": "Fri, 28 Aug 2026 00:00:00 -0400",
-      "synopsis": "arXiv:2608.26109v1 Announce Type: new  Abstract: Machine-learning models can predict ICU mortality accurately, but feature-attribution methods alone rarely provide the clinical narrative needed for bedside use. Large language models (LLMs) may bridge this gap, and multi-step agentic pipelines are a",
-      "theme": "AI + Business",
-      "category": "ai-tech",
-      "fetched_at": "2026-08-28T17:47:46.695854"
-    },
-    {
-      "title": "Large Models for Battery Prognostics and Health Management: A Review and Future Roadmap",
-      "url": "https://arxiv.org/abs/2608.26111",
-      "source": "ArXiv AI",
-      "date": "Fri, 28 Aug 2026 00:00:00 -0400",
-      "synopsis": "arXiv:2608.26111v1 Announce Type: new  Abstract: Battery Prognostics and Health Management (BPHM) is critical for ensuring the safe, reliable, and cost-effective operation of batteries across electric vehicles, grid storage, and consumer electronics. Conventional BPHM approaches, including physics-b",
-      "theme": "AI General",
-      "category": "ai-tech",
-      "fetched_at": "2026-08-28T17:47:46.695869"
-    },
-    {
-      "title": "PICasso: An AI-Enabled Design Framework for Autonomous Optimization of Silicon Photonic Devices",
-      "url": "https://arxiv.org/abs/2608.26113",
-      "source": "ArXiv AI",
-      "date": "Fri, 28 Aug 2026 00:00:00 -0400",
-      "synopsis": "arXiv:2608.26113v1 Announce Type: new  Abstract: We present PICasso, an AI-assisted framework for automated synthesis, verification, and optimization of photonic integrated circuits (PICs) from natural-language specifications. PICasso couples a structured NL -> YAML -> GDS generation pipeline with P",
-      "theme": "AI + Business",
-      "category": "ai-tech",
-      "fetched_at": "2026-08-28T17:47:46.695876"
-    },
-    {
-      "title": "CIFQA: A Deterministic Tool-Grounded Multi-Agent LLM Framework for Financial Query Answering",
-      "url": "https://arxiv.org/abs/2608.26114",
-      "source": "ArXiv AI",
-      "date": "Fri, 28 Aug 2026 00:00:00 -0400",
-      "synopsis": "arXiv:2608.26114v1 Announce Type: new  Abstract: Calculation-intensive financial question answering requires exact reasoning over structured rates, temporal conditions, numerical formulas, and rule-based constraints. Although Large Language Models (LLMs) perform strongly on natural language tasks, t",
-      "theme": "AI + Business",
-      "category": "ai-tech",
-      "fetched_at": "2026-08-28T17:47:46.695883"
+      "fetched_at": "2026-08-29T11:51:58.317899"
     }
   ],
-  "last_updated": "2026-08-28T17:47:46.800347",
+  "last_updated": "2026-08-29T11:52:00.726278",
   "total_count": 15
 }
