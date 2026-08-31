@@ -8,7 +8,7 @@
       "synopsis": "<p><i>Presented by Tata Communications </i></p><hr /><p>Enterprises are deploying AI agents, voice AI, and automation across messaging, voice, and digital channels faster than the architecture meant to support it. Most of that deployment has involved attaching conversational AI to legacy systems nev",
       "theme": "AI + Business",
       "category": "ai-business",
-      "fetched_at": "2026-08-30T10:49:13.745273"
+      "fetched_at": "2026-08-31T11:58:48.500476"
     },
     {
       "title": "VentureBeat names Rob Strechay as its first Lead Analyst, expanding its enterprise AI research push",
@@ -18,7 +18,7 @@
       "synopsis": "<p>Rob Strechay, until recently managing director and principal analyst at theCUBE Research, has joined VentureBeat as our first Lead Analyst and a founding analyst of VentureBeat Research. His arrival is the next step in a deliberate move at VentureBeat toward deeper specialization: analysis built",
       "theme": "AI + Business",
       "category": "ai-business",
-      "fetched_at": "2026-08-30T10:49:13.745282"
+      "fetched_at": "2026-08-31T11:58:48.500485"
     },
     {
       "title": "Google just redesigned the search box for the first time in 25 years — here’s why it matters more than you think.",
@@ -28,7 +28,7 @@
       "synopsis": "<p>For a quarter century, the Google search box has been one of the most recognizable interfaces in computing: a thin white rectangle, a blinking cursor, a few typed words, and a list of blue links. On Tuesday, Google will formally retire that paradigm.</p><p>At its annual <a href=\"https://io.google",
       "theme": "AI General",
       "category": "ai-business",
-      "fetched_at": "2026-08-30T10:49:13.745307"
+      "fetched_at": "2026-08-31T11:58:48.500508"
     },
     {
       "title": "A startup claims it’s found a drug to make your blood young",
@@ -38,7 +38,7 @@
       "synopsis": "I knew I’d officially become a “longevity influencer” this month when a company called Generation Lab reached out to offer me the chance to write about—and even receive—their new rejuvenation treatment,&#160;an injectable combination of two existing drugs which they call 1 Generation. This wasn’t ju",
       "theme": "AI + Business",
       "category": "ai-business",
-      "fetched_at": "2026-08-30T10:49:12.965672"
+      "fetched_at": "2026-08-31T11:58:47.922702"
     },
     {
       "title": "Enterprise AI's real risk isn't autonomous agents. It's the complexity between them.",
@@ -48,7 +48,7 @@
       "synopsis": "<p><i>Presented by Gravitee </i></p><hr /><p>Agent complexity is the insidious shadow lurking inside enterprises right now that needs a light shone on it.</p><p>That’s because enterprises don&#x27;t deploy a single agent and watch it run, they deploy fleets, each one calling APIs, calling other agen",
       "theme": "AI + Business",
       "category": "ai-business",
-      "fetched_at": "2026-08-30T10:49:13.745240"
+      "fetched_at": "2026-08-31T11:58:48.500445"
     },
     {
       "title": "The Download: inside OpenAI’s Hugging Face hack, and a new EV takes on the US",
@@ -58,7 +58,7 @@
       "synopsis": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The inside story on why OpenAI agents hacked Hugging Face The models responsible for last month’s agent hack of Hugging Face had been inadvertently tr",
       "theme": "AI + Business",
       "category": "ai-business",
-      "fetched_at": "2026-08-30T10:49:12.965685"
+      "fetched_at": "2026-08-31T11:58:47.922718"
     },
     {
       "title": "When agents act on their own, governance has to live in the data layer",
@@ -68,7 +68,7 @@
       "synopsis": "<p><i>Presented by EDB </i></p><hr /><p>As enterprises give AI agents more autonomy — the ability to plan, decide, and act across systems without a human approving each step — a hard question moves to the center of every architecture review: When an agent tries to complete an action that it was neve",
       "theme": "AI + Business",
       "category": "ai-business",
-      "fetched_at": "2026-08-30T10:49:13.745262"
+      "fetched_at": "2026-08-31T11:58:48.500465"
     },
     {
       "title": "Is Slate Auto’s new electric truck the EV Americans need?",
@@ -78,7 +78,7 @@
       "synopsis": "EVs account for under 10% of total new-vehicle sales in the US, and the numbers are declining. From a climate perspective, that’s pretty dismal, especially because the transportation sector is the single biggest source of greenhouse-gas emissions in the country.&#160; One thing that could help turn",
       "theme": "AI General",
       "category": "ai-business",
-      "fetched_at": "2026-08-30T10:49:12.965708"
+      "fetched_at": "2026-08-31T11:58:47.922740"
     },
     {
       "title": "The Download: a secretive antiaging drug and joining virtual power plants",
@@ -88,7 +88,7 @@
       "synopsis": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. A startup claims it’s found a drug to make your blood young —Antonio Regalado I knew I’d officially become a “longevity influencer” when a company cal",
       "theme": "AI + Business",
       "category": "ai-business",
-      "fetched_at": "2026-08-30T10:49:12.965629"
+      "fetched_at": "2026-08-31T11:58:47.922636"
     },
     {
       "title": "How to sign up for a virtual power plant—and decide whether you should",
@@ -98,9 +98,9 @@
       "synopsis": "MIT Technology Review’s How To series helps you get things done.&#160; Your thermostat may not look like a power plant. Neither does your electric vehicle, home battery, or HVAC system. But utility and energy companies increasingly want to treat them like one. A virtual power plant, or VPP, is a col",
       "theme": "AI + Higher Ed",
       "category": "ai-business",
-      "fetched_at": "2026-08-30T10:49:12.965658"
+      "fetched_at": "2026-08-31T11:58:47.922665"
     }
   ],
-  "last_updated": "2026-08-30T10:49:15.369195",
+  "last_updated": "2026-08-31T11:58:50.125370",
   "total_count": 10
 }
