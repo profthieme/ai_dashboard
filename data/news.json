@@ -8,7 +8,7 @@
       "synopsis": "<p><i>Presented by Tata Communications </i></p><hr /><p>Enterprises are deploying AI agents, voice AI, and automation across messaging, voice, and digital channels faster than the architecture meant to support it. Most of that deployment has involved attaching conversational AI to legacy systems nev",
       "theme": "AI + Business",
       "category": "ai-business",
-      "fetched_at": "2026-09-01T10:37:55.646490"
+      "fetched_at": "2026-09-02T10:03:52.017753"
     },
     {
       "title": "VentureBeat names Rob Strechay as its first Lead Analyst, expanding its enterprise AI research push",
@@ -18,7 +18,57 @@
       "synopsis": "<p>Rob Strechay, until recently managing director and principal analyst at theCUBE Research, has joined VentureBeat as our first Lead Analyst and a founding analyst of VentureBeat Research. His arrival is the next step in a deliberate move at VentureBeat toward deeper specialization: analysis built",
       "theme": "AI + Business",
       "category": "ai-business",
-      "fetched_at": "2026-09-01T10:37:55.646499"
+      "fetched_at": "2026-09-02T10:03:52.017761"
+    },
+    {
+      "title": "HyperWorld: Hypergraph-Structured State Serialization Improves Learned Textual World Models",
+      "url": "https://arxiv.org/abs/2609.00002",
+      "source": "ArXiv AI",
+      "date": "Wed, 02 Sep 2026 00:00:00 -0400",
+      "synopsis": "arXiv:2609.00002v1 Announce Type: new  Abstract: World models enable language-model agents to predict environment dynamics and plan before acting. In text environments, the model must learn symbolic action effects from serialized state descriptions, but the role of serialization structure remains un",
+      "theme": "AI + Business",
+      "category": "ai-tech",
+      "fetched_at": "2026-09-02T10:03:53.277399"
+    },
+    {
+      "title": "I-CARE: Analysis of interference-related phenomena in a controllable, diverse and representative unlearning setting for text-to-image models",
+      "url": "https://arxiv.org/abs/2609.00003",
+      "source": "ArXiv AI",
+      "date": "Wed, 02 Sep 2026 00:00:00 -0400",
+      "synopsis": "arXiv:2609.00003v1 Announce Type: new  Abstract: Machine unlearning studies the removal of knowledge from an AI model, making the system forget a concept it previously learned. Despite rapid progress in generative machine unlearning, the unintended degradation of semantically related concepts that s",
+      "theme": "AI + Business",
+      "category": "ai-tech",
+      "fetched_at": "2026-09-02T10:03:53.277418"
+    },
+    {
+      "title": "Discrete-Time MDP Modeling for Multi-Item Capacitated Lot Sizing with Stochastic Demand Timing",
+      "url": "https://arxiv.org/abs/2609.00004",
+      "source": "ArXiv AI",
+      "date": "Wed, 02 Sep 2026 00:00:00 -0400",
+      "synopsis": "arXiv:2609.00004v1 Announce Type: new  Abstract: This paper studies a finite-horizon multi-item capacitated lot-sizing problem in which demand quantities are deterministic, while demand-arrival periods are stochastic. Each demand occurs once within a known time window and must be satisfied no later",
+      "theme": "AI General",
+      "category": "ai-tech",
+      "fetched_at": "2026-09-02T10:03:53.277442"
+    },
+    {
+      "title": "Incremental Risk Assessment of Progressive Elder Financial Scams via Instruction-Tuned Small Language Models",
+      "url": "https://arxiv.org/abs/2609.00005",
+      "source": "ArXiv AI",
+      "date": "Wed, 02 Sep 2026 00:00:00 -0400",
+      "synopsis": "arXiv:2609.00005v1 Announce Type: new  Abstract: Financial scams targeting older adults increasingly occur through text and voice channels such as email, SMS, and phone calls, unfolding over multiple conversational turns that begin with impersonation or casual contact, escalate through trust buildin",
+      "theme": "AI + Business",
+      "category": "ai-tech",
+      "fetched_at": "2026-09-02T10:03:53.277451"
+    },
+    {
+      "title": "Long-Horizon State Tracking in LLMs: Executing MD5 through a Deep Sequence of Dependent Tool Calls",
+      "url": "https://arxiv.org/abs/2609.00012",
+      "source": "ArXiv AI",
+      "date": "Wed, 02 Sep 2026 00:00:00 -0400",
+      "synopsis": "arXiv:2609.00012v1 Announce Type: new  Abstract: Long-horizon tasks remain uncommon in large language model (LLM) evaluation, and for a reason: when each step depends on the last, per-step accuracy that looks excellent in isolation decays catastrophically, as errors cascade and the end-to-end failur",
+      "theme": "AI + Business",
+      "category": "ai-tech",
+      "fetched_at": "2026-09-02T10:03:53.277459"
     },
     {
       "title": "Google just redesigned the search box for the first time in 25 years — here’s why it matters more than you think.",
@@ -28,7 +78,37 @@
       "synopsis": "<p>For a quarter century, the Google search box has been one of the most recognizable interfaces in computing: a thin white rectangle, a blinking cursor, a few typed words, and a list of blue links. On Tuesday, Google will formally retire that paradigm.</p><p>At its annual <a href=\"https://io.google",
       "theme": "AI General",
       "category": "ai-business",
-      "fetched_at": "2026-09-01T10:37:55.646524"
+      "fetched_at": "2026-09-02T10:03:52.017786"
+    },
+    {
+      "title": "How AI plotted an interstellar journey to Alpha Centauri",
+      "url": "https://www.technologyreview.com/2026/09/01/1143247/ai-interstellar-journey-alpha-centauri/",
+      "source": "MIT Technology Review - AI",
+      "date": "Tue, 01 Sep 2026 19:10:36 +0000",
+      "synopsis": "A nonprofit organization called the Fermi Explorer Mission announced today that it intends to launch a spacecraft to our nearest star system by the end of 2029.&#160; It’s a hugely ambitious mission—if all goes well, the spacecraft could take up to 80,000 years to arrive at Alpha Centauri, which is",
+      "theme": "AI + Business",
+      "category": "ai-business",
+      "fetched_at": "2026-09-02T10:03:51.363470"
+    },
+    {
+      "title": "Making the AI-powered case for legacy modernization",
+      "url": "https://www.technologyreview.com/2026/09/01/1142180/making-the-ai-powered-case-for-legacy-modernization/",
+      "source": "MIT Technology Review - AI",
+      "date": "Tue, 01 Sep 2026 14:00:00 +0000",
+      "synopsis": "For years, legacy technology has been a problem companies knew they needed to solve, but one they often struggled to tackle. The cost, complexity, and risk of replacing business-critical systems could make modernization feel like a disruption to manage instead of an opportunity to pursue. But with t",
+      "theme": "AI + Business",
+      "category": "ai-business",
+      "fetched_at": "2026-09-02T10:03:51.363487"
+    },
+    {
+      "title": "The Download: engineered microbes for crops, and OpenAI’s culture problem",
+      "url": "https://www.technologyreview.com/2026/09/01/1143199/the-download-engineered-microbes-openai-safety-culture/",
+      "source": "MIT Technology Review - AI",
+      "date": "Tue, 01 Sep 2026 12:10:00 +0000",
+      "synopsis": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. How engineered microbes could help feed the world’s crops Fertilizer is crucial for the global food supply, but making it uses a lot of energy and pro",
+      "theme": "AI + Business",
+      "category": "ai-business",
+      "fetched_at": "2026-09-02T10:03:51.363501"
     },
     {
       "title": "How engineered microbes could help feed the world’s crops",
@@ -38,67 +118,7 @@
       "synopsis": "Fertilizer is crucial for the global food supply, but making it uses a lot of energy and produces a lot of emissions. Some companies hope microbes can help. A growing body of research shows that seeding the soil around a crop’s roots with beneficial microbes can help feed the plant, providing crucia",
       "theme": "AI General",
       "category": "ai-business",
-      "fetched_at": "2026-09-01T10:37:55.270726"
-    },
-    {
-      "title": "DS-Lighting: Making Agent Harnesses Explicit for Data-Science Automation",
-      "url": "https://arxiv.org/abs/2608.28590",
-      "source": "ArXiv AI",
-      "date": "Tue, 01 Sep 2026 00:00:00 -0400",
-      "synopsis": "arXiv:2608.28590v1 Announce Type: new  Abstract: Large Language Model (LLM) agents have shown promise for automating data-science workflows, yet their end-to-end performance depends critically on the agent harness that represents tasks, manages execution state, constrains output artifacts, and provi",
-      "theme": "AI + Business",
-      "category": "ai-tech",
-      "fetched_at": "2026-09-01T10:37:57.127747"
-    },
-    {
-      "title": "Expert-validated STEM QA",
-      "url": "https://arxiv.org/abs/2608.28591",
-      "source": "ArXiv AI",
-      "date": "Tue, 01 Sep 2026 00:00:00 -0400",
-      "synopsis": "arXiv:2608.28591v1 Announce Type: new  Abstract: Recent advancements in AI are helping scientists achieve breakthroughs in fields such as mathematics, medicine, and materials sciences. New evaluation datasets for AI models contribute to such advancement in AI. In the STEM domain, frontier models hav",
-      "theme": "AI + Business",
-      "category": "ai-tech",
-      "fetched_at": "2026-09-01T10:37:57.127766"
-    },
-    {
-      "title": "A collective capability boundary in frontier large language models on guideline-conformant and case-specific oncology decision-making",
-      "url": "https://arxiv.org/abs/2608.28592",
-      "source": "ArXiv AI",
-      "date": "Tue, 01 Sep 2026 00:00:00 -0400",
-      "synopsis": "arXiv:2608.28592v1 Announce Type: new  Abstract: Large language models (LLMs) achieve high scores on medical knowledge examinations, yet real-world oncology is not a knowledge test--it is a sequence of guideline-pathway choices, escalation judgments, and commitments under uncertainty. Existing bench",
-      "theme": "AI + Business",
-      "category": "ai-tech",
-      "fetched_at": "2026-09-01T10:37:57.127776"
-    },
-    {
-      "title": "Statutory AI: Aligning Large Language Models With Legal Norms",
-      "url": "https://arxiv.org/abs/2608.28593",
-      "source": "ArXiv AI",
-      "date": "Tue, 01 Sep 2026 00:00:00 -0400",
-      "synopsis": "arXiv:2608.28593v1 Announce Type: new  Abstract: With the increasing development of AI regulatory frameworks, ensuring that artificial intelligence systems, particularly generative models, operate in accordance with legal and ethical standards has become a critical priority. Existing proposals for A",
-      "theme": "AI + Business",
-      "category": "ai-tech",
-      "fetched_at": "2026-09-01T10:37:57.127784"
-    },
-    {
-      "title": "From Question-First to Analyst-First: Domain-Expert Skills and Verified Knowledge Compilation for Proactive Enterprise Analytics",
-      "url": "https://arxiv.org/abs/2608.28594",
-      "source": "ArXiv AI",
-      "date": "Tue, 01 Sep 2026 00:00:00 -0400",
-      "synopsis": "arXiv:2608.28594v1 Announce Type: new  Abstract: Conversational analytics systems assume the user already has a well-formed question, leaving a non-expert facing a blank query box on an unfamiliar enterprise schema. Commercial 'proactive' tools narrow this gap only by detecting statistical anomalies",
-      "theme": "AI + Business",
-      "category": "ai-tech",
-      "fetched_at": "2026-09-01T10:37:57.127793"
-    },
-    {
-      "title": "A startup claims it’s found a drug to make your blood young",
-      "url": "https://www.technologyreview.com/2026/08/27/1143037/startup-claims-its-found-a-drug-to-make-your-blood-young/",
-      "source": "MIT Technology Review - AI",
-      "date": "Thu, 27 Aug 2026 19:48:13 +0000",
-      "synopsis": "I knew I’d officially become a “longevity influencer” this month when a company called Generation Lab reached out to offer me the chance to write about—and even receive—their new rejuvenation treatment,&#160;an injectable combination of two existing drugs which they call 1 Generation. This wasn’t ju",
-      "theme": "AI + Business",
-      "category": "ai-business",
-      "fetched_at": "2026-09-01T10:37:55.270790"
+      "fetched_at": "2026-09-02T10:03:51.363527"
     },
     {
       "title": "Enterprise AI's real risk isn't autonomous agents. It's the complexity between them.",
@@ -108,7 +128,7 @@
       "synopsis": "<p><i>Presented by Gravitee </i></p><hr /><p>Agent complexity is the insidious shadow lurking inside enterprises right now that needs a light shone on it.</p><p>That’s because enterprises don&#x27;t deploy a single agent and watch it run, they deploy fleets, each one calling APIs, calling other agen",
       "theme": "AI + Business",
       "category": "ai-business",
-      "fetched_at": "2026-09-01T10:37:55.646458"
+      "fetched_at": "2026-09-02T10:03:52.017719"
     },
     {
       "title": "When agents act on their own, governance has to live in the data layer",
@@ -118,7 +138,7 @@
       "synopsis": "<p><i>Presented by EDB </i></p><hr /><p>As enterprises give AI agents more autonomy — the ability to plan, decide, and act across systems without a human approving each step — a hard question moves to the center of every architecture review: When an agent tries to complete an action that it was neve",
       "theme": "AI + Business",
       "category": "ai-business",
-      "fetched_at": "2026-09-01T10:37:55.646480"
+      "fetched_at": "2026-09-02T10:03:52.017743"
     },
     {
       "title": "The Hugging Face hack could indicate cultural issues at OpenAI",
@@ -128,29 +148,9 @@
       "synopsis": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. By now you’ve probably heard about last month’s major AI security incident, in which OpenAI agents escaped their sandbox and hacked into the AI platform Hugging F",
       "theme": "AI + Business",
       "category": "ai-business",
-      "fetched_at": "2026-09-01T10:37:55.270747"
-    },
-    {
-      "title": "The Download: a secretive antiaging drug and joining virtual power plants",
-      "url": "https://www.technologyreview.com/2026/08/28/1143113/the-download-antiaging-drug-joining-virtual-power-plants/",
-      "source": "MIT Technology Review - AI",
-      "date": "Fri, 28 Aug 2026 12:35:27 +0000",
-      "synopsis": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. A startup claims it’s found a drug to make your blood young —Antonio Regalado I knew I’d officially become a “longevity influencer” when a company cal",
-      "theme": "AI + Business",
-      "category": "ai-business",
-      "fetched_at": "2026-09-01T10:37:55.270762"
-    },
-    {
-      "title": "How to sign up for a virtual power plant—and decide whether you should",
-      "url": "https://www.technologyreview.com/2026/08/28/1142956/how-to-sign-up-for-a-virtual-power-plant-and-decide-whether-you-should/",
-      "source": "MIT Technology Review - AI",
-      "date": "Fri, 28 Aug 2026 09:00:00 +0000",
-      "synopsis": "MIT Technology Review’s How To series helps you get things done.&#160; Your thermostat may not look like a power plant. Neither does your electric vehicle, home battery, or HVAC system. But utility and energy companies increasingly want to treat them like one. A virtual power plant, or VPP, is a col",
-      "theme": "AI + Higher Ed",
-      "category": "ai-business",
-      "fetched_at": "2026-09-01T10:37:55.270778"
+      "fetched_at": "2026-09-02T10:03:51.363539"
     }
   ],
-  "last_updated": "2026-09-01T10:37:57.244952",
+  "last_updated": "2026-09-02T10:03:53.325989",
   "total_count": 15
 }
