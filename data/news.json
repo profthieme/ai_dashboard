@@ -8,7 +8,7 @@
       "synopsis": "<p><i>Presented by Tata Communications </i></p><hr /><p>Enterprises are deploying AI agents, voice AI, and automation across messaging, voice, and digital channels faster than the architecture meant to support it. Most of that deployment has involved attaching conversational AI to legacy systems nev",
       "theme": "AI + Business",
       "category": "ai-business",
-      "fetched_at": "2026-09-02T10:03:52.017753"
+      "fetched_at": "2026-09-03T10:13:47.913671"
     },
     {
       "title": "VentureBeat names Rob Strechay as its first Lead Analyst, expanding its enterprise AI research push",
@@ -18,57 +18,27 @@
       "synopsis": "<p>Rob Strechay, until recently managing director and principal analyst at theCUBE Research, has joined VentureBeat as our first Lead Analyst and a founding analyst of VentureBeat Research. His arrival is the next step in a deliberate move at VentureBeat toward deeper specialization: analysis built",
       "theme": "AI + Business",
       "category": "ai-business",
-      "fetched_at": "2026-09-02T10:03:52.017761"
+      "fetched_at": "2026-09-03T10:13:47.913678"
     },
     {
-      "title": "HyperWorld: Hypergraph-Structured State Serialization Improves Learned Textual World Models",
-      "url": "https://arxiv.org/abs/2609.00002",
-      "source": "ArXiv AI",
-      "date": "Wed, 02 Sep 2026 00:00:00 -0400",
-      "synopsis": "arXiv:2609.00002v1 Announce Type: new  Abstract: World models enable language-model agents to predict environment dynamics and plan before acting. In text environments, the model must learn symbolic action effects from serialized state descriptions, but the role of serialization structure remains un",
+      "title": "Facilitating AI integration with simplicity at scale",
+      "url": "https://www.technologyreview.com/2026/09/02/1142879/facilitating-ai-integration-with-simplicity-at-scale/",
+      "source": "MIT Technology Review - AI",
+      "date": "Wed, 02 Sep 2026 14:00:00 +0000",
+      "synopsis": "As companies scale, the technology supporting operations can become a liability just as quickly as it becomes an asset. Disconnected systems, site-specific tools, spreadsheets, and manual workarounds can create data silos that make it harder to spot problems early, coordinate responses, and make dec",
       "theme": "AI + Business",
-      "category": "ai-tech",
-      "fetched_at": "2026-09-02T10:03:53.277399"
+      "category": "ai-business",
+      "fetched_at": "2026-09-03T10:13:47.464747"
     },
     {
-      "title": "I-CARE: Analysis of interference-related phenomena in a controllable, diverse and representative unlearning setting for text-to-image models",
-      "url": "https://arxiv.org/abs/2609.00003",
-      "source": "ArXiv AI",
-      "date": "Wed, 02 Sep 2026 00:00:00 -0400",
-      "synopsis": "arXiv:2609.00003v1 Announce Type: new  Abstract: Machine unlearning studies the removal of knowledge from an AI model, making the system forget a concept it previously learned. Despite rapid progress in generative machine unlearning, the unintended degradation of semantically related concepts that s",
+      "title": "The Download: AI puzzles and a path to our nearest star system",
+      "url": "https://www.technologyreview.com/2026/09/02/1143283/the-download-ai-puzzles-alpha-centauri-mission/",
+      "source": "MIT Technology Review - AI",
+      "date": "Wed, 02 Sep 2026 12:10:00 +0000",
+      "synopsis": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. AI models flub these intelligence tests. Can you fare any better? Puzzles and games have always been central to AI development. The term “machine lear",
       "theme": "AI + Business",
-      "category": "ai-tech",
-      "fetched_at": "2026-09-02T10:03:53.277418"
-    },
-    {
-      "title": "Discrete-Time MDP Modeling for Multi-Item Capacitated Lot Sizing with Stochastic Demand Timing",
-      "url": "https://arxiv.org/abs/2609.00004",
-      "source": "ArXiv AI",
-      "date": "Wed, 02 Sep 2026 00:00:00 -0400",
-      "synopsis": "arXiv:2609.00004v1 Announce Type: new  Abstract: This paper studies a finite-horizon multi-item capacitated lot-sizing problem in which demand quantities are deterministic, while demand-arrival periods are stochastic. Each demand occurs once within a known time window and must be satisfied no later",
-      "theme": "AI General",
-      "category": "ai-tech",
-      "fetched_at": "2026-09-02T10:03:53.277442"
-    },
-    {
-      "title": "Incremental Risk Assessment of Progressive Elder Financial Scams via Instruction-Tuned Small Language Models",
-      "url": "https://arxiv.org/abs/2609.00005",
-      "source": "ArXiv AI",
-      "date": "Wed, 02 Sep 2026 00:00:00 -0400",
-      "synopsis": "arXiv:2609.00005v1 Announce Type: new  Abstract: Financial scams targeting older adults increasingly occur through text and voice channels such as email, SMS, and phone calls, unfolding over multiple conversational turns that begin with impersonation or casual contact, escalate through trust buildin",
-      "theme": "AI + Business",
-      "category": "ai-tech",
-      "fetched_at": "2026-09-02T10:03:53.277451"
-    },
-    {
-      "title": "Long-Horizon State Tracking in LLMs: Executing MD5 through a Deep Sequence of Dependent Tool Calls",
-      "url": "https://arxiv.org/abs/2609.00012",
-      "source": "ArXiv AI",
-      "date": "Wed, 02 Sep 2026 00:00:00 -0400",
-      "synopsis": "arXiv:2609.00012v1 Announce Type: new  Abstract: Long-horizon tasks remain uncommon in large language model (LLM) evaluation, and for a reason: when each step depends on the last, per-step accuracy that looks excellent in isolation decays catastrophically, as errors cascade and the end-to-end failur",
-      "theme": "AI + Business",
-      "category": "ai-tech",
-      "fetched_at": "2026-09-02T10:03:53.277459"
+      "category": "ai-business",
+      "fetched_at": "2026-09-03T10:13:47.464756"
     },
     {
       "title": "Google just redesigned the search box for the first time in 25 years — here’s why it matters more than you think.",
@@ -78,7 +48,7 @@
       "synopsis": "<p>For a quarter century, the Google search box has been one of the most recognizable interfaces in computing: a thin white rectangle, a blinking cursor, a few typed words, and a list of blue links. On Tuesday, Google will formally retire that paradigm.</p><p>At its annual <a href=\"https://io.google",
       "theme": "AI General",
       "category": "ai-business",
-      "fetched_at": "2026-09-02T10:03:52.017786"
+      "fetched_at": "2026-09-03T10:13:47.913699"
     },
     {
       "title": "How AI plotted an interstellar journey to Alpha Centauri",
@@ -88,37 +58,7 @@
       "synopsis": "A nonprofit organization called the Fermi Explorer Mission announced today that it intends to launch a spacecraft to our nearest star system by the end of 2029.&#160; It’s a hugely ambitious mission—if all goes well, the spacecraft could take up to 80,000 years to arrive at Alpha Centauri, which is",
       "theme": "AI + Business",
       "category": "ai-business",
-      "fetched_at": "2026-09-02T10:03:51.363470"
-    },
-    {
-      "title": "Making the AI-powered case for legacy modernization",
-      "url": "https://www.technologyreview.com/2026/09/01/1142180/making-the-ai-powered-case-for-legacy-modernization/",
-      "source": "MIT Technology Review - AI",
-      "date": "Tue, 01 Sep 2026 14:00:00 +0000",
-      "synopsis": "For years, legacy technology has been a problem companies knew they needed to solve, but one they often struggled to tackle. The cost, complexity, and risk of replacing business-critical systems could make modernization feel like a disruption to manage instead of an opportunity to pursue. But with t",
-      "theme": "AI + Business",
-      "category": "ai-business",
-      "fetched_at": "2026-09-02T10:03:51.363487"
-    },
-    {
-      "title": "The Download: engineered microbes for crops, and OpenAI’s culture problem",
-      "url": "https://www.technologyreview.com/2026/09/01/1143199/the-download-engineered-microbes-openai-safety-culture/",
-      "source": "MIT Technology Review - AI",
-      "date": "Tue, 01 Sep 2026 12:10:00 +0000",
-      "synopsis": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. How engineered microbes could help feed the world’s crops Fertilizer is crucial for the global food supply, but making it uses a lot of energy and pro",
-      "theme": "AI + Business",
-      "category": "ai-business",
-      "fetched_at": "2026-09-02T10:03:51.363501"
-    },
-    {
-      "title": "How engineered microbes could help feed the world’s crops",
-      "url": "https://www.technologyreview.com/2026/09/01/1143195/microbe-fertilizer-switch-bioworks/",
-      "source": "MIT Technology Review - AI",
-      "date": "Tue, 01 Sep 2026 09:00:00 +0000",
-      "synopsis": "Fertilizer is crucial for the global food supply, but making it uses a lot of energy and produces a lot of emissions. Some companies hope microbes can help. A growing body of research shows that seeding the soil around a crop’s roots with beneficial microbes can help feed the plant, providing crucia",
-      "theme": "AI General",
-      "category": "ai-business",
-      "fetched_at": "2026-09-02T10:03:51.363527"
+      "fetched_at": "2026-09-03T10:13:47.464765"
     },
     {
       "title": "Enterprise AI's real risk isn't autonomous agents. It's the complexity between them.",
@@ -128,7 +68,7 @@
       "synopsis": "<p><i>Presented by Gravitee </i></p><hr /><p>Agent complexity is the insidious shadow lurking inside enterprises right now that needs a light shone on it.</p><p>That’s because enterprises don&#x27;t deploy a single agent and watch it run, they deploy fleets, each one calling APIs, calling other agen",
       "theme": "AI + Business",
       "category": "ai-business",
-      "fetched_at": "2026-09-02T10:03:52.017719"
+      "fetched_at": "2026-09-03T10:13:47.913644"
     },
     {
       "title": "When agents act on their own, governance has to live in the data layer",
@@ -138,19 +78,79 @@
       "synopsis": "<p><i>Presented by EDB </i></p><hr /><p>As enterprises give AI agents more autonomy — the ability to plan, decide, and act across systems without a human approving each step — a hard question moves to the center of every architecture review: When an agent tries to complete an action that it was neve",
       "theme": "AI + Business",
       "category": "ai-business",
-      "fetched_at": "2026-09-02T10:03:52.017743"
+      "fetched_at": "2026-09-03T10:13:47.913663"
     },
     {
-      "title": "The Hugging Face hack could indicate cultural issues at OpenAI",
-      "url": "https://www.technologyreview.com/2026/08/31/1143180/hugging-face-hack-could-indicate-cultural-issues-at-openai/",
+      "title": "Agriculture relies on fossil fuels. It’s costing us.",
+      "url": "https://www.technologyreview.com/2026/09/03/1143320/fertilizer-prices-fossil-fuels/",
       "source": "MIT Technology Review - AI",
-      "date": "Mon, 31 Aug 2026 18:00:00 +0000",
-      "synopsis": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. By now you’ve probably heard about last month’s major AI security incident, in which OpenAI agents escaped their sandbox and hacked into the AI platform Hugging F",
+      "date": "Thu, 03 Sep 2026 10:00:00 +0000",
+      "synopsis": "If you’ve had to fill up your vehicle’s gas tank or buy a plane ticket lately, you’ve probably felt the effects of rising fossil-fuel prices. But farmers buying fertilizer for their crops are especially aware of just how far the ripple effects of the conflict in Iran have spread. Fertilizer prices h",
+      "theme": "AI General",
+      "category": "ai-business",
+      "fetched_at": "2026-09-03T10:13:47.464724"
+    },
+    {
+      "title": "Scaling agentic AI pilots across the enterprise",
+      "url": "https://www.technologyreview.com/2026/09/03/1142868/scaling-agentic-ai-pilots-across-the-enterprise/",
+      "source": "MIT Technology Review - AI",
+      "date": "Thu, 03 Sep 2026 09:30:32 +0000",
+      "synopsis": "As agentic AI moves from experimentation toward enterprise deployment, the challenge is figuring out how agents can work together, connect to the systems and data they need, and operate safely across the workflows that run a business. Although agentic AI has been adopted by some 80% of Fortune 500 c",
       "theme": "AI + Business",
       "category": "ai-business",
-      "fetched_at": "2026-09-02T10:03:51.363539"
+      "fetched_at": "2026-09-03T10:13:47.464739"
+    },
+    {
+      "title": "EvalDetectBench: A Benchmark for Measuring Evaluation Awareness in Frontier Language Models",
+      "url": "https://arxiv.org/abs/2609.01611",
+      "source": "ArXiv AI",
+      "date": "Thu, 03 Sep 2026 00:00:00 -0400",
+      "synopsis": "arXiv:2609.01611v1 Announce Type: new  Abstract: Frontier large language models can often recognize when they are being evaluated, a capability known as evaluation awareness. If models behave differently in evaluations than in deployment, this undermines the validity of evaluation results, which are",
+      "theme": "AI General",
+      "category": "ai-tech",
+      "fetched_at": "2026-09-03T10:13:49.189569"
+    },
+    {
+      "title": "Meta-ethics and AI: exploring the novel meta-ethical questions in the era of AI",
+      "url": "https://arxiv.org/abs/2609.01685",
+      "source": "ArXiv AI",
+      "date": "Thu, 03 Sep 2026 00:00:00 -0400",
+      "synopsis": "arXiv:2609.01685v1 Announce Type: new  Abstract: With the development of artificial intelligence (AI), the landscape of meta-ethics, which has largely centred on human ethics, faces pressures that may significantly reconfigure it. In particular, if future AI systems were to exhibit sufficiently inte",
+      "theme": "AI + Business",
+      "category": "ai-tech",
+      "fetched_at": "2026-09-03T10:13:49.189587"
+    },
+    {
+      "title": "When Can a Machine Trust a Statute? A Survival Certificate for Machine-Extracted Legal Logic",
+      "url": "https://arxiv.org/abs/2609.01741",
+      "source": "ArXiv AI",
+      "date": "Thu, 03 Sep 2026 00:00:00 -0400",
+      "synopsis": "arXiv:2609.01741v1 Announce Type: new  Abstract: Statutes are increasingly parsed by machines before people read them, and the parsers disagree: on Missouri's statutes, two independently written extractors diverge on numeric-threshold presence at a false-negative rate of 0.43. We ask what formal log",
+      "theme": "AI General",
+      "category": "ai-tech",
+      "fetched_at": "2026-09-03T10:13:49.189601"
+    },
+    {
+      "title": "When Does Information Sharing Improve Decentralized Discovery? Aggregation, Independent Rescue, and Equilibrium Selection",
+      "url": "https://arxiv.org/abs/2609.01814",
+      "source": "ArXiv AI",
+      "date": "Thu, 03 Sep 2026 00:00:00 -0400",
+      "synopsis": "arXiv:2609.01814v1 Announce Type: new  Abstract: Information sharing can improve a pooled estimate while eliminating independent rescue actions. This paper separates those effects in exact finite discovery models. A centralized action-budget profile shows that equal one-person accuracy can coexist w",
+      "theme": "AI General",
+      "category": "ai-tech",
+      "fetched_at": "2026-09-03T10:13:49.189614"
+    },
+    {
+      "title": "Induction and Inquiry via Probabilistic Reasoning over Language and Code",
+      "url": "https://arxiv.org/abs/2609.01815",
+      "source": "ArXiv AI",
+      "date": "Thu, 03 Sep 2026 00:00:00 -0400",
+      "synopsis": "arXiv:2609.01815v1 Announce Type: new  Abstract: How humans grow and maintain abstract knowledge from the sparse, streaming noisy data of experience is a longstanding challenge in cognitive science. Any computational account must satisfy at least three desiderata: It must be (1) data-efficient and c",
+      "theme": "AI + Business",
+      "category": "ai-tech",
+      "fetched_at": "2026-09-03T10:13:49.189621"
     }
   ],
-  "last_updated": "2026-09-02T10:03:53.325989",
+  "last_updated": "2026-09-03T10:13:49.239128",
   "total_count": 15
 }
