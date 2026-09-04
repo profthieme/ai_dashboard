@@ -1,26 +1,6 @@
 {
   "articles": [
     {
-      "title": "Orchestration is the new challenge for CX in the age of AI agents",
-      "url": "https://venturebeat.com/orchestration/orchestration-is-the-new-challenge-for-cx-in-the-age-of-ai-agents",
-      "source": "VentureBeat AI",
-      "date": "Wed, 26 Aug 2026 14:30:00 GMT",
-      "synopsis": "<p><i>Presented by Tata Communications </i></p><hr /><p>Enterprises are deploying AI agents, voice AI, and automation across messaging, voice, and digital channels faster than the architecture meant to support it. Most of that deployment has involved attaching conversational AI to legacy systems nev",
-      "theme": "AI + Business",
-      "category": "ai-business",
-      "fetched_at": "2026-09-03T10:13:47.913671"
-    },
-    {
-      "title": "VentureBeat names Rob Strechay as its first Lead Analyst, expanding its enterprise AI research push",
-      "url": "https://venturebeat.com/ai/venturebeat-names-rob-strechay-as-its-first-lead-analyst-expanding-its-enterprise-ai-research-push",
-      "source": "VentureBeat AI",
-      "date": "Wed, 19 Aug 2026 14:18:12 GMT",
-      "synopsis": "<p>Rob Strechay, until recently managing director and principal analyst at theCUBE Research, has joined VentureBeat as our first Lead Analyst and a founding analyst of VentureBeat Research. His arrival is the next step in a deliberate move at VentureBeat toward deeper specialization: analysis built",
-      "theme": "AI + Business",
-      "category": "ai-business",
-      "fetched_at": "2026-09-03T10:13:47.913678"
-    },
-    {
       "title": "Facilitating AI integration with simplicity at scale",
       "url": "https://www.technologyreview.com/2026/09/02/1142879/facilitating-ai-integration-with-simplicity-at-scale/",
       "source": "MIT Technology Review - AI",
@@ -28,57 +8,17 @@
       "synopsis": "As companies scale, the technology supporting operations can become a liability just as quickly as it becomes an asset. Disconnected systems, site-specific tools, spreadsheets, and manual workarounds can create data silos that make it harder to spot problems early, coordinate responses, and make dec",
       "theme": "AI + Business",
       "category": "ai-business",
-      "fetched_at": "2026-09-03T10:13:47.464747"
+      "fetched_at": "2026-09-04T10:03:38.738474"
     },
     {
-      "title": "The Download: AI puzzles and a path to our nearest star system",
-      "url": "https://www.technologyreview.com/2026/09/02/1143283/the-download-ai-puzzles-alpha-centauri-mission/",
+      "title": "The Download: rethinking child safety and fossil-fueled farming",
+      "url": "https://www.technologyreview.com/2026/09/03/1143385/the-download-rethinking-child-safety-online-fossil-fuels-farming/",
       "source": "MIT Technology Review - AI",
-      "date": "Wed, 02 Sep 2026 12:10:00 +0000",
-      "synopsis": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. AI models flub these intelligence tests. Can you fare any better? Puzzles and games have always been central to AI development. The term “machine lear",
+      "date": "Thu, 03 Sep 2026 12:10:00 +0000",
+      "synopsis": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Child-monitoring apps might need a reboot Digital harms have become the defining fear of American parents. In response, they’re increasingly turning t",
       "theme": "AI + Business",
       "category": "ai-business",
-      "fetched_at": "2026-09-03T10:13:47.464756"
-    },
-    {
-      "title": "Google just redesigned the search box for the first time in 25 years — here’s why it matters more than you think.",
-      "url": "https://venturebeat.com/technology/google-just-redesigned-the-search-box-for-the-first-time-in-25-years-heres-why-it-matters-more-than-you-think",
-      "source": "VentureBeat AI",
-      "date": "Tue, 19 May 2026 17:45:00 GMT",
-      "synopsis": "<p>For a quarter century, the Google search box has been one of the most recognizable interfaces in computing: a thin white rectangle, a blinking cursor, a few typed words, and a list of blue links. On Tuesday, Google will formally retire that paradigm.</p><p>At its annual <a href=\"https://io.google",
-      "theme": "AI General",
-      "category": "ai-business",
-      "fetched_at": "2026-09-03T10:13:47.913699"
-    },
-    {
-      "title": "How AI plotted an interstellar journey to Alpha Centauri",
-      "url": "https://www.technologyreview.com/2026/09/01/1143247/ai-interstellar-journey-alpha-centauri/",
-      "source": "MIT Technology Review - AI",
-      "date": "Tue, 01 Sep 2026 19:10:36 +0000",
-      "synopsis": "A nonprofit organization called the Fermi Explorer Mission announced today that it intends to launch a spacecraft to our nearest star system by the end of 2029.&#160; It’s a hugely ambitious mission—if all goes well, the spacecraft could take up to 80,000 years to arrive at Alpha Centauri, which is",
-      "theme": "AI + Business",
-      "category": "ai-business",
-      "fetched_at": "2026-09-03T10:13:47.464765"
-    },
-    {
-      "title": "Enterprise AI's real risk isn't autonomous agents. It's the complexity between them.",
-      "url": "https://venturebeat.com/ai/enterprise-ais-real-risk-isnt-autonomous-agents-its-the-complexity-between-them",
-      "source": "VentureBeat AI",
-      "date": "Thu, 27 Aug 2026 14:01:00 GMT",
-      "synopsis": "<p><i>Presented by Gravitee </i></p><hr /><p>Agent complexity is the insidious shadow lurking inside enterprises right now that needs a light shone on it.</p><p>That’s because enterprises don&#x27;t deploy a single agent and watch it run, they deploy fleets, each one calling APIs, calling other agen",
-      "theme": "AI + Business",
-      "category": "ai-business",
-      "fetched_at": "2026-09-03T10:13:47.913644"
-    },
-    {
-      "title": "When agents act on their own, governance has to live in the data layer",
-      "url": "https://venturebeat.com/security/when-agents-act-on-their-own-governance-has-to-live-in-the-data-layer",
-      "source": "VentureBeat AI",
-      "date": "Thu, 27 Aug 2026 12:01:00 GMT",
-      "synopsis": "<p><i>Presented by EDB </i></p><hr /><p>As enterprises give AI agents more autonomy — the ability to plan, decide, and act across systems without a human approving each step — a hard question moves to the center of every architecture review: When an agent tries to complete an action that it was neve",
-      "theme": "AI + Business",
-      "category": "ai-business",
-      "fetched_at": "2026-09-03T10:13:47.913663"
+      "fetched_at": "2026-09-04T10:03:38.738435"
     },
     {
       "title": "Agriculture relies on fossil fuels. It’s costing us.",
@@ -88,7 +28,7 @@
       "synopsis": "If you’ve had to fill up your vehicle’s gas tank or buy a plane ticket lately, you’ve probably felt the effects of rising fossil-fuel prices. But farmers buying fertilizer for their crops are especially aware of just how far the ripple effects of the conflict in Iran have spread. Fertilizer prices h",
       "theme": "AI General",
       "category": "ai-business",
-      "fetched_at": "2026-09-03T10:13:47.464724"
+      "fetched_at": "2026-09-04T10:03:38.738459"
     },
     {
       "title": "Scaling agentic AI pilots across the enterprise",
@@ -98,59 +38,69 @@
       "synopsis": "As agentic AI moves from experimentation toward enterprise deployment, the challenge is figuring out how agents can work together, connect to the systems and data they need, and operate safely across the workflows that run a business. Although agentic AI has been adopted by some 80% of Fortune 500 c",
       "theme": "AI + Business",
       "category": "ai-business",
-      "fetched_at": "2026-09-03T10:13:47.464739"
+      "fetched_at": "2026-09-04T10:03:38.738467"
     },
     {
-      "title": "EvalDetectBench: A Benchmark for Measuring Evaluation Awareness in Frontier Language Models",
-      "url": "https://arxiv.org/abs/2609.01611",
-      "source": "ArXiv AI",
-      "date": "Thu, 03 Sep 2026 00:00:00 -0400",
-      "synopsis": "arXiv:2609.01611v1 Announce Type: new  Abstract: Frontier large language models can often recognize when they are being evaluated, a capability known as evaluation awareness. If models behave differently in evaluations than in deployment, this undermines the validity of evaluation results, which are",
-      "theme": "AI General",
-      "category": "ai-tech",
-      "fetched_at": "2026-09-03T10:13:49.189569"
+      "title": "Data from drones in Ukraine is fueling a new Wild West marketplace",
+      "url": "https://www.technologyreview.com/2026/09/04/1143452/drone-data-wild-west/",
+      "source": "MIT Technology Review - AI",
+      "date": "Fri, 04 Sep 2026 09:25:19 +0000",
+      "synopsis": "Battlefields in Ukraine are littered with the remnants of drones, which are now firmly established as a critical weapon of modern warfare. But behind all that wreckage, there’s a new gold mine for the defense sector. The data drones generate will far outlast the wars in which they are used to fight,",
+      "theme": "AI + Business",
+      "category": "ai-business",
+      "fetched_at": "2026-09-04T10:03:38.738417"
     },
     {
-      "title": "Meta-ethics and AI: exploring the novel meta-ethical questions in the era of AI",
-      "url": "https://arxiv.org/abs/2609.01685",
+      "title": "Structure and Implementation of New Practical English Textbooks Driven by Artificial Intelligence",
+      "url": "https://arxiv.org/abs/2609.02981",
       "source": "ArXiv AI",
-      "date": "Thu, 03 Sep 2026 00:00:00 -0400",
-      "synopsis": "arXiv:2609.01685v1 Announce Type: new  Abstract: With the development of artificial intelligence (AI), the landscape of meta-ethics, which has largely centred on human ethics, faces pressures that may significantly reconfigure it. In particular, if future AI systems were to exhibit sufficiently inte",
+      "date": "Fri, 04 Sep 2026 00:00:00 -0400",
+      "synopsis": "arXiv:2609.02981v1 Announce Type: new  Abstract: Artificial intelligence is changing the form of applied English materials from fixed paper sequences to adaptive learning systems that can diagnose learners, recommend tasks, and provide formative feedback. This paper studies the structure and applica",
       "theme": "AI + Business",
       "category": "ai-tech",
-      "fetched_at": "2026-09-03T10:13:49.189587"
+      "fetched_at": "2026-09-04T10:03:40.826124"
     },
     {
-      "title": "When Can a Machine Trust a Statute? A Survival Certificate for Machine-Extracted Legal Logic",
-      "url": "https://arxiv.org/abs/2609.01741",
+      "title": "MasterControl Seventeen Every Time",
+      "url": "https://arxiv.org/abs/2609.03209",
       "source": "ArXiv AI",
-      "date": "Thu, 03 Sep 2026 00:00:00 -0400",
-      "synopsis": "arXiv:2609.01741v1 Announce Type: new  Abstract: Statutes are increasingly parsed by machines before people read them, and the parsers disagree: on Missouri's statutes, two independently written extractors diverge on numeric-threshold presence at a false-negative rate of 0.43. We ask what formal log",
+      "date": "Fri, 04 Sep 2026 00:00:00 -0400",
+      "synopsis": "arXiv:2609.03209v1 Announce Type: new  Abstract: We study a governed approach to enterprise analytics: a language model interprets the question, while deterministic policy selects and runs a pre-approved analytical program that returns both results and evidence. We show that this restriction can rem",
       "theme": "AI General",
       "category": "ai-tech",
-      "fetched_at": "2026-09-03T10:13:49.189601"
+      "fetched_at": "2026-09-04T10:03:40.826150"
     },
     {
-      "title": "When Does Information Sharing Improve Decentralized Discovery? Aggregation, Independent Rescue, and Equilibrium Selection",
-      "url": "https://arxiv.org/abs/2609.01814",
+      "title": "Speculative Macro Commit for Faster Tool-Using Agents",
+      "url": "https://arxiv.org/abs/2609.03236",
       "source": "ArXiv AI",
-      "date": "Thu, 03 Sep 2026 00:00:00 -0400",
-      "synopsis": "arXiv:2609.01814v1 Announce Type: new  Abstract: Information sharing can improve a pooled estimate while eliminating independent rescue actions. This paper separates those effects in exact finite discovery models. A centralized action-budget profile shows that equal one-person accuracy can coexist w",
-      "theme": "AI General",
-      "category": "ai-tech",
-      "fetched_at": "2026-09-03T10:13:49.189614"
-    },
-    {
-      "title": "Induction and Inquiry via Probabilistic Reasoning over Language and Code",
-      "url": "https://arxiv.org/abs/2609.01815",
-      "source": "ArXiv AI",
-      "date": "Thu, 03 Sep 2026 00:00:00 -0400",
-      "synopsis": "arXiv:2609.01815v1 Announce Type: new  Abstract: How humans grow and maintain abstract knowledge from the sparse, streaming noisy data of experience is a longstanding challenge in cognitive science. Any computational account must satisfy at least three desiderata: It must be (1) data-efficient and c",
+      "date": "Fri, 04 Sep 2026 00:00:00 -0400",
+      "synopsis": "arXiv:2609.03236v1 Announce Type: new  Abstract: Tool-using LLM agents spend wall-clock time not only on model inference but also in serial action--observation turns, where each tool call, environment transition, and observation can delay subsequent decisions. We introduce \\textbf{Speculative Macro",
       "theme": "AI + Business",
       "category": "ai-tech",
-      "fetched_at": "2026-09-03T10:13:49.189621"
+      "fetched_at": "2026-09-04T10:03:40.826160"
+    },
+    {
+      "title": "Fresh Memory, Stale Plans: Dependency-Scoped Validation for Distributed LLM-Agent Memory",
+      "url": "https://arxiv.org/abs/2609.03340",
+      "source": "ArXiv AI",
+      "date": "Fri, 04 Sep 2026 00:00:00 -0400",
+      "synopsis": "arXiv:2609.03340v1 Announce Type: new  Abstract: Distributed LLM-agent teams can read the latest shared facts and still act on an obsolete plan. A planner may derive an action from requirement $r_3$, another agent may commit $r_4$, and an executor may receive $r_4$ without replacing the plan derived",
+      "theme": "AI + Business",
+      "category": "ai-tech",
+      "fetched_at": "2026-09-04T10:03:40.826167"
+    },
+    {
+      "title": "A Prompt-Engineering Approach to Develop Scalable, Flexible, and Real-Time Hybrid Micro-Level Personalization in a General Purpose AI Teaching Assistant",
+      "url": "https://arxiv.org/abs/2609.03402",
+      "source": "ArXiv AI",
+      "date": "Fri, 04 Sep 2026 00:00:00 -0400",
+      "synopsis": "arXiv:2609.03402v1 Announce Type: new  Abstract: Artificial intelligence (AI) teaching assistants powered by large language models (LLMs) offer scalable educational support but often provide limited personalization. This study presents a prompt-engineering-based framework for personalizing general-p",
+      "theme": "AI + Business",
+      "category": "ai-tech",
+      "fetched_at": "2026-09-04T10:03:40.826174"
     }
   ],
-  "last_updated": "2026-09-03T10:13:49.239128",
-  "total_count": 15
+  "last_updated": "2026-09-04T10:03:40.964640",
+  "total_count": 10
 }
