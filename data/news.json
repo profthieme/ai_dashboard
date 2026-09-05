@@ -1,16 +1,6 @@
 {
   "articles": [
     {
-      "title": "Facilitating AI integration with simplicity at scale",
-      "url": "https://www.technologyreview.com/2026/09/02/1142879/facilitating-ai-integration-with-simplicity-at-scale/",
-      "source": "MIT Technology Review - AI",
-      "date": "Wed, 02 Sep 2026 14:00:00 +0000",
-      "synopsis": "As companies scale, the technology supporting operations can become a liability just as quickly as it becomes an asset. Disconnected systems, site-specific tools, spreadsheets, and manual workarounds can create data silos that make it harder to spot problems early, coordinate responses, and make dec",
-      "theme": "AI + Business",
-      "category": "ai-business",
-      "fetched_at": "2026-09-04T10:03:38.738474"
-    },
-    {
       "title": "The Download: rethinking child safety and fossil-fueled farming",
       "url": "https://www.technologyreview.com/2026/09/03/1143385/the-download-rethinking-child-safety-online-fossil-fuels-farming/",
       "source": "MIT Technology Review - AI",
@@ -18,7 +8,7 @@
       "synopsis": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Child-monitoring apps might need a reboot Digital harms have become the defining fear of American parents. In response, they’re increasingly turning t",
       "theme": "AI + Business",
       "category": "ai-business",
-      "fetched_at": "2026-09-04T10:03:38.738435"
+      "fetched_at": "2026-09-05T09:33:14.528184"
     },
     {
       "title": "Agriculture relies on fossil fuels. It’s costing us.",
@@ -28,17 +18,27 @@
       "synopsis": "If you’ve had to fill up your vehicle’s gas tank or buy a plane ticket lately, you’ve probably felt the effects of rising fossil-fuel prices. But farmers buying fertilizer for their crops are especially aware of just how far the ripple effects of the conflict in Iran have spread. Fertilizer prices h",
       "theme": "AI General",
       "category": "ai-business",
-      "fetched_at": "2026-09-04T10:03:38.738459"
+      "fetched_at": "2026-09-05T09:33:14.528211"
     },
     {
-      "title": "Scaling agentic AI pilots across the enterprise",
-      "url": "https://www.technologyreview.com/2026/09/03/1142868/scaling-agentic-ai-pilots-across-the-enterprise/",
+      "title": "Architecting memory and storage in the AI era",
+      "url": "https://www.technologyreview.com/2026/09/04/1140872/architecting-memory-and-storage-in-the-ai-era/",
       "source": "MIT Technology Review - AI",
-      "date": "Thu, 03 Sep 2026 09:30:32 +0000",
-      "synopsis": "As agentic AI moves from experimentation toward enterprise deployment, the challenge is figuring out how agents can work together, connect to the systems and data they need, and operate safely across the workflows that run a business. Although agentic AI has been adopted by some 80% of Fortune 500 c",
+      "date": "Fri, 04 Sep 2026 18:39:19 +0000",
+      "synopsis": "The era of AI inference has arrived. Imagine a healthcare system analyzing millions of data points in real time to accelerate life-saving medical research, or an intelligent assistant instantly resolving thousands of complex customer needs at once. These real-world breakthroughs rely on advanced inf",
       "theme": "AI + Business",
       "category": "ai-business",
-      "fetched_at": "2026-09-04T10:03:38.738467"
+      "fetched_at": "2026-09-05T09:33:14.528120"
+    },
+    {
+      "title": "The Download: selling battlefield drone data and AI reshaping language",
+      "url": "https://www.technologyreview.com/2026/09/04/1143457/the-download-ukraine-selling-drone-data-ai-reshaping-language/",
+      "source": "MIT Technology Review - AI",
+      "date": "Fri, 04 Sep 2026 12:10:00 +0000",
+      "synopsis": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Data from drones in Ukraine is fueling a new Wild West marketplace —Cory Alpert, a researcher at the University of Melbourne studying AI&#8217;s impac",
+      "theme": "AI + Business",
+      "category": "ai-business",
+      "fetched_at": "2026-09-05T09:33:14.528159"
     },
     {
       "title": "Data from drones in Ukraine is fueling a new Wild West marketplace",
@@ -48,59 +48,9 @@
       "synopsis": "Battlefields in Ukraine are littered with the remnants of drones, which are now firmly established as a critical weapon of modern warfare. But behind all that wreckage, there’s a new gold mine for the defense sector. The data drones generate will far outlast the wars in which they are used to fight,",
       "theme": "AI + Business",
       "category": "ai-business",
-      "fetched_at": "2026-09-04T10:03:38.738417"
-    },
-    {
-      "title": "Structure and Implementation of New Practical English Textbooks Driven by Artificial Intelligence",
-      "url": "https://arxiv.org/abs/2609.02981",
-      "source": "ArXiv AI",
-      "date": "Fri, 04 Sep 2026 00:00:00 -0400",
-      "synopsis": "arXiv:2609.02981v1 Announce Type: new  Abstract: Artificial intelligence is changing the form of applied English materials from fixed paper sequences to adaptive learning systems that can diagnose learners, recommend tasks, and provide formative feedback. This paper studies the structure and applica",
-      "theme": "AI + Business",
-      "category": "ai-tech",
-      "fetched_at": "2026-09-04T10:03:40.826124"
-    },
-    {
-      "title": "MasterControl Seventeen Every Time",
-      "url": "https://arxiv.org/abs/2609.03209",
-      "source": "ArXiv AI",
-      "date": "Fri, 04 Sep 2026 00:00:00 -0400",
-      "synopsis": "arXiv:2609.03209v1 Announce Type: new  Abstract: We study a governed approach to enterprise analytics: a language model interprets the question, while deterministic policy selects and runs a pre-approved analytical program that returns both results and evidence. We show that this restriction can rem",
-      "theme": "AI General",
-      "category": "ai-tech",
-      "fetched_at": "2026-09-04T10:03:40.826150"
-    },
-    {
-      "title": "Speculative Macro Commit for Faster Tool-Using Agents",
-      "url": "https://arxiv.org/abs/2609.03236",
-      "source": "ArXiv AI",
-      "date": "Fri, 04 Sep 2026 00:00:00 -0400",
-      "synopsis": "arXiv:2609.03236v1 Announce Type: new  Abstract: Tool-using LLM agents spend wall-clock time not only on model inference but also in serial action--observation turns, where each tool call, environment transition, and observation can delay subsequent decisions. We introduce \\textbf{Speculative Macro",
-      "theme": "AI + Business",
-      "category": "ai-tech",
-      "fetched_at": "2026-09-04T10:03:40.826160"
-    },
-    {
-      "title": "Fresh Memory, Stale Plans: Dependency-Scoped Validation for Distributed LLM-Agent Memory",
-      "url": "https://arxiv.org/abs/2609.03340",
-      "source": "ArXiv AI",
-      "date": "Fri, 04 Sep 2026 00:00:00 -0400",
-      "synopsis": "arXiv:2609.03340v1 Announce Type: new  Abstract: Distributed LLM-agent teams can read the latest shared facts and still act on an obsolete plan. A planner may derive an action from requirement $r_3$, another agent may commit $r_4$, and an executor may receive $r_4$ without replacing the plan derived",
-      "theme": "AI + Business",
-      "category": "ai-tech",
-      "fetched_at": "2026-09-04T10:03:40.826167"
-    },
-    {
-      "title": "A Prompt-Engineering Approach to Develop Scalable, Flexible, and Real-Time Hybrid Micro-Level Personalization in a General Purpose AI Teaching Assistant",
-      "url": "https://arxiv.org/abs/2609.03402",
-      "source": "ArXiv AI",
-      "date": "Fri, 04 Sep 2026 00:00:00 -0400",
-      "synopsis": "arXiv:2609.03402v1 Announce Type: new  Abstract: Artificial intelligence (AI) teaching assistants powered by large language models (LLMs) offer scalable educational support but often provide limited personalization. This study presents a prompt-engineering-based framework for personalizing general-p",
-      "theme": "AI + Business",
-      "category": "ai-tech",
-      "fetched_at": "2026-09-04T10:03:40.826174"
+      "fetched_at": "2026-09-05T09:33:14.528173"
     }
   ],
-  "last_updated": "2026-09-04T10:03:40.964640",
-  "total_count": 10
+  "last_updated": "2026-09-05T09:33:16.022348",
+  "total_count": 5
 }
