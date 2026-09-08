@@ -8,67 +8,17 @@
       "synopsis": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Child-monitoring apps might need a reboot Digital harms have become the defining fear of American parents. In response, they’re increasingly turning t",
       "theme": "AI + Business",
       "category": "ai-business",
-      "fetched_at": "2026-09-07T10:52:51.729890"
+      "fetched_at": "2026-09-08T10:11:13.920570"
     },
     {
-      "title": "Agriculture relies on fossil fuels. It’s costing us.",
-      "url": "https://www.technologyreview.com/2026/09/03/1143320/fertilizer-prices-fossil-fuels/",
+      "title": "The Download: the hunt for underground hydrogen and more rogue OpenAI agents",
+      "url": "https://www.technologyreview.com/2026/09/07/1143592/the-download-underground-hydrogen-search-rogue-openai-agents/",
       "source": "MIT Technology Review - AI",
-      "date": "Thu, 03 Sep 2026 10:00:00 +0000",
-      "synopsis": "If you’ve had to fill up your vehicle’s gas tank or buy a plane ticket lately, you’ve probably felt the effects of rising fossil-fuel prices. But farmers buying fertilizer for their crops are especially aware of just how far the ripple effects of the conflict in Iran have spread. Fertilizer prices h",
-      "theme": "AI General",
+      "date": "Mon, 07 Sep 2026 12:10:00 +0000",
+      "synopsis": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. How much hydrogen awaits us underground? A flurry of exploration efforts is searching for underground stores of hydrogen gas, which could provide a va",
+      "theme": "AI + Business",
       "category": "ai-business",
-      "fetched_at": "2026-09-07T10:52:51.729917"
-    },
-    {
-      "title": "EXAONE Forecast for Finance",
-      "url": "https://arxiv.org/abs/2609.04239",
-      "source": "ArXiv AI",
-      "date": "Mon, 07 Sep 2026 00:00:00 -0400",
-      "synopsis": "arXiv:2609.04239v1 Announce Type: new  Abstract: This technical report presents EXAONE Forecast for Finance (EXAONE Finance), a financial time series (TS) foundation model (TSFM) tailored to financial forecasting. Recent TSFMs achieve strong zero-shot performance through large-scale pretraining. How",
-      "theme": "AI + Business",
-      "category": "ai-tech",
-      "fetched_at": "2026-09-07T10:52:53.279202"
-    },
-    {
-      "title": "From Matching Models to Recruiting Agents: A Systematized Narrative Review of AI Recruitment Systems, Evaluation, and Governance",
-      "url": "https://arxiv.org/abs/2609.04286",
-      "source": "ArXiv AI",
-      "date": "Mon, 07 Sep 2026 00:00:00 -0400",
-      "synopsis": "arXiv:2609.04286v1 Announce Type: new  Abstract: Artificial intelligence in recruitment has shifted the object being automated from profile pairs and ranked lists to multi-stage workflows that retrieve evidence, compare candidates, and support or execute actions. This systematized narrative review t",
-      "theme": "AI + Business",
-      "category": "ai-tech",
-      "fetched_at": "2026-09-07T10:52:53.279250"
-    },
-    {
-      "title": "Harbor Adapters and Harbor-Index: Infrastructure and a Curated Meta-Dataset for Large-Scale Agentic Evaluation",
-      "url": "https://arxiv.org/abs/2609.04298",
-      "source": "ArXiv AI",
-      "date": "Mon, 07 Sep 2026 00:00:00 -0400",
-      "synopsis": "arXiv:2609.04298v1 Announce Type: new  Abstract: Evaluating agents on the growing number of agentic benchmarks is challenging because they often require complex environments and agent integrations. We introduce Harbor Adapters, a unified evaluation infrastructure for agentic benchmarks. Our work mak",
-      "theme": "AI General",
-      "category": "ai-tech",
-      "fetched_at": "2026-09-07T10:52:53.279279"
-    },
-    {
-      "title": "Data-Optimized Contingency Screening: A Machine Learning Approach to Power System Security",
-      "url": "https://arxiv.org/abs/2609.04300",
-      "source": "ArXiv AI",
-      "date": "Mon, 07 Sep 2026 00:00:00 -0400",
-      "synopsis": "arXiv:2609.04300v1 Announce Type: new  Abstract: Ensuring the security of the power system is essential for stability and reliability, especially in the event of disruption. Effective classification of contingency in power systems enables proactive decision-making and mitigates large-scale breakdown",
-      "theme": "AI + Business",
-      "category": "ai-tech",
-      "fetched_at": "2026-09-07T10:52:53.279289"
-    },
-    {
-      "title": "Iris: Climbing to the Search Frontier",
-      "url": "https://arxiv.org/abs/2609.04304",
-      "source": "ArXiv AI",
-      "date": "Mon, 07 Sep 2026 00:00:00 -0400",
-      "synopsis": "arXiv:2609.04304v1 Announce Type: new  Abstract: We present Iris-mini and Iris-pro, two search agents trained at the 35B-A3B and 397B-A17B scales, together with the data pipeline and training recipe behind them. Tasks are reverse-constructed from the hyperlink structure of a web corpus: we author mu",
-      "theme": "AI + Business",
-      "category": "ai-tech",
-      "fetched_at": "2026-09-07T10:52:53.279298"
+      "fetched_at": "2026-09-08T10:11:13.920517"
     },
     {
       "title": "Architecting memory and storage in the AI era",
@@ -78,7 +28,7 @@
       "synopsis": "The era of AI inference has arrived. Imagine a healthcare system analyzing millions of data points in real time to accelerate life-saving medical research, or an intelligent assistant instantly resolving thousands of complex customer needs at once. These real-world breakthroughs rely on advanced inf",
       "theme": "AI + Business",
       "category": "ai-business",
-      "fetched_at": "2026-09-07T10:52:51.729842"
+      "fetched_at": "2026-09-08T10:11:13.920536"
     },
     {
       "title": "The Download: selling battlefield drone data and AI reshaping language",
@@ -88,7 +38,7 @@
       "synopsis": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Data from drones in Ukraine is fueling a new Wild West marketplace —Cory Alpert, a researcher at the University of Melbourne studying AI&#8217;s impac",
       "theme": "AI + Business",
       "category": "ai-business",
-      "fetched_at": "2026-09-07T10:52:51.729866"
+      "fetched_at": "2026-09-08T10:11:13.920550"
     },
     {
       "title": "Data from drones in Ukraine is fueling a new Wild West marketplace",
@@ -98,9 +48,9 @@
       "synopsis": "Battlefields in Ukraine are littered with the remnants of drones, which are now firmly established as a critical weapon of modern warfare. But behind all that wreckage, there’s a new gold mine for the defense sector. The data drones generate will far outlast the wars in which they are used to fight,",
       "theme": "AI + Business",
       "category": "ai-business",
-      "fetched_at": "2026-09-07T10:52:51.729879"
+      "fetched_at": "2026-09-08T10:11:13.920560"
     }
   ],
-  "last_updated": "2026-09-07T10:52:53.340537",
-  "total_count": 10
+  "last_updated": "2026-09-08T10:11:15.897419",
+  "total_count": 5
 }
