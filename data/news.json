@@ -1,56 +1,56 @@
 {
   "articles": [
     {
-      "title": "The Download: rethinking child safety and fossil-fueled farming",
-      "url": "https://www.technologyreview.com/2026/09/03/1143385/the-download-rethinking-child-safety-online-fossil-fuels-farming/",
+      "title": "Batteries just broke another record in the US",
+      "url": "https://www.technologyreview.com/2026/09/09/1143680/batteries-us-record/",
       "source": "MIT Technology Review - AI",
-      "date": "Thu, 03 Sep 2026 12:10:00 +0000",
-      "synopsis": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Child-monitoring apps might need a reboot Digital harms have become the defining fear of American parents. In response, they’re increasingly turning t",
+      "date": "Wed, 09 Sep 2026 09:00:00 +0000",
+      "synopsis": "Battery installations hit a new record in the US in the second quarter of 2026. In total, 20.2 gigawatt-hours of new capacity came online, according to a new report. That’s enough to supply the daily electricity needs of about 700,000 homes. The surge is putting the country on a trajectory to see 71",
       "theme": "AI + Business",
       "category": "ai-business",
-      "fetched_at": "2026-09-08T10:11:13.920570"
+      "fetched_at": "2026-09-09T10:14:52.751878"
     },
     {
-      "title": "The Download: the hunt for underground hydrogen and more rogue OpenAI agents",
-      "url": "https://www.technologyreview.com/2026/09/07/1143592/the-download-underground-hydrogen-search-rogue-openai-agents/",
+      "title": "Understanding the thermal ceiling in portable power",
+      "url": "https://www.technologyreview.com/2026/09/09/1143279/understanding-the-thermal-ceiling-in-portable-power/",
       "source": "MIT Technology Review - AI",
-      "date": "Mon, 07 Sep 2026 12:10:00 +0000",
-      "synopsis": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. How much hydrogen awaits us underground? A flurry of exploration efforts is searching for underground stores of hydrogen gas, which could provide a va",
-      "theme": "AI + Business",
+      "date": "Wed, 09 Sep 2026 08:18:13 +0000",
+      "synopsis": "Plug a phone into a modern charger and the first 10 minutes are impressive. The next 20 are not. This is not a defect. It’s the connected device protecting itself. As temperature rises during charging, a smartphone&#8217;s battery management system reduces the current it will accept, because heat ac",
+      "theme": "AI General",
       "category": "ai-business",
-      "fetched_at": "2026-09-08T10:11:13.920517"
+      "fetched_at": "2026-09-09T10:14:52.751912"
     },
     {
-      "title": "Architecting memory and storage in the AI era",
-      "url": "https://www.technologyreview.com/2026/09/04/1140872/architecting-memory-and-storage-in-the-ai-era/",
+      "title": "What OpenAI’s latest controversy tells us about the future of math",
+      "url": "https://www.technologyreview.com/2026/09/08/1143747/what-openais-latest-controversy-tells-us-about-the-future-of-math/",
       "source": "MIT Technology Review - AI",
-      "date": "Fri, 04 Sep 2026 18:39:19 +0000",
-      "synopsis": "The era of AI inference has arrived. Imagine a healthcare system analyzing millions of data points in real time to accelerate life-saving medical research, or an intelligent assistant instantly resolving thousands of complex customer needs at once. These real-world breakthroughs rely on advanced inf",
+      "date": "Wed, 09 Sep 2026 03:10:08 +0000",
+      "synopsis": "OpenAI’s latest mathematical milestone has quickly become mired in controversy. Today, the company announced that its agents have solved one of the Millennium Prize Problems, some of the most important open problems in mathematics. Under normal circumstances, that solution would be a huge feather in",
       "theme": "AI + Business",
       "category": "ai-business",
-      "fetched_at": "2026-09-08T10:11:13.920536"
+      "fetched_at": "2026-09-09T10:14:52.751925"
     },
     {
-      "title": "The Download: selling battlefield drone data and AI reshaping language",
-      "url": "https://www.technologyreview.com/2026/09/04/1143457/the-download-ukraine-selling-drone-data-ai-reshaping-language/",
+      "title": "The Download: our 35 Innovators Under 35 this year",
+      "url": "https://www.technologyreview.com/2026/09/08/1143615/the-download-35-innovators-under-35-spiderwebs-measuring-nature/",
       "source": "MIT Technology Review - AI",
-      "date": "Fri, 04 Sep 2026 12:10:00 +0000",
-      "synopsis": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Data from drones in Ukraine is fueling a new Wild West marketplace —Cory Alpert, a researcher at the University of Melbourne studying AI&#8217;s impac",
+      "date": "Tue, 08 Sep 2026 12:10:00 +0000",
+      "synopsis": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Introducing our 35 Innovators Under 35 list for 2026 What will the next generation of science and technology look like? Our latest Innovators Under 35",
       "theme": "AI + Business",
       "category": "ai-business",
-      "fetched_at": "2026-09-08T10:11:13.920550"
+      "fetched_at": "2026-09-09T10:14:52.751932"
     },
     {
-      "title": "Data from drones in Ukraine is fueling a new Wild West marketplace",
-      "url": "https://www.technologyreview.com/2026/09/04/1143452/drone-data-wild-west/",
+      "title": "This founder is teaching chips how to recycle (their energy)",
+      "url": "https://www.technologyreview.com/2026/09/08/1142079/hannah-earley-computer-chips-recycle-energy/",
       "source": "MIT Technology Review - AI",
-      "date": "Fri, 04 Sep 2026 09:25:19 +0000",
-      "synopsis": "Battlefields in Ukraine are littered with the remnants of drones, which are now firmly established as a critical weapon of modern warfare. But behind all that wreckage, there’s a new gold mine for the defense sector. The data drones generate will far outlast the wars in which they are used to fight,",
+      "date": "Tue, 08 Sep 2026 10:36:00 +0000",
+      "synopsis": "Throughout the history of the computer chip, engineers have treated waste heat as an inevitable cost of a calculation. Hannah Earley, however, thinks it’s a design choice. Earley, 31, is cofounder and chief technology officer of Vaire Computing, a startup building chips that recycle energy usually t",
       "theme": "AI + Business",
       "category": "ai-business",
-      "fetched_at": "2026-09-08T10:11:13.920560"
+      "fetched_at": "2026-09-09T10:14:52.751942"
     }
   ],
-  "last_updated": "2026-09-08T10:11:15.897419",
+  "last_updated": "2026-09-09T10:14:55.840249",
   "total_count": 5
 }
