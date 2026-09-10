@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "title": "The Download: OpenAI’s turning point for math and a battery record",
+      "url": "https://www.technologyreview.com/2026/09/09/1143767/the-download-openai-math-future-battery-record/",
+      "source": "MIT Technology Review - AI",
+      "date": "Wed, 09 Sep 2026 12:10:00 +0000",
+      "synopsis": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. What OpenAI’s latest controversy tells us about the future of math OpenAI says its agents have solved one of the most important open problems in mathe",
+      "theme": "AI + Business",
+      "category": "ai-business",
+      "fetched_at": "2026-09-10T10:08:57.758583"
+    },
+    {
       "title": "Batteries just broke another record in the US",
       "url": "https://www.technologyreview.com/2026/09/09/1143680/batteries-us-record/",
       "source": "MIT Technology Review - AI",
@@ -8,7 +18,7 @@
       "synopsis": "Battery installations hit a new record in the US in the second quarter of 2026. In total, 20.2 gigawatt-hours of new capacity came online, according to a new report. That’s enough to supply the daily electricity needs of about 700,000 homes. The surge is putting the country on a trajectory to see 71",
       "theme": "AI + Business",
       "category": "ai-business",
-      "fetched_at": "2026-09-09T10:14:52.751878"
+      "fetched_at": "2026-09-10T10:08:57.758592"
     },
     {
       "title": "Understanding the thermal ceiling in portable power",
@@ -18,39 +28,79 @@
       "synopsis": "Plug a phone into a modern charger and the first 10 minutes are impressive. The next 20 are not. This is not a defect. It’s the connected device protecting itself. As temperature rises during charging, a smartphone&#8217;s battery management system reduces the current it will accept, because heat ac",
       "theme": "AI General",
       "category": "ai-business",
-      "fetched_at": "2026-09-09T10:14:52.751912"
+      "fetched_at": "2026-09-10T10:08:57.758611"
     },
     {
-      "title": "What OpenAI’s latest controversy tells us about the future of math",
-      "url": "https://www.technologyreview.com/2026/09/08/1143747/what-openais-latest-controversy-tells-us-about-the-future-of-math/",
+      "title": "God told them to sell crypto. Their investors lost everything.",
+      "url": "https://www.technologyreview.com/2026/09/10/1143588/indxcoin-god-regalados-sell-crypto-investors-lost-everything/",
       "source": "MIT Technology Review - AI",
-      "date": "Wed, 09 Sep 2026 03:10:08 +0000",
-      "synopsis": "OpenAI’s latest mathematical milestone has quickly become mired in controversy. Today, the company announced that its agents have solved one of the Millennium Prize Problems, some of the most important open problems in mathematics. Under normal circumstances, that solution would be a huge feather in",
-      "theme": "AI + Business",
+      "date": "Thu, 10 Sep 2026 09:00:00 +0000",
+      "synopsis": "This article was produced in partnership with Type Investigations and with support from the Fund for Investigative Journalism. When Eli Regalado first heard God speak to him, he wondered whether he was hallucinating. Now he likens the experience to having “a thought that is not my thought.” Divine w",
+      "theme": "AI General",
       "category": "ai-business",
-      "fetched_at": "2026-09-09T10:14:52.751925"
+      "fetched_at": "2026-09-10T10:08:57.758552"
     },
     {
-      "title": "The Download: our 35 Innovators Under 35 this year",
-      "url": "https://www.technologyreview.com/2026/09/08/1143615/the-download-35-innovators-under-35-spiderwebs-measuring-nature/",
+      "title": "Healthcare AI’s next test is integration",
+      "url": "https://www.technologyreview.com/2026/09/10/1141421/healthcare-ais-next-test-is-integration/",
       "source": "MIT Technology Review - AI",
-      "date": "Tue, 08 Sep 2026 12:10:00 +0000",
-      "synopsis": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Introducing our 35 Innovators Under 35 list for 2026 What will the next generation of science and technology look like? Our latest Innovators Under 35",
+      "date": "Thu, 10 Sep 2026 08:58:01 +0000",
+      "synopsis": "The entrance of major AI companies into healthcare is a meaningful and welcome development, accelerating the technical foundation available to the industry. Their models are increasingly capable of processing long clinical records, interpreting complex terminology, comparing documentation against ev",
       "theme": "AI + Business",
       "category": "ai-business",
-      "fetched_at": "2026-09-09T10:14:52.751932"
+      "fetched_at": "2026-09-10T10:08:57.758572"
     },
     {
-      "title": "This founder is teaching chips how to recycle (their energy)",
-      "url": "https://www.technologyreview.com/2026/09/08/1142079/hannah-earley-computer-chips-recycle-energy/",
-      "source": "MIT Technology Review - AI",
-      "date": "Tue, 08 Sep 2026 10:36:00 +0000",
-      "synopsis": "Throughout the history of the computer chip, engineers have treated waste heat as an inevitable cost of a calculation. Hannah Earley, however, thinks it’s a design choice. Earley, 31, is cofounder and chief technology officer of Vaire Computing, a startup building chips that recycle energy usually t",
+      "title": "Beyond Right and Wrong: Evaluating Second-order Social Reasoning in Large Language Models",
+      "url": "https://arxiv.org/abs/2609.05437",
+      "source": "ArXiv AI",
+      "date": "Thu, 10 Sep 2026 00:00:00 -0400",
+      "synopsis": "arXiv:2609.05437v1 Announce Type: new  Abstract: Previous AI alignment efforts have focused primarily on first-order social norms -- teaching models what is socially acceptable or unacceptable (e.g., `do not steal'). However, social intelligence depends not only on norm recognition, but also on anti",
       "theme": "AI + Business",
-      "category": "ai-business",
-      "fetched_at": "2026-09-09T10:14:52.751942"
+      "category": "ai-tech",
+      "fetched_at": "2026-09-10T10:09:00.234902"
+    },
+    {
+      "title": "CriticGen: Generation-Aware Evaluation as Actionable Feedback",
+      "url": "https://arxiv.org/abs/2609.05439",
+      "source": "ArXiv AI",
+      "date": "Thu, 10 Sep 2026 00:00:00 -0400",
+      "synopsis": "arXiv:2609.05439v1 Announce Type: new  Abstract: Current evaluation methods for large language models are coarse-grained and decoupled from generation, producing generic explanations that fail to provide actionable feedback for model improvement. We propose CriticGen, a fine-grained, generation-awar",
+      "theme": "AI + Business",
+      "category": "ai-tech",
+      "fetched_at": "2026-09-10T10:09:00.234922"
+    },
+    {
+      "title": "When Does Memory Help? A Cost-Aware Evaluation of Long-Term Memory in Tool-Using LLM Agents",
+      "url": "https://arxiv.org/abs/2609.05441",
+      "source": "ArXiv AI",
+      "date": "Thu, 10 Sep 2026 00:00:00 -0400",
+      "synopsis": "arXiv:2609.05441v1 Announce Type: new  Abstract: Long-term memory for LLM agents is evaluated today by conversational recall benchmarks (LoCoMo, LongMemEval), which measure question answering over dialogue history, not whether remembered facts change what a tool-using agent does. We present MERIT (M",
+      "theme": "AI + Business",
+      "category": "ai-tech",
+      "fetched_at": "2026-09-10T10:09:00.234933"
+    },
+    {
+      "title": "AutoFyn Technical Report: Non-Parametric Expert Iteration for Long-Horizon Agents",
+      "url": "https://arxiv.org/abs/2609.05446",
+      "source": "ArXiv AI",
+      "date": "Thu, 10 Sep 2026 00:00:00 -0400",
+      "synopsis": "arXiv:2609.05446v1 Announce Type: new  Abstract: We introduce AutoFyn, an agent harness inspired by the Expert Iteration algorithm, adapting a frozen model across many rounds by updating persistent state from verified reward signals rather than model weights. Each round begins from a fresh model ses",
+      "theme": "AI General",
+      "category": "ai-tech",
+      "fetched_at": "2026-09-10T10:09:00.234953"
+    },
+    {
+      "title": "Damage-Aware Bandit Pruning for Vision and Language Transformers",
+      "url": "https://arxiv.org/abs/2609.05448",
+      "source": "ArXiv AI",
+      "date": "Thu, 10 Sep 2026 00:00:00 -0400",
+      "synopsis": "arXiv:2609.05448v1 Announce Type: new  Abstract: Structured post-training pruning of transformers requires selecting complete functional units whose suppression causes limited degradation. We formulate structured-unit selection for language and vision transformers as a damage-aware multi-armed bandi",
+      "theme": "AI + Business",
+      "category": "ai-tech",
+      "fetched_at": "2026-09-10T10:09:00.234960"
     }
   ],
-  "last_updated": "2026-09-09T10:14:55.840249",
-  "total_count": 5
+  "last_updated": "2026-09-10T10:09:00.293564",
+  "total_count": 10
 }
