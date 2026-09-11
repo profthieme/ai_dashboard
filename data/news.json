@@ -1,106 +1,106 @@
 {
   "articles": [
     {
-      "title": "The Download: OpenAI’s turning point for math and a battery record",
-      "url": "https://www.technologyreview.com/2026/09/09/1143767/the-download-openai-math-future-battery-record/",
+      "title": "The Download: a “God-driven” cryptocurrency and a solar engineering roadmap",
+      "url": "https://www.technologyreview.com/2026/09/10/1143828/the-download-christian-cryptocurrency-scandal-solar-engineering-roadmap/",
       "source": "MIT Technology Review - AI",
-      "date": "Wed, 09 Sep 2026 12:10:00 +0000",
-      "synopsis": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. What OpenAI’s latest controversy tells us about the future of math OpenAI says its agents have solved one of the most important open problems in mathe",
+      "date": "Thu, 10 Sep 2026 12:10:00 +0000",
+      "synopsis": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. God told them to sell crypto. Their investors lost everything. When Eli Regalado first heard God speak to him, he wondered whether he was hallucinatin",
       "theme": "AI + Business",
       "category": "ai-business",
-      "fetched_at": "2026-09-10T10:08:57.758583"
+      "fetched_at": "2026-09-11T10:06:13.172967"
     },
     {
-      "title": "Batteries just broke another record in the US",
-      "url": "https://www.technologyreview.com/2026/09/09/1143680/batteries-us-record/",
+      "title": "Powering AI is an architecture problem",
+      "url": "https://www.technologyreview.com/2026/09/10/1141649/powering-ai-is-an-architecture-problem/",
       "source": "MIT Technology Review - AI",
-      "date": "Wed, 09 Sep 2026 09:00:00 +0000",
-      "synopsis": "Battery installations hit a new record in the US in the second quarter of 2026. In total, 20.2 gigawatt-hours of new capacity came online, according to a new report. That’s enough to supply the daily electricity needs of about 700,000 homes. The surge is putting the country on a trajectory to see 71",
+      "date": "Thu, 10 Sep 2026 11:00:00 +0000",
+      "synopsis": "On July 22, 2026, a transmission line fault in Ashburn, Virginia—the heart of the world&#8217;s largest data center cluster—knocked more than 3 gigawatts of load off the grid in seconds. And it wasn&#8217;t the first time. Two years earlier, a single failed surge arrester dropped roughly 60 Virginia",
       "theme": "AI + Business",
       "category": "ai-business",
-      "fetched_at": "2026-09-10T10:08:57.758592"
+      "fetched_at": "2026-09-11T10:06:13.172977"
     },
     {
-      "title": "Understanding the thermal ceiling in portable power",
-      "url": "https://www.technologyreview.com/2026/09/09/1143279/understanding-the-thermal-ceiling-in-portable-power/",
+      "title": "This road map could help us decide whether to deploy solar geoengineering",
+      "url": "https://www.technologyreview.com/2026/09/10/1143804/this-road-map-could-help-us-decide-whether-to-deploy-solar-geoengineering/",
       "source": "MIT Technology Review - AI",
-      "date": "Wed, 09 Sep 2026 08:18:13 +0000",
-      "synopsis": "Plug a phone into a modern charger and the first 10 minutes are impressive. The next 20 are not. This is not a defect. It’s the connected device protecting itself. As temperature rises during charging, a smartphone&#8217;s battery management system reduces the current it will accept, because heat ac",
+      "date": "Thu, 10 Sep 2026 11:00:00 +0000",
+      "synopsis": "A San Francisco nonprofit has published a detailed road map of the experiments, studies, and infrastructure that it says would be needed to make informed decisions about the use of solar geoengineering, MIT Technology Review can reveal. Scientists have now spent half a century exploring the possibil",
+      "theme": "AI + Business",
+      "category": "ai-business",
+      "fetched_at": "2026-09-11T10:06:13.172986"
+    },
+    {
+      "title": "Can the US battery market untangle from China?",
+      "url": "https://www.technologyreview.com/2026/09/10/1143791/us-china-batteries/",
+      "source": "MIT Technology Review - AI",
+      "date": "Thu, 10 Sep 2026 10:00:00 +0000",
+      "synopsis": "The US is hitting records for the rapid growth of its energy storage market. That’ll go a long way to shoring up the grid, increasing reliability and also cutting emissions, since batteries can help store energy from intermittent renewables like wind and solar. Crucially, this is all happening with",
       "theme": "AI General",
       "category": "ai-business",
-      "fetched_at": "2026-09-10T10:08:57.758611"
+      "fetched_at": "2026-09-11T10:06:13.173008"
     },
     {
-      "title": "God told them to sell crypto. Their investors lost everything.",
-      "url": "https://www.technologyreview.com/2026/09/10/1143588/indxcoin-god-regalados-sell-crypto-investors-lost-everything/",
+      "title": "Meet the under-35s shaping the future of biotech",
+      "url": "https://www.technologyreview.com/2026/09/11/1143834/meet-the-under-35s-shaping-the-future-of-biotech/",
       "source": "MIT Technology Review - AI",
-      "date": "Thu, 10 Sep 2026 09:00:00 +0000",
-      "synopsis": "This article was produced in partnership with Type Investigations and with support from the Fund for Investigative Journalism. When Eli Regalado first heard God speak to him, he wondered whether he was hallucinating. Now he likens the experience to having “a thought that is not my thought.” Divine w",
-      "theme": "AI General",
+      "date": "Fri, 11 Sep 2026 09:00:00 +0000",
+      "synopsis": "Every year, MIT Technology Review puts together a list of some of the brightest and best young minds working across science and technology. Our 35 Innovators Under 35 are the ones to watch—people whose research and technical work stands to shape the future of their fields. This year, the list includ",
+      "theme": "AI + Higher Ed",
       "category": "ai-business",
-      "fetched_at": "2026-09-10T10:08:57.758552"
+      "fetched_at": "2026-09-11T10:06:13.172948"
     },
     {
-      "title": "Healthcare AI’s next test is integration",
-      "url": "https://www.technologyreview.com/2026/09/10/1141421/healthcare-ais-next-test-is-integration/",
-      "source": "MIT Technology Review - AI",
-      "date": "Thu, 10 Sep 2026 08:58:01 +0000",
-      "synopsis": "The entrance of major AI companies into healthcare is a meaningful and welcome development, accelerating the technical foundation available to the industry. Their models are increasingly capable of processing long clinical records, interpreting complex terminology, comparing documentation against ev",
-      "theme": "AI + Business",
-      "category": "ai-business",
-      "fetched_at": "2026-09-10T10:08:57.758572"
-    },
-    {
-      "title": "Beyond Right and Wrong: Evaluating Second-order Social Reasoning in Large Language Models",
-      "url": "https://arxiv.org/abs/2609.05437",
+      "title": "OpenDiscoveryTrace: Process Traces for Evaluating AI Scientist Workflows",
+      "url": "https://arxiv.org/abs/2609.09203",
       "source": "ArXiv AI",
-      "date": "Thu, 10 Sep 2026 00:00:00 -0400",
-      "synopsis": "arXiv:2609.05437v1 Announce Type: new  Abstract: Previous AI alignment efforts have focused primarily on first-order social norms -- teaching models what is socially acceptable or unacceptable (e.g., `do not steal'). However, social intelligence depends not only on norm recognition, but also on anti",
+      "date": "Fri, 11 Sep 2026 00:00:00 -0400",
+      "synopsis": "arXiv:2609.09203v1 Announce Type: new  Abstract: Existing benchmarks for autonomous AI scientists evaluate only final outputs---generated code, hypotheses, or papers---yet discard the reasoning process by which those outputs were obtained. This makes it impossible to audit scientific methodology, di",
       "theme": "AI + Business",
       "category": "ai-tech",
-      "fetched_at": "2026-09-10T10:09:00.234902"
+      "fetched_at": "2026-09-11T10:06:15.364261"
     },
     {
-      "title": "CriticGen: Generation-Aware Evaluation as Actionable Feedback",
-      "url": "https://arxiv.org/abs/2609.05439",
+      "title": "Adaptive Entangled Game Modules in Artificial General Intelligence",
+      "url": "https://arxiv.org/abs/2609.09226",
       "source": "ArXiv AI",
-      "date": "Thu, 10 Sep 2026 00:00:00 -0400",
-      "synopsis": "arXiv:2609.05439v1 Announce Type: new  Abstract: Current evaluation methods for large language models are coarse-grained and decoupled from generation, producing generic explanations that fail to provide actionable feedback for model improvement. We propose CriticGen, a fine-grained, generation-awar",
-      "theme": "AI + Business",
-      "category": "ai-tech",
-      "fetched_at": "2026-09-10T10:09:00.234922"
-    },
-    {
-      "title": "When Does Memory Help? A Cost-Aware Evaluation of Long-Term Memory in Tool-Using LLM Agents",
-      "url": "https://arxiv.org/abs/2609.05441",
-      "source": "ArXiv AI",
-      "date": "Thu, 10 Sep 2026 00:00:00 -0400",
-      "synopsis": "arXiv:2609.05441v1 Announce Type: new  Abstract: Long-term memory for LLM agents is evaluated today by conversational recall benchmarks (LoCoMo, LongMemEval), which measure question answering over dialogue history, not whether remembered facts change what a tool-using agent does. We present MERIT (M",
-      "theme": "AI + Business",
-      "category": "ai-tech",
-      "fetched_at": "2026-09-10T10:09:00.234933"
-    },
-    {
-      "title": "AutoFyn Technical Report: Non-Parametric Expert Iteration for Long-Horizon Agents",
-      "url": "https://arxiv.org/abs/2609.05446",
-      "source": "ArXiv AI",
-      "date": "Thu, 10 Sep 2026 00:00:00 -0400",
-      "synopsis": "arXiv:2609.05446v1 Announce Type: new  Abstract: We introduce AutoFyn, an agent harness inspired by the Expert Iteration algorithm, adapting a frozen model across many rounds by updating persistent state from verified reward signals rather than model weights. Each round begins from a fresh model ses",
+      "date": "Fri, 11 Sep 2026 00:00:00 -0400",
+      "synopsis": "arXiv:2609.09226v1 Announce Type: new  Abstract: We introduce a probability-wave framework for modeling the collective behavior of interacting adaptive agents, deriving testable eigenmodes through a generalized behavioral intelligence (GBI) nonlocal probability-wave equation. This framework captures",
       "theme": "AI General",
       "category": "ai-tech",
-      "fetched_at": "2026-09-10T10:09:00.234953"
+      "fetched_at": "2026-09-11T10:06:15.364285"
     },
     {
-      "title": "Damage-Aware Bandit Pruning for Vision and Language Transformers",
-      "url": "https://arxiv.org/abs/2609.05448",
+      "title": "Subagents vs Agent Skills: Executing Reusable Knowledge for Long-Horizon Agentic Tasks",
+      "url": "https://arxiv.org/abs/2609.09233",
       "source": "ArXiv AI",
-      "date": "Thu, 10 Sep 2026 00:00:00 -0400",
-      "synopsis": "arXiv:2609.05448v1 Announce Type: new  Abstract: Structured post-training pruning of transformers requires selecting complete functional units whose suppression causes limited degradation. We formulate structured-unit selection for language and vision transformers as a damage-aware multi-armed bandi",
+      "date": "Fri, 11 Sep 2026 00:00:00 -0400",
+      "synopsis": "arXiv:2609.09233v1 Announce Type: new  Abstract: How can language model agents effectively leverage libraries of reusable knowledge to solve long-horizon tasks? Recent work has increasingly focused on agent skills: reusable capabilities represented as skill packages, i.e., multi-file bundles contain",
       "theme": "AI + Business",
       "category": "ai-tech",
-      "fetched_at": "2026-09-10T10:09:00.234960"
+      "fetched_at": "2026-09-11T10:06:15.364293"
+    },
+    {
+      "title": "Gradland: On Phenomenal Experience, Differentiated Across Many Dimensions",
+      "url": "https://arxiv.org/abs/2609.09306",
+      "source": "ArXiv AI",
+      "date": "Fri, 11 Sep 2026 00:00:00 -0400",
+      "synopsis": "arXiv:2609.09306v1 Announce Type: new  Abstract: This paper investigates the hypothesis that the first-order structure of physical interactions, i.e. gradients or Jacobians, characterizes the structure of phenomenal experience. It does so in an idealized world inhabited by neural networks, Gradland,",
+      "theme": "AI General",
+      "category": "ai-tech",
+      "fetched_at": "2026-09-11T10:06:15.364307"
+    },
+    {
+      "title": "An Autonomous GeoAI Agent for Arctic Eco-Navigation",
+      "url": "https://arxiv.org/abs/2609.09374",
+      "source": "ArXiv AI",
+      "date": "Fri, 11 Sep 2026 00:00:00 -0400",
+      "synopsis": "arXiv:2609.09374v1 Announce Type: new  Abstract: Arctic maritime navigation is becoming increasingly important as changing sea-ice conditions expand seasonal accessibility while simultaneously introducing substantial operational, environmental, and community risks. Arctic route planning is inherentl",
+      "theme": "AI + Business",
+      "category": "ai-tech",
+      "fetched_at": "2026-09-11T10:06:15.364314"
     }
   ],
-  "last_updated": "2026-09-10T10:09:00.293564",
+  "last_updated": "2026-09-11T10:06:15.442713",
   "total_count": 10
 }
