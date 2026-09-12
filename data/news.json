@@ -8,7 +8,7 @@
       "synopsis": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. God told them to sell crypto. Their investors lost everything. When Eli Regalado first heard God speak to him, he wondered whether he was hallucinatin",
       "theme": "AI + Business",
       "category": "ai-business",
-      "fetched_at": "2026-09-11T10:06:13.172967"
+      "fetched_at": "2026-09-12T09:41:44.288535"
     },
     {
       "title": "Powering AI is an architecture problem",
@@ -18,27 +18,77 @@
       "synopsis": "On July 22, 2026, a transmission line fault in Ashburn, Virginia—the heart of the world&#8217;s largest data center cluster—knocked more than 3 gigawatts of load off the grid in seconds. And it wasn&#8217;t the first time. Two years earlier, a single failed surge arrester dropped roughly 60 Virginia",
       "theme": "AI + Business",
       "category": "ai-business",
-      "fetched_at": "2026-09-11T10:06:13.172977"
+      "fetched_at": "2026-09-12T09:41:44.288546"
     },
     {
-      "title": "This road map could help us decide whether to deploy solar geoengineering",
-      "url": "https://www.technologyreview.com/2026/09/10/1143804/this-road-map-could-help-us-decide-whether-to-deploy-solar-geoengineering/",
+      "title": "Probabilistic Focal Search: Accelerating Bounded-Suboptimal Search via Lower-Bound Advancement",
+      "url": "https://arxiv.org/abs/2609.10584",
+      "source": "ArXiv AI",
+      "date": "Sat, 12 Sep 2026 00:00:00 -0400",
+      "synopsis": "arXiv:2609.10584v1 Announce Type: new  Abstract: Bounded-suboptimal search seeks a solution within a factor $w$ of optimal while reducing search effort. Focal Search (FS) uses heuristic guidance within FOCAL, the frontier nodes eligible under the threshold $w f_{\\min}$, but its deterministic policy",
+      "theme": "AI General",
+      "category": "ai-tech",
+      "fetched_at": "2026-09-12T09:41:45.881368"
+    },
+    {
+      "title": "Automating Quadratic Unconstrained Binary Optimization (QUBO) Formulation Generation from Natural Language",
+      "url": "https://arxiv.org/abs/2609.10629",
+      "source": "ArXiv AI",
+      "date": "Sat, 12 Sep 2026 00:00:00 -0400",
+      "synopsis": "arXiv:2609.10629v1 Announce Type: new  Abstract: Quadratic Unconstrained Binary Optimization (QUBO) is a central formulation for combinatorial optimization and has gained increasing attention due to its compatibility with quantum, hybrid quantum-classical, and quantum-inspired solvers. However, tran",
+      "theme": "AI + Business",
+      "category": "ai-tech",
+      "fetched_at": "2026-09-12T09:41:45.881388"
+    },
+    {
+      "title": "A Multi-Stage Rule-Chaining Framework for Compositional and Interpretable Cognitive Reasoning",
+      "url": "https://arxiv.org/abs/2609.10654",
+      "source": "ArXiv AI",
+      "date": "Sat, 12 Sep 2026 00:00:00 -0400",
+      "synopsis": "arXiv:2609.10654v1 Announce Type: new  Abstract: The Abstraction and Reasoning Corpus (ARC) benchmarks cognitive generalization, the ability to infer and apply abstract rules from limited examples. This paper presents a multi-stage rule-chaining framework that performs compositional reasoning across",
+      "theme": "AI + Business",
+      "category": "ai-tech",
+      "fetched_at": "2026-09-12T09:41:45.881398"
+    },
+    {
+      "title": "Understanding LoRA Rank Trade-offs in Diffusion Model Fine-Tuning",
+      "url": "https://arxiv.org/abs/2609.10656",
+      "source": "ArXiv AI",
+      "date": "Sat, 12 Sep 2026 00:00:00 -0400",
+      "synopsis": "arXiv:2609.10656v1 Announce Type: new  Abstract: Selecting LoRA rank for diffusion fine-tuning requires balancing quality and compute cost. We present a controlled study on CIFAR-10 using a DDPM U-Net with ranks {2,4,8,16,32}, fixed optimization settings, and a reproducible local-folder pytorch-fid",
+      "theme": "AI General",
+      "category": "ai-tech",
+      "fetched_at": "2026-09-12T09:41:45.881415"
+    },
+    {
+      "title": "Quantifying the Memorization-to-Generalization Transition: Scaling Laws and Phase Structure in Grokking",
+      "url": "https://arxiv.org/abs/2609.10657",
+      "source": "ArXiv AI",
+      "date": "Sat, 12 Sep 2026 00:00:00 -0400",
+      "synopsis": "arXiv:2609.10657v1 Announce Type: new  Abstract: Neural networks trained past memorization frequently undergo a delayed transition to generalization, a phenomenon known as grokking. Despite theoretical progress on \\emph{why} this transition occurs, the quantitative structure of \\emph{when} it occurs",
+      "theme": "AI + Business",
+      "category": "ai-tech",
+      "fetched_at": "2026-09-12T09:41:45.881424"
+    },
+    {
+      "title": "Roundtables: AI’s apocalypse crisis",
+      "url": "https://www.technologyreview.com/2026/09/11/1143936/roundtables-will-ai-really-kill-us-all/",
       "source": "MIT Technology Review - AI",
-      "date": "Thu, 10 Sep 2026 11:00:00 +0000",
-      "synopsis": "A San Francisco nonprofit has published a detailed road map of the experiments, studies, and infrastructure that it says would be needed to make informed decisions about the use of solar geoengineering, MIT Technology Review can reveal. Scientists have now spent half a century exploring the possibil",
+      "date": "Fri, 11 Sep 2026 20:05:06 +0000",
+      "synopsis": "Employees at the world&#8217;s leading AI labs are saying there&#8217;s a real possibility that advanced AI could destroy humanity. Are they right? Or is this more scaremongering and hype? Join MIT Technology Review executive editor Niall Firth for a conversation with senior AI editor Will Douglas H",
       "theme": "AI + Business",
       "category": "ai-business",
-      "fetched_at": "2026-09-11T10:06:13.172986"
+      "fetched_at": "2026-09-12T09:41:44.288483"
     },
     {
-      "title": "Can the US battery market untangle from China?",
-      "url": "https://www.technologyreview.com/2026/09/10/1143791/us-china-batteries/",
+      "title": "The Download: biotech’s future and cheaper, cleaner steel",
+      "url": "https://www.technologyreview.com/2026/09/11/1143879/the-download-biotech-future-cheaper-cleaner-steel/",
       "source": "MIT Technology Review - AI",
-      "date": "Thu, 10 Sep 2026 10:00:00 +0000",
-      "synopsis": "The US is hitting records for the rapid growth of its energy storage market. That’ll go a long way to shoring up the grid, increasing reliability and also cutting emissions, since batteries can help store energy from intermittent renewables like wind and solar. Crucially, this is all happening with",
-      "theme": "AI General",
+      "date": "Fri, 11 Sep 2026 12:10:00 +0000",
+      "synopsis": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Meet the under-35s shaping the future of biotech Every year, MIT Technology Review puts together our 35 Innovators Under 35, a list of some of the bri",
+      "theme": "AI + Business",
       "category": "ai-business",
-      "fetched_at": "2026-09-11T10:06:13.173008"
+      "fetched_at": "2026-09-12T09:41:44.288501"
     },
     {
       "title": "Meet the under-35s shaping the future of biotech",
@@ -48,59 +98,9 @@
       "synopsis": "Every year, MIT Technology Review puts together a list of some of the brightest and best young minds working across science and technology. Our 35 Innovators Under 35 are the ones to watch—people whose research and technical work stands to shape the future of their fields. This year, the list includ",
       "theme": "AI + Higher Ed",
       "category": "ai-business",
-      "fetched_at": "2026-09-11T10:06:13.172948"
-    },
-    {
-      "title": "OpenDiscoveryTrace: Process Traces for Evaluating AI Scientist Workflows",
-      "url": "https://arxiv.org/abs/2609.09203",
-      "source": "ArXiv AI",
-      "date": "Fri, 11 Sep 2026 00:00:00 -0400",
-      "synopsis": "arXiv:2609.09203v1 Announce Type: new  Abstract: Existing benchmarks for autonomous AI scientists evaluate only final outputs---generated code, hypotheses, or papers---yet discard the reasoning process by which those outputs were obtained. This makes it impossible to audit scientific methodology, di",
-      "theme": "AI + Business",
-      "category": "ai-tech",
-      "fetched_at": "2026-09-11T10:06:15.364261"
-    },
-    {
-      "title": "Adaptive Entangled Game Modules in Artificial General Intelligence",
-      "url": "https://arxiv.org/abs/2609.09226",
-      "source": "ArXiv AI",
-      "date": "Fri, 11 Sep 2026 00:00:00 -0400",
-      "synopsis": "arXiv:2609.09226v1 Announce Type: new  Abstract: We introduce a probability-wave framework for modeling the collective behavior of interacting adaptive agents, deriving testable eigenmodes through a generalized behavioral intelligence (GBI) nonlocal probability-wave equation. This framework captures",
-      "theme": "AI General",
-      "category": "ai-tech",
-      "fetched_at": "2026-09-11T10:06:15.364285"
-    },
-    {
-      "title": "Subagents vs Agent Skills: Executing Reusable Knowledge for Long-Horizon Agentic Tasks",
-      "url": "https://arxiv.org/abs/2609.09233",
-      "source": "ArXiv AI",
-      "date": "Fri, 11 Sep 2026 00:00:00 -0400",
-      "synopsis": "arXiv:2609.09233v1 Announce Type: new  Abstract: How can language model agents effectively leverage libraries of reusable knowledge to solve long-horizon tasks? Recent work has increasingly focused on agent skills: reusable capabilities represented as skill packages, i.e., multi-file bundles contain",
-      "theme": "AI + Business",
-      "category": "ai-tech",
-      "fetched_at": "2026-09-11T10:06:15.364293"
-    },
-    {
-      "title": "Gradland: On Phenomenal Experience, Differentiated Across Many Dimensions",
-      "url": "https://arxiv.org/abs/2609.09306",
-      "source": "ArXiv AI",
-      "date": "Fri, 11 Sep 2026 00:00:00 -0400",
-      "synopsis": "arXiv:2609.09306v1 Announce Type: new  Abstract: This paper investigates the hypothesis that the first-order structure of physical interactions, i.e. gradients or Jacobians, characterizes the structure of phenomenal experience. It does so in an idealized world inhabited by neural networks, Gradland,",
-      "theme": "AI General",
-      "category": "ai-tech",
-      "fetched_at": "2026-09-11T10:06:15.364307"
-    },
-    {
-      "title": "An Autonomous GeoAI Agent for Arctic Eco-Navigation",
-      "url": "https://arxiv.org/abs/2609.09374",
-      "source": "ArXiv AI",
-      "date": "Fri, 11 Sep 2026 00:00:00 -0400",
-      "synopsis": "arXiv:2609.09374v1 Announce Type: new  Abstract: Arctic maritime navigation is becoming increasingly important as changing sea-ice conditions expand seasonal accessibility while simultaneously introducing substantial operational, environmental, and community risks. Arctic route planning is inherentl",
-      "theme": "AI + Business",
-      "category": "ai-tech",
-      "fetched_at": "2026-09-11T10:06:15.364314"
+      "fetched_at": "2026-09-12T09:41:44.288521"
     }
   ],
-  "last_updated": "2026-09-11T10:06:15.442713",
+  "last_updated": "2026-09-12T09:41:45.943853",
   "total_count": 10
 }
