@@ -8,7 +8,7 @@
       "synopsis": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. God told them to sell crypto. Their investors lost everything. When Eli Regalado first heard God speak to him, he wondered whether he was hallucinatin",
       "theme": "AI + Business",
       "category": "ai-business",
-      "fetched_at": "2026-09-12T09:41:44.288535"
+      "fetched_at": "2026-09-13T10:43:00.909211"
     },
     {
       "title": "Powering AI is an architecture problem",
@@ -18,67 +18,17 @@
       "synopsis": "On July 22, 2026, a transmission line fault in Ashburn, Virginia—the heart of the world&#8217;s largest data center cluster—knocked more than 3 gigawatts of load off the grid in seconds. And it wasn&#8217;t the first time. Two years earlier, a single failed surge arrester dropped roughly 60 Virginia",
       "theme": "AI + Business",
       "category": "ai-business",
-      "fetched_at": "2026-09-12T09:41:44.288546"
+      "fetched_at": "2026-09-13T10:43:00.909223"
     },
     {
-      "title": "Probabilistic Focal Search: Accelerating Bounded-Suboptimal Search via Lower-Bound Advancement",
-      "url": "https://arxiv.org/abs/2609.10584",
-      "source": "ArXiv AI",
-      "date": "Sat, 12 Sep 2026 00:00:00 -0400",
-      "synopsis": "arXiv:2609.10584v1 Announce Type: new  Abstract: Bounded-suboptimal search seeks a solution within a factor $w$ of optimal while reducing search effort. Focal Search (FS) uses heuristic guidance within FOCAL, the frontier nodes eligible under the threshold $w f_{\\min}$, but its deterministic policy",
-      "theme": "AI General",
-      "category": "ai-tech",
-      "fetched_at": "2026-09-12T09:41:45.881368"
-    },
-    {
-      "title": "Automating Quadratic Unconstrained Binary Optimization (QUBO) Formulation Generation from Natural Language",
-      "url": "https://arxiv.org/abs/2609.10629",
-      "source": "ArXiv AI",
-      "date": "Sat, 12 Sep 2026 00:00:00 -0400",
-      "synopsis": "arXiv:2609.10629v1 Announce Type: new  Abstract: Quadratic Unconstrained Binary Optimization (QUBO) is a central formulation for combinatorial optimization and has gained increasing attention due to its compatibility with quantum, hybrid quantum-classical, and quantum-inspired solvers. However, tran",
-      "theme": "AI + Business",
-      "category": "ai-tech",
-      "fetched_at": "2026-09-12T09:41:45.881388"
-    },
-    {
-      "title": "A Multi-Stage Rule-Chaining Framework for Compositional and Interpretable Cognitive Reasoning",
-      "url": "https://arxiv.org/abs/2609.10654",
-      "source": "ArXiv AI",
-      "date": "Sat, 12 Sep 2026 00:00:00 -0400",
-      "synopsis": "arXiv:2609.10654v1 Announce Type: new  Abstract: The Abstraction and Reasoning Corpus (ARC) benchmarks cognitive generalization, the ability to infer and apply abstract rules from limited examples. This paper presents a multi-stage rule-chaining framework that performs compositional reasoning across",
-      "theme": "AI + Business",
-      "category": "ai-tech",
-      "fetched_at": "2026-09-12T09:41:45.881398"
-    },
-    {
-      "title": "Understanding LoRA Rank Trade-offs in Diffusion Model Fine-Tuning",
-      "url": "https://arxiv.org/abs/2609.10656",
-      "source": "ArXiv AI",
-      "date": "Sat, 12 Sep 2026 00:00:00 -0400",
-      "synopsis": "arXiv:2609.10656v1 Announce Type: new  Abstract: Selecting LoRA rank for diffusion fine-tuning requires balancing quality and compute cost. We present a controlled study on CIFAR-10 using a DDPM U-Net with ranks {2,4,8,16,32}, fixed optimization settings, and a reproducible local-folder pytorch-fid",
-      "theme": "AI General",
-      "category": "ai-tech",
-      "fetched_at": "2026-09-12T09:41:45.881415"
-    },
-    {
-      "title": "Quantifying the Memorization-to-Generalization Transition: Scaling Laws and Phase Structure in Grokking",
-      "url": "https://arxiv.org/abs/2609.10657",
-      "source": "ArXiv AI",
-      "date": "Sat, 12 Sep 2026 00:00:00 -0400",
-      "synopsis": "arXiv:2609.10657v1 Announce Type: new  Abstract: Neural networks trained past memorization frequently undergo a delayed transition to generalization, a phenomenon known as grokking. Despite theoretical progress on \\emph{why} this transition occurs, the quantitative structure of \\emph{when} it occurs",
-      "theme": "AI + Business",
-      "category": "ai-tech",
-      "fetched_at": "2026-09-12T09:41:45.881424"
-    },
-    {
-      "title": "Roundtables: AI’s apocalypse crisis",
+      "title": "Roundtables: Could AI really kill us all?",
       "url": "https://www.technologyreview.com/2026/09/11/1143936/roundtables-will-ai-really-kill-us-all/",
       "source": "MIT Technology Review - AI",
       "date": "Fri, 11 Sep 2026 20:05:06 +0000",
       "synopsis": "Employees at the world&#8217;s leading AI labs are saying there&#8217;s a real possibility that advanced AI could destroy humanity. Are they right? Or is this more scaremongering and hype? Join MIT Technology Review executive editor Niall Firth for a conversation with senior AI editor Will Douglas H",
       "theme": "AI + Business",
       "category": "ai-business",
-      "fetched_at": "2026-09-12T09:41:44.288483"
+      "fetched_at": "2026-09-13T10:43:00.909154"
     },
     {
       "title": "The Download: biotech’s future and cheaper, cleaner steel",
@@ -88,7 +38,7 @@
       "synopsis": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Meet the under-35s shaping the future of biotech Every year, MIT Technology Review puts together our 35 Innovators Under 35, a list of some of the bri",
       "theme": "AI + Business",
       "category": "ai-business",
-      "fetched_at": "2026-09-12T09:41:44.288501"
+      "fetched_at": "2026-09-13T10:43:00.909178"
     },
     {
       "title": "Meet the under-35s shaping the future of biotech",
@@ -98,9 +48,9 @@
       "synopsis": "Every year, MIT Technology Review puts together a list of some of the brightest and best young minds working across science and technology. Our 35 Innovators Under 35 are the ones to watch—people whose research and technical work stands to shape the future of their fields. This year, the list includ",
       "theme": "AI + Higher Ed",
       "category": "ai-business",
-      "fetched_at": "2026-09-12T09:41:44.288521"
+      "fetched_at": "2026-09-13T10:43:00.909198"
     }
   ],
-  "last_updated": "2026-09-12T09:41:45.943853",
-  "total_count": 10
+  "last_updated": "2026-09-13T10:43:03.207554",
+  "total_count": 5
 }
