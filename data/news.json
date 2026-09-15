@@ -1,56 +1,106 @@
 {
   "articles": [
     {
-      "title": "The Download: a “God-driven” cryptocurrency and a solar engineering roadmap",
-      "url": "https://www.technologyreview.com/2026/09/10/1143828/the-download-christian-cryptocurrency-scandal-solar-engineering-roadmap/",
+      "title": "What must happen for AI’s trillion-dollar gamble to pay off",
+      "url": "https://www.technologyreview.com/2026/09/15/1144028/ai-infrastructure-boom-investment-bubble-risk/",
       "source": "MIT Technology Review - AI",
-      "date": "Thu, 10 Sep 2026 12:10:00 +0000",
-      "synopsis": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. God told them to sell crypto. Their investors lost everything. When Eli Regalado first heard God speak to him, he wondered whether he was hallucinatin",
+      "date": "Tue, 15 Sep 2026 10:00:00 +0000",
+      "synopsis": "When Jessica Wachter, a finance professor at the University of Pennsylvania’s Wharton School, wanted to assess AI’s impact on the economy over the next few years, she faced a long list of business and technical uncertainties. So she started with what she calls a “remarkable fact” that is not in ques",
       "theme": "AI + Business",
       "category": "ai-business",
-      "fetched_at": "2026-09-14T11:05:32.949353"
+      "fetched_at": "2026-09-15T10:34:52.688015"
     },
     {
-      "title": "Powering AI is an architecture problem",
-      "url": "https://www.technologyreview.com/2026/09/10/1141649/powering-ai-is-an-architecture-problem/",
+      "title": "ZGCM-1: A Fully Open and Extremely Efficient Foundation Model for Math and Agentic Search",
+      "url": "https://arxiv.org/abs/2609.13356",
+      "source": "ArXiv AI",
+      "date": "Tue, 15 Sep 2026 00:00:00 -0400",
+      "synopsis": "arXiv:2609.13356v1 Announce Type: new  Abstract: In this work, we present ZGCM-1, a fully open 7B dense foundation model trained from scratch with extreme data, system, and algorithmic efficiency. ZGCM-1 is founded on a core premise: compact models cannot passively memorize the open web, but can ove",
+      "theme": "AI + Business",
+      "category": "ai-tech",
+      "fetched_at": "2026-09-15T10:34:54.646363"
+    },
+    {
+      "title": "Converge Then Diversify: Decoupling Convergence and Diversity in Multi-Objective Bayesian Optimisation",
+      "url": "https://arxiv.org/abs/2609.13396",
+      "source": "ArXiv AI",
+      "date": "Tue, 15 Sep 2026 00:00:00 -0400",
+      "synopsis": "arXiv:2609.13396v1 Announce Type: new  Abstract: Multi-objective Bayesian optimisation (MOBO) is a sample-efficient approach for optimising expensive black-box functions with multiple objectives. In MOBO, the goal is to adequately approximate the Pareto front; that is, to obtain a high-quality solut",
+      "theme": "AI + Business",
+      "category": "ai-tech",
+      "fetched_at": "2026-09-15T10:34:54.646380"
+    },
+    {
+      "title": "Generalized Agent Iteration: One Formal Framework for Iterative Policy Improvement and Recursive Self-Improvement",
+      "url": "https://arxiv.org/abs/2609.13406",
+      "source": "ArXiv AI",
+      "date": "Tue, 15 Sep 2026 00:00:00 -0400",
+      "synopsis": "arXiv:2609.13406v1 Announce Type: new  Abstract: When we speak of recursive self-improvement (RSI), are we speaking of a phenomenon, a mechanism, or a prospect? Towards autonomous and evolving intelligence, RSI is being claimed at many scales, while no single framework that formally describes these",
+      "theme": "AI + Business",
+      "category": "ai-tech",
+      "fetched_at": "2026-09-15T10:34:54.646387"
+    },
+    {
+      "title": "Vibe Patenting: Evaluating LLM Judges for Professional Patent-Drafting Agents",
+      "url": "https://arxiv.org/abs/2609.13422",
+      "source": "ArXiv AI",
+      "date": "Tue, 15 Sep 2026 00:00:00 -0400",
+      "synopsis": "arXiv:2609.13422v1 Announce Type: new  Abstract: LLM judges are increasingly used to evaluate and improve AI-generated outputs, yet their reliability for complex professional work remains unclear. We study this problem through Vibe Patenting, an end-to-end patent-drafting testbed for AI-agent evalua",
+      "theme": "AI + Business",
+      "category": "ai-tech",
+      "fetched_at": "2026-09-15T10:34:54.646393"
+    },
+    {
+      "title": "Toward Self-Adaptive Physical AI: Can LLM Agents Manage Long-Horizon Physical Tasks?",
+      "url": "https://arxiv.org/abs/2609.13436",
+      "source": "ArXiv AI",
+      "date": "Tue, 15 Sep 2026 00:00:00 -0400",
+      "synopsis": "arXiv:2609.13436v1 Announce Type: new  Abstract: Large Language Model (LLM) agents offer a promising path toward autonomously managing long-term physical tasks without human intervention. However, physical tasks require agents to continuously observe the environment, make consequential actions, and",
+      "theme": "AI + Business",
+      "category": "ai-tech",
+      "fetched_at": "2026-09-15T10:34:54.646398"
+    },
+    {
+      "title": "The AI industry has taken a doomer turn. What now?",
+      "url": "https://www.technologyreview.com/2026/09/14/1144048/the-ai-industry-has-taken-a-doomer-turn-what-now/",
       "source": "MIT Technology Review - AI",
-      "date": "Thu, 10 Sep 2026 11:00:00 +0000",
-      "synopsis": "On July 22, 2026, a transmission line fault in Ashburn, Virginia—the heart of the world&#8217;s largest data center cluster—knocked more than 3 gigawatts of load off the grid in seconds. And it wasn&#8217;t the first time. Two years earlier, a single failed surge arrester dropped roughly 60 Virginia",
+      "date": "Mon, 14 Sep 2026 17:54:22 +0000",
+      "synopsis": "This story appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&#160;sign up here. This weekend, Dario Amodei, CEO of Anthropic, posted an essay calling for a brake on the pace of development of LLMs. Amodei cites the looming dangers he sees from the",
       "theme": "AI + Business",
       "category": "ai-business",
-      "fetched_at": "2026-09-14T11:05:32.949365"
+      "fetched_at": "2026-09-15T10:34:52.688029"
     },
     {
-      "title": "Roundtables: Could AI really kill us all?",
-      "url": "https://www.technologyreview.com/2026/09/11/1143936/roundtables-will-ai-really-kill-us-all/",
+      "title": "Donated livers can be made biologically younger",
+      "url": "https://www.technologyreview.com/2026/09/14/1144010/donated-livers-can-be-made-biologically-younger/",
       "source": "MIT Technology Review - AI",
-      "date": "Fri, 11 Sep 2026 20:05:06 +0000",
-      "synopsis": "Employees at the world&#8217;s leading AI labs are saying there&#8217;s a real possibility that advanced AI could destroy humanity. Are they right? Or is this more scaremongering and hype? Join MIT Technology Review executive editor Niall Firth for a conversation with senior AI editor Will Douglas H",
+      "date": "Mon, 14 Sep 2026 16:11:42 +0000",
+      "synopsis": "Once an organ is removed from a donor’s body, the clock starts ticking. Surgeons usually flush the organ with a preservative solution, bag it, and put it on ice—where it immediately starts to degrade. The team has a matter of hours to get it into a recipient’s body. There’s another option—one that h",
+      "theme": "AI General",
+      "category": "ai-business",
+      "fetched_at": "2026-09-15T10:34:52.688052"
+    },
+    {
+      "title": "AI agents blew the whistle on their cheating colleagues",
+      "url": "https://www.technologyreview.com/2026/09/14/1144037/ai-agents-blew-whistle-o-cheating-colleagues/",
+      "source": "MIT Technology Review - AI",
+      "date": "Mon, 14 Sep 2026 16:00:00 +0000",
+      "synopsis": "A group of AI agents asked to solve a series of math problems split into rival factions—when some cheated, others tried to stop them. That whistleblowing behavior, seen for the first time in a recent experiment run by Google DeepMind, could have implications for alignment researchers trying to keep",
       "theme": "AI + Business",
       "category": "ai-business",
-      "fetched_at": "2026-09-14T11:05:32.949295"
+      "fetched_at": "2026-09-15T10:34:52.688060"
     },
     {
-      "title": "The Download: biotech’s future and cheaper, cleaner steel",
-      "url": "https://www.technologyreview.com/2026/09/11/1143879/the-download-biotech-future-cheaper-cleaner-steel/",
+      "title": "The Download: AI’s real extinction threat and age-reversal tech for eyes",
+      "url": "https://www.technologyreview.com/2026/09/14/1144012/the-download-ai-extinction-threat-age-reversal-vision/",
       "source": "MIT Technology Review - AI",
-      "date": "Fri, 11 Sep 2026 12:10:00 +0000",
-      "synopsis": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Meet the under-35s shaping the future of biotech Every year, MIT Technology Review puts together our 35 Innovators Under 35, a list of some of the bri",
+      "date": "Mon, 14 Sep 2026 12:10:00 +0000",
+      "synopsis": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Roundtables: could AI really kill us all? Employees at the world&#8217;s leading AI labs are saying there&#8217;s a real possibility that advanced AI",
       "theme": "AI + Business",
       "category": "ai-business",
-      "fetched_at": "2026-09-14T11:05:32.949318"
-    },
-    {
-      "title": "Meet the under-35s shaping the future of biotech",
-      "url": "https://www.technologyreview.com/2026/09/11/1143834/meet-the-under-35s-shaping-the-future-of-biotech/",
-      "source": "MIT Technology Review - AI",
-      "date": "Fri, 11 Sep 2026 09:00:00 +0000",
-      "synopsis": "Every year, MIT Technology Review puts together a list of some of the brightest and best young minds working across science and technology. Our 35 Innovators Under 35 are the ones to watch—people whose research and technical work stands to shape the future of their fields. This year, the list includ",
-      "theme": "AI + Higher Ed",
-      "category": "ai-business",
-      "fetched_at": "2026-09-14T11:05:32.949340"
+      "fetched_at": "2026-09-15T10:34:52.688068"
     }
   ],
-  "last_updated": "2026-09-14T11:05:34.442355",
-  "total_count": 5
+  "last_updated": "2026-09-15T10:34:54.715965",
+  "total_count": 10
 }
