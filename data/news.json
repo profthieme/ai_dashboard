@@ -1,54 +1,34 @@
 {
   "articles": [
     {
-      "title": "Optimal Pruning for Neural Architectures using Fisher Information Distances",
-      "url": "https://arxiv.org/abs/2609.16129",
-      "source": "ArXiv AI",
-      "date": "Wed, 16 Sep 2026 00:00:00 -0400",
-      "synopsis": "arXiv:2609.16129v1 Announce Type: new  Abstract: A new scheme for parameter pruning is introduced, derived from the differential-geometric distance in model space. Pruning a parameter sets its value to zero, representing a displacement of the model to the hypersurface on which that parameter vanishe",
-      "theme": "AI General",
-      "category": "ai-tech",
-      "fetched_at": "2026-09-16T10:23:25.709666"
+      "title": "Meet a mouse whose brain cortex is made up of human cells",
+      "url": "https://www.technologyreview.com/2026/09/16/1144210/meet-a-mouse-whose-brain-cortex-is-made-up-of-human-cells/",
+      "source": "MIT Technology Review - AI",
+      "date": "Wed, 16 Sep 2026 15:00:00 +0000",
+      "synopsis": "Multiple cameras tracked a mouse as it wandered around a small arena. A computer charted its position and speed, leaving Pong-like traces on a monitor.&#160; The reason to watch this rodent so carefully? Nearly half its brain volume had been replaced with human cells. The effort to mix the brain tis",
+      "theme": "AI + Business",
+      "category": "ai-business",
+      "fetched_at": "2026-09-17T10:32:48.433332"
     },
     {
-      "title": "Safe Error Correction for Language Models: Frozen-Base Adjustment with Capability Preservation",
-      "url": "https://arxiv.org/abs/2609.16145",
-      "source": "ArXiv AI",
-      "date": "Wed, 16 Sep 2026 00:00:00 -0400",
-      "synopsis": "arXiv:2609.16145v1 Announce Type: new  Abstract: We study a practical question: can a small correction module fix errors in a frozen language model's outputs without degrading its base capabilities? We propose CRN v2, a lightweight logit-level correction module (~34M trainable parameters, 0.73% of t",
+      "title": "Building the materials foundation for AI",
+      "url": "https://www.technologyreview.com/2026/09/16/1144014/building-the-materials-foundation-for-ai/",
+      "source": "MIT Technology Review - AI",
+      "date": "Wed, 16 Sep 2026 12:47:34 +0000",
+      "synopsis": "The AI boom is becoming a materials challenge. As AI pushes computing into new territory, the materials behind that infrastructure are becoming just as crucial as the algorithms running on it. Semiconductors and data centers are approaching physical limits around performance, thermal management, ele",
       "theme": "AI + Business",
-      "category": "ai-tech",
-      "fetched_at": "2026-09-16T10:23:25.709681"
+      "category": "ai-business",
+      "fetched_at": "2026-09-17T10:32:48.433343"
     },
     {
-      "title": "GPEvac: GNN-Based PPO for Adaptive Evacuation Routing During Shooting Events",
-      "url": "https://arxiv.org/abs/2609.16163",
-      "source": "ArXiv AI",
-      "date": "Wed, 16 Sep 2026 00:00:00 -0400",
-      "synopsis": "arXiv:2609.16163v1 Announce Type: new  Abstract: The sharp increase in mass shootings underscores an urgent need for systems that guide victims to safety in real time. An effective evacuation system must minimize threat exposure while also accounting for adversarial uncertainty and crowding dynamics",
+      "title": "The Download: AI’s trillion-dollar gamble and OpenAI’s biology data bid",
+      "url": "https://www.technologyreview.com/2026/09/16/1144205/the-download-ai-trillion-dollar-build-openai-biological-data/",
+      "source": "MIT Technology Review - AI",
+      "date": "Wed, 16 Sep 2026 12:10:00 +0000",
+      "synopsis": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. What’s at stake in AI’s trillion-dollar gamble When Jessica Wachter, a finance professor at the University of Pennsylvania, wanted to assess AI’s impa",
       "theme": "AI + Business",
-      "category": "ai-tech",
-      "fetched_at": "2026-09-16T10:23:25.709688"
-    },
-    {
-      "title": "Position: AI Is Not Ready for Strategic Conflicts",
-      "url": "https://arxiv.org/abs/2609.16189",
-      "source": "ArXiv AI",
-      "date": "Wed, 16 Sep 2026 00:00:00 -0400",
-      "synopsis": "arXiv:2609.16189v1 Announce Type: new  Abstract: Open-ended strategic wargames are high-stakes LM-based social simulations: they model adversaries, institutions, escalation, plan brittleness, doctrine, and crisis response. Language models (LMs) are attractive because they can play agents, generate s",
-      "theme": "AI + Business",
-      "category": "ai-tech",
-      "fetched_at": "2026-09-16T10:23:25.709693"
-    },
-    {
-      "title": "Calibrate, Then Route: A Measured Study of Learned Request Routing for Disaggregated LLM Serving",
-      "url": "https://arxiv.org/abs/2609.16206",
-      "source": "ArXiv AI",
-      "date": "Wed, 16 Sep 2026 00:00:00 -0400",
-      "synopsis": "arXiv:2609.16206v1 Announce Type: new  Abstract: Disaggregated LLM serving places compute heavy prefill and memory heavy decode on separate GPU pools. Systems such as DistServe, Splitwise, and Mooncake make this separation fast, but routing still determines which instances handle each request. We st",
-      "theme": "AI + Business",
-      "category": "ai-tech",
-      "fetched_at": "2026-09-16T10:23:25.709700"
+      "category": "ai-business",
+      "fetched_at": "2026-09-17T10:32:48.433357"
     },
     {
       "title": "Roundtables: Could AI really kill us all?",
@@ -58,49 +38,69 @@
       "synopsis": "Listen to the session or watch below Employees at the world&#8217;s leading AI labs are saying there&#8217;s a real possibility that advanced AI could destroy humanity. Are they right? Or is this more scaremongering and hype? Watch a conversation unpacking AI extinction fears: where they come from,",
       "theme": "AI + Business",
       "category": "ai-business",
-      "fetched_at": "2026-09-16T10:23:23.948194"
+      "fetched_at": "2026-09-17T10:32:48.433367"
     },
     {
-      "title": "The Download: AI doomers, whistleblowing agents, and de-aged livers",
-      "url": "https://www.technologyreview.com/2026/09/15/1144141/the-download-ai-extinction-whistleblowing-agents-donated-livers/",
+      "title": "Meet the innovators under 35 shaping climate tech",
+      "url": "https://www.technologyreview.com/2026/09/17/1144251/innovators-shaping-climate-tech/",
       "source": "MIT Technology Review - AI",
-      "date": "Tue, 15 Sep 2026 12:10:00 +0000",
-      "synopsis": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The AI industry has taken a doomer turn. What now? AI chiefs Dario Amodei, Sam Altman, Elon Musk, and Demis Hassabis are suddenly all in agreement: th",
-      "theme": "AI + Business",
+      "date": "Thu, 17 Sep 2026 10:00:00 +0000",
+      "synopsis": "Each year, the editorial team at MIT Technology Review puts together a list of 35 innovators under 35—a group of researchers, inventors, and other young minds worth following. The team worked on the newest edition of the list for months, and the final slate includes nine individuals from all over th",
+      "theme": "AI + Higher Ed",
       "category": "ai-business",
-      "fetched_at": "2026-09-16T10:23:23.948208"
+      "fetched_at": "2026-09-17T10:32:48.433314"
     },
     {
-      "title": "AI models need more data about biology, and OpenAI is paying to create it",
-      "url": "https://www.technologyreview.com/2026/09/15/1144129/ai-models-need-more-data-about-biology-and-openai-is-paying-to-create-it/",
-      "source": "MIT Technology Review - AI",
-      "date": "Tue, 15 Sep 2026 12:00:00 +0000",
-      "synopsis": "Last year Ruxandra Teslo, a policy analyst who focuses on clinical trials, posted an idea for supercharging medical AI systems: Use data from failed biotech companies. By bidding at their bankruptcy proceedings, she proposed, it might be possible to obtain detailed regulatory filings, manufacturing",
+      "title": "Making AI-Assisted Claims Independently Challengeable: Publication Authority and a Protocol for Falsifiable Publication Records",
+      "url": "https://arxiv.org/abs/2609.17631",
+      "source": "ArXiv AI",
+      "date": "Thu, 17 Sep 2026 00:00:00 -0400",
+      "synopsis": "arXiv:2609.17631v1 Announce Type: new  Abstract: AI-assisted claims can appear authoritative when evidence, analysis, human authorization, presentation, and correction history refer to different states. Provenance, attestation, and transparency expose history but alone do not specify the publication",
       "theme": "AI + Business",
-      "category": "ai-business",
-      "fetched_at": "2026-09-16T10:23:23.948215"
+      "category": "ai-tech",
+      "fetched_at": "2026-09-17T10:32:49.937826"
     },
     {
-      "title": "What’s at stake in AI’s trillion-dollar gamble",
-      "url": "https://www.technologyreview.com/2026/09/15/1144028/ai-infrastructure-boom-investment-bubble-risk/",
-      "source": "MIT Technology Review - AI",
-      "date": "Tue, 15 Sep 2026 10:00:00 +0000",
-      "synopsis": "When Jessica Wachter, a finance professor at the University of Pennsylvania’s Wharton School, wanted to assess AI’s impact on the economy over the next few years, she faced a long list of business and technical uncertainties. So she started with what she calls a “remarkable fact” that is not in ques",
+      "title": "EvolveTrade: Experience-Driven Policy Refinement for Self-Evolving LLM Trading Agents",
+      "url": "https://arxiv.org/abs/2609.17632",
+      "source": "ArXiv AI",
+      "date": "Thu, 17 Sep 2026 00:00:00 -0400",
+      "synopsis": "arXiv:2609.17632v1 Announce Type: new  Abstract: Large language model (LLM) trading agents can combine market data, news, and executable analysis, but their behavior is often controlled by static hand-written tool-use policies that are fixed before deployment. This limits their ability to adapt how",
       "theme": "AI + Business",
-      "category": "ai-business",
-      "fetched_at": "2026-09-16T10:23:23.948224"
+      "category": "ai-tech",
+      "fetched_at": "2026-09-17T10:32:49.937848"
     },
     {
-      "title": "The AI industry has taken a doomer turn. What now?",
-      "url": "https://www.technologyreview.com/2026/09/14/1144048/the-ai-industry-has-taken-a-doomer-turn-what-now/",
-      "source": "MIT Technology Review - AI",
-      "date": "Mon, 14 Sep 2026 17:54:22 +0000",
-      "synopsis": "This story appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&#160;sign up here. This weekend, Dario Amodei, CEO of Anthropic, posted an essay calling for a brake on the pace of development of LLMs. Amodei cites the looming dangers he sees from the",
+      "title": "One Color Preprocessing Improves DSATUR",
+      "url": "https://arxiv.org/abs/2609.17633",
+      "source": "ArXiv AI",
+      "date": "Thu, 17 Sep 2026 00:00:00 -0400",
+      "synopsis": "arXiv:2609.17633v1 Announce Type: new  Abstract: The Graph Coloring Problem (GCP) is NP-hard and DSATUR stands as one of the fastest heuristics for it despite producing colorings that typically use more colors than state-of-the-art coloring algorithms. We propose SSLD (Semidefinite Spectral Learning",
+      "theme": "AI General",
+      "category": "ai-tech",
+      "fetched_at": "2026-09-17T10:32:49.937869"
+    },
+    {
+      "title": "Physics-Constrained Digital Twins for Sensor Integrity in Urban Pedestrian Flow: Detecting Stealthy False Data Injection with Conformal Guarantees",
+      "url": "https://arxiv.org/abs/2609.17635",
+      "source": "ArXiv AI",
+      "date": "Thu, 17 Sep 2026 00:00:00 -0400",
+      "synopsis": "arXiv:2609.17635v1 Announce Type: new  Abstract: City pedestrian counting systems now feed economic indicators, planning decisions and safety operations, yet the twins built on top of them treat the incoming stream as ground truth. We study what happens when it is not. We formalise stealthy false da",
       "theme": "AI + Business",
-      "category": "ai-business",
-      "fetched_at": "2026-09-16T10:23:23.948229"
+      "category": "ai-tech",
+      "fetched_at": "2026-09-17T10:32:49.937878"
+    },
+    {
+      "title": "What You Can't See Is Still What You Learn: A Preregistered Sixty-Society Confirmation That Evidence Masking Drives Compositional Generalization",
+      "url": "https://arxiv.org/abs/2609.17637",
+      "source": "ArXiv AI",
+      "date": "Thu, 17 Sep 2026 00:00:00 -0400",
+      "synopsis": "arXiv:2609.17637v1 Announce Type: new  Abstract: Restricting what a module can read may improve what a system learns to compute. We test this in a preregistered confirmation with sixty four-cell systems sharing a frozen language-model backbone and communicating through learned continuous packets. Fi",
+      "theme": "AI General",
+      "category": "ai-tech",
+      "fetched_at": "2026-09-17T10:32:49.937897"
     }
   ],
-  "last_updated": "2026-09-16T10:23:25.776163",
+  "last_updated": "2026-09-17T10:32:50.044638",
   "total_count": 10
 }
