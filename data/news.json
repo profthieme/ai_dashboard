@@ -8,7 +8,7 @@
       "synopsis": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Meet a mouse whose brain cortex is made up of human cells Multiple cameras tracked a mouse as it wandered around a small arena. A computer charted its",
       "theme": "AI + Business",
       "category": "ai-business",
-      "fetched_at": "2026-09-20T10:12:07.659213"
+      "fetched_at": "2026-09-21T11:15:41.026551"
     },
     {
       "title": "Meet the innovators under 35 shaping climate tech",
@@ -18,7 +18,57 @@
       "synopsis": "Each year, the editorial team at MIT Technology Review puts together a list of 35 innovators under 35—a group of researchers, inventors, and other young minds worth following. The team worked on the newest edition of the list for months, and the final slate includes nine individuals from all over th",
       "theme": "AI + Higher Ed",
       "category": "ai-business",
-      "fetched_at": "2026-09-20T10:12:07.659234"
+      "fetched_at": "2026-09-21T11:15:41.026573"
+    },
+    {
+      "title": "RBS-Attention: Radius-Bounded Sparse Prefill for Long-Context Large Language Models",
+      "url": "https://arxiv.org/abs/2609.20971",
+      "source": "ArXiv AI",
+      "date": "Mon, 21 Sep 2026 00:00:00 -0400",
+      "synopsis": "arXiv:2609.20971v1 Announce Type: new  Abstract: Long-context large language model inference is increasingly limited by prefill, where dense self-attention processes the entire prompt before generation begins. Sparse block selection can reduce this cost, but a block centroid may hide a highly releva",
+      "theme": "AI General",
+      "category": "ai-tech",
+      "fetched_at": "2026-09-21T11:15:42.880297"
+    },
+    {
+      "title": "Attention-Aware Routing: Coupling Routing and Attention in MoEs",
+      "url": "https://arxiv.org/abs/2609.20974",
+      "source": "ArXiv AI",
+      "date": "Mon, 21 Sep 2026 00:00:00 -0400",
+      "synopsis": "arXiv:2609.20974v1 Announce Type: new  Abstract: In Mixture-of-Experts language models, the router typically selects and weights experts based on the token's hidden state, utilizing limited contextual information. We propose Attention-Aware Routing (AAR), which augments the router with temporal and",
+      "theme": "AI General",
+      "category": "ai-tech",
+      "fetched_at": "2026-09-21T11:15:42.880322"
+    },
+    {
+      "title": "CaLR: Causal Latent Revision for Robust Diffusion Reasoning",
+      "url": "https://arxiv.org/abs/2609.20981",
+      "source": "ArXiv AI",
+      "date": "Mon, 21 Sep 2026 00:00:00 -0400",
+      "synopsis": "arXiv:2609.20981v1 Announce Type: new  Abstract: Autoregressive (AR) models suffer from local greediness, while diffusion language models (DLMs) often lack the strict causal structure required for reasoning. To combine the advantages and overcome the drawbacks of the dual, we propose Causal Latent R",
+      "theme": "AI General",
+      "category": "ai-tech",
+      "fetched_at": "2026-09-21T11:15:42.880339"
+    },
+    {
+      "title": "LoRA Enhanced Contrastive Learning with SAS Vision Transformers",
+      "url": "https://arxiv.org/abs/2609.21061",
+      "source": "ArXiv AI",
+      "date": "Mon, 21 Sep 2026 00:00:00 -0400",
+      "synopsis": "arXiv:2609.21061v1 Announce Type: new  Abstract: Automatic target recognition (ATR) with synthetic aperture sonar (SAS) supports advanced naval capabilities, but deep learning is constrained by scarce target imagery, background clutter, and human-in-the-loop assessment. We adapt DINOv3 Vision Transf",
+      "theme": "AI + Business",
+      "category": "ai-tech",
+      "fetched_at": "2026-09-21T11:15:42.880350"
+    },
+    {
+      "title": "Detecting Hallucination in LLMs: Tracing the Topological Signatures of Impaired Context Sharing",
+      "url": "https://arxiv.org/abs/2609.21096",
+      "source": "ArXiv AI",
+      "date": "Mon, 21 Sep 2026 00:00:00 -0400",
+      "synopsis": "arXiv:2609.21096v1 Announce Type: new  Abstract: In this work, we examine the topology of information flow patterns within attention graphs to effectively distinguish hallucinated from non-hallucinated responses. We analyze the Forman-Ricci curvature to identify structural patterns indicating inform",
+      "theme": "AI + Business",
+      "category": "ai-tech",
+      "fetched_at": "2026-09-21T11:15:42.880360"
     },
     {
       "title": "The Download: AI’s extinction risk and bioweapons threat",
@@ -28,7 +78,7 @@
       "synopsis": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Could AI really kill us all? Your questions, answered On Wednesday, MIT Technology Review hosted a live Roundtables event that asked the question many",
       "theme": "AI + Business",
       "category": "ai-business",
-      "fetched_at": "2026-09-20T10:12:07.659165"
+      "fetched_at": "2026-09-21T11:15:41.026502"
     },
     {
       "title": "Could AI really kill us all? Your questions, answered.",
@@ -38,7 +88,7 @@
       "synopsis": "On Wednesday, MIT Technology Review hosted a live Roundtables event for subscribers that asked the question everyone’s asking right now: Could AI really kill us all? But attendees had so many more questions than we had time to answer in the 30 minute session. So we asked our senior AI editor Will Do",
       "theme": "AI + Business",
       "category": "ai-business",
-      "fetched_at": "2026-09-20T10:12:07.659189"
+      "fetched_at": "2026-09-21T11:15:41.026526"
     },
     {
       "title": "The specter of AI-enabled bioweapons is a wake-up call for biotech",
@@ -48,9 +98,9 @@
       "synopsis": "In recent weeks, leaders of some of the biggest AI companies have warned that the very tech they are developing is dangerous. Last weekend, Anthropic CEO Dario Amodei argued that AI carries serious risk and that progress should be slowed. OpenAI CEO Sam Altman responded on X: “I agree with Dario tha",
       "theme": "AI + Business",
       "category": "ai-business",
-      "fetched_at": "2026-09-20T10:12:07.659203"
+      "fetched_at": "2026-09-21T11:15:41.026541"
     }
   ],
-  "last_updated": "2026-09-20T10:12:08.894038",
-  "total_count": 5
+  "last_updated": "2026-09-21T11:15:42.922494",
+  "total_count": 10
 }
