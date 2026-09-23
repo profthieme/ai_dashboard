@@ -1,54 +1,94 @@
 {
   "articles": [
     {
-      "title": "RBS-Attention: Radius-Bounded Sparse Prefill for Long-Context Large Language Models",
-      "url": "https://arxiv.org/abs/2609.20971",
-      "source": "ArXiv AI",
-      "date": "Tue, 22 Sep 2026 00:00:00 -0400",
-      "synopsis": "arXiv:2609.20971v1 Announce Type: new  Abstract: Long-context large language model inference is increasingly limited by prefill, where dense self-attention processes the entire prompt before generation begins. Sparse block selection can reduce this cost, but a block centroid may hide a highly releva",
-      "theme": "AI General",
-      "category": "ai-tech",
-      "fetched_at": "2026-09-22T10:27:11.138724"
+      "title": "Smart glasses are already causing havoc in India",
+      "url": "https://www.technologyreview.com/2026/09/23/1144953/smart-glasses-havoc-india/",
+      "source": "MIT Technology Review - AI",
+      "date": "Wed, 23 Sep 2026 09:00:00 +0000",
+      "synopsis": "Shubnam was packing boxes for a move into a new home when their friend sent them an Instagram video. The footage had only been up for a few hours, but it was days old, recorded at a Delhi protest this spring against a bill that would have narrowed the legal recognition for transgender people in&#823",
+      "theme": "AI + Business",
+      "category": "ai-business",
+      "fetched_at": "2026-09-23T10:22:23.335212"
     },
     {
-      "title": "Attention-Aware Routing: Coupling Routing and Attention in MoEs",
-      "url": "https://arxiv.org/abs/2609.20974",
+      "title": "Didactic knowledge or Clinical Cases? How Data Types Shape Medical Large Language Models",
+      "url": "https://arxiv.org/abs/2609.22161",
       "source": "ArXiv AI",
-      "date": "Tue, 22 Sep 2026 00:00:00 -0400",
-      "synopsis": "arXiv:2609.20974v1 Announce Type: new  Abstract: In Mixture-of-Experts language models, the router typically selects and weights experts based on the token's hidden state, utilizing limited contextual information. We propose Attention-Aware Routing (AAR), which augments the router with temporal and",
-      "theme": "AI General",
-      "category": "ai-tech",
-      "fetched_at": "2026-09-22T10:27:11.138746"
-    },
-    {
-      "title": "CaLR: Causal Latent Revision for Robust Diffusion Reasoning",
-      "url": "https://arxiv.org/abs/2609.20981",
-      "source": "ArXiv AI",
-      "date": "Tue, 22 Sep 2026 00:00:00 -0400",
-      "synopsis": "arXiv:2609.20981v1 Announce Type: new  Abstract: Autoregressive (AR) models suffer from local greediness, while diffusion language models (DLMs) often lack the strict causal structure required for reasoning. To combine the advantages and overcome the drawbacks of the dual, we propose Causal Latent R",
-      "theme": "AI General",
-      "category": "ai-tech",
-      "fetched_at": "2026-09-22T10:27:11.138760"
-    },
-    {
-      "title": "LoRA Enhanced Contrastive Learning with SAS Vision Transformers",
-      "url": "https://arxiv.org/abs/2609.21061",
-      "source": "ArXiv AI",
-      "date": "Tue, 22 Sep 2026 00:00:00 -0400",
-      "synopsis": "arXiv:2609.21061v1 Announce Type: new  Abstract: Automatic target recognition (ATR) with synthetic aperture sonar (SAS) supports advanced naval capabilities, but deep learning is constrained by scarce target imagery, background clutter, and human-in-the-loop assessment. We adapt DINOv3 Vision Transf",
+      "date": "Wed, 23 Sep 2026 00:00:00 -0400",
+      "synopsis": "arXiv:2609.22161v1 Announce Type: new  Abstract: Medical large language models are commonly trained on mixtures of didactic data (e.g., textbooks) and clinical data (e.g., patient records), yet how these data types differentially shape model capabilities remains unclear. We address this issue with t",
       "theme": "AI + Business",
       "category": "ai-tech",
-      "fetched_at": "2026-09-22T10:27:11.138768"
+      "fetched_at": "2026-09-23T10:22:25.743236"
     },
     {
-      "title": "Detecting Hallucination in LLMs: Tracing the Topological Signatures of Impaired Context Sharing",
-      "url": "https://arxiv.org/abs/2609.21096",
+      "title": "An Affordable AI-Integrated Smart Cane for Multimodal Mobility Assistance of Visually Impaired Users",
+      "url": "https://arxiv.org/abs/2609.22277",
       "source": "ArXiv AI",
-      "date": "Tue, 22 Sep 2026 00:00:00 -0400",
-      "synopsis": "arXiv:2609.21096v1 Announce Type: new  Abstract: In this work, we examine the topology of information flow patterns within attention graphs to effectively distinguish hallucinated from non-hallucinated responses. We analyze the Forman-Ricci curvature to identify structural patterns indicating inform",
+      "date": "Wed, 23 Sep 2026 00:00:00 -0400",
+      "synopsis": "arXiv:2609.22277v1 Announce Type: new  Abstract: Visual impairment affects over 2.2 billion people worldwide, yet conventional white canes cannot detect elevated hazards or provide semantic environmental context. Existing AI-assisted navigation systems typically rely on expensive hardware or cloud c",
       "theme": "AI + Business",
       "category": "ai-tech",
-      "fetched_at": "2026-09-22T10:27:11.138774"
+      "fetched_at": "2026-09-23T10:22:25.743255"
+    },
+    {
+      "title": "PAANI : On Device Visual Evidence Fusion and Explainable Guidance for River Robot Simulation",
+      "url": "https://arxiv.org/abs/2609.22353",
+      "source": "ArXiv AI",
+      "date": "Wed, 23 Sep 2026 00:00:00 -0400",
+      "synopsis": "arXiv:2609.22353v1 Announce Type: new  Abstract: Mobile river monitoring robots must interpret obstacles and water boundaries that geographic waypoints alone cannot describe. On resource constrained platforms, converting imperfect visual predictions into timely and inspectable guidance is a distinct",
+      "theme": "AI + Business",
+      "category": "ai-tech",
+      "fetched_at": "2026-09-23T10:22:25.743266"
+    },
+    {
+      "title": "Social Influence and the Allocation of Scientific Attention in AI Populations",
+      "url": "https://arxiv.org/abs/2609.22408",
+      "source": "ArXiv AI",
+      "date": "Wed, 23 Sep 2026 00:00:00 -0400",
+      "synopsis": "arXiv:2609.22408v1 Announce Type: new  Abstract: AI systems are becoming participants in the evaluation and use of scientific research. They encounter citation counts, download statistics and lists of popular articles developed around human readers, but the collective consequences of these signals f",
+      "theme": "AI + Business",
+      "category": "ai-tech",
+      "fetched_at": "2026-09-23T10:22:25.743275"
+    },
+    {
+      "title": "Learning 3D biophysical cell properties from 2D images and cell-population statistics",
+      "url": "https://arxiv.org/abs/2609.22410",
+      "source": "ArXiv AI",
+      "date": "Wed, 23 Sep 2026 00:00:00 -0400",
+      "synopsis": "arXiv:2609.22410v1 Announce Type: new  Abstract: Inferring 3D cellular properties from 2D microscopy is difficult when a reference instrument reports only population statistics rather than labels for individual cells. Here we develop a population-supervised framework that maps single 2D red-cell ima",
+      "theme": "AI General",
+      "category": "ai-tech",
+      "fetched_at": "2026-09-23T10:22:25.743296"
+    },
+    {
+      "title": "Roundtables: The Deadly Failures of The Virtual Border Wall",
+      "url": "https://www.technologyreview.com/2026/09/22/1144890/roundtables-the-deadly-failures-of-the-virtual-border-wall/",
+      "source": "MIT Technology Review - AI",
+      "date": "Tue, 22 Sep 2026 13:42:05 +0000",
+      "synopsis": "The US has spent billions building a “virtual wall” of surveillance towers along its southern border over the past 25 years, promising they will help detect and apprehend border crossers and save lives. But a groundbreaking investigation by MIT Technology Review has documented over a thousand people",
+      "theme": "AI + Business",
+      "category": "ai-business",
+      "fetched_at": "2026-09-23T10:22:23.335235"
+    },
+    {
+      "title": "The Download: why AI’s latest breakthroughs and fears may be more hype than reality",
+      "url": "https://www.technologyreview.com/2026/09/22/1144910/the-download-dont-believe-ai-hype/",
+      "source": "MIT Technology Review - AI",
+      "date": "Tue, 22 Sep 2026 12:10:00 +0000",
+      "synopsis": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Don’t be fooled by this summer of AI hype&#160; —Timnit Gebru, executive director of the Distributed AI Research Institute (DAIR), and Emily M. Bender",
+      "theme": "AI + Business",
+      "category": "ai-business",
+      "fetched_at": "2026-09-23T10:22:23.335249"
+    },
+    {
+      "title": "Don’t be fooled by this summer of AI hype",
+      "url": "https://www.technologyreview.com/2026/09/22/1144867/dont-be-fooled-summer-ai-hype/",
+      "source": "MIT Technology Review - AI",
+      "date": "Tue, 22 Sep 2026 11:04:51 +0000",
+      "synopsis": "It’s been a busy few months for AI hype. At the end of April, Anthropic claimed that its model Claude Mythos is better at finding software vulnerabilities than most security experts. Then we had the OpenAI–Hugging Face hacking incident, after which Anthropic (proudly) and Meta (reluctantly) disclose",
+      "theme": "AI + Business",
+      "category": "ai-business",
+      "fetched_at": "2026-09-23T10:22:23.335260"
     },
     {
       "title": "The Download: investigating deaths at the US border’s “virtual wall”",
@@ -58,49 +98,9 @@
       "synopsis": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The US spent billions on border surveillance. Why can’t it catch people before they die? When José Morales Bernal crossed the border into the US in Ap",
       "theme": "AI + Business",
       "category": "ai-business",
-      "fetched_at": "2026-09-22T10:27:09.427901"
-    },
-    {
-      "title": "How we made the first comprehensive map of deaths along the US border’s “virtual wall”",
-      "url": "https://www.technologyreview.com/2026/09/21/1144161/border-towers-surveillance-methodology/",
-      "source": "MIT Technology Review - AI",
-      "date": "Mon, 21 Sep 2026 12:00:00 +0000",
-      "synopsis": "Our 15-month investigation into death and surveillance along the US-Mexico border began with a simple question: Why did so many people die near government surveillance towers meant to help track and apprehend them? This story is part of&#160;Dying on Camera, a collaboration between&#160;MIT Technolo",
-      "theme": "AI General",
-      "category": "ai-business",
-      "fetched_at": "2026-09-22T10:27:09.427930"
-    },
-    {
-      "title": "4 ways to address the failures we found along the US border’s “virtual wall”",
-      "url": "https://www.technologyreview.com/2026/09/21/1144164/border-towers-surveillance-policy-recommendations/",
-      "source": "MIT Technology Review - AI",
-      "date": "Mon, 21 Sep 2026 12:00:00 +0000",
-      "synopsis": "MIT Technology Review today published our investigation into how many people have died near the “virtual wall” of surveillance towers that the US government has installed along the US-Mexico border. We found cases of people who walked undetected through areas surveilled by advanced, AI-enabled tower",
-      "theme": "AI + Business",
-      "category": "ai-business",
-      "fetched_at": "2026-09-22T10:27:09.427941"
-    },
-    {
-      "title": "The US spent billions on border surveillance. Why can’t it catch people before they die?",
-      "url": "https://www.technologyreview.com/2026/09/21/1144166/border-towers-surveillance-investigation/",
-      "source": "MIT Technology Review - AI",
-      "date": "Mon, 21 Sep 2026 12:00:00 +0000",
-      "synopsis": "When José Morales Bernal crossed the border into the United States on April 8, 2024, the day before his 32nd birthday, it should have triggered a chain of technological alerts and human responses.&#160; As he walked through the desert in southern New Mexico that morning, he was within range of three",
-      "theme": "AI + Business",
-      "category": "ai-business",
-      "fetched_at": "2026-09-22T10:27:09.427949"
-    },
-    {
-      "title": "She died at the San Diego border. A surveillance camera was in plain sight",
-      "url": "https://www.technologyreview.com/2026/09/21/1144170/border-towers-surveillance-feature/",
-      "source": "MIT Technology Review - AI",
-      "date": "Mon, 21 Sep 2026 12:00:00 +0000",
-      "synopsis": "She had only walked for a couple of hours, and already she was lost.&#160; It was early afternoon on Sept. 14, 2025, when 30-year-old Graciela Gómez Hernández crossed the border from the eastern edge of Tijuana into Southern California, sending voice messages to her mother and sister as she walked.&",
-      "theme": "AI + Business",
-      "category": "ai-business",
-      "fetched_at": "2026-09-22T10:27:09.427957"
+      "fetched_at": "2026-09-23T10:22:23.335271"
     }
   ],
-  "last_updated": "2026-09-22T10:27:11.233313",
+  "last_updated": "2026-09-23T10:22:25.824773",
   "total_count": 10
 }
