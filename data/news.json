@@ -8,17 +8,67 @@
       "synopsis": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. A congressional representative just proposed killing America’s border tower program Delia Ramirez, a Democratic US representative from Illinois, has a",
       "theme": "AI + Business",
       "category": "ai-business",
-      "fetched_at": "2026-09-27T10:55:56.131677"
+      "fetched_at": "2026-09-28T12:10:47.478952"
     },
     {
-      "title": "AI is dominating the conversation at Climate Week",
-      "url": "https://www.technologyreview.com/2026/09/24/1145048/ai-climate-week/",
+      "title": "Who’s liable when AI agents go rogue?",
+      "url": "https://www.technologyreview.com/2026/09/28/1145197/whos-liable-when-ai-agents-go-rogue/",
       "source": "MIT Technology Review - AI",
-      "date": "Thu, 24 Sep 2026 10:00:00 +0000",
-      "synopsis": "This week, world leaders descended on Manhattan for the UN General Assembly. It’s also New York Climate Week—investors, policymakers, advocates, and journalists are colliding at panels, talks, and fancy dinners. With so many climate voices in one place, the discourse can feel a little louder than us",
+      "date": "Mon, 28 Sep 2026 08:06:22 +0000",
+      "synopsis": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of technology to help you understand what’s coming next. You can read more from the series here. Over the past few months, a cascade of cyberattacks by AI agents has stunned the world. In July, OpenAI disclosed that a",
       "theme": "AI + Business",
       "category": "ai-business",
-      "fetched_at": "2026-09-27T10:55:56.131689"
+      "fetched_at": "2026-09-28T12:10:47.478890"
+    },
+    {
+      "title": "Bringing AI to Autonomous Systems -- From Cognition to Collective Intelligence",
+      "url": "https://arxiv.org/abs/2609.30291",
+      "source": "ArXiv AI",
+      "date": "Mon, 28 Sep 2026 00:00:00 -0400",
+      "synopsis": "arXiv:2609.30291v1 Announce Type: new  Abstract: The purpose of this article is to highlight the central role of autonomous systems as the ultimate stage in the development of AI, to explain the underlying technical challenges that require a combination of connectionist AI and symbolic AI, and to in",
+      "theme": "AI + Business",
+      "category": "ai-tech",
+      "fetched_at": "2026-09-28T12:10:48.862134"
+    },
+    {
+      "title": "ScopeBench: Do Agents Preserve Engagement Boundaries Under Goal Pressure?",
+      "url": "https://arxiv.org/abs/2609.30325",
+      "source": "ArXiv AI",
+      "date": "Mon, 28 Sep 2026 00:00:00 -0400",
+      "synopsis": "arXiv:2609.30325v1 Announce Type: new  Abstract: Agents are increasingly deployed with real autonomy in web application and network penetration testing, where a single out-of-scope action can breach a client's engagement boundary. Existing offensive-security benchmarks measure raw hacking capability",
+      "theme": "AI General",
+      "category": "ai-tech",
+      "fetched_at": "2026-09-28T12:10:48.862167"
+    },
+    {
+      "title": "When Is a Multi-Agent Code Judge Actually Grounded? Two Label-Free Measurements, and a Judge That Declines to Guess",
+      "url": "https://arxiv.org/abs/2609.30328",
+      "source": "ArXiv AI",
+      "date": "Mon, 28 Sep 2026 00:00:00 -0400",
+      "synopsis": "arXiv:2609.30328v1 Announce Type: new  Abstract: When one language model judges whether another's code is correct, it does not report the absence of evidence. It returns a confident verdict with reasoning attached, indistinguishable from a verdict it had grounds for. Multi-agent verification, which",
+      "theme": "AI General",
+      "category": "ai-tech",
+      "fetched_at": "2026-09-28T12:10:48.862187"
+    },
+    {
+      "title": "Bridging LLM Agents and Data Spaces: An Architectural Mediation Approach using the Model Context Protocol",
+      "url": "https://arxiv.org/abs/2609.30341",
+      "source": "ArXiv AI",
+      "date": "Mon, 28 Sep 2026 00:00:00 -0400",
+      "synopsis": "arXiv:2609.30341v1 Announce Type: new  Abstract: Data Spaces enable sovereign and governed data sharing across organizational boundaries, but their integration with AI agents remains challenging due to mismatches between probabilistic language model interactions and policy-driven data infrastructure",
+      "theme": "AI + Business",
+      "category": "ai-tech",
+      "fetched_at": "2026-09-28T12:10:48.862197"
+    },
+    {
+      "title": "Stealth Apart, Harm Together: Skill Cascading Attacks on Skill-Based Agent Systems",
+      "url": "https://arxiv.org/abs/2609.30383",
+      "source": "ArXiv AI",
+      "date": "Mon, 28 Sep 2026 00:00:00 -0400",
+      "synopsis": "arXiv:2609.30383v1 Announce Type: new  Abstract: A skill is a modular package of natural-language instructions, executable scripts, and reference resources that an agent can load at runtime to extend its capabilities for a specific task. Skill-based agent systems therefore enable flexible reuse of t",
+      "theme": "AI General",
+      "category": "ai-tech",
+      "fetched_at": "2026-09-28T12:10:48.862215"
     },
     {
       "title": "The Download: the Pentagon’s AI-powered lie detector and young organ limits",
@@ -28,7 +78,7 @@
       "synopsis": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The Pentagon wants $30 million to build an AI-powered lie detector The US government wants to spend $30.3 million over the next five years on an impro",
       "theme": "AI + Business",
       "category": "ai-business",
-      "fetched_at": "2026-09-27T10:55:56.131633"
+      "fetched_at": "2026-09-28T12:10:47.478913"
     },
     {
       "title": "The Pentagon wants $30 million to build an AI-powered lie detector",
@@ -38,7 +88,7 @@
       "synopsis": "The US government wants to spend $30.3 million over the next five years on an improved form of lie detector, according to a Department of Defense budget request. The program, called Polygraph+ or Polygraph Next, will focus on scoring algorithms that use artificial intelligence and machine learning a",
       "theme": "AI + Business",
       "category": "ai-business",
-      "fetched_at": "2026-09-27T10:55:56.131650"
+      "fetched_at": "2026-09-28T12:10:47.478925"
     },
     {
       "title": "Young organs may not be a fountain of youth for recipients",
@@ -48,9 +98,9 @@
       "synopsis": "Around this time last year I was attending an aging conference in Manchester, listening to a talk about fly aging, when my phone started pinging. News outlets were reporting that a hot mic had caught Russia’s and China’s leaders discussing the possibility of living forever. “With the developments of",
       "theme": "AI + Business",
       "category": "ai-business",
-      "fetched_at": "2026-09-27T10:55:56.131664"
+      "fetched_at": "2026-09-28T12:10:47.478938"
     }
   ],
-  "last_updated": "2026-09-27T10:55:58.602636",
-  "total_count": 5
+  "last_updated": "2026-09-28T12:10:48.921818",
+  "total_count": 10
 }
