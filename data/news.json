@@ -1,106 +1,106 @@
 {
   "articles": [
     {
-      "title": "The Download: a bid to scrap the virtual wall and AI hits Climate Week",
-      "url": "https://www.technologyreview.com/2026/09/24/1145064/the-download-bid-scrap-virtual-wall-ai-climate-week/",
+      "title": "Coming soon: Our 2026 list of Climate Tech Companies to Watch",
+      "url": "https://www.technologyreview.com/2026/09/29/1145183/2026-climate-tech-companies-to-watch-preview/",
       "source": "MIT Technology Review - AI",
-      "date": "Thu, 24 Sep 2026 12:10:00 +0000",
-      "synopsis": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. A congressional representative just proposed killing America’s border tower program Delia Ramirez, a Democratic US representative from Illinois, has a",
-      "theme": "AI + Business",
+      "date": "Tue, 29 Sep 2026 11:00:00 +0000",
+      "synopsis": "Earlier this month, the UN announced the planet will tip past 1.5 ˚C of warming, “likely within the next few years,” squashing any lingering hope that nations would cut emissions fast enough to achieve the loftiest goal of the Paris climate agreement. In the US, the world’s second-largest-emitting c",
+      "theme": "AI General",
       "category": "ai-business",
-      "fetched_at": "2026-09-28T12:10:47.478952"
+      "fetched_at": "2026-09-29T11:41:39.812560"
     },
     {
-      "title": "Who’s liable when AI agents go rogue?",
-      "url": "https://www.technologyreview.com/2026/09/28/1145197/whos-liable-when-ai-agents-go-rogue/",
+      "title": "Making AI an asset, not an expense",
+      "url": "https://www.technologyreview.com/2026/09/29/1145186/making-ai-an-asset-not-an-expense/",
       "source": "MIT Technology Review - AI",
-      "date": "Mon, 28 Sep 2026 08:06:22 +0000",
-      "synopsis": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of technology to help you understand what’s coming next. You can read more from the series here. Over the past few months, a cascade of cyberattacks by AI agents has stunned the world. In July, OpenAI disclosed that a",
+      "date": "Tue, 29 Sep 2026 10:43:45 +0000",
+      "synopsis": "When customers talk about AI costs, the conversation usually starts with token prices and ends with access to the latest, most capable model in the cloud. Do they always need that level of capability? Not necessarily. But that is often where the conversation goes. As AI moves from experimentation to",
       "theme": "AI + Business",
       "category": "ai-business",
-      "fetched_at": "2026-09-28T12:10:47.478890"
+      "fetched_at": "2026-09-29T11:41:39.812581"
     },
     {
       "title": "Bringing AI to Autonomous Systems -- From Cognition to Collective Intelligence",
       "url": "https://arxiv.org/abs/2609.30291",
       "source": "ArXiv AI",
-      "date": "Mon, 28 Sep 2026 00:00:00 -0400",
+      "date": "Tue, 29 Sep 2026 00:00:00 -0400",
       "synopsis": "arXiv:2609.30291v1 Announce Type: new  Abstract: The purpose of this article is to highlight the central role of autonomous systems as the ultimate stage in the development of AI, to explain the underlying technical challenges that require a combination of connectionist AI and symbolic AI, and to in",
       "theme": "AI + Business",
       "category": "ai-tech",
-      "fetched_at": "2026-09-28T12:10:48.862134"
+      "fetched_at": "2026-09-29T11:41:41.816314"
     },
     {
       "title": "ScopeBench: Do Agents Preserve Engagement Boundaries Under Goal Pressure?",
       "url": "https://arxiv.org/abs/2609.30325",
       "source": "ArXiv AI",
-      "date": "Mon, 28 Sep 2026 00:00:00 -0400",
+      "date": "Tue, 29 Sep 2026 00:00:00 -0400",
       "synopsis": "arXiv:2609.30325v1 Announce Type: new  Abstract: Agents are increasingly deployed with real autonomy in web application and network penetration testing, where a single out-of-scope action can breach a client's engagement boundary. Existing offensive-security benchmarks measure raw hacking capability",
       "theme": "AI General",
       "category": "ai-tech",
-      "fetched_at": "2026-09-28T12:10:48.862167"
+      "fetched_at": "2026-09-29T11:41:41.816345"
     },
     {
       "title": "When Is a Multi-Agent Code Judge Actually Grounded? Two Label-Free Measurements, and a Judge That Declines to Guess",
       "url": "https://arxiv.org/abs/2609.30328",
       "source": "ArXiv AI",
-      "date": "Mon, 28 Sep 2026 00:00:00 -0400",
+      "date": "Tue, 29 Sep 2026 00:00:00 -0400",
       "synopsis": "arXiv:2609.30328v1 Announce Type: new  Abstract: When one language model judges whether another's code is correct, it does not report the absence of evidence. It returns a confident verdict with reasoning attached, indistinguishable from a verdict it had grounds for. Multi-agent verification, which",
       "theme": "AI General",
       "category": "ai-tech",
-      "fetched_at": "2026-09-28T12:10:48.862187"
+      "fetched_at": "2026-09-29T11:41:41.816364"
     },
     {
       "title": "Bridging LLM Agents and Data Spaces: An Architectural Mediation Approach using the Model Context Protocol",
       "url": "https://arxiv.org/abs/2609.30341",
       "source": "ArXiv AI",
-      "date": "Mon, 28 Sep 2026 00:00:00 -0400",
+      "date": "Tue, 29 Sep 2026 00:00:00 -0400",
       "synopsis": "arXiv:2609.30341v1 Announce Type: new  Abstract: Data Spaces enable sovereign and governed data sharing across organizational boundaries, but their integration with AI agents remains challenging due to mismatches between probabilistic language model interactions and policy-driven data infrastructure",
       "theme": "AI + Business",
       "category": "ai-tech",
-      "fetched_at": "2026-09-28T12:10:48.862197"
+      "fetched_at": "2026-09-29T11:41:41.816373"
     },
     {
       "title": "Stealth Apart, Harm Together: Skill Cascading Attacks on Skill-Based Agent Systems",
       "url": "https://arxiv.org/abs/2609.30383",
       "source": "ArXiv AI",
-      "date": "Mon, 28 Sep 2026 00:00:00 -0400",
+      "date": "Tue, 29 Sep 2026 00:00:00 -0400",
       "synopsis": "arXiv:2609.30383v1 Announce Type: new  Abstract: A skill is a modular package of natural-language instructions, executable scripts, and reference resources that an agent can load at runtime to extend its capabilities for a specific task. Skill-based agent systems therefore enable flexible reuse of t",
       "theme": "AI General",
       "category": "ai-tech",
-      "fetched_at": "2026-09-28T12:10:48.862215"
+      "fetched_at": "2026-09-29T11:41:41.816390"
     },
     {
-      "title": "The Download: the Pentagon’s AI-powered lie detector and young organ limits",
-      "url": "https://www.technologyreview.com/2026/09/25/1145157/the-download-pentagon-ai-lie-detector-young-organ-limits/",
+      "title": "Roundtables: The Deadly Failures of The Virtual Border Wall",
+      "url": "https://www.technologyreview.com/2026/09/28/1144890/roundtables-the-deadly-failures-of-the-virtual-border-wall/",
       "source": "MIT Technology Review - AI",
-      "date": "Fri, 25 Sep 2026 12:10:00 +0000",
-      "synopsis": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The Pentagon wants $30 million to build an AI-powered lie detector The US government wants to spend $30.3 million over the next five years on an impro",
+      "date": "Mon, 28 Sep 2026 22:17:07 +0000",
+      "synopsis": "Listen to the session or watch below The US has spent billions building a “virtual wall” of surveillance towers along its southern border over the past 25 years, promising they will help detect and apprehend border crossers and save lives. But a groundbreaking investigation by MIT Technology Review",
       "theme": "AI + Business",
       "category": "ai-business",
-      "fetched_at": "2026-09-28T12:10:47.478913"
+      "fetched_at": "2026-09-29T11:41:39.812594"
     },
     {
-      "title": "The Pentagon wants $30 million to build an AI-powered lie detector",
-      "url": "https://www.technologyreview.com/2026/09/25/1145144/pentagon-ai-lie-detector/",
+      "title": "When can we say AI made a scientific discovery?",
+      "url": "https://www.technologyreview.com/2026/09/28/1145230/when-can-we-say-ai-made-a-scientific-discovery/",
       "source": "MIT Technology Review - AI",
-      "date": "Fri, 25 Sep 2026 09:16:25 +0000",
-      "synopsis": "The US government wants to spend $30.3 million over the next five years on an improved form of lie detector, according to a Department of Defense budget request. The program, called Polygraph+ or Polygraph Next, will focus on scoring algorithms that use artificial intelligence and machine learning a",
+      "date": "Mon, 28 Sep 2026 17:03:16 +0000",
+      "synopsis": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Last Wednesday, Anthropic announced that earlier this year it had launched a molecular biology lab, where Claude agents read and conjecture about hard biology pro",
       "theme": "AI + Business",
       "category": "ai-business",
-      "fetched_at": "2026-09-28T12:10:47.478925"
+      "fetched_at": "2026-09-29T11:41:39.812606"
     },
     {
-      "title": "Young organs may not be a fountain of youth for recipients",
-      "url": "https://www.technologyreview.com/2026/09/25/1145083/young-organs-may-not-be-a-fountain-of-youth-for-recipients/",
+      "title": "The Download: rogue agent liability and the AI Hype Index",
+      "url": "https://www.technologyreview.com/2026/09/28/1145202/the-download-rogue-agent-liability-and-the-ai-hype-index/",
       "source": "MIT Technology Review - AI",
-      "date": "Fri, 25 Sep 2026 09:00:00 +0000",
-      "synopsis": "Around this time last year I was attending an aging conference in Manchester, listening to a talk about fly aging, when my phone started pinging. News outlets were reporting that a hot mic had caught Russia’s and China’s leaders discussing the possibility of living forever. “With the developments of",
+      "date": "Mon, 28 Sep 2026 12:10:00 +0000",
+      "synopsis": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Who&#8217;s liable when AI agents go rogue? Over the past few months, a cascade of cyberattacks by AI agents has stunned the world. In July, OpenAI di",
       "theme": "AI + Business",
       "category": "ai-business",
-      "fetched_at": "2026-09-28T12:10:47.478938"
+      "fetched_at": "2026-09-29T11:41:39.812621"
     }
   ],
-  "last_updated": "2026-09-28T12:10:48.921818",
+  "last_updated": "2026-09-29T11:41:41.863086",
   "total_count": 10
 }
