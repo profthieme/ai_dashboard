@@ -1,6 +1,76 @@
 {
   "articles": [
     {
+      "title": "“We’re not going to shoot ourselves in the foot” over hack fallout, says OpenAI’s chief research officer",
+      "url": "https://www.technologyreview.com/2026/09/30/1145339/were-not-going-to-shoot-ourselves-in-the-foot-over-hugging-face-says-openais-chief-research-officer/",
+      "source": "MIT Technology Review - AI",
+      "date": "Wed, 30 Sep 2026 10:40:30 +0000",
+      "synopsis": "Two months after the bombshell news that a swarm of its agents had broken their containment and hacked into the computers of the AI company Hugging Face, OpenAI is still putting out fires. A steady drip of disclosures about other hacks in the weeks since has kept OpenAI in the spotlight and raised s",
+      "theme": "AI + Business",
+      "category": "ai-business",
+      "fetched_at": "2026-09-30T11:28:23.990646"
+    },
+    {
+      "title": "OpenAI-HuggingFace: A Reproduction & Lessons for Alignment Testing",
+      "url": "https://arxiv.org/abs/2609.35799",
+      "source": "ArXiv AI",
+      "date": "Wed, 30 Sep 2026 00:00:00 -0400",
+      "synopsis": "arXiv:2609.35799v1 Announce Type: new  Abstract: In July 2026, OpenAI's agents coordinated over channels outside their intended environment to breach Hugging Face's secured infrastructure. Could existing alignment testing practices have foreseen this incident? If not, what needs to change? We explor",
+      "theme": "AI + Business",
+      "category": "ai-tech",
+      "fetched_at": "2026-09-30T11:28:25.606062"
+    },
+    {
+      "title": "Neurosymbolic Routing for Reliable Reasoning on Resource-Constrained Edge Devices",
+      "url": "https://arxiv.org/abs/2609.35833",
+      "source": "ArXiv AI",
+      "date": "Wed, 30 Sep 2026 00:00:00 -0400",
+      "synopsis": "arXiv:2609.35833v1 Announce Type: new  Abstract: Running a language model on edge hardware provides private and low-latency reasoning without a network connection, and yet the small models that fit on such devices are unreliable on the tasks computers are expected to handle well, such as arithmetic,",
+      "theme": "AI + Business",
+      "category": "ai-tech",
+      "fetched_at": "2026-09-30T11:28:25.606079"
+    },
+    {
+      "title": "Is Human-Readable Text Necessary for Effective LLM Fine-Tuning?",
+      "url": "https://arxiv.org/abs/2609.35868",
+      "source": "ArXiv AI",
+      "date": "Wed, 30 Sep 2026 00:00:00 -0400",
+      "synopsis": "arXiv:2609.35868v1 Announce Type: new  Abstract: Is human readability necessary for effective fine-tuning of large language models? We investigate whether model-conditioned training representations can preserve or improve adaptation utility without requiring a human-readable textual form. We propose",
+      "theme": "AI + Business",
+      "category": "ai-tech",
+      "fetched_at": "2026-09-30T11:28:25.606089"
+    },
+    {
+      "title": "The Price of Token Boundaries: Compression Certificates and Prediction",
+      "url": "https://arxiv.org/abs/2609.35869",
+      "source": "ArXiv AI",
+      "date": "Wed, 30 Sep 2026 00:00:00 -0400",
+      "synopsis": "arXiv:2609.35869v1 Announce Type: new  Abstract: Pre-tokenisation restricts which text fragments can become prediction units, but its compression cost is obscured when tokenisers are compared only under the same boundaries. We measure this cost by bounding the minimum token count from both sides, wi",
+      "theme": "AI General",
+      "category": "ai-tech",
+      "fetched_at": "2026-09-30T11:28:25.606109"
+    },
+    {
+      "title": "More Programs or More Rolls? Separating Coverage from Specialization in LLM Harnesses",
+      "url": "https://arxiv.org/abs/2609.35873",
+      "source": "ArXiv AI",
+      "date": "Wed, 30 Sep 2026 00:00:00 -0400",
+      "synopsis": "arXiv:2609.35873v1 Announce Type: new  Abstract: Automated generation of LLM harnesses promises to improve inference through task specialization. Yet additional answer coverage can arise from repeated execution of the same program, making specialization difficult to identify. We introduce a controll",
+      "theme": "AI + Business",
+      "category": "ai-tech",
+      "fetched_at": "2026-09-30T11:28:25.606119"
+    },
+    {
+      "title": "The Download: climate tech companies to watch and AI’s discovery problem",
+      "url": "https://www.technologyreview.com/2026/09/29/1145249/the-download-climate-tech-ai-scientific-discovery/",
+      "source": "MIT Technology Review - AI",
+      "date": "Tue, 29 Sep 2026 12:10:00 +0000",
+      "synopsis": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Coming soon: our 2026 list of Climate Tech Companies to Watch With the planet nearing 1.5 °C of warming, climate policies being unraveled, and Big Tec",
+      "theme": "AI + Business",
+      "category": "ai-business",
+      "fetched_at": "2026-09-30T11:28:23.990667"
+    },
+    {
       "title": "Coming soon: Our 2026 list of Climate Tech Companies to Watch",
       "url": "https://www.technologyreview.com/2026/09/29/1145183/2026-climate-tech-companies-to-watch-preview/",
       "source": "MIT Technology Review - AI",
@@ -8,7 +78,7 @@
       "synopsis": "Earlier this month, the UN announced the planet will tip past 1.5 ˚C of warming, “likely within the next few years,” squashing any lingering hope that nations would cut emissions fast enough to achieve the loftiest goal of the Paris climate agreement. In the US, the world’s second-largest-emitting c",
       "theme": "AI General",
       "category": "ai-business",
-      "fetched_at": "2026-09-29T11:41:39.812560"
+      "fetched_at": "2026-09-30T11:28:23.990694"
     },
     {
       "title": "Making AI an asset, not an expense",
@@ -18,57 +88,7 @@
       "synopsis": "When customers talk about AI costs, the conversation usually starts with token prices and ends with access to the latest, most capable model in the cloud. Do they always need that level of capability? Not necessarily. But that is often where the conversation goes. As AI moves from experimentation to",
       "theme": "AI + Business",
       "category": "ai-business",
-      "fetched_at": "2026-09-29T11:41:39.812581"
-    },
-    {
-      "title": "Bringing AI to Autonomous Systems -- From Cognition to Collective Intelligence",
-      "url": "https://arxiv.org/abs/2609.30291",
-      "source": "ArXiv AI",
-      "date": "Tue, 29 Sep 2026 00:00:00 -0400",
-      "synopsis": "arXiv:2609.30291v1 Announce Type: new  Abstract: The purpose of this article is to highlight the central role of autonomous systems as the ultimate stage in the development of AI, to explain the underlying technical challenges that require a combination of connectionist AI and symbolic AI, and to in",
-      "theme": "AI + Business",
-      "category": "ai-tech",
-      "fetched_at": "2026-09-29T11:41:41.816314"
-    },
-    {
-      "title": "ScopeBench: Do Agents Preserve Engagement Boundaries Under Goal Pressure?",
-      "url": "https://arxiv.org/abs/2609.30325",
-      "source": "ArXiv AI",
-      "date": "Tue, 29 Sep 2026 00:00:00 -0400",
-      "synopsis": "arXiv:2609.30325v1 Announce Type: new  Abstract: Agents are increasingly deployed with real autonomy in web application and network penetration testing, where a single out-of-scope action can breach a client's engagement boundary. Existing offensive-security benchmarks measure raw hacking capability",
-      "theme": "AI General",
-      "category": "ai-tech",
-      "fetched_at": "2026-09-29T11:41:41.816345"
-    },
-    {
-      "title": "When Is a Multi-Agent Code Judge Actually Grounded? Two Label-Free Measurements, and a Judge That Declines to Guess",
-      "url": "https://arxiv.org/abs/2609.30328",
-      "source": "ArXiv AI",
-      "date": "Tue, 29 Sep 2026 00:00:00 -0400",
-      "synopsis": "arXiv:2609.30328v1 Announce Type: new  Abstract: When one language model judges whether another's code is correct, it does not report the absence of evidence. It returns a confident verdict with reasoning attached, indistinguishable from a verdict it had grounds for. Multi-agent verification, which",
-      "theme": "AI General",
-      "category": "ai-tech",
-      "fetched_at": "2026-09-29T11:41:41.816364"
-    },
-    {
-      "title": "Bridging LLM Agents and Data Spaces: An Architectural Mediation Approach using the Model Context Protocol",
-      "url": "https://arxiv.org/abs/2609.30341",
-      "source": "ArXiv AI",
-      "date": "Tue, 29 Sep 2026 00:00:00 -0400",
-      "synopsis": "arXiv:2609.30341v1 Announce Type: new  Abstract: Data Spaces enable sovereign and governed data sharing across organizational boundaries, but their integration with AI agents remains challenging due to mismatches between probabilistic language model interactions and policy-driven data infrastructure",
-      "theme": "AI + Business",
-      "category": "ai-tech",
-      "fetched_at": "2026-09-29T11:41:41.816373"
-    },
-    {
-      "title": "Stealth Apart, Harm Together: Skill Cascading Attacks on Skill-Based Agent Systems",
-      "url": "https://arxiv.org/abs/2609.30383",
-      "source": "ArXiv AI",
-      "date": "Tue, 29 Sep 2026 00:00:00 -0400",
-      "synopsis": "arXiv:2609.30383v1 Announce Type: new  Abstract: A skill is a modular package of natural-language instructions, executable scripts, and reference resources that an agent can load at runtime to extend its capabilities for a specific task. Skill-based agent systems therefore enable flexible reuse of t",
-      "theme": "AI General",
-      "category": "ai-tech",
-      "fetched_at": "2026-09-29T11:41:41.816390"
+      "fetched_at": "2026-09-30T11:28:23.990705"
     },
     {
       "title": "Roundtables: The Deadly Failures of The Virtual Border Wall",
@@ -78,29 +98,9 @@
       "synopsis": "Listen to the session or watch below The US has spent billions building a “virtual wall” of surveillance towers along its southern border over the past 25 years, promising they will help detect and apprehend border crossers and save lives. But a groundbreaking investigation by MIT Technology Review",
       "theme": "AI + Business",
       "category": "ai-business",
-      "fetched_at": "2026-09-29T11:41:39.812594"
-    },
-    {
-      "title": "When can we say AI made a scientific discovery?",
-      "url": "https://www.technologyreview.com/2026/09/28/1145230/when-can-we-say-ai-made-a-scientific-discovery/",
-      "source": "MIT Technology Review - AI",
-      "date": "Mon, 28 Sep 2026 17:03:16 +0000",
-      "synopsis": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Last Wednesday, Anthropic announced that earlier this year it had launched a molecular biology lab, where Claude agents read and conjecture about hard biology pro",
-      "theme": "AI + Business",
-      "category": "ai-business",
-      "fetched_at": "2026-09-29T11:41:39.812606"
-    },
-    {
-      "title": "The Download: rogue agent liability and the AI Hype Index",
-      "url": "https://www.technologyreview.com/2026/09/28/1145202/the-download-rogue-agent-liability-and-the-ai-hype-index/",
-      "source": "MIT Technology Review - AI",
-      "date": "Mon, 28 Sep 2026 12:10:00 +0000",
-      "synopsis": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Who&#8217;s liable when AI agents go rogue? Over the past few months, a cascade of cyberattacks by AI agents has stunned the world. In July, OpenAI di",
-      "theme": "AI + Business",
-      "category": "ai-business",
-      "fetched_at": "2026-09-29T11:41:39.812621"
+      "fetched_at": "2026-09-30T11:28:23.990717"
     }
   ],
-  "last_updated": "2026-09-29T11:41:41.863086",
+  "last_updated": "2026-09-30T11:28:25.638240",
   "total_count": 10
 }
