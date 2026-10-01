@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "title": "The Download: OpenAI’s chief research officer explains its hacking response",
+      "url": "https://www.technologyreview.com/2026/09/30/1145350/the-download-openai-chief-research-officer-hacking-response/",
+      "source": "MIT Technology Review - AI",
+      "date": "Wed, 30 Sep 2026 12:10:00 +0000",
+      "synopsis": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. “We’re not going to shoot ourselves in the foot” over hack fallout, says OpenAI’s chief research officer Two months after OpenAI’s agents hacked into",
+      "theme": "AI + Business",
+      "category": "ai-business",
+      "fetched_at": "2026-10-01T11:56:40.456217"
+    },
+    {
       "title": "“We’re not going to shoot ourselves in the foot” over hack fallout, says OpenAI’s chief research officer",
       "url": "https://www.technologyreview.com/2026/09/30/1145339/were-not-going-to-shoot-ourselves-in-the-foot-over-hugging-face-says-openais-chief-research-officer/",
       "source": "MIT Technology Review - AI",
@@ -8,57 +18,7 @@
       "synopsis": "Two months after the bombshell news that a swarm of its agents had broken their containment and hacked into the computers of the AI company Hugging Face, OpenAI is still putting out fires. A steady drip of disclosures about other hacks in the weeks since has kept OpenAI in the spotlight and raised s",
       "theme": "AI + Business",
       "category": "ai-business",
-      "fetched_at": "2026-09-30T11:28:23.990646"
-    },
-    {
-      "title": "OpenAI-HuggingFace: A Reproduction & Lessons for Alignment Testing",
-      "url": "https://arxiv.org/abs/2609.35799",
-      "source": "ArXiv AI",
-      "date": "Wed, 30 Sep 2026 00:00:00 -0400",
-      "synopsis": "arXiv:2609.35799v1 Announce Type: new  Abstract: In July 2026, OpenAI's agents coordinated over channels outside their intended environment to breach Hugging Face's secured infrastructure. Could existing alignment testing practices have foreseen this incident? If not, what needs to change? We explor",
-      "theme": "AI + Business",
-      "category": "ai-tech",
-      "fetched_at": "2026-09-30T11:28:25.606062"
-    },
-    {
-      "title": "Neurosymbolic Routing for Reliable Reasoning on Resource-Constrained Edge Devices",
-      "url": "https://arxiv.org/abs/2609.35833",
-      "source": "ArXiv AI",
-      "date": "Wed, 30 Sep 2026 00:00:00 -0400",
-      "synopsis": "arXiv:2609.35833v1 Announce Type: new  Abstract: Running a language model on edge hardware provides private and low-latency reasoning without a network connection, and yet the small models that fit on such devices are unreliable on the tasks computers are expected to handle well, such as arithmetic,",
-      "theme": "AI + Business",
-      "category": "ai-tech",
-      "fetched_at": "2026-09-30T11:28:25.606079"
-    },
-    {
-      "title": "Is Human-Readable Text Necessary for Effective LLM Fine-Tuning?",
-      "url": "https://arxiv.org/abs/2609.35868",
-      "source": "ArXiv AI",
-      "date": "Wed, 30 Sep 2026 00:00:00 -0400",
-      "synopsis": "arXiv:2609.35868v1 Announce Type: new  Abstract: Is human readability necessary for effective fine-tuning of large language models? We investigate whether model-conditioned training representations can preserve or improve adaptation utility without requiring a human-readable textual form. We propose",
-      "theme": "AI + Business",
-      "category": "ai-tech",
-      "fetched_at": "2026-09-30T11:28:25.606089"
-    },
-    {
-      "title": "The Price of Token Boundaries: Compression Certificates and Prediction",
-      "url": "https://arxiv.org/abs/2609.35869",
-      "source": "ArXiv AI",
-      "date": "Wed, 30 Sep 2026 00:00:00 -0400",
-      "synopsis": "arXiv:2609.35869v1 Announce Type: new  Abstract: Pre-tokenisation restricts which text fragments can become prediction units, but its compression cost is obscured when tokenisers are compared only under the same boundaries. We measure this cost by bounding the minimum token count from both sides, wi",
-      "theme": "AI General",
-      "category": "ai-tech",
-      "fetched_at": "2026-09-30T11:28:25.606109"
-    },
-    {
-      "title": "More Programs or More Rolls? Separating Coverage from Specialization in LLM Harnesses",
-      "url": "https://arxiv.org/abs/2609.35873",
-      "source": "ArXiv AI",
-      "date": "Wed, 30 Sep 2026 00:00:00 -0400",
-      "synopsis": "arXiv:2609.35873v1 Announce Type: new  Abstract: Automated generation of LLM harnesses promises to improve inference through task specialization. Yet additional answer coverage can arise from repeated execution of the same program, making specialization difficult to identify. We introduce a controll",
-      "theme": "AI + Business",
-      "category": "ai-tech",
-      "fetched_at": "2026-09-30T11:28:25.606119"
+      "fetched_at": "2026-10-01T11:56:40.456229"
     },
     {
       "title": "The Download: climate tech companies to watch and AI’s discovery problem",
@@ -68,39 +28,79 @@
       "synopsis": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Coming soon: our 2026 list of Climate Tech Companies to Watch With the planet nearing 1.5 °C of warming, climate policies being unraveled, and Big Tec",
       "theme": "AI + Business",
       "category": "ai-business",
-      "fetched_at": "2026-09-30T11:28:23.990667"
+      "fetched_at": "2026-10-01T11:56:40.456241"
     },
     {
-      "title": "Coming soon: Our 2026 list of Climate Tech Companies to Watch",
-      "url": "https://www.technologyreview.com/2026/09/29/1145183/2026-climate-tech-companies-to-watch-preview/",
+      "title": "An AI “mind-reading” tool can reconstruct what you’re looking at based on a brain scan",
+      "url": "https://www.technologyreview.com/2026/10/01/1145588/ai-mind-reading-reconstructs-what-youre-looking-at/",
       "source": "MIT Technology Review - AI",
-      "date": "Tue, 29 Sep 2026 11:00:00 +0000",
-      "synopsis": "Earlier this month, the UN announced the planet will tip past 1.5 ˚C of warming, “likely within the next few years,” squashing any lingering hope that nations would cut emissions fast enough to achieve the loftiest goal of the Paris climate agreement. In the US, the world’s second-largest-emitting c",
+      "date": "Thu, 01 Oct 2026 10:32:24 +0000",
+      "synopsis": "A new AI tool can guess what you’re looking at just by analyzing your brain scans—and recreate that image with remarkable precision. It can go the other way too, and predict a person’s brain activity based on what they’re looking at.&#160; In the image above, for example, the left-hand image of each",
+      "theme": "AI + Business",
+      "category": "ai-business",
+      "fetched_at": "2026-10-01T11:56:40.456167"
+    },
+    {
+      "title": "How smaller, distributed batteries could help the grid",
+      "url": "https://www.technologyreview.com/2026/10/01/1145435/distributed-batteries/",
+      "source": "MIT Technology Review - AI",
+      "date": "Thu, 01 Oct 2026 10:00:00 +0000",
+      "synopsis": "If you want to install a big battery in New York City, you have to cut through a notoriously tough tangle of regulations. That’s made it difficult to get large energy storage projects on the grid. Faced with those obstacles, some startups are getting creative, finding ways to use relatively small ba",
       "theme": "AI General",
       "category": "ai-business",
-      "fetched_at": "2026-09-30T11:28:23.990694"
+      "fetched_at": "2026-10-01T11:56:40.456201"
     },
     {
-      "title": "Making AI an asset, not an expense",
-      "url": "https://www.technologyreview.com/2026/09/29/1145186/making-ai-an-asset-not-an-expense/",
-      "source": "MIT Technology Review - AI",
-      "date": "Tue, 29 Sep 2026 10:43:45 +0000",
-      "synopsis": "When customers talk about AI costs, the conversation usually starts with token prices and ends with access to the latest, most capable model in the cloud. Do they always need that level of capability? Not necessarily. But that is often where the conversation goes. As AI moves from experimentation to",
+      "title": "Improving OCR Faithfulness via Gated and Attenuated On-Policy Distillation",
+      "url": "https://arxiv.org/abs/2609.38282",
+      "source": "ArXiv AI",
+      "date": "Thu, 01 Oct 2026 00:00:00 -0400",
+      "synopsis": "arXiv:2609.38282v1 Announce Type: new  Abstract: Vision-language models may rewrite anomalous text in images into linguistically plausible expressions, compromising OCR transcription faithfulness. Sequence-level task rewards and local teacher guidance are complementary, but guidance from the same te",
       "theme": "AI + Business",
-      "category": "ai-business",
-      "fetched_at": "2026-09-30T11:28:23.990705"
+      "category": "ai-tech",
+      "fetched_at": "2026-10-01T11:56:42.093275"
     },
     {
-      "title": "Roundtables: The Deadly Failures of The Virtual Border Wall",
-      "url": "https://www.technologyreview.com/2026/09/28/1144890/roundtables-the-deadly-failures-of-the-virtual-border-wall/",
-      "source": "MIT Technology Review - AI",
-      "date": "Mon, 28 Sep 2026 22:17:07 +0000",
-      "synopsis": "Listen to the session or watch below The US has spent billions building a “virtual wall” of surveillance towers along its southern border over the past 25 years, promising they will help detect and apprehend border crossers and save lives. But a groundbreaking investigation by MIT Technology Review",
+      "title": "AREX-2: Advancing Self-Improving Agents through Long-Horizon Reflective Tasks",
+      "url": "https://arxiv.org/abs/2609.38288",
+      "source": "ArXiv AI",
+      "date": "Thu, 01 Oct 2026 00:00:00 -0400",
+      "synopsis": "arXiv:2609.38288v1 Announce Type: new  Abstract: We present AREX-2, an effort to advance the self-improving capability of LLM agents, which we define as the ability to iteratively refine a solution at test time. This ability rests on two complementary capabilities: reflection, which produces a solut",
       "theme": "AI + Business",
-      "category": "ai-business",
-      "fetched_at": "2026-09-30T11:28:23.990717"
+      "category": "ai-tech",
+      "fetched_at": "2026-10-01T11:56:42.093295"
+    },
+    {
+      "title": "MoFlow: Multi-Objective Agentic Workflow Generation",
+      "url": "https://arxiv.org/abs/2609.38294",
+      "source": "ArXiv AI",
+      "date": "Thu, 01 Oct 2026 00:00:00 -0400",
+      "synopsis": "arXiv:2609.38294v1 Announce Type: new  Abstract: We study the generation of agentic workflows that jointly optimize multiple objectives, such as accuracy, cost, latency, robustness, and consistency. Existing methods for workflow generation typically optimize accuracy alone or a weighted sum of objec",
+      "theme": "AI General",
+      "category": "ai-tech",
+      "fetched_at": "2026-10-01T11:56:42.093316"
+    },
+    {
+      "title": "AI Agents are Vulnerable to Radicalization",
+      "url": "https://arxiv.org/abs/2609.38296",
+      "source": "ArXiv AI",
+      "date": "Thu, 01 Oct 2026 00:00:00 -0400",
+      "synopsis": "arXiv:2609.38296v1 Announce Type: new  Abstract: Large language models (LLMs) can influence people's beliefs, yet little is known about whether and how they can manipulate each other. To investigate this, we simulate conversations between two agents: a target LLM that role-plays a human persona base",
+      "theme": "AI + Business",
+      "category": "ai-tech",
+      "fetched_at": "2026-10-01T11:56:42.093325"
+    },
+    {
+      "title": "CARAT: Do Materials LLMs Reason or Recite?",
+      "url": "https://arxiv.org/abs/2609.38340",
+      "source": "ArXiv AI",
+      "date": "Thu, 01 Oct 2026 00:00:00 -0400",
+      "synopsis": "arXiv:2609.38340v1 Announce Type: new  Abstract: When a materials LLM answers a question about crystal structure, does it reason from the structure or copy an answer already printed in its input? Accuracy cannot tell: a structural description often prints the very field it is scored against. CARAT h",
+      "theme": "AI + Business",
+      "category": "ai-tech",
+      "fetched_at": "2026-10-01T11:56:42.093335"
     }
   ],
-  "last_updated": "2026-09-30T11:28:25.638240",
+  "last_updated": "2026-10-01T11:56:42.213577",
   "total_count": 10
 }
