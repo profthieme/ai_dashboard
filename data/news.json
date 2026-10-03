@@ -8,27 +8,27 @@
       "synopsis": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. An AI “mind-reading” tool can reconstruct what you’re looking at based on a brain scan A new AI tool can guess what you’re looking at just by analyzin",
       "theme": "AI + Business",
       "category": "ai-business",
-      "fetched_at": "2026-10-02T11:28:07.217363"
+      "fetched_at": "2026-10-03T10:43:59.727227"
     },
     {
-      "title": "An AI “mind-reading” tool can reconstruct what you’re looking at from a brain scan",
-      "url": "https://www.technologyreview.com/2026/10/01/1145588/ai-mind-reading-reconstructs-what-youre-looking-at/",
+      "title": "Redefining enterprise intelligence with autonomous AI",
+      "url": "https://www.technologyreview.com/2026/10/02/1143774/redefining-enterprise-intelligence-with-autonomous-ai/",
       "source": "MIT Technology Review - AI",
-      "date": "Thu, 01 Oct 2026 10:32:24 +0000",
-      "synopsis": "A new AI tool can guess what you’re looking at just by analyzing your brain scans—and re-create that image with remarkable precision. It can go the other way, too, and predict a person’s brain activity based on what they’re looking at.&#160; In the image above, for example, the left-hand image of ea",
+      "date": "Fri, 02 Oct 2026 15:49:04 +0000",
+      "synopsis": "Enterprise AI is no longer a future ambition. It is in full operational flight. Model capabilities are advancing faster than most organizations can absorb, while the cost of performance continues to fall. Globally, AI investment is set to reach $2.5 trillion in 2026, up 44% from the previous year. F",
       "theme": "AI + Business",
       "category": "ai-business",
-      "fetched_at": "2026-10-02T11:28:07.217374"
+      "fetched_at": "2026-10-03T10:43:59.727164"
     },
     {
-      "title": "How smaller, distributed batteries could help the grid",
-      "url": "https://www.technologyreview.com/2026/10/01/1145435/distributed-batteries/",
+      "title": "The Download: a biological de-aging contest and why LLMs don’t reason",
+      "url": "https://www.technologyreview.com/2026/10/02/1145666/the-download-biological-de-aging-ai-reasoning/",
       "source": "MIT Technology Review - AI",
-      "date": "Thu, 01 Oct 2026 10:00:00 +0000",
-      "synopsis": "If you want to install a big battery in New York City, you have to cut through a notoriously tough tangle of regulations. That’s made it difficult to get large energy storage projects on the grid. Faced with those obstacles, some startups are getting creative, finding ways to use relatively small ba",
-      "theme": "AI General",
+      "date": "Fri, 02 Oct 2026 12:10:00 +0000",
+      "synopsis": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. A new contest pits competitors against each other in a race to biological youth —Jessica Hamzelou This week, I officially signed up for an unusual com",
+      "theme": "AI + Business",
       "category": "ai-business",
-      "fetched_at": "2026-10-02T11:28:07.217398"
+      "fetched_at": "2026-10-03T10:43:59.727185"
     },
     {
       "title": "A new contest pits competitors against each other in a race to biological youth",
@@ -38,7 +38,7 @@
       "synopsis": "This week, I officially signed up for an unusual competition. One that rewards competitors for getting younger. I recently turned 40, and I don’t need reminding that both time and my chronological age only tick forward. But this game is focused on competitors’ biological ages—figures that are meant",
       "theme": "AI + Business",
       "category": "ai-business",
-      "fetched_at": "2026-10-02T11:28:07.217329"
+      "fetched_at": "2026-10-03T10:43:59.727195"
     },
     {
       "title": "Don’t be fooled—LLMs don’t reason",
@@ -48,59 +48,9 @@
       "synopsis": "On an afternoon in Seoul in March 2016, I watched a program I helped build put a stone on the fifth line of a Go board in what looked like a gift to its human opponent. Move 37 in game two of the five-game match looked so absurd that some commentators thought it was a&#8230;",
       "theme": "AI + Business",
       "category": "ai-business",
-      "fetched_at": "2026-10-02T11:28:07.217349"
-    },
-    {
-      "title": "Heavy-Tailed Memory Traces in Long-Horizon Language Agents",
-      "url": "https://arxiv.org/abs/2610.00010",
-      "source": "ArXiv AI",
-      "date": "Fri, 02 Oct 2026 00:00:00 -0400",
-      "synopsis": "arXiv:2610.00010v1 Announce Type: new  Abstract: Long-horizon language agents increasingly rely on external memory as a frozen world model, yet current memory systems are usually judged only by task success or token cost. We argue that the missing object is the shape of memory use: under finite cont",
-      "theme": "AI + Business",
-      "category": "ai-tech",
-      "fetched_at": "2026-10-02T11:28:08.761408"
-    },
-    {
-      "title": "When Do Causal World Models Help Modular LLM Agents",
-      "url": "https://arxiv.org/abs/2610.00012",
-      "source": "ArXiv AI",
-      "date": "Fri, 02 Oct 2026 00:00:00 -0400",
-      "synopsis": "arXiv:2610.00012v1 Announce Type: new  Abstract: LLM agents increasingly act through modular systems, such as order, payment, inventory, and shipment services, where actions in one module change which transitions are valid in another. Standard world models usually fit observational traces, but this",
-      "theme": "AI + Business",
-      "category": "ai-tech",
-      "fetched_at": "2026-10-02T11:28:08.761426"
-    },
-    {
-      "title": "From Proposal to Verified Effect: Praxa, an Evidence-Bound Harness for Governed AI Agent Execution",
-      "url": "https://arxiv.org/abs/2610.00015",
-      "source": "ArXiv AI",
-      "date": "Fri, 02 Oct 2026 00:00:00 -0400",
-      "synopsis": "arXiv:2610.00015v1 Announce Type: new  Abstract: Large-language-model agents can propose and execute actions, but proposal, authority, dispatch, verified external effect, and serving promotion are different claims. We present Praxa, an agent harness that represents these states explicitly through de",
-      "theme": "AI + Business",
-      "category": "ai-tech",
-      "fetched_at": "2026-10-02T11:28:08.761435"
-    },
-    {
-      "title": "What Do Rationales Communicate? A Message-Intervention Study in Role-Specialized QA",
-      "url": "https://arxiv.org/abs/2610.00018",
-      "source": "ArXiv AI",
-      "date": "Fri, 02 Oct 2026 00:00:00 -0400",
-      "synopsis": "arXiv:2610.00018v1 Announce Type: new  Abstract: Role-specialized QA pipelines increasingly pass rationales from a reasoner to a verifier, but it is unclear what this message actually buys: better answers, stronger support assessment, or a new failure surface. We introduce a message-intervention dia",
-      "theme": "AI + Business",
-      "category": "ai-tech",
-      "fetched_at": "2026-10-02T11:28:08.761444"
-    },
-    {
-      "title": "Measuring the Microtask Eligibility Gap: When Is an Off-the-Shelf SLM Enough for an Agent Harness?",
-      "url": "https://arxiv.org/abs/2610.00025",
-      "source": "ArXiv AI",
-      "date": "Fri, 02 Oct 2026 00:00:00 -0400",
-      "synopsis": "arXiv:2610.00025v1 Announce Type: new  Abstract: Agent harnesses increasingly want to run small language models (SLMs) on the microtasks around a frontier large language model (LLM) planner: auto-approving shell commands, writing memory, selecting tools, ranking past turns. We ask whether off-the-sh",
-      "theme": "AI + Business",
-      "category": "ai-tech",
-      "fetched_at": "2026-10-02T11:28:08.761453"
+      "fetched_at": "2026-10-03T10:43:59.727218"
     }
   ],
-  "last_updated": "2026-10-02T11:28:08.874518",
-  "total_count": 10
+  "last_updated": "2026-10-03T10:44:02.058422",
+  "total_count": 5
 }
