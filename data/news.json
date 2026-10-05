@@ -1,14 +1,84 @@
 {
   "articles": [
     {
-      "title": "The Download: AI “mind-reading” and creative uses for small batteries",
-      "url": "https://www.technologyreview.com/2026/10/01/1145592/the-download-ai-mind-reading-small-batteries/",
+      "title": "The Download: AI’s popularity paradox and EmTech Future 2026",
+      "url": "https://www.technologyreview.com/2026/10/05/1145711/the-download-ai-popularity-paradox-emtech-future-2026/",
       "source": "MIT Technology Review - AI",
-      "date": "Thu, 01 Oct 2026 12:10:00 +0000",
-      "synopsis": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. An AI “mind-reading” tool can reconstruct what you’re looking at based on a brain scan A new AI tool can guess what you’re looking at just by analyzin",
+      "date": "Mon, 05 Oct 2026 12:10:00 +0000",
+      "synopsis": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. People really hate AI, so why can’t they get enough? —Will Douglas Heaven Over the summer I talked to the CEO of Springboards, a startup building an L",
       "theme": "AI + Business",
       "category": "ai-business",
-      "fetched_at": "2026-10-04T11:25:24.444856"
+      "fetched_at": "2026-10-05T12:50:43.348010"
+    },
+    {
+      "title": "People really hate AI, so why can’t they get enough?",
+      "url": "https://www.technologyreview.com/2026/10/05/1145682/people-really-hate-ai-so-why-cant-they-get-enough/",
+      "source": "MIT Technology Review - AI",
+      "date": "Mon, 05 Oct 2026 08:00:00 +0000",
+      "synopsis": "Over the summer I talked to the CEO of Springboards, a startup building an LLM that’s designed to come up with a wider variety of responses than its mainstream rivals do. At the start of the call, he said something that’s been stuck in my head since: “We often say that we’re a self-loathing AI&#8230",
+      "theme": "AI + Business",
+      "category": "ai-business",
+      "fetched_at": "2026-10-05T12:50:43.348030"
+    },
+    {
+      "title": "EmTech Future 2026: When AI Meets Everything",
+      "url": "https://www.technologyreview.com/2026/10/05/1145413/emtech-future-2026-when-ai-meets-everything/",
+      "source": "MIT Technology Review - AI",
+      "date": "Mon, 05 Oct 2026 04:00:00 +0000",
+      "synopsis": "Yossi Matias, Vice President &#38; Head of Google Research, explores how AI is beginning to reshape biology, infrastructure, manufacturing, and science, and why its greatest impact may come when it intersects with other fields.&#160; Step inside the newsroom with our MIT Technology Review editors fo",
+      "theme": "AI + Business",
+      "category": "ai-business",
+      "fetched_at": "2026-10-05T12:50:43.348044"
+    },
+    {
+      "title": "MintFlow: Minimal Trajectory Intervention for Constrained Flow Matching",
+      "url": "https://arxiv.org/abs/2610.02260",
+      "source": "ArXiv AI",
+      "date": "Mon, 05 Oct 2026 00:00:00 -0400",
+      "synopsis": "arXiv:2610.02260v1 Announce Type: new  Abstract: Flow matching models excel at generative modeling, and many downstream applications require their samples to satisfy prescribed constraints, such as observed measurements and physical laws. However, existing constrained samplers often face a trade-off",
+      "theme": "AI + Business",
+      "category": "ai-tech",
+      "fetched_at": "2026-10-05T12:50:47.754568"
+    },
+    {
+      "title": "Fast Models, Slow Evidence: A Paired and Self-Audited Evaluation of System-1 Decision Models for LLM Agent Harnesses",
+      "url": "https://arxiv.org/abs/2610.02267",
+      "source": "ArXiv AI",
+      "date": "Mon, 05 Oct 2026 00:00:00 -0400",
+      "synopsis": "arXiv:2610.02267v1 Announce Type: new  Abstract: Agent harnesses make many small, typed decisions per task: which model to call, which tool to use, whether retrieved text is relevant, whether an input carries an injection. System-1 decision models answer such questions in a single forward pass with",
+      "theme": "AI + Business",
+      "category": "ai-tech",
+      "fetched_at": "2026-10-05T12:50:47.754592"
+    },
+    {
+      "title": "The AI Risk Observatory: What Can We Learn from AI Disclosures in Annual Reports About Societal Resilience?",
+      "url": "https://arxiv.org/abs/2610.02281",
+      "source": "ArXiv AI",
+      "date": "Mon, 05 Oct 2026 00:00:00 -0400",
+      "synopsis": "arXiv:2610.02281v1 Announce Type: new  Abstract: Societal resilience research relies on access to useful and actionable data, which motivates our main research question: Can annual reports, processed at scale with LLMs, provide a useful signal about how companies disclose their response to AI? We te",
+      "theme": "AI + Business",
+      "category": "ai-tech",
+      "fetched_at": "2026-10-05T12:50:47.754606"
+    },
+    {
+      "title": "Keep It CALM: Analyzing the Limits of Global Unsafety in Text-to-Image Generation",
+      "url": "https://arxiv.org/abs/2610.02300",
+      "source": "ArXiv AI",
+      "date": "Mon, 05 Oct 2026 00:00:00 -0400",
+      "synopsis": "arXiv:2610.02300v1 Announce Type: new  Abstract: Training-free safeguards for text-to-image generation often rely on a reusable safety signal, such as an unsafe direction or global toxic subspace, applied broadly across prompts. We provide a controlled geometric analysis of this global-unsafety assu",
+      "theme": "AI + Business",
+      "category": "ai-tech",
+      "fetched_at": "2026-10-05T12:50:47.754615"
+    },
+    {
+      "title": "Choosing Before Acting: Comparative Value Estimation for Long-Horizon Tool-Use Agents",
+      "url": "https://arxiv.org/abs/2610.02330",
+      "source": "ArXiv AI",
+      "date": "Mon, 05 Oct 2026 00:00:00 -0400",
+      "synopsis": "arXiv:2610.02330v1 Announce Type: new  Abstract: Large language models (LLMs) rely on long-horizon tool invocation sequences for complex tasks, where each invocation can alter the task state and condition subsequent decisions. In long-horizon tool use, final-outcome rewards provide weak credit assig",
+      "theme": "AI + Business",
+      "category": "ai-tech",
+      "fetched_at": "2026-10-05T12:50:47.754626"
     },
     {
       "title": "Redefining enterprise intelligence with autonomous AI",
@@ -18,7 +88,7 @@
       "synopsis": "Enterprise AI is no longer a future ambition. It is in full operational flight. Model capabilities are advancing faster than most organizations can absorb, while the cost of performance continues to fall. Globally, AI investment is set to reach $2.5 trillion in 2026, up 44% from the previous year. F",
       "theme": "AI + Business",
       "category": "ai-business",
-      "fetched_at": "2026-10-04T11:25:24.444798"
+      "fetched_at": "2026-10-05T12:50:43.348054"
     },
     {
       "title": "The Download: a biological de-aging contest and why LLMs don’t reason",
@@ -28,29 +98,9 @@
       "synopsis": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. A new contest pits competitors against each other in a race to biological youth —Jessica Hamzelou This week, I officially signed up for an unusual com",
       "theme": "AI + Business",
       "category": "ai-business",
-      "fetched_at": "2026-10-04T11:25:24.444820"
-    },
-    {
-      "title": "A new contest pits competitors against each other in a race to biological youth",
-      "url": "https://www.technologyreview.com/2026/10/02/1145610/younger-contest-race-to-biological-youth/",
-      "source": "MIT Technology Review - AI",
-      "date": "Fri, 02 Oct 2026 09:00:00 +0000",
-      "synopsis": "This week, I officially signed up for an unusual competition. One that rewards competitors for getting younger. I recently turned 40, and I don’t need reminding that both time and my chronological age only tick forward. But this game is focused on competitors’ biological ages—figures that are meant",
-      "theme": "AI + Business",
-      "category": "ai-business",
-      "fetched_at": "2026-10-04T11:25:24.444833"
-    },
-    {
-      "title": "Don’t be fooled—LLMs don’t reason",
-      "url": "https://www.technologyreview.com/2026/10/02/1145639/dont-be-fooled-llms-dont-reason/",
-      "source": "MIT Technology Review - AI",
-      "date": "Fri, 02 Oct 2026 08:00:00 +0000",
-      "synopsis": "On an afternoon in Seoul in March 2016, I watched a program I helped build put a stone on the fifth line of a Go board in what looked like a gift to its human opponent. Move 37 in game two of the five-game match looked so absurd that some commentators thought it was a&#8230;",
-      "theme": "AI + Business",
-      "category": "ai-business",
-      "fetched_at": "2026-10-04T11:25:24.444846"
+      "fetched_at": "2026-10-05T12:50:43.348066"
     }
   ],
-  "last_updated": "2026-10-04T11:25:26.187545",
-  "total_count": 5
+  "last_updated": "2026-10-05T12:50:47.817921",
+  "total_count": 10
 }
