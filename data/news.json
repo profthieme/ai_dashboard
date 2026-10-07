@@ -1,6 +1,76 @@
 {
   "articles": [
     {
+      "title": "GAMEGO: Training Game-Dev Agents with Synthetic Trajectories Anchored in Real-World Assets",
+      "url": "https://arxiv.org/abs/2610.06910",
+      "source": "ArXiv AI",
+      "date": "Wed, 07 Oct 2026 00:00:00 -0400",
+      "synopsis": "arXiv:2610.06910v1 Announce Type: new  Abstract: Recent advances in Large Language Models (LLMs) have demonstrated remarkable capabilities in web front-end execution, with browser-based game generation emerging as a particularly prominent frontier. While previous efforts frequently rely on complex m",
+      "theme": "AI + Business",
+      "category": "ai-tech",
+      "fetched_at": "2026-10-07T12:11:17.671043"
+    },
+    {
+      "title": "Text2Dashboard: A Governed Agent Architecture for Natural-Language Dashboard Generation over Enterprise DataBrain",
+      "url": "https://arxiv.org/abs/2610.06914",
+      "source": "ArXiv AI",
+      "date": "Wed, 07 Oct 2026 00:00:00 -0400",
+      "synopsis": "arXiv:2610.06914v1 Announce Type: new  Abstract: Text2Dashboard is a DataBrain-specific prototype that turns natural-language analytic requests into inspectable dashboards. An installable Codex plugin and standalone Agent Runtime combine schema-constrained model decisions with typed tools, persisten",
+      "theme": "AI + Business",
+      "category": "ai-tech",
+      "fetched_at": "2026-10-07T12:11:17.671062"
+    },
+    {
+      "title": "FluidPD: In-Place Elasticity for SLO-Aware Prefill-Decode Disaggregated LLM Serving",
+      "url": "https://arxiv.org/abs/2610.06917",
+      "source": "ArXiv AI",
+      "date": "Wed, 07 Oct 2026 00:00:00 -0400",
+      "synopsis": "arXiv:2610.06917v1 Announce Type: new  Abstract: Prefill-decode disaggregation is becoming a common architecture for LLM serving because it separates two phases with distinct execution patterns and SLO objectives. Existing systems typically combine a fixed prefill/decode worker ratio with request ro",
+      "theme": "AI + Business",
+      "category": "ai-tech",
+      "fetched_at": "2026-10-07T12:11:17.671073"
+    },
+    {
+      "title": "Anchor Divergence for Semantic Geometry in Contrastive Learning",
+      "url": "https://arxiv.org/abs/2610.06919",
+      "source": "ArXiv AI",
+      "date": "Wed, 07 Oct 2026 00:00:00 -0400",
+      "synopsis": "arXiv:2610.06919v1 Announce Type: new  Abstract: This paper concerns how semantic context determines geometry in learned vector representations. Similarity is typically measured using cosine similarity, which provides a single fixed geometry. Semantic similarity, however, is inherently context depen",
+      "theme": "AI General",
+      "category": "ai-tech",
+      "fetched_at": "2026-10-07T12:11:17.671094"
+    },
+    {
+      "title": "RadOnc-Agent: An LLM-Orchestrated Framework for AI Workflows Across the Radiotherapy Care Pathway",
+      "url": "https://arxiv.org/abs/2610.06923",
+      "source": "ArXiv AI",
+      "date": "Wed, 07 Oct 2026 00:00:00 -0400",
+      "synopsis": "arXiv:2610.06923v1 Announce Type: new  Abstract: Artificial intelligence has advanced individual radiotherapy tasks, yet these capabilities remain separated across clinical stages, software environments and data modalities. This fragmentation contrasts with the longitudinal radiotherapy workflow fro",
+      "theme": "AI + Business",
+      "category": "ai-tech",
+      "fetched_at": "2026-10-07T12:11:17.671103"
+    },
+    {
+      "title": "Weight-loss drugs show signs of slowing biological aging, say drugmakers",
+      "url": "https://www.technologyreview.com/2026/10/06/1145836/weight-loss-drugs-glp1-lilly-novo-aging-clocks/",
+      "source": "MIT Technology Review - AI",
+      "date": "Tue, 06 Oct 2026 16:40:36 +0000",
+      "synopsis": "Popular weight-loss drugs may do more than help people shed pounds. They might also melt away the years. Drug giants Eli Lilly and Novo Nordisk say patients taking their drugs age less quickly, according to readouts from molecular “aging clocks.” Such clocks assess a person’s biological age by looki",
+      "theme": "AI General",
+      "category": "ai-business",
+      "fetched_at": "2026-10-07T12:11:13.057046"
+    },
+    {
+      "title": "The Download: 10 climate tech companies to watch",
+      "url": "https://www.technologyreview.com/2026/10/06/1145796/the-download-10-climate-tech-companies-to-watch/",
+      "source": "MIT Technology Review - AI",
+      "date": "Tue, 06 Oct 2026 12:10:00 +0000",
+      "synopsis": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. 10 climate tech companies to watch Each year, MIT Technology Review puts together a list of the most promising climate tech companies in the world. Th",
+      "theme": "AI + Business",
+      "category": "ai-business",
+      "fetched_at": "2026-10-07T12:11:13.057067"
+    },
+    {
       "title": "2026 Climate Tech Companies to Watch",
       "url": "https://www.technologyreview.com/2026/10/06/1143800/2026-climate-tech-companies-to-watch/",
       "source": "MIT Technology Review - AI",
@@ -8,7 +78,7 @@
       "synopsis": "",
       "theme": "AI General",
       "category": "ai-business",
-      "fetched_at": "2026-10-06T12:19:08.219099"
+      "fetched_at": "2026-10-07T12:11:13.057086"
     },
     {
       "title": "Here’s how our climate team picked 10 promising companies to watch",
@@ -18,7 +88,7 @@
       "synopsis": "As the team at MIT Technology Review set out to choose companies for this year’s edition of our annual list of Climate Tech Companies to Watch, the challenge felt more daunting than any year since we started compiling the list in 2023.&#160; This year is shaping up to be one of the hottest ever reco",
       "theme": "AI + Higher Ed",
       "category": "ai-business",
-      "fetched_at": "2026-10-06T12:19:08.219128"
+      "fetched_at": "2026-10-07T12:11:13.057105"
     },
     {
       "title": "WeLion New Energy and its semi-solid-state batteries",
@@ -28,29 +98,9 @@
       "synopsis": "WeLion New Energy is on a quest to make safer, better batteries. The company’s semi-solid-state cells could improve safety and offer greater energy density than lithium-ion batteries to power electric cars, boats, and drones. From the EVs that carry commuters home to the ships that transport goods a",
       "theme": "AI General",
       "category": "ai-business",
-      "fetched_at": "2026-10-06T12:19:08.219150"
-    },
-    {
-      "title": "Form Energy and its iron batteries",
-      "url": "https://www.technologyreview.com/2026/10/06/1145020/2026-climate-tech-companies-to-watch-form-energy-iron-batteries/",
-      "source": "MIT Technology Review - AI",
-      "date": "Tue, 06 Oct 2026 10:35:00 +0000",
-      "synopsis": "Form Energy is building iron-based batteries that can store energy for multiple days. The company is ramping up supply at its factory and signing deals for commercial projects. New solar and wind installations produce electricity more affordably than fossil fuels in most places, but their output var",
-      "theme": "AI General",
-      "category": "ai-business",
-      "fetched_at": "2026-10-06T12:19:08.219168"
-    },
-    {
-      "title": "X-energy and its helium-cooled nuclear reactors",
-      "url": "https://www.technologyreview.com/2026/10/06/1145025/2026-climate-tech-companies-to-watch-x-energy-helium-cooled-nuclear-reactors/",
-      "source": "MIT Technology Review - AI",
-      "date": "Tue, 06 Oct 2026 10:35:00 +0000",
-      "synopsis": "X-energy is developing small modular reactors to satisfy some of the planet’s most power-hungry users: industrial manufacturers that need high temperatures to produce billions of tons of concrete, plastics, fibers, and chemicals. Solar panels and wind turbines are great at producing electricity but",
-      "theme": "AI General",
-      "category": "ai-business",
-      "fetched_at": "2026-10-06T12:19:08.219187"
+      "fetched_at": "2026-10-07T12:11:13.057125"
     }
   ],
-  "last_updated": "2026-10-06T12:19:09.286696",
-  "total_count": 5
+  "last_updated": "2026-10-07T12:11:17.740698",
+  "total_count": 10
 }
