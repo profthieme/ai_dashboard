@@ -1,16 +1,6 @@
 {
   "articles": [
     {
-      "title": "The Download: weight-loss drugs slowing aging and carbon dioxide batteries",
-      "url": "https://www.technologyreview.com/2026/10/07/1145895/the-download-weight-loss-drugs-slow-aging-carbon-dioxide-batteries/",
-      "source": "MIT Technology Review - AI",
-      "date": "Wed, 07 Oct 2026 12:10:00 +0000",
-      "synopsis": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Weight-loss drugs show signs of slowing biological aging, say drugmakers Popular weight-loss drugs may do more than help people shed pounds. They migh",
-      "theme": "AI + Business",
-      "category": "ai-business",
-      "fetched_at": "2026-10-08T12:21:09.667643"
-    },
-    {
       "title": "The Download: AI roadblocks for humanoids and portable rubber dams",
       "url": "https://www.technologyreview.com/2026/10/08/1146045/the-download-ai-roadblocks-humanoids-portable-rubber-dams/",
       "source": "MIT Technology Review - AI",
@@ -18,89 +8,99 @@
       "synopsis": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. AI breakthroughs in robotics won’t change your life any time soon The hype around humanoid robots is reaching fever pitch. Much of it comes from the i",
       "theme": "AI + Business",
       "category": "ai-business",
-      "fetched_at": "2026-10-08T12:21:09.667578"
+      "fetched_at": "2026-10-09T12:11:22.516328"
     },
     {
-      "title": "Why we’re watching these climate tech companies",
-      "url": "https://www.technologyreview.com/2026/10/08/1145920/climate-tech-companies-list/",
+      "title": "We’re putting too much faith in AI’s ability to say no",
+      "url": "https://www.technologyreview.com/2026/10/09/1145728/we-are-putting-too-much-faith-in-ai-to-say-no/",
       "source": "MIT Technology Review - AI",
-      "date": "Thu, 08 Oct 2026 10:00:00 +0000",
-      "synopsis": "This week, we released our 2026 version of our Climate Tech Companies to Watch list. It’s an annual project that the MIT Technology Review team puts together. Our goal is to highlight some of the promising, interesting advances and firms we think are worth paying attention to in the world of climate",
-      "theme": "AI + Higher Ed",
-      "category": "ai-business",
-      "fetched_at": "2026-10-08T12:21:09.667609"
-    },
-    {
-      "title": "AI breakthroughs in robotics won’t change your life any time soon",
-      "url": "https://www.technologyreview.com/2026/10/08/1145923/ai-breakthroughs-in-robotics-wont-change-your-life-any-time-soon/",
-      "source": "MIT Technology Review - AI",
-      "date": "Thu, 08 Oct 2026 09:00:00 +0000",
-      "synopsis": "The story is a collaboration between MIT Technology Review and Aventine, a non-profit research foundation that creates and supports content about how technology and science are changing the way we live. A robot shaped like a human—white with a black head and torso—has been popping up on video feeds.",
+      "date": "Fri, 09 Oct 2026 09:00:00 +0000",
+      "synopsis": "Ever since people first seriously contemplated giving machines an intelligence modeled on our own, there has never been any question that they would, like us, be able to say no. The sci-fi canon is full of stories of robotic disobedience. Most of these capers are, of course, cautionary.&#160; But re",
       "theme": "AI + Business",
       "category": "ai-business",
-      "fetched_at": "2026-10-08T12:21:09.667623"
+      "fetched_at": "2026-10-09T12:11:22.516256"
     },
     {
-      "title": "Building a safer path to autonomous industrial AI",
-      "url": "https://www.technologyreview.com/2026/10/08/1144020/building-a-safer-path-to-autonomous-industrial-ai/",
+      "title": "Job titles of the future: Delivery drone air traffic controller",
+      "url": "https://www.technologyreview.com/2026/10/09/1145737/job-titles-delivery-drone-air-traffic-controller-trevor-wischnewsky/",
       "source": "MIT Technology Review - AI",
-      "date": "Thu, 08 Oct 2026 08:17:32 +0000",
-      "synopsis": "Industrial AI is entering a new phase. After decades of predictive analytics and other specialized applications, advances in foundation models, physical AI, and agentic AI are making it possible to automate more complex tasks across industrial environments. But unlike AI that operates purely in the",
+      "date": "Fri, 09 Oct 2026 09:00:00 +0000",
+      "synopsis": "The moment Trevor Wischnewsky heard that drones were delivering pizza and sushi around his Texas neighborhood, his mind was made up. “It was super fascinating,” he says. “I just immediately wanted to be a part of it.” Wischnewsky is now an RPIC, or “remote pilot in command,” at a company called FlyT",
       "theme": "AI + Business",
       "category": "ai-business",
-      "fetched_at": "2026-10-08T12:21:09.667634"
+      "fetched_at": "2026-10-09T12:11:22.516277"
     },
     {
-      "title": "GAMEGO: Training Game-Dev Agents with Synthetic Trajectories Anchored in Real-World Assets",
-      "url": "https://arxiv.org/abs/2610.06910",
+      "title": "We’re still figuring out the side effects of GLP-1 weight-loss drugs",
+      "url": "https://www.technologyreview.com/2026/10/09/1146094/were-still-figuring-out-the-side-effects-of-glp-1-weight-loss-drugs/",
+      "source": "MIT Technology Review - AI",
+      "date": "Fri, 09 Oct 2026 09:00:00 +0000",
+      "synopsis": "This week my colleague Antonio Regalado had an interesting update on GLP-1 weight-loss drugs. According to research presented at an aging meeting in Boston, these drugs seem to affect at least some measures of biological age. Overweight and diabetic people who take GLP-1s have a biological age aroun",
+      "theme": "AI General",
+      "category": "ai-business",
+      "fetched_at": "2026-10-09T12:11:22.516304"
+    },
+    {
+      "title": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
+      "url": "https://www.technologyreview.com/2026/10/08/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/",
+      "source": "MIT Technology Review - AI",
+      "date": "Fri, 09 Oct 2026 00:08:24 +0000",
+      "synopsis": "Friday, October 16, 2026 Can AI design new life forms? In 2025, Stanford University PhD student Samuel King came up with a preliminary answer when he used a generative AI model to propose genetic blueprints for microscopic viruses. It isn’t yet an example of AI-generated life, but that could be next",
+      "theme": "AI + Business",
+      "category": "ai-business",
+      "fetched_at": "2026-10-09T12:11:22.516317"
+    },
+    {
+      "title": "An Explainable Header-Centric Framework for Large-Scale Semantic Table Interpretation and Data Quality Assessment",
+      "url": "https://arxiv.org/abs/2610.10541",
       "source": "ArXiv AI",
-      "date": "Thu, 08 Oct 2026 00:00:00 -0400",
-      "synopsis": "arXiv:2610.06910v1 Announce Type: new  Abstract: Recent advances in Large Language Models (LLMs) have demonstrated remarkable capabilities in web front-end execution, with browser-based game generation emerging as a particularly prominent frontier. While previous efforts frequently rely on complex m",
+      "date": "Fri, 09 Oct 2026 00:00:00 -0400",
+      "synopsis": "arXiv:2610.10541v1 Announce Type: new  Abstract: Knowledge Graph (KG) quality depends not only on downstream graph validation, but also on the quality of tabular metadata used before integration. In metadata-only Semantic Table Interpretation (STI), where cell values are unavailable, noisy, or unsui",
       "theme": "AI + Business",
       "category": "ai-tech",
-      "fetched_at": "2026-10-08T12:21:11.593388"
+      "fetched_at": "2026-10-09T12:11:24.121256"
     },
     {
-      "title": "Text2Dashboard: A Governed Agent Architecture for Natural-Language Dashboard Generation over Enterprise DataBrain",
-      "url": "https://arxiv.org/abs/2610.06914",
+      "title": "Synthesis Through Simulation: Generating Coherent Enterprise Data via Scalable Agent-System Interaction",
+      "url": "https://arxiv.org/abs/2610.10549",
       "source": "ArXiv AI",
-      "date": "Thu, 08 Oct 2026 00:00:00 -0400",
-      "synopsis": "arXiv:2610.06914v1 Announce Type: new  Abstract: Text2Dashboard is a DataBrain-specific prototype that turns natural-language analytic requests into inspectable dashboards. An installable Codex plugin and standalone Agent Runtime combine schema-constrained model decisions with typed tools, persisten",
+      "date": "Fri, 09 Oct 2026 00:00:00 -0400",
+      "synopsis": "arXiv:2610.10549v1 Announce Type: new  Abstract: Tool-calling agents have become central to enterprise AI, yet training and evaluating them at scale remains severely constrained due to business and legal restrictions on enterprise systems, data, and database schemas. Tabular data synthesis offers a",
       "theme": "AI + Business",
       "category": "ai-tech",
-      "fetched_at": "2026-10-08T12:21:11.593416"
+      "fetched_at": "2026-10-09T12:11:24.121275"
     },
     {
-      "title": "FluidPD: In-Place Elasticity for SLO-Aware Prefill-Decode Disaggregated LLM Serving",
-      "url": "https://arxiv.org/abs/2610.06917",
+      "title": "Agent-Controlled Forgetting for Tool-Using Agents: Reversible Context Curation in Practice",
+      "url": "https://arxiv.org/abs/2610.10590",
       "source": "ArXiv AI",
-      "date": "Thu, 08 Oct 2026 00:00:00 -0400",
-      "synopsis": "arXiv:2610.06917v1 Announce Type: new  Abstract: Prefill-decode disaggregation is becoming a common architecture for LLM serving because it separates two phases with distinct execution patterns and SLO objectives. Existing systems typically combine a fixed prefill/decode worker ratio with request ro",
-      "theme": "AI + Business",
-      "category": "ai-tech",
-      "fetched_at": "2026-10-08T12:21:11.593428"
-    },
-    {
-      "title": "Anchor Divergence for Semantic Geometry in Contrastive Learning",
-      "url": "https://arxiv.org/abs/2610.06919",
-      "source": "ArXiv AI",
-      "date": "Thu, 08 Oct 2026 00:00:00 -0400",
-      "synopsis": "arXiv:2610.06919v1 Announce Type: new  Abstract: This paper concerns how semantic context determines geometry in learned vector representations. Similarity is typically measured using cosine similarity, which provides a single fixed geometry. Semantic similarity, however, is inherently context depen",
+      "date": "Fri, 09 Oct 2026 00:00:00 -0400",
+      "synopsis": "arXiv:2610.10590v1 Announce Type: new  Abstract: Tool-using agents repeatedly carry observations whose useful content can be much smaller than their original payload. We study agent-controlled forgetting: the acting model selects previously observed tool results, replaces each with a short note at i",
       "theme": "AI General",
       "category": "ai-tech",
-      "fetched_at": "2026-10-08T12:21:11.593449"
+      "fetched_at": "2026-10-09T12:11:24.121298"
     },
     {
-      "title": "RadOnc-Agent: An LLM-Orchestrated Framework for AI Workflows Across the Radiotherapy Care Pathway",
-      "url": "https://arxiv.org/abs/2610.06923",
+      "title": "Verification and Self-Improvement in Agentic AI: Foundations and Limits",
+      "url": "https://arxiv.org/abs/2610.10611",
       "source": "ArXiv AI",
-      "date": "Thu, 08 Oct 2026 00:00:00 -0400",
-      "synopsis": "arXiv:2610.06923v1 Announce Type: new  Abstract: Artificial intelligence has advanced individual radiotherapy tasks, yet these capabilities remain separated across clinical stages, software environments and data modalities. This fragmentation contrasts with the longitudinal radiotherapy workflow fro",
+      "date": "Fri, 09 Oct 2026 00:00:00 -0400",
+      "synopsis": "arXiv:2610.10611v1 Announce Type: new  Abstract: Agentic AI systems can improve by searching longer, receiving additional support, or modifying how they propose and verify outputs. A performance score does not distinguish these mechanisms. We compare these changes through bounded verification with h",
       "theme": "AI + Business",
       "category": "ai-tech",
-      "fetched_at": "2026-10-08T12:21:11.593459"
+      "fetched_at": "2026-10-09T12:11:24.121307"
+    },
+    {
+      "title": "The Harness as the Only Mutable Surface: Compliance-Bounded Self-Evolution of LLM Agents in Credit Pipelines, with a Measured Admission Gate",
+      "url": "https://arxiv.org/abs/2610.10629",
+      "source": "ArXiv AI",
+      "date": "Fri, 09 Oct 2026 00:00:00 -0400",
+      "synopsis": "arXiv:2610.10629v1 Announce Type: new  Abstract: Self-improving LLM agents can adapt a credit pipeline to a changed rule, but an agent that rewrites itself destroys the artefact a supervisor reviews: a named change, a recorded test, an approval. We argue that self-evolution is reviewable only if it",
+      "theme": "AI + Business",
+      "category": "ai-tech",
+      "fetched_at": "2026-10-09T12:11:24.121317"
     }
   ],
-  "last_updated": "2026-10-08T12:21:11.630989",
+  "last_updated": "2026-10-09T12:11:24.228962",
   "total_count": 10
 }
