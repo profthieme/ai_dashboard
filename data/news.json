@@ -1,14 +1,14 @@
 {
   "articles": [
     {
-      "title": "The Download: AI roadblocks for humanoids and portable rubber dams",
-      "url": "https://www.technologyreview.com/2026/10/08/1146045/the-download-ai-roadblocks-humanoids-portable-rubber-dams/",
+      "title": "The Download: AI’s refusal problem and weight-loss drug side effects",
+      "url": "https://www.technologyreview.com/2026/10/09/1146250/the-download-ai-refusal-problem-weight-loss-drug-side-effects/",
       "source": "MIT Technology Review - AI",
-      "date": "Thu, 08 Oct 2026 12:10:00 +0000",
-      "synopsis": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. AI breakthroughs in robotics won’t change your life any time soon The hype around humanoid robots is reaching fever pitch. Much of it comes from the i",
+      "date": "Fri, 09 Oct 2026 12:10:00 +0000",
+      "synopsis": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. We’re putting too much faith in AI’s ability to say no Today’s AI models are trained to refuse a vast number of prompts. If you ask your chatbot how t",
       "theme": "AI + Business",
       "category": "ai-business",
-      "fetched_at": "2026-10-09T12:11:22.516328"
+      "fetched_at": "2026-10-10T11:28:43.986851"
     },
     {
       "title": "We’re putting too much faith in AI’s ability to say no",
@@ -18,7 +18,7 @@
       "synopsis": "Ever since people first seriously contemplated giving machines an intelligence modeled on our own, there has never been any question that they would, like us, be able to say no. The sci-fi canon is full of stories of robotic disobedience. Most of these capers are, of course, cautionary.&#160; But re",
       "theme": "AI + Business",
       "category": "ai-business",
-      "fetched_at": "2026-10-09T12:11:22.516256"
+      "fetched_at": "2026-10-10T11:28:43.986870"
     },
     {
       "title": "Job titles of the future: Delivery drone air traffic controller",
@@ -28,7 +28,7 @@
       "synopsis": "The moment Trevor Wischnewsky heard that drones were delivering pizza and sushi around his Texas neighborhood, his mind was made up. “It was super fascinating,” he says. “I just immediately wanted to be a part of it.” Wischnewsky is now an RPIC, or “remote pilot in command,” at a company called FlyT",
       "theme": "AI + Business",
       "category": "ai-business",
-      "fetched_at": "2026-10-09T12:11:22.516277"
+      "fetched_at": "2026-10-10T11:28:43.986884"
     },
     {
       "title": "We’re still figuring out the side effects of GLP-1 weight-loss drugs",
@@ -38,7 +38,7 @@
       "synopsis": "This week my colleague Antonio Regalado had an interesting update on GLP-1 weight-loss drugs. According to research presented at an aging meeting in Boston, these drugs seem to affect at least some measures of biological age. Overweight and diabetic people who take GLP-1s have a biological age aroun",
       "theme": "AI General",
       "category": "ai-business",
-      "fetched_at": "2026-10-09T12:11:22.516304"
+      "fetched_at": "2026-10-10T11:28:43.986909"
     },
     {
       "title": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
@@ -48,59 +48,9 @@
       "synopsis": "Friday, October 16, 2026 Can AI design new life forms? In 2025, Stanford University PhD student Samuel King came up with a preliminary answer when he used a generative AI model to propose genetic blueprints for microscopic viruses. It isn’t yet an example of AI-generated life, but that could be next",
       "theme": "AI + Business",
       "category": "ai-business",
-      "fetched_at": "2026-10-09T12:11:22.516317"
-    },
-    {
-      "title": "An Explainable Header-Centric Framework for Large-Scale Semantic Table Interpretation and Data Quality Assessment",
-      "url": "https://arxiv.org/abs/2610.10541",
-      "source": "ArXiv AI",
-      "date": "Fri, 09 Oct 2026 00:00:00 -0400",
-      "synopsis": "arXiv:2610.10541v1 Announce Type: new  Abstract: Knowledge Graph (KG) quality depends not only on downstream graph validation, but also on the quality of tabular metadata used before integration. In metadata-only Semantic Table Interpretation (STI), where cell values are unavailable, noisy, or unsui",
-      "theme": "AI + Business",
-      "category": "ai-tech",
-      "fetched_at": "2026-10-09T12:11:24.121256"
-    },
-    {
-      "title": "Synthesis Through Simulation: Generating Coherent Enterprise Data via Scalable Agent-System Interaction",
-      "url": "https://arxiv.org/abs/2610.10549",
-      "source": "ArXiv AI",
-      "date": "Fri, 09 Oct 2026 00:00:00 -0400",
-      "synopsis": "arXiv:2610.10549v1 Announce Type: new  Abstract: Tool-calling agents have become central to enterprise AI, yet training and evaluating them at scale remains severely constrained due to business and legal restrictions on enterprise systems, data, and database schemas. Tabular data synthesis offers a",
-      "theme": "AI + Business",
-      "category": "ai-tech",
-      "fetched_at": "2026-10-09T12:11:24.121275"
-    },
-    {
-      "title": "Agent-Controlled Forgetting for Tool-Using Agents: Reversible Context Curation in Practice",
-      "url": "https://arxiv.org/abs/2610.10590",
-      "source": "ArXiv AI",
-      "date": "Fri, 09 Oct 2026 00:00:00 -0400",
-      "synopsis": "arXiv:2610.10590v1 Announce Type: new  Abstract: Tool-using agents repeatedly carry observations whose useful content can be much smaller than their original payload. We study agent-controlled forgetting: the acting model selects previously observed tool results, replaces each with a short note at i",
-      "theme": "AI General",
-      "category": "ai-tech",
-      "fetched_at": "2026-10-09T12:11:24.121298"
-    },
-    {
-      "title": "Verification and Self-Improvement in Agentic AI: Foundations and Limits",
-      "url": "https://arxiv.org/abs/2610.10611",
-      "source": "ArXiv AI",
-      "date": "Fri, 09 Oct 2026 00:00:00 -0400",
-      "synopsis": "arXiv:2610.10611v1 Announce Type: new  Abstract: Agentic AI systems can improve by searching longer, receiving additional support, or modifying how they propose and verify outputs. A performance score does not distinguish these mechanisms. We compare these changes through bounded verification with h",
-      "theme": "AI + Business",
-      "category": "ai-tech",
-      "fetched_at": "2026-10-09T12:11:24.121307"
-    },
-    {
-      "title": "The Harness as the Only Mutable Surface: Compliance-Bounded Self-Evolution of LLM Agents in Credit Pipelines, with a Measured Admission Gate",
-      "url": "https://arxiv.org/abs/2610.10629",
-      "source": "ArXiv AI",
-      "date": "Fri, 09 Oct 2026 00:00:00 -0400",
-      "synopsis": "arXiv:2610.10629v1 Announce Type: new  Abstract: Self-improving LLM agents can adapt a credit pipeline to a changed rule, but an agent that rewrites itself destroys the artefact a supervisor reviews: a named change, a recorded test, an approval. We argue that self-evolution is reviewable only if it",
-      "theme": "AI + Business",
-      "category": "ai-tech",
-      "fetched_at": "2026-10-09T12:11:24.121317"
+      "fetched_at": "2026-10-10T11:28:43.986922"
     }
   ],
-  "last_updated": "2026-10-09T12:11:24.228962",
-  "total_count": 10
+  "last_updated": "2026-10-10T11:28:45.413138",
+  "total_count": 5
 }
