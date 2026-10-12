@@ -1,6 +1,86 @@
 {
   "articles": [
     {
+      "title": "The Download: moon city problems and drone traffic controllers",
+      "url": "https://www.technologyreview.com/2026/10/12/1146376/the-download-moon-city-drone-air-traffic-controllers/",
+      "source": "MIT Technology Review - AI",
+      "date": "Mon, 12 Oct 2026 12:10:00 +0000",
+      "synopsis": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Mars may be a hellhole, but the moon is not far behind The US and China are racing to build bases on the moon, with NASA hoping to establish a small&#",
+      "theme": "AI + Business",
+      "category": "ai-business",
+      "fetched_at": "2026-10-12T13:42:10.667258"
+    },
+    {
+      "title": "Mars may be a hellhole, but the moon is not far behind",
+      "url": "https://www.technologyreview.com/2026/10/12/1145760/imagining-building-cities-on-the-moon/",
+      "source": "MIT Technology Review - AI",
+      "date": "Mon, 12 Oct 2026 09:37:02 +0000",
+      "synopsis": "Welcome to the second space race. You can be forgiven for experiencing déjà vu. Last time, it was the Soviet Union and the United States vying to be the first to plant some flags. Now it’s a sprint to the lunar surface between America and China—alongside a host of varyingly friendly and rival nation",
+      "theme": "AI General",
+      "category": "ai-business",
+      "fetched_at": "2026-10-12T13:42:10.667302"
+    },
+    {
+      "title": "The ecologist revealing the invisible networks that revive rainforests",
+      "url": "https://www.technologyreview.com/2026/10/12/1145745/daisy-dent-ecologist-revealing-invisible-networks-revive-rainforests/",
+      "source": "MIT Technology Review - AI",
+      "date": "Mon, 12 Oct 2026 09:00:00 +0000",
+      "synopsis": "In a research station in central Panama, you can walk through a century of forest time, watching scrubby plots of adolescent trees give way to cathedral-­like canopies of mature growth. Forest ecologist Daisy Dent, a senior scientist at ETH Zurich, oversees this sequence of plots across the Barro Co",
+      "theme": "AI + Business",
+      "category": "ai-business",
+      "fetched_at": "2026-10-12T13:42:10.667317"
+    },
+    {
+      "title": "Faithfulness Without Anchors: A Position Paper on the Structural Misalignments of Explainable AI Faithfulness Metrics for Feature Importance",
+      "url": "https://arxiv.org/abs/2610.12493",
+      "source": "ArXiv AI",
+      "date": "Mon, 12 Oct 2026 00:00:00 -0400",
+      "synopsis": "arXiv:2610.12493v1 Announce Type: new  Abstract: Explainable Artificial Intelligence (XAI) tools have often been presented as methods to increase trust in machine learning models by making aspects of their algorithms more human-understandable. However, evidence accumulated over the last decade point",
+      "theme": "AI + Business",
+      "category": "ai-tech",
+      "fetched_at": "2026-10-12T13:42:12.413321"
+    },
+    {
+      "title": "EliteTable: Self-Improving Program Search for Executable Control Policies",
+      "url": "https://arxiv.org/abs/2610.12536",
+      "source": "ArXiv AI",
+      "date": "Mon, 12 Oct 2026 00:00:00 -0400",
+      "synopsis": "arXiv:2610.12536v1 Announce Type: new  Abstract: EliteTable is a self-improving program-search algorithm guided by large language models (LLMs) that uses a fixed-capacity table of high-scoring solutions to guide new proposals, edits of existing solutions, and remixes of several solutions. Performanc",
+      "theme": "AI + Business",
+      "category": "ai-tech",
+      "fetched_at": "2026-10-12T13:42:12.413341"
+    },
+    {
+      "title": "Equal-Budget Monte Carlo Tree Search versus Randomized-Restart List Scheduling for DAG Workflows: A Controlled Equal-Budget Computational Study",
+      "url": "https://arxiv.org/abs/2610.12542",
+      "source": "ArXiv AI",
+      "date": "Mon, 12 Oct 2026 00:00:00 -0400",
+      "synopsis": "arXiv:2610.12542v1 Announce Type: new  Abstract: Monte Carlo Tree Search (MCTS) is often proposed for scheduling directed-acyclic-graph (DAG) workflows, yet most studies never run the comparison that could refute it - giving a much simpler method the same search effort. We run that comparison under",
+      "theme": "AI General",
+      "category": "ai-tech",
+      "fetched_at": "2026-10-12T13:42:12.413363"
+    },
+    {
+      "title": "Know What You Don't Know: Agentic Data Synthesis by Evolving Generation Space for Closed-Loop Learning",
+      "url": "https://arxiv.org/abs/2610.12593",
+      "source": "ArXiv AI",
+      "date": "Mon, 12 Oct 2026 00:00:00 -0400",
+      "synopsis": "arXiv:2610.12593v1 Announce Type: new  Abstract: The continued improvement of large language models increasingly depends on synthetic experience, yet effective data synthesis for interactive agents requires not only executable and verifiable trajectories, but also interactions that provide learning",
+      "theme": "AI General",
+      "category": "ai-tech",
+      "fetched_at": "2026-10-12T13:42:12.413384"
+    },
+    {
+      "title": "SpireBench: Evaluating Long-Horizon Strategic Play of Agentic Models with Slay the Spire",
+      "url": "https://arxiv.org/abs/2610.12596",
+      "source": "ArXiv AI",
+      "date": "Mon, 12 Oct 2026 00:00:00 -0400",
+      "synopsis": "arXiv:2610.12596v1 Announce Type: new  Abstract: Agentic large language models now tackle complex tasks, yet strategic reasoning over long horizons is under-studied: most agentic benchmarks are short and episodic, and performance on long tasks is hard to dissect into stored knowledge, reasoning and",
+      "theme": "AI General",
+      "category": "ai-tech",
+      "fetched_at": "2026-10-12T13:42:12.413401"
+    },
+    {
       "title": "The Download: AI’s refusal problem and weight-loss drug side effects",
       "url": "https://www.technologyreview.com/2026/10/09/1146250/the-download-ai-refusal-problem-weight-loss-drug-side-effects/",
       "source": "MIT Technology Review - AI",
@@ -8,7 +88,7 @@
       "synopsis": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. We’re putting too much faith in AI’s ability to say no Today’s AI models are trained to refuse a vast number of prompts. If you ask your chatbot how t",
       "theme": "AI + Business",
       "category": "ai-business",
-      "fetched_at": "2026-10-11T11:42:15.262060"
+      "fetched_at": "2026-10-12T13:42:10.667330"
     },
     {
       "title": "We’re putting too much faith in AI’s ability to say no",
@@ -18,39 +98,9 @@
       "synopsis": "Ever since people first seriously contemplated giving machines an intelligence modeled on our own, there has never been any question that they would, like us, be able to say no. The sci-fi canon is full of stories of robotic disobedience. Most of these capers are, of course, cautionary.&#160; But re",
       "theme": "AI + Business",
       "category": "ai-business",
-      "fetched_at": "2026-10-11T11:42:15.262084"
-    },
-    {
-      "title": "Job titles of the future: Delivery drone air traffic controller",
-      "url": "https://www.technologyreview.com/2026/10/09/1145737/job-titles-delivery-drone-air-traffic-controller-trevor-wischnewsky/",
-      "source": "MIT Technology Review - AI",
-      "date": "Fri, 09 Oct 2026 09:00:00 +0000",
-      "synopsis": "The moment Trevor Wischnewsky heard that drones were delivering pizza and sushi around his Texas neighborhood, his mind was made up. “It was super fascinating,” he says. “I just immediately wanted to be a part of it.” Wischnewsky is now an RPIC, or “remote pilot in command,” at a company called FlyT",
-      "theme": "AI + Business",
-      "category": "ai-business",
-      "fetched_at": "2026-10-11T11:42:15.262097"
-    },
-    {
-      "title": "We’re still figuring out the side effects of GLP-1 weight-loss drugs",
-      "url": "https://www.technologyreview.com/2026/10/09/1146094/were-still-figuring-out-the-side-effects-of-glp-1-weight-loss-drugs/",
-      "source": "MIT Technology Review - AI",
-      "date": "Fri, 09 Oct 2026 09:00:00 +0000",
-      "synopsis": "This week my colleague Antonio Regalado had an interesting update on GLP-1 weight-loss drugs. According to research presented at an aging meeting in Boston, these drugs seem to affect at least some measures of biological age. Overweight and diabetic people who take GLP-1s have a biological age aroun",
-      "theme": "AI General",
-      "category": "ai-business",
-      "fetched_at": "2026-10-11T11:42:15.262125"
-    },
-    {
-      "title": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
-      "url": "https://www.technologyreview.com/2026/10/08/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/",
-      "source": "MIT Technology Review - AI",
-      "date": "Fri, 09 Oct 2026 00:08:24 +0000",
-      "synopsis": "Friday, October 16, 2026 Can AI design new life forms? In 2025, Stanford University PhD student Samuel King came up with a preliminary answer when he used a generative AI model to propose genetic blueprints for microscopic viruses. It isn’t yet an example of AI-generated life, but that could be next",
-      "theme": "AI + Business",
-      "category": "ai-business",
-      "fetched_at": "2026-10-11T11:42:15.262136"
+      "fetched_at": "2026-10-12T13:42:10.667342"
     }
   ],
-  "last_updated": "2026-10-11T11:42:17.213953",
-  "total_count": 5
+  "last_updated": "2026-10-12T13:42:12.519896",
+  "total_count": 10
 }
