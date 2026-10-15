@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "title": "The Download: faking blood and the future of batteries",
+      "url": "https://www.technologyreview.com/2026/10/14/1146452/the-download-military-fake-blood-future-batteries/",
+      "source": "MIT Technology Review - AI",
+      "date": "Wed, 14 Oct 2026 12:10:00 +0000",
+      "synopsis": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The US military’s race to make fake blood In February 2007, a US military helicopter carrying blood to a field hospital was shot down in Iraq, killing",
+      "theme": "AI + Business",
+      "category": "ai-business",
+      "fetched_at": "2026-10-15T10:27:11.402667"
+    },
+    {
       "title": "The US military’s race to make fake blood",
       "url": "https://www.technologyreview.com/2026/10/14/1145807/us-military-race-to-make-fake-blood/",
       "source": "MIT Technology Review - AI",
@@ -8,49 +18,89 @@
       "synopsis": "Its call sign was Morphine 1-2. &#160; In February 2007, the hulking dual-­rotor casualty evacuation helicopter had just flown three wounded soldiers to a field hospital in Balad, north of Baghdad, when another call came: an emergency mission to fly through an insurgent-controlled area in broad dayl",
       "theme": "AI General",
       "category": "ai-business",
-      "fetched_at": "2026-10-14T10:44:36.445475"
+      "fetched_at": "2026-10-15T10:27:11.402688"
     },
     {
-      "title": "The Download: open model trade-offs and geothermal power’s promise",
-      "url": "https://www.technologyreview.com/2026/10/13/1146382/the-download-open-models-trade-offs-geothermal-power/",
+      "title": "How much more can nuclear power plants give?",
+      "url": "https://www.technologyreview.com/2026/10/15/1146577/nuclear-power-upgrade/",
       "source": "MIT Technology Review - AI",
-      "date": "Tue, 13 Oct 2026 12:00:00 +0000",
-      "synopsis": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Open models have real benefits. Do they outweigh the risks? Anthropic recently released a report arguing that a powerful new model released by the Chi",
-      "theme": "AI + Business",
+      "date": "Thu, 15 Oct 2026 10:00:00 +0000",
+      "synopsis": "In this age of rising electricity demand, people are trying to squeeze every last bit of power out of every power plant possible. Over the past few weeks, there’s been big news about nuclear power plants trying to do just that. Constellation, the largest nuclear operator in the US, announced plans t",
+      "theme": "AI General",
       "category": "ai-business",
-      "fetched_at": "2026-10-14T10:44:36.445494"
+      "fetched_at": "2026-10-15T10:27:11.402616"
     },
     {
-      "title": "Open models have real benefits. Do they outweigh the risks?",
-      "url": "https://www.technologyreview.com/2026/10/13/1146366/open-models-have-real-benefits-do-they-outweigh-the-risks/",
+      "title": "Six wild ideas for perpetuating your mind",
+      "url": "https://www.technologyreview.com/2026/10/15/1145819/six-wild-ideas-perpetuating-your-mind-cognitive-immortality/",
       "source": "MIT Technology Review - AI",
-      "date": "Tue, 13 Oct 2026 10:00:00 +0000",
-      "synopsis": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of science and technology to help you understand what’s coming next. You can read more from the series here. Late last month, Anthropic released a report arguing that the model GLM-5.3 poses a major cyberattack risk. T",
+      "date": "Thu, 15 Oct 2026 09:00:00 +0000",
+      "synopsis": "Have you ever thought about what makes you you? Science assures us it has everything to do with the three-pound organ between our ears, with its billions of neurons and trillions of delicate connections. But it’s a lot trickier to explain why we have a sense of self-awareness or to pin down precisel",
       "theme": "AI + Business",
       "category": "ai-business",
-      "fetched_at": "2026-10-14T10:44:36.445504"
+      "fetched_at": "2026-10-15T10:27:11.402641"
     },
     {
-      "title": "AI labs are buying data from dead startups to train their models",
-      "url": "https://www.technologyreview.com/2026/10/13/1145755/ai-labs-buying-data-from-dead-startups-to-train-models/",
+      "title": "Pig kidneys that were “frozen” for a year have been brought back to life",
+      "url": "https://www.technologyreview.com/2026/10/15/1146091/pig-kidneys-that-were-frozen-for-a-year-have-been-brought-back-to-life/",
       "source": "MIT Technology Review - AI",
-      "date": "Tue, 13 Oct 2026 09:00:00 +0000",
-      "synopsis": "When Keelan Miskell began winding down his crypto startup this year, he didn’t think its data was worth much: the users were anonymous, the company just a few years old. But he’s since turned the firm’s digital archives into real money. He’s netted roughly $25,000 for his code base and a still-pendi",
+      "date": "Thu, 15 Oct 2026 08:43:24 +0000",
+      "synopsis": "Pig kidneys that were cooled to -150 °C and stored in a freezer for months have been successfully rewarmed and shown to work again for the first time, say scientists. They hope to replicate the findings with human organs. The kidneys—which are similar in size to human ones—were left in a glass-like",
       "theme": "AI + Business",
       "category": "ai-business",
-      "fetched_at": "2026-10-14T10:44:36.445511"
+      "fetched_at": "2026-10-15T10:27:11.402655"
     },
     {
-      "title": "The Download: moon city problems and drone traffic controllers",
-      "url": "https://www.technologyreview.com/2026/10/12/1146376/the-download-moon-city-drone-air-traffic-controllers/",
-      "source": "MIT Technology Review - AI",
-      "date": "Mon, 12 Oct 2026 12:10:00 +0000",
-      "synopsis": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Mars may be a hellhole, but the moon is not far behind The US and China are racing to build bases on the moon, with NASA hoping to establish a small&#",
+      "title": "Artificiality's First Exam: An LLM-Referenced C-test for Supraintelligence",
+      "url": "https://arxiv.org/abs/2610.14005",
+      "source": "ArXiv AI",
+      "date": "Thu, 15 Oct 2026 00:00:00 -0400",
+      "synopsis": "arXiv:2610.14005v1 Announce Type: new  Abstract: Under the accelerated pace of AI development, any benchmark whose difficulty is calibrated with humans or current AI systems becomes circular, or saturates soon. How can we then evaluate machines that may become more capable than the current machines",
       "theme": "AI + Business",
-      "category": "ai-business",
-      "fetched_at": "2026-10-14T10:44:36.445518"
+      "category": "ai-tech",
+      "fetched_at": "2026-10-15T10:27:13.748662"
+    },
+    {
+      "title": "The Silent Failures in Agentic Data Science",
+      "url": "https://arxiv.org/abs/2610.14115",
+      "source": "ArXiv AI",
+      "date": "Thu, 15 Oct 2026 00:00:00 -0400",
+      "synopsis": "arXiv:2610.14115v1 Announce Type: new  Abstract: Large language models have significantly lowered the barrier to writing code. Naturally, this has also led to the development of data science agents that promise automating the design and execution of data science from task formulation to model develo",
+      "theme": "AI + Business",
+      "category": "ai-tech",
+      "fetched_at": "2026-10-15T10:27:13.748681"
+    },
+    {
+      "title": "ClawLoop: Self-Improving Agents via Harness-Native Training Loop",
+      "url": "https://arxiv.org/abs/2610.14118",
+      "source": "ArXiv AI",
+      "date": "Thu, 15 Oct 2026 00:00:00 -0400",
+      "synopsis": "arXiv:2610.14118v1 Announce Type: new  Abstract: The rapid advancement of Large Language Models (LLMs) has driven their deployment toward general-purpose harness environments, where LLM-based agents operate in sandbox workspaces and interact directly with file systems and shells. While numerous post",
+      "theme": "AI + Business",
+      "category": "ai-tech",
+      "fetched_at": "2026-10-15T10:27:13.748691"
+    },
+    {
+      "title": "Correction Training for Diffusion Models",
+      "url": "https://arxiv.org/abs/2610.14136",
+      "source": "ArXiv AI",
+      "date": "Thu, 15 Oct 2026 00:00:00 -0400",
+      "synopsis": "arXiv:2610.14136v2 Announce Type: new  Abstract: Iterative sampling in diffusion models can lead to error accumulation due to exposure bias. The denoiser is trained on real images interpolated with noise, but at inference its inputs are constructed from its own imperfect predictions from the earlier",
+      "theme": "AI + Business",
+      "category": "ai-tech",
+      "fetched_at": "2026-10-15T10:27:13.748700"
+    },
+    {
+      "title": "Long-Horizon-Terminal-Bench 2.0: Automating Diverse Task Construction and Measuring Sustained Agent Progress",
+      "url": "https://arxiv.org/abs/2610.14146",
+      "source": "ArXiv AI",
+      "date": "Thu, 15 Oct 2026 00:00:00 -0400",
+      "synopsis": "arXiv:2610.14146v1 Announce Type: new  Abstract: Long-horizon terminal benchmarks measure whether an agent can sustain progress through extended workflows with process rewards, not only whether its final state passes a binary check. We present Long-Horizon-Terminal-Bench 2.0 (LHTB 2.0), an extension",
+      "theme": "AI + Business",
+      "category": "ai-tech",
+      "fetched_at": "2026-10-15T10:27:13.748708"
     }
   ],
-  "last_updated": "2026-10-14T10:44:38.877450",
-  "total_count": 5
+  "last_updated": "2026-10-15T10:27:13.858933",
+  "total_count": 10
 }
