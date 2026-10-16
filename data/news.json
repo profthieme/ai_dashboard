@@ -1,106 +1,106 @@
 {
   "articles": [
     {
-      "title": "The Download: faking blood and the future of batteries",
-      "url": "https://www.technologyreview.com/2026/10/14/1146452/the-download-military-fake-blood-future-batteries/",
+      "title": "The Download: reviving frozen pig kidneys and boosting nuclear power",
+      "url": "https://www.technologyreview.com/2026/10/15/1146755/the-download-reviving-frozen-pig-kidneys-boosting-nuclear-power/",
       "source": "MIT Technology Review - AI",
-      "date": "Wed, 14 Oct 2026 12:10:00 +0000",
-      "synopsis": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The US military’s race to make fake blood In February 2007, a US military helicopter carrying blood to a field hospital was shot down in Iraq, killing",
+      "date": "Thu, 15 Oct 2026 12:10:00 +0000",
+      "synopsis": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Pig kidneys that were “frozen” for a year have been brought back to life Pig kidneys that were cooled to -150 °C and stored in a freezer for months ha",
       "theme": "AI + Business",
       "category": "ai-business",
-      "fetched_at": "2026-10-15T10:27:11.402667"
+      "fetched_at": "2026-10-16T10:14:47.715066"
     },
     {
-      "title": "The US military’s race to make fake blood",
-      "url": "https://www.technologyreview.com/2026/10/14/1145807/us-military-race-to-make-fake-blood/",
+      "title": "This implant can restore sight for patients with macular degeneration",
+      "url": "https://www.technologyreview.com/2026/10/16/1145840/prima-implant-restores-sight-macular-degeneration-patients/",
       "source": "MIT Technology Review - AI",
-      "date": "Wed, 14 Oct 2026 09:00:00 +0000",
-      "synopsis": "Its call sign was Morphine 1-2. &#160; In February 2007, the hulking dual-­rotor casualty evacuation helicopter had just flown three wounded soldiers to a field hospital in Balad, north of Baghdad, when another call came: an emergency mission to fly through an insurgent-controlled area in broad dayl",
+      "date": "Fri, 16 Oct 2026 09:00:00 +0000",
+      "synopsis": "Age-related macular degeneration (AMD) affects more than 5 million people around the world. And until now, no treatment could restore their vision. The Prima system, which was approved in Europe in July and is awaiting FDA clearance in the US, changes that. It combines a retinal implant with camera-",
+      "theme": "AI + Business",
+      "category": "ai-business",
+      "fetched_at": "2026-10-16T10:14:47.715009"
+    },
+    {
+      "title": "Love is infrastructure",
+      "url": "https://www.technologyreview.com/2026/10/16/1145845/love-is-infrastructure-fiction-charlie-jane-anders/",
+      "source": "MIT Technology Review - AI",
+      "date": "Fri, 16 Oct 2026 09:00:00 +0000",
+      "synopsis": "I. Meet cute Barnabas and Mainspring grew up near at hand, about an hour apart with good traffic, but for a long time they weren’t close. They traded glimpses and occasional hellos and then went about their business. Both of them carried on livelier conversations with farther-flung neighbors, who we",
+      "theme": "AI + Business",
+      "category": "ai-business",
+      "fetched_at": "2026-10-16T10:14:47.715028"
+    },
+    {
+      "title": "Can’t bear to say goodbye to your pet? Biotech’s got you covered.",
+      "url": "https://www.technologyreview.com/2026/10/16/1146766/pet-biotech-longevity-cloning-cryonics/",
+      "source": "MIT Technology Review - AI",
+      "date": "Fri, 16 Oct 2026 09:00:00 +0000",
+      "synopsis": "I don’t remember much about Peppy, my first and only pet cat. I can conjure the sensation of stroking her while she purred, recall how she used to get stuck in trees (just like in cartoons!), and chuckle about the time she pooed in my baby sister’s cot. That’s about it. What I do vividly&#8230;",
       "theme": "AI General",
       "category": "ai-business",
-      "fetched_at": "2026-10-15T10:27:11.402688"
+      "fetched_at": "2026-10-16T10:14:47.715048"
     },
     {
-      "title": "How much more can nuclear power plants give?",
-      "url": "https://www.technologyreview.com/2026/10/15/1146577/nuclear-power-upgrade/",
+      "title": "Kids are outsmarting social media bans. That’s not a problem we need to solve.",
+      "url": "https://www.technologyreview.com/2026/10/16/1146834/kids-are-outsmarting-social-media-bans-thats-not-a-problem-we-need-to-solve/",
       "source": "MIT Technology Review - AI",
-      "date": "Thu, 15 Oct 2026 10:00:00 +0000",
-      "synopsis": "In this age of rising electricity demand, people are trying to squeeze every last bit of power out of every power plant possible. Over the past few weeks, there’s been big news about nuclear power plants trying to do just that. Constellation, the largest nuclear operator in the US, announced plans t",
+      "date": "Fri, 16 Oct 2026 07:56:32 +0000",
+      "synopsis": "Social media bans are stacking up. In July, France joined Australia in restricting minors from accessing social media—barring children under 15 from major platforms, before the ban was blocked by the country’s top court on human rights grounds. The UK aims to forbid kids under 16 from accessing Face",
+      "theme": "AI + Business",
+      "category": "ai-business",
+      "fetched_at": "2026-10-16T10:14:47.715058"
+    },
+    {
+      "title": "The World Won't Wait: Evaluating and Teaching Agents Under a Live Clock",
+      "url": "https://arxiv.org/abs/2610.20665",
+      "source": "ArXiv AI",
+      "date": "Fri, 16 Oct 2026 00:00:00 -0400",
+      "synopsis": "arXiv:2610.20665v1 Announce Type: new  Abstract: Large language model (LLM) agents can solve complex interactive tasks, yet reasoning and tool calls take time. In continuously changing environments, an otherwise correct action may arrive too late. We introduce RealtimeBench, with 180 tasks across si",
+      "theme": "AI + Business",
+      "category": "ai-tech",
+      "fetched_at": "2026-10-16T10:14:49.938427"
+    },
+    {
+      "title": "Evaluating Model Capabilities After Benchmark Saturation",
+      "url": "https://arxiv.org/abs/2610.20667",
+      "source": "ArXiv AI",
+      "date": "Fri, 16 Oct 2026 00:00:00 -0400",
+      "synopsis": "arXiv:2610.20667v1 Announce Type: new  Abstract: Rapid advances in AI capabilities are causing benchmarks to saturate. Once several models approach perfect scores, a benchmark loses its power to differentiate between them, and with it its utility for informing AI safety cases and frontier policies.",
+      "theme": "AI + Business",
+      "category": "ai-tech",
+      "fetched_at": "2026-10-16T10:14:49.938446"
+    },
+    {
+      "title": "Value-Informed Schedule Trimming for Accelerated Sequential Monte Carlo Guidance in Discrete Diffusion",
+      "url": "https://arxiv.org/abs/2610.20669",
+      "source": "ArXiv AI",
+      "date": "Fri, 16 Oct 2026 00:00:00 -0400",
+      "synopsis": "arXiv:2610.20669v1 Announce Type: new  Abstract: Reward-guided discrete diffusion enables test-time alignment with downstream objectives, but applying Sequential Monte Carlo (SMC) guidance at every denoising step is computationally expensive. Active guidance steps require additional reward evaluatio",
       "theme": "AI General",
-      "category": "ai-business",
-      "fetched_at": "2026-10-15T10:27:11.402616"
+      "category": "ai-tech",
+      "fetched_at": "2026-10-16T10:14:49.938468"
     },
     {
-      "title": "Six wild ideas for perpetuating your mind",
-      "url": "https://www.technologyreview.com/2026/10/15/1145819/six-wild-ideas-perpetuating-your-mind-cognitive-immortality/",
-      "source": "MIT Technology Review - AI",
-      "date": "Thu, 15 Oct 2026 09:00:00 +0000",
-      "synopsis": "Have you ever thought about what makes you you? Science assures us it has everything to do with the three-pound organ between our ears, with its billions of neurons and trillions of delicate connections. But it’s a lot trickier to explain why we have a sense of self-awareness or to pin down precisel",
-      "theme": "AI + Business",
-      "category": "ai-business",
-      "fetched_at": "2026-10-15T10:27:11.402641"
-    },
-    {
-      "title": "Pig kidneys that were “frozen” for a year have been brought back to life",
-      "url": "https://www.technologyreview.com/2026/10/15/1146091/pig-kidneys-that-were-frozen-for-a-year-have-been-brought-back-to-life/",
-      "source": "MIT Technology Review - AI",
-      "date": "Thu, 15 Oct 2026 08:43:24 +0000",
-      "synopsis": "Pig kidneys that were cooled to -150 °C and stored in a freezer for months have been successfully rewarmed and shown to work again for the first time, say scientists. They hope to replicate the findings with human organs. The kidneys—which are similar in size to human ones—were left in a glass-like",
-      "theme": "AI + Business",
-      "category": "ai-business",
-      "fetched_at": "2026-10-15T10:27:11.402655"
-    },
-    {
-      "title": "Artificiality's First Exam: An LLM-Referenced C-test for Supraintelligence",
-      "url": "https://arxiv.org/abs/2610.14005",
+      "title": "AlphaDiana: A Measurement System for Agents in Verifiable Reasoning Tasks",
+      "url": "https://arxiv.org/abs/2610.20675",
       "source": "ArXiv AI",
-      "date": "Thu, 15 Oct 2026 00:00:00 -0400",
-      "synopsis": "arXiv:2610.14005v1 Announce Type: new  Abstract: Under the accelerated pace of AI development, any benchmark whose difficulty is calibrated with humans or current AI systems becomes circular, or saturates soon. How can we then evaluate machines that may become more capable than the current machines",
+      "date": "Fri, 16 Oct 2026 00:00:00 -0400",
+      "synopsis": "arXiv:2610.20675v1 Announce Type: new  Abstract: Agents pair reasoning models with harnesses that organize model calls, execute tools, load skill instructions, and retain history in memory. Understanding agent performance requires linking execution conditions to outcomes, behavior, and resource use.",
       "theme": "AI + Business",
       "category": "ai-tech",
-      "fetched_at": "2026-10-15T10:27:13.748662"
+      "fetched_at": "2026-10-16T10:14:49.938475"
     },
     {
-      "title": "The Silent Failures in Agentic Data Science",
-      "url": "https://arxiv.org/abs/2610.14115",
+      "title": "When Correctness Feedback Erases Evidence: Phase-Separated Completeness Auditing in Verus",
+      "url": "https://arxiv.org/abs/2610.20676",
       "source": "ArXiv AI",
-      "date": "Thu, 15 Oct 2026 00:00:00 -0400",
-      "synopsis": "arXiv:2610.14115v1 Announce Type: new  Abstract: Large language models have significantly lowered the barrier to writing code. Naturally, this has also led to the development of data science agents that promise automating the design and execution of data science from task formulation to model develo",
-      "theme": "AI + Business",
+      "date": "Fri, 16 Oct 2026 00:00:00 -0400",
+      "synopsis": "arXiv:2610.20676v1 Announce Type: new  Abstract: Correctness feedback suppresses the very evidence that specification-completeness auditing is designed to uncover: programs that satisfy a written contract but violate intended behavior. We demonstrate this objective reversal on 12 Verus/Rust tasks ac",
+      "theme": "AI General",
       "category": "ai-tech",
-      "fetched_at": "2026-10-15T10:27:13.748681"
-    },
-    {
-      "title": "ClawLoop: Self-Improving Agents via Harness-Native Training Loop",
-      "url": "https://arxiv.org/abs/2610.14118",
-      "source": "ArXiv AI",
-      "date": "Thu, 15 Oct 2026 00:00:00 -0400",
-      "synopsis": "arXiv:2610.14118v1 Announce Type: new  Abstract: The rapid advancement of Large Language Models (LLMs) has driven their deployment toward general-purpose harness environments, where LLM-based agents operate in sandbox workspaces and interact directly with file systems and shells. While numerous post",
-      "theme": "AI + Business",
-      "category": "ai-tech",
-      "fetched_at": "2026-10-15T10:27:13.748691"
-    },
-    {
-      "title": "Correction Training for Diffusion Models",
-      "url": "https://arxiv.org/abs/2610.14136",
-      "source": "ArXiv AI",
-      "date": "Thu, 15 Oct 2026 00:00:00 -0400",
-      "synopsis": "arXiv:2610.14136v2 Announce Type: new  Abstract: Iterative sampling in diffusion models can lead to error accumulation due to exposure bias. The denoiser is trained on real images interpolated with noise, but at inference its inputs are constructed from its own imperfect predictions from the earlier",
-      "theme": "AI + Business",
-      "category": "ai-tech",
-      "fetched_at": "2026-10-15T10:27:13.748700"
-    },
-    {
-      "title": "Long-Horizon-Terminal-Bench 2.0: Automating Diverse Task Construction and Measuring Sustained Agent Progress",
-      "url": "https://arxiv.org/abs/2610.14146",
-      "source": "ArXiv AI",
-      "date": "Thu, 15 Oct 2026 00:00:00 -0400",
-      "synopsis": "arXiv:2610.14146v1 Announce Type: new  Abstract: Long-horizon terminal benchmarks measure whether an agent can sustain progress through extended workflows with process rewards, not only whether its final state passes a binary check. We present Long-Horizon-Terminal-Bench 2.0 (LHTB 2.0), an extension",
-      "theme": "AI + Business",
-      "category": "ai-tech",
-      "fetched_at": "2026-10-15T10:27:13.748708"
+      "fetched_at": "2026-10-16T10:14:49.938489"
     }
   ],
-  "last_updated": "2026-10-15T10:27:13.858933",
+  "last_updated": "2026-10-16T10:14:50.063420",
   "total_count": 10
 }
