@@ -1,24 +1,34 @@
 {
   "articles": [
     {
-      "title": "The Download: reviving frozen pig kidneys and boosting nuclear power",
-      "url": "https://www.technologyreview.com/2026/10/15/1146755/the-download-reviving-frozen-pig-kidneys-boosting-nuclear-power/",
+      "title": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
+      "url": "https://www.technologyreview.com/2026/10/16/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/",
       "source": "MIT Technology Review - AI",
-      "date": "Thu, 15 Oct 2026 12:10:00 +0000",
-      "synopsis": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Pig kidneys that were “frozen” for a year have been brought back to life Pig kidneys that were cooled to -150 °C and stored in a freezer for months ha",
+      "date": "Fri, 16 Oct 2026 18:00:00 +0000",
+      "synopsis": "Listen to the session or watch below Can AI design new life forms? In 2025, Stanford University PhD student Samuel King came up with a preliminary answer when he used a generative AI model to propose genetic blueprints for microscopic viruses. It isn’t yet an example of AI-generated life, but that c",
       "theme": "AI + Business",
       "category": "ai-business",
-      "fetched_at": "2026-10-16T10:14:47.715066"
+      "fetched_at": "2026-10-17T09:48:47.114975"
+    },
+    {
+      "title": "The Download: failed social media bans, and extending pets’ lives",
+      "url": "https://www.technologyreview.com/2026/10/16/1146864/the-download-failed-social-media-bans-and-extending-pets-lives/",
+      "source": "MIT Technology Review - AI",
+      "date": "Fri, 16 Oct 2026 12:10:00 +0000",
+      "synopsis": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Kids are outsmarting social media bans. That’s not a problem we need to solve.   —Michal Luria, Aliya Bhatia, and Danah Boyd Social media bans are sta",
+      "theme": "AI + Business",
+      "category": "ai-business",
+      "fetched_at": "2026-10-17T09:48:47.114997"
     },
     {
       "title": "This implant can restore sight for patients with macular degeneration",
       "url": "https://www.technologyreview.com/2026/10/16/1145840/prima-implant-restores-sight-macular-degeneration-patients/",
       "source": "MIT Technology Review - AI",
       "date": "Fri, 16 Oct 2026 09:00:00 +0000",
-      "synopsis": "Age-related macular degeneration (AMD) affects more than 5 million people around the world. And until now, no treatment could restore their vision. The Prima system, which was approved in Europe in July and is awaiting FDA clearance in the US, changes that. It combines a retinal implant with camera-",
+      "synopsis": "More than 5 million people around the world with age-related macular degeneration (AMD) experience atrophy in their retinas. And until now, no treatment could restore their vision. The PRIMA system, which was approved in Europe in July and is awaiting FDA clearance in the US, changes that. It combin",
       "theme": "AI + Business",
       "category": "ai-business",
-      "fetched_at": "2026-10-16T10:14:47.715009"
+      "fetched_at": "2026-10-17T09:48:47.115009"
     },
     {
       "title": "Love is infrastructure",
@@ -28,7 +38,7 @@
       "synopsis": "I. Meet cute Barnabas and Mainspring grew up near at hand, about an hour apart with good traffic, but for a long time they weren’t close. They traded glimpses and occasional hellos and then went about their business. Both of them carried on livelier conversations with farther-flung neighbors, who we",
       "theme": "AI + Business",
       "category": "ai-business",
-      "fetched_at": "2026-10-16T10:14:47.715028"
+      "fetched_at": "2026-10-17T09:48:47.115021"
     },
     {
       "title": "Can’t bear to say goodbye to your pet? Biotech’s got you covered.",
@@ -38,69 +48,9 @@
       "synopsis": "I don’t remember much about Peppy, my first and only pet cat. I can conjure the sensation of stroking her while she purred, recall how she used to get stuck in trees (just like in cartoons!), and chuckle about the time she pooed in my baby sister’s cot. That’s about it. What I do vividly&#8230;",
       "theme": "AI General",
       "category": "ai-business",
-      "fetched_at": "2026-10-16T10:14:47.715048"
-    },
-    {
-      "title": "Kids are outsmarting social media bans. That’s not a problem we need to solve.",
-      "url": "https://www.technologyreview.com/2026/10/16/1146834/kids-are-outsmarting-social-media-bans-thats-not-a-problem-we-need-to-solve/",
-      "source": "MIT Technology Review - AI",
-      "date": "Fri, 16 Oct 2026 07:56:32 +0000",
-      "synopsis": "Social media bans are stacking up. In July, France joined Australia in restricting minors from accessing social media—barring children under 15 from major platforms, before the ban was blocked by the country’s top court on human rights grounds. The UK aims to forbid kids under 16 from accessing Face",
-      "theme": "AI + Business",
-      "category": "ai-business",
-      "fetched_at": "2026-10-16T10:14:47.715058"
-    },
-    {
-      "title": "The World Won't Wait: Evaluating and Teaching Agents Under a Live Clock",
-      "url": "https://arxiv.org/abs/2610.20665",
-      "source": "ArXiv AI",
-      "date": "Fri, 16 Oct 2026 00:00:00 -0400",
-      "synopsis": "arXiv:2610.20665v1 Announce Type: new  Abstract: Large language model (LLM) agents can solve complex interactive tasks, yet reasoning and tool calls take time. In continuously changing environments, an otherwise correct action may arrive too late. We introduce RealtimeBench, with 180 tasks across si",
-      "theme": "AI + Business",
-      "category": "ai-tech",
-      "fetched_at": "2026-10-16T10:14:49.938427"
-    },
-    {
-      "title": "Evaluating Model Capabilities After Benchmark Saturation",
-      "url": "https://arxiv.org/abs/2610.20667",
-      "source": "ArXiv AI",
-      "date": "Fri, 16 Oct 2026 00:00:00 -0400",
-      "synopsis": "arXiv:2610.20667v1 Announce Type: new  Abstract: Rapid advances in AI capabilities are causing benchmarks to saturate. Once several models approach perfect scores, a benchmark loses its power to differentiate between them, and with it its utility for informing AI safety cases and frontier policies.",
-      "theme": "AI + Business",
-      "category": "ai-tech",
-      "fetched_at": "2026-10-16T10:14:49.938446"
-    },
-    {
-      "title": "Value-Informed Schedule Trimming for Accelerated Sequential Monte Carlo Guidance in Discrete Diffusion",
-      "url": "https://arxiv.org/abs/2610.20669",
-      "source": "ArXiv AI",
-      "date": "Fri, 16 Oct 2026 00:00:00 -0400",
-      "synopsis": "arXiv:2610.20669v1 Announce Type: new  Abstract: Reward-guided discrete diffusion enables test-time alignment with downstream objectives, but applying Sequential Monte Carlo (SMC) guidance at every denoising step is computationally expensive. Active guidance steps require additional reward evaluatio",
-      "theme": "AI General",
-      "category": "ai-tech",
-      "fetched_at": "2026-10-16T10:14:49.938468"
-    },
-    {
-      "title": "AlphaDiana: A Measurement System for Agents in Verifiable Reasoning Tasks",
-      "url": "https://arxiv.org/abs/2610.20675",
-      "source": "ArXiv AI",
-      "date": "Fri, 16 Oct 2026 00:00:00 -0400",
-      "synopsis": "arXiv:2610.20675v1 Announce Type: new  Abstract: Agents pair reasoning models with harnesses that organize model calls, execute tools, load skill instructions, and retain history in memory. Understanding agent performance requires linking execution conditions to outcomes, behavior, and resource use.",
-      "theme": "AI + Business",
-      "category": "ai-tech",
-      "fetched_at": "2026-10-16T10:14:49.938475"
-    },
-    {
-      "title": "When Correctness Feedback Erases Evidence: Phase-Separated Completeness Auditing in Verus",
-      "url": "https://arxiv.org/abs/2610.20676",
-      "source": "ArXiv AI",
-      "date": "Fri, 16 Oct 2026 00:00:00 -0400",
-      "synopsis": "arXiv:2610.20676v1 Announce Type: new  Abstract: Correctness feedback suppresses the very evidence that specification-completeness auditing is designed to uncover: programs that satisfy a written contract but violate intended behavior. We demonstrate this objective reversal on 12 Verus/Rust tasks ac",
-      "theme": "AI General",
-      "category": "ai-tech",
-      "fetched_at": "2026-10-16T10:14:49.938489"
+      "fetched_at": "2026-10-17T09:48:47.115047"
     }
   ],
-  "last_updated": "2026-10-16T10:14:50.063420",
-  "total_count": 10
+  "last_updated": "2026-10-17T09:48:48.375343",
+  "total_count": 5
 }
