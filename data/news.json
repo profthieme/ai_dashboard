@@ -1,56 +1,106 @@
 {
   "articles": [
     {
-      "title": "How to study a swiftly melting climate disaster",
-      "url": "https://www.technologyreview.com/2026/10/20/1147135/how-to-study-a-swiftly-melting-climate-disaster/",
+      "title": "We can do impossible things",
+      "url": "https://www.technologyreview.com/2026/10/21/1146053/editor-letter-we-can-do-impossible-things/",
       "source": "MIT Technology Review - AI",
-      "date": "Tue, 20 Oct 2026 10:00:00 +0000",
-      "synopsis": "Andrew Haverdink, a tall grad student in a rain bib and rubber boots, wrenched a double-handed drill from the frozen soil that underlies much of Alaska’s Denali National Park and then unclipped the hollow barrel from the end of the bit.&#160; He knelt in front of a blue tarp, lined the barrel up wit",
-      "theme": "AI + Business",
+      "date": "Wed, 21 Oct 2026 09:00:00 +0000",
+      "synopsis": "I’d wager everyone has a rehearsed response to what’s absolutely one of the world’s worst interview questions: “What’s your biggest weakness?” Whenever I’ve gotten it, I take a slow—even pensive—breath and rattle off my line: “I say no to myself too much.”&#160; I won’t lie. It’s a bit shameless—a d",
+      "theme": "AI General",
       "category": "ai-business",
-      "fetched_at": "2026-10-20T10:31:18.162688"
+      "fetched_at": "2026-10-21T10:43:25.566129"
     },
     {
-      "title": "A visit to Samsung’s massive new semiconductor hub",
-      "url": "https://www.technologyreview.com/2026/10/20/1145916/dispatch-visit-to-samsung-massive-new-semiconductor-hub/",
+      "title": "Nuclear-powered spaceships",
+      "url": "https://www.technologyreview.com/2026/10/21/1146061/nuclear-powered-spaceships-impossible-issue/",
       "source": "MIT Technology Review - AI",
-      "date": "Tue, 20 Oct 2026 09:00:00 +0000",
-      "synopsis": "Generative AI models run on powerful chips known as GPUs, which depend on stacks of specialized memory chips packaged with the processor. To meet growing demand for memory, Samsung is building a massive new semiconductor manufacturing complex in Pyeongtaek, South Korea. Three fabs already operate ar",
-      "theme": "AI + Business",
+      "date": "Wed, 21 Oct 2026 09:00:00 +0000",
+      "synopsis": "Just before the Artemis II crew began its historic slingshot around the moon this past April, NASA announced plans to build Space Reactor-1 Freedom. SR-1, the first-ever nuclear-reactor-­powered interplanetary spacecraft, is meant to fly an uncrewed mission to Mars by the end of 2028, arriving in 20",
+      "theme": "AI General",
       "category": "ai-business",
-      "fetched_at": "2026-10-20T10:31:18.162709"
+      "fetched_at": "2026-10-21T10:43:25.566156"
     },
     {
-      "title": "These startups hope “blended” food will cut our appetite for red meat",
-      "url": "https://www.technologyreview.com/2026/10/20/1145927/blended-meat-food-startups-building-bridge-to-ditch-red-meat/",
+      "title": "Exercise in a pill",
+      "url": "https://www.technologyreview.com/2026/10/21/1146121/exercise-in-a-pill-impossible-issue/",
       "source": "MIT Technology Review - AI",
-      "date": "Tue, 20 Oct 2026 09:00:00 +0000",
-      "synopsis": "In the fall of 2025, Jeff Dodge set up a six-foot folding table in the cafeteria of Cane Bay High School in Summerville, South Carolina, to conduct a taste test. When the first rush of about 150 hungry students hit, he was waiting with slow cookers filled with steaming marinara sauce and meatballs.&",
-      "theme": "AI + Business",
+      "date": "Wed, 21 Oct 2026 09:00:00 +0000",
+      "synopsis": "We all know exercise is good for us. It builds muscle, strengthens bones, lowers blood pressure, and boosts mood. By deciphering how movement benefits the body, researchers hope to develop medicines that can offer some of the same perks—without the workout. The idea isn’t to replace exercise but to",
+      "theme": "AI General",
       "category": "ai-business",
-      "fetched_at": "2026-10-20T10:31:18.162722"
+      "fetched_at": "2026-10-21T10:43:25.566177"
     },
     {
-      "title": "Making the internet better for AI agents might make it worse for everyone else",
-      "url": "https://www.technologyreview.com/2026/10/19/1147186/making-the-internet-better-for-ai-agents-might-make-it-worse-for-everyone-else/",
+      "title": "Interspecies communication",
+      "url": "https://www.technologyreview.com/2026/10/21/1146124/interspecies-communication-impossible-issue/",
       "source": "MIT Technology Review - AI",
-      "date": "Mon, 19 Oct 2026 18:22:47 +0000",
-      "synopsis": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&#160;sign up here. Until recently, you could divide internet users into just two categories: bots and people. Websites have long allowed bots to perform automated tasks, like c",
-      "theme": "AI + Business",
+      "date": "Wed, 21 Oct 2026 09:00:00 +0000",
+      "synopsis": "Humans are far from the only species with a gift for gab, and our furry, feathered, and finned friends could have a lot to tell us. Decoding how animals communicate with one another could offer a window into the inner lives of other species and help humans realize that “animals are sentient creature",
+      "theme": "AI General",
       "category": "ai-business",
-      "fetched_at": "2026-10-20T10:31:18.162731"
+      "fetched_at": "2026-10-21T10:43:25.566197"
     },
     {
-      "title": "“We were looking at it wrong”: The explosive claim that’s upended the AI world",
-      "url": "https://www.technologyreview.com/2026/10/19/1147149/we-were-looking-at-it-wrong-the-explosive-claim-thats-upended-the-ai-world/",
+      "title": "Cleaning up PFAS",
+      "url": "https://www.technologyreview.com/2026/10/21/1146128/cleaning-up-pfas-impossible-issue/",
       "source": "MIT Technology Review - AI",
-      "date": "Mon, 19 Oct 2026 17:45:55 +0000",
-      "synopsis": "“I think I have good news about the nature of neural networks.” With those simple words of optimism, Nick Cammarata, a researcher at the AI startup Goodfire, kicked off a 26,000-word blog post that has knocked the AI world on its head, sparking wild speculation as well as cautious (and not-so-cautio",
-      "theme": "AI + Business",
+      "date": "Wed, 21 Oct 2026 09:00:00 +0000",
+      "synopsis": "Scrubbing Earth of per- and polyfluoroalkyl substances—a.k.a. PFAS or forever chemicals—could eliminate a list of woes for people and planet. Used for decades in everything from nonstick pans to firefighting foams, PFAS have been linked to increased risks of fertility challenges, developmental delay",
+      "theme": "AI General",
       "category": "ai-business",
-      "fetched_at": "2026-10-20T10:31:18.162742"
+      "fetched_at": "2026-10-21T10:43:25.566216"
+    },
+    {
+      "title": "Navalia: Advancing Cowork Agents through Verifiable Task Synthesis and Long-Horizon Post-Training",
+      "url": "https://arxiv.org/abs/2610.26887",
+      "source": "ArXiv AI",
+      "date": "Wed, 21 Oct 2026 00:00:00 -0400",
+      "synopsis": "arXiv:2610.26887v1 Announce Type: new  Abstract: Large language model (LLM) agents are evolving from conversational assistants into Cowork Agents capable of autonomous planning, tool use, and complex task execution. Financial analysis requires these agents to integrate cross-document evidence and pe",
+      "theme": "AI + Business",
+      "category": "ai-tech",
+      "fetched_at": "2026-10-21T10:43:27.099619"
+    },
+    {
+      "title": "Large language model and reinforcement learning based autonomous construction and progress updates",
+      "url": "https://arxiv.org/abs/2610.26899",
+      "source": "ArXiv AI",
+      "date": "Wed, 21 Oct 2026 00:00:00 -0400",
+      "synopsis": "arXiv:2610.26899v1 Announce Type: new  Abstract: Due to the rapid growth of the global population, traditional construction methods are gradually unable to meet the current housing demand. The advancement of machine learning algorithms has encouraged researchers to explore their applications in the",
+      "theme": "AI + Business",
+      "category": "ai-tech",
+      "fetched_at": "2026-10-21T10:43:27.099665"
+    },
+    {
+      "title": "Pareto-Optimal RTL Code Generation via Multi-Objective Reinforcement Learning with Large Language Models",
+      "url": "https://arxiv.org/abs/2610.26904",
+      "source": "ArXiv AI",
+      "date": "Wed, 21 Oct 2026 00:00:00 -0400",
+      "synopsis": "arXiv:2610.26904v1 Announce Type: new  Abstract: Recent studies have proposed reinforcement learning with verifiable rewards (RLVR) methods that enable LLMs to generate high-quality RTL circuits from natural-language specifications. Existing approaches optimize circuit PPA (Power, Performance, Area)",
+      "theme": "AI + Business",
+      "category": "ai-tech",
+      "fetched_at": "2026-10-21T10:43:27.099678"
+    },
+    {
+      "title": "MedPAO-Assist: Edge-Deployable, Modality-Aware Agentic AI for Radiology Report Structuring",
+      "url": "https://arxiv.org/abs/2610.26913",
+      "source": "ArXiv AI",
+      "date": "Wed, 21 Oct 2026 00:00:00 -0400",
+      "synopsis": "arXiv:2610.26913v1 Announce Type: new  Abstract: The adoption of Large Language Models for radiology report structuring has been largely dominated by either proprietary cloud-based models or large open models requiring high-end GPUs for deployment, which is a critical bottleneck for clinical adoptio",
+      "theme": "AI + Business",
+      "category": "ai-tech",
+      "fetched_at": "2026-10-21T10:43:27.099687"
+    },
+    {
+      "title": "DataPraxis: Scaling Analytics Tasks via Verified Workspace Evolution",
+      "url": "https://arxiv.org/abs/2610.26924",
+      "source": "ArXiv AI",
+      "date": "Wed, 21 Oct 2026 00:00:00 -0400",
+      "synopsis": "arXiv:2610.26924v1 Announce Type: new  Abstract: General-purpose agents are increasingly expected to perform professional analytics work, which requires sustained reasoning, iterative investigation, and reliable evidence. Training these capabilities requires diverse and challenging tasks. However, g",
+      "theme": "AI + Business",
+      "category": "ai-tech",
+      "fetched_at": "2026-10-21T10:43:27.099696"
     }
   ],
-  "last_updated": "2026-10-20T10:31:19.794112",
-  "total_count": 5
+  "last_updated": "2026-10-21T10:43:27.135843",
+  "total_count": 10
 }
