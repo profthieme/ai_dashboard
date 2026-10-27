@@ -1,84 +1,94 @@
 {
   "articles": [
     {
-      "title": "Designing an AI serving harness built to last",
-      "url": "https://www.technologyreview.com/2026/10/22/1146109/designing-an-ai-serving-harness-built-to-last/",
+      "title": "How solid-state transformers could help power the AI boom",
+      "url": "https://www.technologyreview.com/2026/10/27/1147684/solid-state-transformers/",
       "source": "MIT Technology Review - AI",
-      "date": "Thu, 22 Oct 2026 21:17:29 +0000",
-      "synopsis": "The next competitive advantage in enterprise AI has less to do with which model you choose than with what you build around it. That’s an important shift. For the past several years, much of the AI conversation has centered on model capability: bigger models, better reasoning, larger context windows,",
+      "date": "Tue, 27 Oct 2026 09:00:00 +0000",
+      "synopsis": "Transformers are a crucial but nearly invisible part of our grid. The devices help efficiently move power across long distances, but they’re complicated and in short supply. And given that their basic design hasn’t changed much for about a century, they could use an upgrade.&#160; As the world races",
       "theme": "AI + Business",
       "category": "ai-business",
-      "fetched_at": "2026-10-26T11:42:08.027442"
+      "fetched_at": "2026-10-27T11:09:51.505773"
     },
     {
-      "title": "The Foundations of Scalable AI",
-      "url": "https://www.technologyreview.com/2026/10/22/1146103/the-foundations-of-scalable-ai/",
+      "title": "Inverse Modeling for Laser Pulse Shape Design in Inertial Confinement Fusion",
+      "url": "https://arxiv.org/abs/2610.33096",
+      "source": "ArXiv AI",
+      "date": "Tue, 27 Oct 2026 00:00:00 -0400",
+      "synopsis": "arXiv:2610.33096v1 Announce Type: new  Abstract: The achievement of practical fusion energy remains one of the most pressing unsolved scientific challenges, with immense implications for carbon-free power. A critical factor in the success of Inertial Confinement Fusion (ICF) is the design of a Laser",
+      "theme": "AI + Business",
+      "category": "ai-tech",
+      "fetched_at": "2026-10-27T11:09:53.421061"
+    },
+    {
+      "title": "IRON-Meme: A Benchmark for Structured Understanding of Identities and Roles in Online Meme Narratives",
+      "url": "https://arxiv.org/abs/2610.33097",
+      "source": "ArXiv AI",
+      "date": "Tue, 27 Oct 2026 00:00:00 -0400",
+      "synopsis": "arXiv:2610.33097v1 Announce Type: new  Abstract: As polarization grows on social media, understanding how political memes shape online narratives has become increasingly important. Previous research has relied on either qualitative frameworks that are hard to scale or computational methods that lack",
+      "theme": "AI General",
+      "category": "ai-tech",
+      "fetched_at": "2026-10-27T11:09:53.421097"
+    },
+    {
+      "title": "Prospect Theory in Large Language Models: A Meta-Analysis of Loss Aversion, Diminishing Sensitivity, and Probability Weighting",
+      "url": "https://arxiv.org/abs/2610.33103",
+      "source": "ArXiv AI",
+      "date": "Tue, 27 Oct 2026 00:00:00 -0400",
+      "synopsis": "arXiv:2610.33103v1 Announce Type: new  Abstract: Prospect theory splits risky choice into three parts: loss aversion, measured by the relative weight of losses to gains, $\\lambda$ (e.g., $\\lambda = 2$ implies that losses weigh twice as much as gains), diminishing sensitivity to the size of outcomes",
+      "theme": "AI + Business",
+      "category": "ai-tech",
+      "fetched_at": "2026-10-27T11:09:53.421109"
+    },
+    {
+      "title": "Artificial Intelligence in Mechanical Engineering: Foundations, Opportunities, Challenges, and Responsibilities",
+      "url": "https://arxiv.org/abs/2610.33105",
+      "source": "ArXiv AI",
+      "date": "Tue, 27 Oct 2026 00:00:00 -0400",
+      "synopsis": "arXiv:2610.33105v1 Announce Type: new  Abstract: Artificial intelligence (AI) is reshaping mechanical engineering (ME), from modeling, simulation, and optimization to diagnostics, design, and technical communication. Drawing on a round-table at the 28th ABCM International Congress on Mechanical Engi",
+      "theme": "AI + Business",
+      "category": "ai-tech",
+      "fetched_at": "2026-10-27T11:09:53.421118"
+    },
+    {
+      "title": "Conformance as a Distribution: Delegation Contracts, Error Budgets, and the Allocation of Evaluation Authority in Use-Based AI Regulation",
+      "url": "https://arxiv.org/abs/2610.33112",
+      "source": "ArXiv AI",
+      "date": "Tue, 27 Oct 2026 00:00:00 -0400",
+      "synopsis": "arXiv:2610.33112v1 Announce Type: new  Abstract: Use-based AI regulation assigns obligations by deployment risk but lacks an evidentiary object to carry them. A benchmark score is a property of a model; conformance of a deployment is a failure rate under a declared distribution of contexts, bounded",
+      "theme": "AI + Business",
+      "category": "ai-tech",
+      "fetched_at": "2026-10-27T11:09:53.421127"
+    },
+    {
+      "title": "Will the real Anthropic please stand up",
+      "url": "https://www.technologyreview.com/2026/10/26/1147672/will-the-real-anthropic-please-stand-up/",
       "source": "MIT Technology Review - AI",
-      "date": "Thu, 22 Oct 2026 18:48:04 +0000",
-      "synopsis": "A scalable AI system requires a strong foundation. Data, engineering, platforms, operating models, and governance must converge to work as one. This session from MIT Technology Review&#8217;s EmTech Future conference explores what it takes to build that foundation in a highly regulated environment a",
+      "date": "Mon, 26 Oct 2026 17:45:43 +0000",
+      "synopsis": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. After weeks of frenzied speculation, Anthropic has filed its IPO prospectus. The 335-page document (100 pages or so are focused on risks) lays out the company’s u",
       "theme": "AI + Business",
       "category": "ai-business",
-      "fetched_at": "2026-10-26T11:42:08.027451"
+      "fetched_at": "2026-10-27T11:09:51.505797"
     },
     {
-      "title": "The Download: computing’s next leap and permafrost’s climate threat",
-      "url": "https://www.technologyreview.com/2026/10/22/1147612/the-download-computing-next-leap-permafrost-climate-threat/",
+      "title": "The Download: everyday AI harms and the race to nuclear spaceflight",
+      "url": "https://www.technologyreview.com/2026/10/26/1147650/the-download-everyday-ai-harms-nuclear-spaceflight/",
       "source": "MIT Technology Review - AI",
-      "date": "Thu, 22 Oct 2026 12:10:00 +0000",
-      "synopsis": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. How far can we push computing? On a December evening in 1959, the physicist Richard Feynman gave a lecture called “There’s Plenty of Room at the Botto",
+      "date": "Mon, 26 Oct 2026 12:40:00 +0000",
+      "synopsis": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Opinion: The focus on AI safety disasters ignores everyday harms —Sam Hiner, cofounder of the Young People’s Alliance, and Emma Leiken, executive dire",
       "theme": "AI + Business",
       "category": "ai-business",
-      "fetched_at": "2026-10-26T11:42:08.027462"
+      "fetched_at": "2026-10-27T11:09:51.505811"
     },
     {
-      "title": "Tradeoff-Aware Territory Design: A Multi-Objective Decision System for Enterprise Customer-to-Seller Allocation",
-      "url": "https://arxiv.org/abs/2610.31701",
-      "source": "ArXiv AI",
-      "date": "Mon, 26 Oct 2026 00:00:00 -0400",
-      "synopsis": "arXiv:2610.31701v1 Announce Type: new  Abstract: Enterprise customer journeys are shaped not only by product experiences and marketing, but also by recurring resource-allocation decisions. In B2B go-to-market (GTM) organizations, territory carving determines which accounts receive seller coverage, w",
-      "theme": "AI General",
-      "category": "ai-tech",
-      "fetched_at": "2026-10-26T11:42:09.985459"
-    },
-    {
-      "title": "Phronix: The Capability-Centric Learning Paradigm for Agents",
-      "url": "https://arxiv.org/abs/2610.31789",
-      "source": "ArXiv AI",
-      "date": "Mon, 26 Oct 2026 00:00:00 -0400",
-      "synopsis": "arXiv:2610.31789v1 Announce Type: new  Abstract: Scientific computing increasingly relies on large language model-based agents for performance engineering tasks such as instrumentation, analysis, and workflow porting. However, agent effectiveness depends heavily on the surrounding harness, which typ",
-      "theme": "AI General",
-      "category": "ai-tech",
-      "fetched_at": "2026-10-26T11:42:09.985486"
-    },
-    {
-      "title": "Patronizing and Condescending Language Detection in English and Mandarin",
-      "url": "https://arxiv.org/abs/2610.31808",
-      "source": "ArXiv AI",
-      "date": "Mon, 26 Oct 2026 00:00:00 -0400",
-      "synopsis": "arXiv:2610.31808v1 Announce Type: new  Abstract: Patronizing and condescending language (PCL) is a form of harmful language that belittles and assumes pity for vulnerable groups, reinforcing negative societal stereotypes. However, unlike overt hate speech, it is often difficult to detect, even for h",
-      "theme": "AI General",
-      "category": "ai-tech",
-      "fetched_at": "2026-10-26T11:42:09.985505"
-    },
-    {
-      "title": "PaperFormalizer: Author-in-the-Loop Autoformalization of Research Papers in Lean",
-      "url": "https://arxiv.org/abs/2610.31810",
-      "source": "ArXiv AI",
-      "date": "Mon, 26 Oct 2026 00:00:00 -0400",
-      "synopsis": "arXiv:2610.31810v1 Announce Type: new  Abstract: Even a carefully proofread paper can leave small gaps in its proofs or its stated assumptions. We introduce PaperFormalizer, a Lean-based agentic pipeline that helps authors find and close such gaps in their own papers and turn each paper into a Lean-",
-      "theme": "AI General",
-      "category": "ai-tech",
-      "fetched_at": "2026-10-26T11:42:09.985520"
-    },
-    {
-      "title": "Don't Forget What You Just Learned: Self-Directed Repair Turns Agent Mistakes Into Lasting Lessons",
-      "url": "https://arxiv.org/abs/2610.31846",
-      "source": "ArXiv AI",
-      "date": "Mon, 26 Oct 2026 00:00:00 -0400",
-      "synopsis": "arXiv:2610.31846v1 Announce Type: new  Abstract: Intelligent agents should learn from their mistakes so that experience leads to continuous improvement. Yet today's agents recover from a mistake only temporarily: in-context reflections are easily forgotten across sessions and compete for limited con",
+      "title": "The focus on AI safety disasters ignores everyday harms",
+      "url": "https://www.technologyreview.com/2026/10/26/1147645/the-focus-on-ai-safety-disasters-ignores-everyday-harms/",
+      "source": "MIT Technology Review - AI",
+      "date": "Mon, 26 Oct 2026 09:01:00 +0000",
+      "synopsis": "Consider what passes for success in technology policy. An AI company promises that its chatbot will not encourage suicide. A social media platform makes it more difficult for children to buy fentanyl. These are important protections, and they should have existed all along. But companies can clear th",
       "theme": "AI + Business",
-      "category": "ai-tech",
-      "fetched_at": "2026-10-26T11:42:09.985530"
+      "category": "ai-business",
+      "fetched_at": "2026-10-27T11:09:51.505820"
     },
     {
       "title": "The Download: testing six tech promises and biotech’s blind spots",
@@ -88,19 +98,9 @@
       "synopsis": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Are we there yet? A reality check on six big tech promises Some seemingly impossible feats are too good to give up on. Decoding a pet’s yowls and yips",
       "theme": "AI + Business",
       "category": "ai-business",
-      "fetched_at": "2026-10-26T11:42:08.027394"
-    },
-    {
-      "title": "In the biotech world, you can’t see everything",
-      "url": "https://www.technologyreview.com/2026/10/23/1147610/biotech-you-can-see-everything-theranos-holmes/",
-      "source": "MIT Technology Review - AI",
-      "date": "Fri, 23 Oct 2026 09:00:00 +0000",
-      "synopsis": "Earlier this week, I attended a screening of You Can See Everything, the buzzy new documentary about the disgraced former biotech CEO Elizabeth Holmes.&#160; I went in not really knowing what to expect. I’d avoided spoilers (and won’t be giving anything away here, either!). I was wondering what new",
-      "theme": "AI General",
-      "category": "ai-business",
-      "fetched_at": "2026-10-26T11:42:08.027428"
+      "fetched_at": "2026-10-27T11:09:51.505833"
     }
   ],
-  "last_updated": "2026-10-26T11:42:10.068843",
+  "last_updated": "2026-10-27T11:09:53.479612",
   "total_count": 10
 }
