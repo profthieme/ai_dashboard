@@ -8,27 +8,17 @@
       "synopsis": "Across a business, any number of AI platforms, systems, and tools may be at work simultaneously—for example, AI-powered customer platforms, conversational assistants, and workflow and process automation tools. Each one is sophisticated, advanced, and quick to respond. But, when set to work, the outc",
       "theme": "AI + Business",
       "category": "ai-business",
-      "fetched_at": "2026-10-29T11:52:21.459145"
+      "fetched_at": "2026-10-30T11:46:04.940548"
     },
     {
-      "title": "The Download: dead startups fueling AI and interspecies communication",
-      "url": "https://www.technologyreview.com/2026/10/28/1147767/the-download-dead-startups-fueling-ai-interspecies-communication/",
+      "title": "The Download: AI agent tracking and climate feedback loops",
+      "url": "https://www.technologyreview.com/2026/10/29/1147830/the-download-monitoring-ai-agents-climate-feedback-loops/",
       "source": "MIT Technology Review - AI",
-      "date": "Wed, 28 Oct 2026 12:10:00 +0000",
-      "synopsis": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. AI labs are buying data from dead startups to train their models When Keelan Miskell began winding down his crypto startup, he didn’t think its data w",
+      "date": "Thu, 29 Oct 2026 12:10:00 +0000",
+      "synopsis": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Opinion: We urgently need to monitor AI agents’ actions in real time —Madhulika Srikumar and Claire Leibowicz from the Partnership on AI, a nonprofit",
       "theme": "AI + Business",
       "category": "ai-business",
-      "fetched_at": "2026-10-29T11:52:21.459152"
-    },
-    {
-      "title": "Pairing industrial AI autonomy and human control",
-      "url": "https://www.technologyreview.com/2026/10/28/1147637/pairing-industrial-ai-autonomy-and-human-control/",
-      "source": "MIT Technology Review - AI",
-      "date": "Wed, 28 Oct 2026 12:00:00 +0000",
-      "synopsis": "",
-      "theme": "AI + Business",
-      "category": "ai-business",
-      "fetched_at": "2026-10-29T11:52:21.459160"
+      "fetched_at": "2026-10-30T11:46:04.940503"
     },
     {
       "title": "We urgently need to monitor AI agents’ actions in real time",
@@ -38,7 +28,7 @@
       "synopsis": "This summer, hundreds of OpenAI agents tried to cheat on a cybersecurity test. They broke out of their test environment and successfully hacked Hugging Face, a site that they believed held clues about how they’d be graded. Around the same time, another OpenAI agent accessed private files from an Aus",
       "theme": "AI + Business",
       "category": "ai-business",
-      "fetched_at": "2026-10-29T11:52:21.459105"
+      "fetched_at": "2026-10-30T11:46:04.940517"
     },
     {
       "title": "Our climate models have a big, dangerous blind spot",
@@ -48,9 +38,19 @@
       "synopsis": "Climate change itself is increasingly fueling climate change. Rising concentrations of greenhouse gases are driving up global temperatures, setting off dangerous feedback loops that we have not fully accounted for in our climate models—or our emissions-reduction goals. Scientists have long warned th",
       "theme": "AI General",
       "category": "ai-business",
-      "fetched_at": "2026-10-29T11:52:21.459137"
+      "fetched_at": "2026-10-30T11:46:04.940537"
+    },
+    {
+      "title": "Eating disorders are on the rise. GLP-1s could make things worse.",
+      "url": "https://www.technologyreview.com/2026/10/30/1147838/eating-disorders-rise-glp-1s-weight-loss-drugs/",
+      "source": "MIT Technology Review - AI",
+      "date": "Fri, 30 Oct 2026 09:00:00 +0000",
+      "synopsis": "GLP-1 weight-loss drugs are one of the biggest biotech breakthroughs of the last decade. But to some clinical psychologists, they can represent something more sinister—a potential trigger for eating disorders. A new report suggests that the global incidence of anorexia nervosa and bulimia nervosa sh",
+      "theme": "AI General",
+      "category": "ai-business",
+      "fetched_at": "2026-10-30T11:46:04.940479"
     }
   ],
-  "last_updated": "2026-10-29T11:52:23.372465",
+  "last_updated": "2026-10-30T11:46:06.378431",
   "total_count": 5
 }
