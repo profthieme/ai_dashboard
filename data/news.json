@@ -1,16 +1,6 @@
 {
   "articles": [
     {
-      "title": "Creating AI value with enterprise context",
-      "url": "https://www.technologyreview.com/2026/10/28/1147709/creating-ai-value-with-enterprise-context/",
-      "source": "MIT Technology Review - AI",
-      "date": "Wed, 28 Oct 2026 20:32:02 +0000",
-      "synopsis": "Across a business, any number of AI platforms, systems, and tools may be at work simultaneously—for example, AI-powered customer platforms, conversational assistants, and workflow and process automation tools. Each one is sophisticated, advanced, and quick to respond. But, when set to work, the outc",
-      "theme": "AI + Business",
-      "category": "ai-business",
-      "fetched_at": "2026-10-30T11:46:04.940548"
-    },
-    {
       "title": "The Download: AI agent tracking and climate feedback loops",
       "url": "https://www.technologyreview.com/2026/10/29/1147830/the-download-monitoring-ai-agents-climate-feedback-loops/",
       "source": "MIT Technology Review - AI",
@@ -18,7 +8,7 @@
       "synopsis": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Opinion: We urgently need to monitor AI agents’ actions in real time —Madhulika Srikumar and Claire Leibowicz from the Partnership on AI, a nonprofit",
       "theme": "AI + Business",
       "category": "ai-business",
-      "fetched_at": "2026-10-30T11:46:04.940503"
+      "fetched_at": "2026-10-31T11:19:20.806591"
     },
     {
       "title": "We urgently need to monitor AI agents’ actions in real time",
@@ -28,7 +18,7 @@
       "synopsis": "This summer, hundreds of OpenAI agents tried to cheat on a cybersecurity test. They broke out of their test environment and successfully hacked Hugging Face, a site that they believed held clues about how they’d be graded. Around the same time, another OpenAI agent accessed private files from an Aus",
       "theme": "AI + Business",
       "category": "ai-business",
-      "fetched_at": "2026-10-30T11:46:04.940517"
+      "fetched_at": "2026-10-31T11:19:20.806601"
     },
     {
       "title": "Our climate models have a big, dangerous blind spot",
@@ -38,7 +28,67 @@
       "synopsis": "Climate change itself is increasingly fueling climate change. Rising concentrations of greenhouse gases are driving up global temperatures, setting off dangerous feedback loops that we have not fully accounted for in our climate models—or our emissions-reduction goals. Scientists have long warned th",
       "theme": "AI General",
       "category": "ai-business",
-      "fetched_at": "2026-10-30T11:46:04.940537"
+      "fetched_at": "2026-10-31T11:19:20.806620"
+    },
+    {
+      "title": "LRMoE: Demand-Side Load Re-Calibration for Efficient MoE Training on Memory-Constrained Nodes",
+      "url": "https://arxiv.org/abs/2610.37720",
+      "source": "ArXiv AI",
+      "date": "Sat, 31 Oct 2026 00:00:00 -0400",
+      "synopsis": "arXiv:2610.37720v1 Announce Type: new  Abstract: Sparse Mixture-of-Experts (MoE) models offer scalable capacity for Web applications, but uneven routing creates computation and communication bottlenecks. Existing placement and replication methods redistribute this workload, yet additional expert cop",
+      "theme": "AI + Business",
+      "category": "ai-tech",
+      "fetched_at": "2026-10-31T11:19:23.061384"
+    },
+    {
+      "title": "Amortized Localized Posterior Inference for Model Calibration with Application to an Ocean Turbulence Closure",
+      "url": "https://arxiv.org/abs/2610.37731",
+      "source": "ArXiv AI",
+      "date": "Sat, 31 Oct 2026 00:00:00 -0400",
+      "synopsis": "arXiv:2610.37731v1 Announce Type: new  Abstract: Model discrepancy may prevent a single calibration parameter from reproducing a physical response across the context domain. In addition, uncertainties in observations and contexts affect calibration and must be accounted for and quantified. We constr",
+      "theme": "AI + Business",
+      "category": "ai-tech",
+      "fetched_at": "2026-10-31T11:19:23.061403"
+    },
+    {
+      "title": "ThinkJev: One Thought, Every Budget for Calibrated Typed Decisions",
+      "url": "https://arxiv.org/abs/2610.37732",
+      "source": "ArXiv AI",
+      "date": "Sat, 31 Oct 2026 00:00:00 -0400",
+      "synopsis": "arXiv:2610.37732v1 Announce Type: new  Abstract: Many uses of language models end in a typed decision: a choice among a closed set of options, whose probabilities code can act on. Reading those probabilities from one forward pass is fast but often wrong on decisions that take several steps, such as",
+      "theme": "AI General",
+      "category": "ai-tech",
+      "fetched_at": "2026-10-31T11:19:23.061423"
+    },
+    {
+      "title": "OpenFrontiers: A Collection of Open Research Problems and a Benchmark for Scientific Rediscovery",
+      "url": "https://arxiv.org/abs/2610.37739",
+      "source": "ArXiv AI",
+      "date": "Sat, 31 Oct 2026 00:00:00 -0400",
+      "synopsis": "arXiv:2610.37739v1 Announce Type: new  Abstract: Large language models (LLMs) have shown increasing promise in research-level problem solving, yet a comprehensive collection of such problems is still missing, and evaluating them on research-level problems remains challenging. We introduce OpenFronti",
+      "theme": "AI + Business",
+      "category": "ai-tech",
+      "fetched_at": "2026-10-31T11:19:23.061432"
+    },
+    {
+      "title": "WebAnything: From the Wild Web to Scalable Agent Environments",
+      "url": "https://arxiv.org/abs/2610.37786",
+      "source": "ArXiv AI",
+      "date": "Sat, 31 Oct 2026 00:00:00 -0400",
+      "synopsis": "arXiv:2610.37786v1 Announce Type: new  Abstract: Web agents require diverse, executable, and resettable website environments for reproducible training and evaluation. Human-assisted mirrors demand per-site engineering, while generative construction can diverge from specified real websites. Capture-a",
+      "theme": "AI + Business",
+      "category": "ai-tech",
+      "fetched_at": "2026-10-31T11:19:23.061440"
+    },
+    {
+      "title": "The Download: GLP-1s and eating disorders, self-aware cities, and forever chemicals",
+      "url": "https://www.technologyreview.com/2026/10/30/1147843/the-download-glp-1s-eating-disorders-forever-chemicals/",
+      "source": "MIT Technology Review - AI",
+      "date": "Fri, 30 Oct 2026 11:30:00 +0000",
+      "synopsis": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Eating disorders are on the rise. GLP-1s could make things worse. GLP-1 weight-loss drugs are one of the biggest biotech breakthroughs of the last dec",
+      "theme": "AI + Business",
+      "category": "ai-business",
+      "fetched_at": "2026-10-31T11:19:20.806543"
     },
     {
       "title": "Eating disorders are on the rise. GLP-1s could make things worse.",
@@ -48,9 +98,9 @@
       "synopsis": "GLP-1 weight-loss drugs are one of the biggest biotech breakthroughs of the last decade. But to some clinical psychologists, they can represent something more sinister—a potential trigger for eating disorders. A new report suggests that the global incidence of anorexia nervosa and bulimia nervosa sh",
       "theme": "AI General",
       "category": "ai-business",
-      "fetched_at": "2026-10-30T11:46:04.940479"
+      "fetched_at": "2026-10-31T11:19:20.806578"
     }
   ],
-  "last_updated": "2026-10-30T11:46:06.378431",
-  "total_count": 5
+  "last_updated": "2026-10-31T11:19:23.114037",
+  "total_count": 10
 }
