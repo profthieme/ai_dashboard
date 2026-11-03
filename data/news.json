@@ -1,6 +1,36 @@
 {
   "articles": [
     {
+      "title": "How “reverse game theory” could keep AI agents in check",
+      "url": "https://www.technologyreview.com/2026/11/03/1147934/reverse-game-theory-mechanism-design-ai-alignment/",
+      "source": "MIT Technology Review - AI",
+      "date": "Tue, 03 Nov 2026 10:43:41 +0000",
+      "synopsis": "A new approach known as “reverse game theory” aims to control powerful AI models by designing systems that incentivize them to stick to the rules. As AI models become more capable, safety researchers are scrambling to ensure they are “aligned” with human desires—to make sure, in other words, that ro",
+      "theme": "AI + Business",
+      "category": "ai-business",
+      "fetched_at": "2026-11-03T13:07:50.265591"
+    },
+    {
+      "title": "Here’s who is falling in line for Trump’s “Super Intelligence” loyalty test",
+      "url": "https://www.technologyreview.com/2026/11/02/1147932/heres-who-is-falling-in-line-for-trumps-super-intelligence-loyalty-test/",
+      "source": "MIT Technology Review - AI",
+      "date": "Tue, 03 Nov 2026 04:18:47 +0000",
+      "synopsis": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. At the end of September, President Trump signed an executive order that contained just one directive, ordering government agencies to rebrand what they had been c",
+      "theme": "AI + Business",
+      "category": "ai-business",
+      "fetched_at": "2026-11-03T13:07:50.265610"
+    },
+    {
+      "title": "Raising the quality of insights in agentic analytics",
+      "url": "https://www.technologyreview.com/2026/11/02/1147660/raising-the-quality-of-insights-in-agentic-analytics/",
+      "source": "MIT Technology Review - AI",
+      "date": "Mon, 02 Nov 2026 17:00:00 +0000",
+      "synopsis": "In just a few years, generative AI has changed the face of enterprise analytics, notably by making analytics accessible to users across the organization. Agentic AI promises to do even more, by automating entire workflows and taking actions based on agent insights. But there is a problem: The qualit",
+      "theme": "AI + Business",
+      "category": "ai-business",
+      "fetched_at": "2026-11-03T13:07:50.265618"
+    },
+    {
       "title": "Stop counting tokens, start counting what ships",
       "url": "https://www.technologyreview.com/2026/11/02/1147702/stop-counting-tokens-start-counting-what-ships/",
       "source": "MIT Technology Review - AI",
@@ -8,7 +38,7 @@
       "synopsis": "When a developer gives an AI agent a coding task, the agent does more than answer once. It plans, generates code, runs tests, and repeats the process to correct errors. A single task can use 10 to 50 times more tokens than a basic chat prompt. The more useful the agent becomes, the more calls&#8230;",
       "theme": "AI + Business",
       "category": "ai-business",
-      "fetched_at": "2026-11-02T13:58:54.788726"
+      "fetched_at": "2026-11-03T13:07:50.265625"
     },
     {
       "title": "The Download: the agentic web arrives and the drive for safer roads",
@@ -18,39 +48,59 @@
       "synopsis": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The agentic web is here In 2001, a decade after inventing the World Wide Web, Tim Berners-Lee articulated a new vision: an internet navigated by auton",
       "theme": "AI + Business",
       "category": "ai-business",
-      "fetched_at": "2026-11-02T13:58:54.788738"
+      "fetched_at": "2026-11-03T13:07:50.265632"
     },
     {
-      "title": "The agentic web is here",
-      "url": "https://www.technologyreview.com/2026/11/02/1147846/the-agentic-web-is-here/",
-      "source": "MIT Technology Review - AI",
-      "date": "Mon, 02 Nov 2026 09:35:19 +0000",
-      "synopsis": "In 2001, a decade after he invented the World Wide Web, Tim Berners-Lee articulated a new vision. Together with two colleagues, he published an article in the magazine Scientific American in which he outlined what he called the “Semantic Web”: an internet designed to be navigated by autonomous softw",
+      "title": "More Rules, Longer Lists? Benchmarking Self-Evolving Agents on a Hidden-Rule Curriculum",
+      "url": "https://arxiv.org/abs/2610.40758",
+      "source": "ArXiv AI",
+      "date": "Mon, 02 Nov 2026 00:00:00 -0500",
+      "synopsis": "arXiv:2610.40758v1 Announce Type: new  Abstract: Self-evolving agents rewrite a persistent state from feedback, but it is largely untested whether this lets them learn a rule nobody told them. An agent can also pass by writing down each correction as an exception, and its list then grows with every",
       "theme": "AI General",
-      "category": "ai-business",
-      "fetched_at": "2026-11-02T13:58:54.788757"
+      "category": "ai-tech",
+      "fetched_at": "2026-11-03T13:07:52.363479"
     },
     {
-      "title": "The Download: GLP-1s and eating disorders, self-aware cities, and forever chemicals",
-      "url": "https://www.technologyreview.com/2026/10/30/1147843/the-download-glp-1s-eating-disorders-forever-chemicals/",
-      "source": "MIT Technology Review - AI",
-      "date": "Fri, 30 Oct 2026 11:30:00 +0000",
-      "synopsis": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Eating disorders are on the rise. GLP-1s could make things worse. GLP-1 weight-loss drugs are one of the biggest biotech breakthroughs of the last dec",
+      "title": "Beyond Plausible Prediction: Safety Sufficiency in Web World Models",
+      "url": "https://arxiv.org/abs/2610.40798",
+      "source": "ArXiv AI",
+      "date": "Mon, 02 Nov 2026 00:00:00 -0500",
+      "synopsis": "arXiv:2610.40798v1 Announce Type: new  Abstract: Web world models increasingly predict the consequences of candidate actions before agents act, yet a plausible predicted future does not necessarily support the correct safety decision. In a matched human evaluation of 3,000 predictions from ten froze",
+      "theme": "AI General",
+      "category": "ai-tech",
+      "fetched_at": "2026-11-03T13:07:52.363504"
+    },
+    {
+      "title": "Circumventing the Computational Hardness of Computational Arbitrage",
+      "url": "https://arxiv.org/abs/2610.40831",
+      "source": "ArXiv AI",
+      "date": "Mon, 02 Nov 2026 00:00:00 -0500",
+      "synopsis": "arXiv:2610.40831v1 Announce Type: new  Abstract: AI model marketplaces host providers with heterogeneous costs and capabilities. These differences create an opportunity for computational arbitrage (Olmedo et al., 2026), in which an intermediary purchases inference from a portfolio of models and rese",
       "theme": "AI + Business",
-      "category": "ai-business",
-      "fetched_at": "2026-11-02T13:58:54.788763"
+      "category": "ai-tech",
+      "fetched_at": "2026-11-03T13:07:52.363513"
     },
     {
-      "title": "Eating disorders are on the rise. GLP-1s could make things worse.",
-      "url": "https://www.technologyreview.com/2026/10/30/1147838/eating-disorders-rise-glp-1s-weight-loss-drugs/",
-      "source": "MIT Technology Review - AI",
-      "date": "Fri, 30 Oct 2026 09:00:00 +0000",
-      "synopsis": "GLP-1 weight-loss drugs are one of the biggest biotech breakthroughs of the last decade. But to some clinical psychologists, they can represent something more sinister—a potential trigger for eating disorders. A new report suggests that the global incidence of anorexia nervosa and bulimia nervosa sh",
+      "title": "Incongruence-Aware Evaluation of Multimodal Speech Emotion Recognition in Audio Large Language Models",
+      "url": "https://arxiv.org/abs/2610.40883",
+      "source": "ArXiv AI",
+      "date": "Mon, 02 Nov 2026 00:00:00 -0500",
+      "synopsis": "arXiv:2610.40883v1 Announce Type: new  Abstract: Voice-interactive large language models process both what a speaker says and how they say it, yet the two channels do not always agree. We ask whether that disagreement degrades speech emotion recognition. Mapping text and audio into a shared valence-",
       "theme": "AI General",
-      "category": "ai-business",
-      "fetched_at": "2026-11-02T13:58:54.788775"
+      "category": "ai-tech",
+      "fetched_at": "2026-11-03T13:07:52.363527"
+    },
+    {
+      "title": "ChatGPT as a Surveillance Assistant? An Exploratory Case Study of AI-Assisted Surveillance Risks",
+      "url": "https://arxiv.org/abs/2610.40890",
+      "source": "ArXiv AI",
+      "date": "Mon, 02 Nov 2026 00:00:00 -0500",
+      "synopsis": "arXiv:2610.40890v1 Announce Type: new  Abstract: Large language models (LLMs) can generate detailed guidance, functional code, and persuasive text at scale. As one of the most widely used consumer language model products as of 2026, ChatGPT gives broad public access to these capabilities, motivating",
+      "theme": "AI + Business",
+      "category": "ai-tech",
+      "fetched_at": "2026-11-03T13:07:52.363534"
     }
   ],
-  "last_updated": "2026-11-02T13:58:56.369972",
-  "total_count": 5
+  "last_updated": "2026-11-03T13:07:52.477951",
+  "total_count": 10
 }
