@@ -1,56 +1,106 @@
 {
   "articles": [
     {
-      "title": "The Download: controlling AI agents and “Super Intelligence” loyalty tests",
-      "url": "https://www.technologyreview.com/2026/11/03/1147940/the-download-controlling-ai-agents-trump-super-intelligence/",
+      "title": "Texas was the new epicenter of the AI data center buildout. That might be kaput.",
+      "url": "https://www.technologyreview.com/2026/11/04/1148043/texas-was-the-new-epicenter-of-the-ai-data-center-buildout-that-might-be-kaput/",
       "source": "MIT Technology Review - AI",
-      "date": "Tue, 03 Nov 2026 13:10:00 +0000",
-      "synopsis": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. How “reverse game theory” could keep AI agents in check A new approach known as “reverse game theory” aims to control powerful AI models by designing",
+      "date": "Wed, 04 Nov 2026 18:50:55 +0000",
+      "synopsis": "Texas is the fastest-growing data center market in the US and ground zero for Big Tech&#8217;s largest AI buildouts. But the blue wave that swept the Lone Star State may jeopardize that position. Democrat James Talarico won the US Senate seat against Ken Paxton. Gina Hinojosa won the race for govern",
       "theme": "AI + Business",
       "category": "ai-business",
-      "fetched_at": "2026-11-04T13:23:02.841689"
+      "fetched_at": "2026-11-05T13:37:37.459110"
     },
     {
-      "title": "How “reverse game theory” could keep AI agents in check",
-      "url": "https://www.technologyreview.com/2026/11/03/1147934/reverse-game-theory-mechanism-design-ai-alignment/",
+      "title": "Roundtables: Inside the Quest for Cognitive Immortality",
+      "url": "https://www.technologyreview.com/2026/11/04/1148049/roundtables-inside-the-quest-for-cognitive-immortality/",
       "source": "MIT Technology Review - AI",
-      "date": "Tue, 03 Nov 2026 10:43:41 +0000",
-      "synopsis": "A new approach known as “reverse game theory” aims to control powerful AI models by designing systems that incentivize them to stick to the rules. As AI models become more capable, safety researchers are scrambling to ensure they are “aligned” with human desires—to make sure, in other words, that ro",
+      "date": "Wed, 04 Nov 2026 18:21:40 +0000",
+      "synopsis": "Tuesday, November 17, 2026 In an effort to reach an elusive continuity of the self, some far-thinking technologists are working on ways to keep your brain going—even beyond death. Join science editor Mary Beth Griggs and senior editor for biomedicine Antonio Regalado for a conversation exploring pos",
       "theme": "AI + Business",
       "category": "ai-business",
-      "fetched_at": "2026-11-04T13:23:02.841711"
+      "fetched_at": "2026-11-05T13:37:37.459117"
     },
     {
-      "title": "Here’s who is falling in line for Trump’s “Super Intelligence” loyalty test",
-      "url": "https://www.technologyreview.com/2026/11/02/1147932/heres-who-is-falling-in-line-for-trumps-super-intelligence-loyalty-test/",
+      "title": "What’s next for US energy policy after the midterm elections?",
+      "url": "https://www.technologyreview.com/2026/11/04/1148022/us-energy-midterm/",
       "source": "MIT Technology Review - AI",
-      "date": "Tue, 03 Nov 2026 04:18:47 +0000",
-      "synopsis": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. At the end of September, President Trump signed an executive order that contained just one directive, ordering government agencies to rebrand what they had been c",
-      "theme": "AI + Business",
+      "date": "Wed, 04 Nov 2026 17:08:00 +0000",
+      "synopsis": "I’ve been locked in to my various screens since results from midterm elections started to roll in last night. And it didn’t take long to see the beginning of the blue wave: Democrats took control of both the US House of Representatives and the Senate, a dramatic swing from Donald Trump’s victory two",
+      "theme": "AI General",
       "category": "ai-business",
-      "fetched_at": "2026-11-04T13:23:02.841726"
+      "fetched_at": "2026-11-05T13:37:37.459129"
     },
     {
-      "title": "Raising the quality of insights in agentic analytics",
-      "url": "https://www.technologyreview.com/2026/11/02/1147660/raising-the-quality-of-insights-in-agentic-analytics/",
+      "title": "The Download: Texas’s fragile AI boom and energy policy shifts",
+      "url": "https://www.technologyreview.com/2026/11/05/1144908/the-download-texas-fragile-ai-boom-us-energy-policy/",
       "source": "MIT Technology Review - AI",
-      "date": "Mon, 02 Nov 2026 17:00:00 +0000",
-      "synopsis": "In just a few years, generative AI has changed the face of enterprise analytics, notably by making analytics accessible to users across the organization. Agentic AI promises to do even more, by automating entire workflows and taking actions based on agent insights. But there is a problem: The qualit",
+      "date": "Thu, 05 Nov 2026 13:10:00 +0000",
+      "synopsis": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Texas was the new epicenter of the AI data center buildout. That might be kaput. Texas is the fastest-growing data center market in the US and ground",
       "theme": "AI + Business",
       "category": "ai-business",
-      "fetched_at": "2026-11-04T13:23:02.841735"
+      "fetched_at": "2026-11-05T13:37:37.459078"
     },
     {
-      "title": "Stop counting tokens, start counting what ships",
-      "url": "https://www.technologyreview.com/2026/11/02/1147702/stop-counting-tokens-start-counting-what-ships/",
+      "title": "A new bill could change how the US builds energy infrastructure",
+      "url": "https://www.technologyreview.com/2026/11/05/1148062/permitting-reform/",
       "source": "MIT Technology Review - AI",
-      "date": "Mon, 02 Nov 2026 13:10:32 +0000",
-      "synopsis": "When a developer gives an AI agent a coding task, the agent does more than answer once. It plans, generates code, runs tests, and repeats the process to correct errors. A single task can use 10 to 50 times more tokens than a basic chat prompt. The more useful the agent becomes, the more calls&#8230;",
-      "theme": "AI + Business",
+      "date": "Thu, 05 Nov 2026 10:00:00 +0000",
+      "synopsis": "A sweeping bit of legislation designed to cut red tape could speed up the buildout of energy infrastructure in the US. With the dust barely settled on this week’s momentous midterms, the Senate is set to vote on the Bipartisan American Affordability and Jobs Act (BAAJA) on November 9. It’s a plan th",
+      "theme": "AI General",
       "category": "ai-business",
-      "fetched_at": "2026-11-04T13:23:02.841743"
+      "fetched_at": "2026-11-05T13:37:37.459103"
+    },
+    {
+      "title": "Who May Overrule the Agent? Evidence-Gated Authority in LLM Review Institutions",
+      "url": "https://arxiv.org/abs/2611.05390",
+      "source": "ArXiv AI",
+      "date": "Thu, 05 Nov 2026 00:00:00 -0500",
+      "synopsis": "arXiv:2611.05390v1 Announce Type: new  Abstract: Multi-agent language-model systems often add a reviewer to improve an upstream agent's decision. Yet a reviewer can both repair errors and replace decisions that were already correct. We study this as a problem of institutional jurisdiction: condition",
+      "theme": "AI + Business",
+      "category": "ai-tech",
+      "fetched_at": "2026-11-05T13:37:39.017574"
+    },
+    {
+      "title": "Agent Harness Awareness: Turning Verified Telemetry into Operational Control for Tool-Using Agents",
+      "url": "https://arxiv.org/abs/2611.05391",
+      "source": "ArXiv AI",
+      "date": "Thu, 05 Nov 2026 00:00:00 -0500",
+      "synopsis": "arXiv:2611.05391v1 Announce Type: new  Abstract: Tool descriptions tell an agent what an action can do, but they do not necessarily reveal whether that action is healthy or suitable at the moment of use. Execution harnesses often possess this information through monitors, traces, and recent failures",
+      "theme": "AI + Business",
+      "category": "ai-tech",
+      "fetched_at": "2026-11-05T13:37:39.017587"
+    },
+    {
+      "title": "Uncertainty-Aware Resource Orchestration for Agentic AI Systems",
+      "url": "https://arxiv.org/abs/2611.05392",
+      "source": "ArXiv AI",
+      "date": "Thu, 05 Nov 2026 00:00:00 -0500",
+      "synopsis": "arXiv:2611.05392v1 Announce Type: new  Abstract: Agentic artificial intelligence (AI) systems powered by large language models (LLMs) execute as autonomous multi-step pipelines that dynamically invoke tools, integrate observations into memory, and iterate until a task is resolved or a resource budge",
+      "theme": "AI + Business",
+      "category": "ai-tech",
+      "fetched_at": "2026-11-05T13:37:39.017594"
+    },
+    {
+      "title": "Challenge-Aware Knowledge Recruitment with Meta-Agent Supervision for Medical Multi-Agent Reasoning",
+      "url": "https://arxiv.org/abs/2611.05393",
+      "source": "ArXiv AI",
+      "date": "Thu, 05 Nov 2026 00:00:00 -0500",
+      "synopsis": "arXiv:2611.05393v1 Announce Type: new  Abstract: Large language models perform strongly on standard medical QA but degrade on harder reasoning tasks, where multi-agent debate often fails to beat strong single-model prompting. We argue that a key limitation is that existing systems select experts and",
+      "theme": "AI + Business",
+      "category": "ai-tech",
+      "fetched_at": "2026-11-05T13:37:39.017599"
+    },
+    {
+      "title": "A Feasibility Condition for Confidence-Gated Tiered LLM Inference",
+      "url": "https://arxiv.org/abs/2611.05394",
+      "source": "ArXiv AI",
+      "date": "Thu, 05 Nov 2026 00:00:00 -0500",
+      "synopsis": "arXiv:2611.05394v1 Announce Type: new  Abstract: Tiered inference distributes large language model computation across a hierarchy of devices, from on-device and edge hardware to the datacenter, and is increasingly offered as the route to cheaper, lower-latency, and more private serving. Most such sy",
+      "theme": "AI + Business",
+      "category": "ai-tech",
+      "fetched_at": "2026-11-05T13:37:39.017605"
     }
   ],
-  "last_updated": "2026-11-04T13:23:04.251188",
-  "total_count": 5
+  "last_updated": "2026-11-05T13:37:39.108665",
+  "total_count": 10
 }
