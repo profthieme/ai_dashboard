@@ -8,27 +8,7 @@
       "synopsis": "Texas is the fastest-growing data center market in the US and ground zero for Big Tech&#8217;s largest AI buildouts. But the blue wave that swept the Lone Star State may jeopardize that position. Democrat James Talarico won the US Senate seat against Ken Paxton. Gina Hinojosa won the race for govern",
       "theme": "AI + Business",
       "category": "ai-business",
-      "fetched_at": "2026-11-05T13:37:37.459110"
-    },
-    {
-      "title": "Roundtables: Inside the Quest for Cognitive Immortality",
-      "url": "https://www.technologyreview.com/2026/11/04/1148049/roundtables-inside-the-quest-for-cognitive-immortality/",
-      "source": "MIT Technology Review - AI",
-      "date": "Wed, 04 Nov 2026 18:21:40 +0000",
-      "synopsis": "Tuesday, November 17, 2026 In an effort to reach an elusive continuity of the self, some far-thinking technologists are working on ways to keep your brain going—even beyond death. Join science editor Mary Beth Griggs and senior editor for biomedicine Antonio Regalado for a conversation exploring pos",
-      "theme": "AI + Business",
-      "category": "ai-business",
-      "fetched_at": "2026-11-05T13:37:37.459117"
-    },
-    {
-      "title": "What’s next for US energy policy after the midterm elections?",
-      "url": "https://www.technologyreview.com/2026/11/04/1148022/us-energy-midterm/",
-      "source": "MIT Technology Review - AI",
-      "date": "Wed, 04 Nov 2026 17:08:00 +0000",
-      "synopsis": "I’ve been locked in to my various screens since results from midterm elections started to roll in last night. And it didn’t take long to see the beginning of the blue wave: Democrats took control of both the US House of Representatives and the Senate, a dramatic swing from Donald Trump’s victory two",
-      "theme": "AI General",
-      "category": "ai-business",
-      "fetched_at": "2026-11-05T13:37:37.459129"
+      "fetched_at": "2026-11-06T13:20:45.209341"
     },
     {
       "title": "The Download: Texas’s fragile AI boom and energy policy shifts",
@@ -38,7 +18,7 @@
       "synopsis": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Texas was the new epicenter of the AI data center buildout. That might be kaput. Texas is the fastest-growing data center market in the US and ground",
       "theme": "AI + Business",
       "category": "ai-business",
-      "fetched_at": "2026-11-05T13:37:37.459078"
+      "fetched_at": "2026-11-06T13:20:45.209310"
     },
     {
       "title": "A new bill could change how the US builds energy infrastructure",
@@ -48,59 +28,79 @@
       "synopsis": "A sweeping bit of legislation designed to cut red tape could speed up the buildout of energy infrastructure in the US. With the dust barely settled on this week’s momentous midterms, the Senate is set to vote on the Bipartisan American Affordability and Jobs Act (BAAJA) on November 9. It’s a plan th",
       "theme": "AI General",
       "category": "ai-business",
-      "fetched_at": "2026-11-05T13:37:37.459103"
+      "fetched_at": "2026-11-06T13:20:45.209332"
     },
     {
-      "title": "Who May Overrule the Agent? Evidence-Gated Authority in LLM Review Institutions",
-      "url": "https://arxiv.org/abs/2611.05390",
-      "source": "ArXiv AI",
-      "date": "Thu, 05 Nov 2026 00:00:00 -0500",
-      "synopsis": "arXiv:2611.05390v1 Announce Type: new  Abstract: Multi-agent language-model systems often add a reviewer to improve an upstream agent's decision. Yet a reviewer can both repair errors and replace decisions that were already correct. We study this as a problem of institutional jurisdiction: condition",
+      "title": "The Download: a humanoid cleans house and Samsung builds for the AI boom",
+      "url": "https://www.technologyreview.com/2026/11/06/1148154/the-download-humanoid-robot-cleaner-samsung-ai-chip-boom/",
+      "source": "MIT Technology Review - AI",
+      "date": "Fri, 06 Nov 2026 13:10:00 +0000",
+      "synopsis": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. I watched a humanoid robot clean my apartment. It felt like a taste of the future. —Grace Huckins When I saw an X post about a new humanoid-robot clea",
       "theme": "AI + Business",
-      "category": "ai-tech",
-      "fetched_at": "2026-11-05T13:37:39.017574"
+      "category": "ai-business",
+      "fetched_at": "2026-11-06T13:20:45.209260"
     },
     {
-      "title": "Agent Harness Awareness: Turning Verified Telemetry into Operational Control for Tool-Using Agents",
-      "url": "https://arxiv.org/abs/2611.05391",
-      "source": "ArXiv AI",
-      "date": "Thu, 05 Nov 2026 00:00:00 -0500",
-      "synopsis": "arXiv:2611.05391v1 Announce Type: new  Abstract: Tool descriptions tell an agent what an action can do, but they do not necessarily reveal whether that action is healthy or suitable at the moment of use. Execution harnesses often possess this information through monitors, traces, and recent failures",
-      "theme": "AI + Business",
-      "category": "ai-tech",
-      "fetched_at": "2026-11-05T13:37:39.017587"
+      "title": "I watched a humanoid robot clean my apartment. It felt like a taste of the future.",
+      "url": "https://www.technologyreview.com/2026/11/06/1148090/i-watched-a-humanoid-robot-clean-my-apartment-it-felt-like-a-taste-of-the-future/",
+      "source": "MIT Technology Review - AI",
+      "date": "Fri, 06 Nov 2026 10:00:00 +0000",
+      "synopsis": "I’m not the sort of person who typically pays for a house cleaner. I’m too frugal, and I kind of enjoy putting on a podcast and going to town on my tub with a Magic Eraser. But when I saw an X post about a new humanoid-robot cleaning service in San Francisco, I immediately signed&#8230;",
+      "theme": "AI General",
+      "category": "ai-business",
+      "fetched_at": "2026-11-06T13:20:45.209296"
     },
     {
-      "title": "Uncertainty-Aware Resource Orchestration for Agentic AI Systems",
-      "url": "https://arxiv.org/abs/2611.05392",
+      "title": "Formalizing inverse problems in the age of AI: possibilities, pitfalls, and an invitation",
+      "url": "https://arxiv.org/abs/2611.06962",
       "source": "ArXiv AI",
-      "date": "Thu, 05 Nov 2026 00:00:00 -0500",
-      "synopsis": "arXiv:2611.05392v1 Announce Type: new  Abstract: Agentic artificial intelligence (AI) systems powered by large language models (LLMs) execute as autonomous multi-step pipelines that dynamically invoke tools, integrate observations into memory, and iterate until a task is resolved or a resource budge",
+      "date": "Fri, 06 Nov 2026 00:00:00 -0500",
+      "synopsis": "arXiv:2611.06962v1 Announce Type: new  Abstract: Proof assistants such as Lean check mathematical proofs down to the axioms, and AI agents have recently made writing such proofs cheap. We describe AutoIP, a Lean library in which classical linear regularization theory, together with the functional an",
       "theme": "AI + Business",
       "category": "ai-tech",
-      "fetched_at": "2026-11-05T13:37:39.017594"
+      "fetched_at": "2026-11-06T13:20:47.333463"
     },
     {
-      "title": "Challenge-Aware Knowledge Recruitment with Meta-Agent Supervision for Medical Multi-Agent Reasoning",
-      "url": "https://arxiv.org/abs/2611.05393",
+      "title": "KDASO: Knowledge-Data Dual-Driven Automated Skill Optimization for Liability Adjudication Tasks",
+      "url": "https://arxiv.org/abs/2611.06972",
       "source": "ArXiv AI",
-      "date": "Thu, 05 Nov 2026 00:00:00 -0500",
-      "synopsis": "arXiv:2611.05393v1 Announce Type: new  Abstract: Large language models perform strongly on standard medical QA but degrade on harder reasoning tasks, where multi-agent debate often fails to beat strong single-model prompting. We argue that a key limitation is that existing systems select experts and",
+      "date": "Fri, 06 Nov 2026 00:00:00 -0500",
+      "synopsis": "arXiv:2611.06972v1 Announce Type: new  Abstract: Liability adjudication tasks (e.g., legal charge determination) require analyzing event descriptions against domain-specific skills to determine whether a party should bear liability. While Large Language Models (LLMs) have shown promise in this area",
       "theme": "AI + Business",
       "category": "ai-tech",
-      "fetched_at": "2026-11-05T13:37:39.017599"
+      "fetched_at": "2026-11-06T13:20:47.333479"
     },
     {
-      "title": "A Feasibility Condition for Confidence-Gated Tiered LLM Inference",
-      "url": "https://arxiv.org/abs/2611.05394",
+      "title": "BlockLock: Reproducible LLM Inference with Fixed Batch Geometry",
+      "url": "https://arxiv.org/abs/2611.06977",
       "source": "ArXiv AI",
-      "date": "Thu, 05 Nov 2026 00:00:00 -0500",
-      "synopsis": "arXiv:2611.05394v1 Announce Type: new  Abstract: Tiered inference distributes large language model computation across a hierarchy of devices, from on-device and edge hardware to the datacenter, and is increasingly offered as the route to cheaper, lower-latency, and more private serving. Most such sy",
+      "date": "Fri, 06 Nov 2026 00:00:00 -0500",
+      "synopsis": "arXiv:2611.06977v1 Announce Type: new  Abstract: Reproducible LLM inference requires that a request produces the same output regardless of the other requests in the batch. Existing solutions pay for this in different ways: batch-invariant kernels constrain every operator, and isolating prefill with",
       "theme": "AI + Business",
       "category": "ai-tech",
-      "fetched_at": "2026-11-05T13:37:39.017605"
+      "fetched_at": "2026-11-06T13:20:47.333488"
+    },
+    {
+      "title": "Resource-Efficient Reinforcement Learning Post-Training through Elastic Expert Parallelism",
+      "url": "https://arxiv.org/abs/2611.06984",
+      "source": "ArXiv AI",
+      "date": "Fri, 06 Nov 2026 00:00:00 -0500",
+      "synopsis": "arXiv:2611.06984v1 Announce Type: new  Abstract: Reinforcement learning post-training improves the capabilities of large language models, but generating training responses is a major computational bottleneck. In mixture-of-experts models, workers that finish their assigned responses may remain occup",
+      "theme": "AI + Business",
+      "category": "ai-tech",
+      "fetched_at": "2026-11-06T13:20:47.333497"
+    },
+    {
+      "title": "The Two-Ledger Model: Transaction-Grain Cost Accounting for Multi-Agent AI Systems Across Clouds, Models, and Systems of Record",
+      "url": "https://arxiv.org/abs/2611.06989",
+      "source": "ArXiv AI",
+      "date": "Fri, 06 Nov 2026 00:00:00 -0500",
+      "synopsis": "arXiv:2611.06989v1 Announce Type: new  Abstract: Enterprises run business transactions through multi-agent AI systems spanning clouds, large language models (LLMs), orchestration harnesses, and systems of record. Finance receives AI cost only at settlement grain, aggregated by SKU and charge period.",
+      "theme": "AI + Business",
+      "category": "ai-tech",
+      "fetched_at": "2026-11-06T13:20:47.333505"
     }
   ],
-  "last_updated": "2026-11-05T13:37:39.108665",
+  "last_updated": "2026-11-06T13:20:47.409840",
   "total_count": 10
 }
