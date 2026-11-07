@@ -8,7 +8,7 @@
       "synopsis": "Texas is the fastest-growing data center market in the US and ground zero for Big Tech&#8217;s largest AI buildouts. But the blue wave that swept the Lone Star State may jeopardize that position. Democrat James Talarico won the US Senate seat against Ken Paxton. Gina Hinojosa won the race for govern",
       "theme": "AI + Business",
       "category": "ai-business",
-      "fetched_at": "2026-11-06T13:20:45.209341"
+      "fetched_at": "2026-11-07T11:59:23.362151"
     },
     {
       "title": "The Download: Texas’s fragile AI boom and energy policy shifts",
@@ -18,7 +18,7 @@
       "synopsis": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Texas was the new epicenter of the AI data center buildout. That might be kaput. Texas is the fastest-growing data center market in the US and ground",
       "theme": "AI + Business",
       "category": "ai-business",
-      "fetched_at": "2026-11-06T13:20:45.209310"
+      "fetched_at": "2026-11-07T11:59:23.362135"
     },
     {
       "title": "A new bill could change how the US builds energy infrastructure",
@@ -28,7 +28,7 @@
       "synopsis": "A sweeping bit of legislation designed to cut red tape could speed up the buildout of energy infrastructure in the US. With the dust barely settled on this week’s momentous midterms, the Senate is set to vote on the Bipartisan American Affordability and Jobs Act (BAAJA) on November 9. It’s a plan th",
       "theme": "AI General",
       "category": "ai-business",
-      "fetched_at": "2026-11-06T13:20:45.209332"
+      "fetched_at": "2026-11-07T11:59:23.362146"
     },
     {
       "title": "The Download: a humanoid cleans house and Samsung builds for the AI boom",
@@ -38,7 +38,7 @@
       "synopsis": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. I watched a humanoid robot clean my apartment. It felt like a taste of the future. —Grace Huckins When I saw an X post about a new humanoid-robot clea",
       "theme": "AI + Business",
       "category": "ai-business",
-      "fetched_at": "2026-11-06T13:20:45.209260"
+      "fetched_at": "2026-11-07T11:59:23.362107"
     },
     {
       "title": "I watched a humanoid robot clean my apartment. It felt like a taste of the future.",
@@ -48,59 +48,9 @@
       "synopsis": "I’m not the sort of person who typically pays for a house cleaner. I’m too frugal, and I kind of enjoy putting on a podcast and going to town on my tub with a Magic Eraser. But when I saw an X post about a new humanoid-robot cleaning service in San Francisco, I immediately signed&#8230;",
       "theme": "AI General",
       "category": "ai-business",
-      "fetched_at": "2026-11-06T13:20:45.209296"
-    },
-    {
-      "title": "Formalizing inverse problems in the age of AI: possibilities, pitfalls, and an invitation",
-      "url": "https://arxiv.org/abs/2611.06962",
-      "source": "ArXiv AI",
-      "date": "Fri, 06 Nov 2026 00:00:00 -0500",
-      "synopsis": "arXiv:2611.06962v1 Announce Type: new  Abstract: Proof assistants such as Lean check mathematical proofs down to the axioms, and AI agents have recently made writing such proofs cheap. We describe AutoIP, a Lean library in which classical linear regularization theory, together with the functional an",
-      "theme": "AI + Business",
-      "category": "ai-tech",
-      "fetched_at": "2026-11-06T13:20:47.333463"
-    },
-    {
-      "title": "KDASO: Knowledge-Data Dual-Driven Automated Skill Optimization for Liability Adjudication Tasks",
-      "url": "https://arxiv.org/abs/2611.06972",
-      "source": "ArXiv AI",
-      "date": "Fri, 06 Nov 2026 00:00:00 -0500",
-      "synopsis": "arXiv:2611.06972v1 Announce Type: new  Abstract: Liability adjudication tasks (e.g., legal charge determination) require analyzing event descriptions against domain-specific skills to determine whether a party should bear liability. While Large Language Models (LLMs) have shown promise in this area",
-      "theme": "AI + Business",
-      "category": "ai-tech",
-      "fetched_at": "2026-11-06T13:20:47.333479"
-    },
-    {
-      "title": "BlockLock: Reproducible LLM Inference with Fixed Batch Geometry",
-      "url": "https://arxiv.org/abs/2611.06977",
-      "source": "ArXiv AI",
-      "date": "Fri, 06 Nov 2026 00:00:00 -0500",
-      "synopsis": "arXiv:2611.06977v1 Announce Type: new  Abstract: Reproducible LLM inference requires that a request produces the same output regardless of the other requests in the batch. Existing solutions pay for this in different ways: batch-invariant kernels constrain every operator, and isolating prefill with",
-      "theme": "AI + Business",
-      "category": "ai-tech",
-      "fetched_at": "2026-11-06T13:20:47.333488"
-    },
-    {
-      "title": "Resource-Efficient Reinforcement Learning Post-Training through Elastic Expert Parallelism",
-      "url": "https://arxiv.org/abs/2611.06984",
-      "source": "ArXiv AI",
-      "date": "Fri, 06 Nov 2026 00:00:00 -0500",
-      "synopsis": "arXiv:2611.06984v1 Announce Type: new  Abstract: Reinforcement learning post-training improves the capabilities of large language models, but generating training responses is a major computational bottleneck. In mixture-of-experts models, workers that finish their assigned responses may remain occup",
-      "theme": "AI + Business",
-      "category": "ai-tech",
-      "fetched_at": "2026-11-06T13:20:47.333497"
-    },
-    {
-      "title": "The Two-Ledger Model: Transaction-Grain Cost Accounting for Multi-Agent AI Systems Across Clouds, Models, and Systems of Record",
-      "url": "https://arxiv.org/abs/2611.06989",
-      "source": "ArXiv AI",
-      "date": "Fri, 06 Nov 2026 00:00:00 -0500",
-      "synopsis": "arXiv:2611.06989v1 Announce Type: new  Abstract: Enterprises run business transactions through multi-agent AI systems spanning clouds, large language models (LLMs), orchestration harnesses, and systems of record. Finance receives AI cost only at settlement grain, aggregated by SKU and charge period.",
-      "theme": "AI + Business",
-      "category": "ai-tech",
-      "fetched_at": "2026-11-06T13:20:47.333505"
+      "fetched_at": "2026-11-07T11:59:23.362127"
     }
   ],
-  "last_updated": "2026-11-06T13:20:47.409840",
-  "total_count": 10
+  "last_updated": "2026-11-07T11:59:25.677914",
+  "total_count": 5
 }
