@@ -1,34 +1,34 @@
 {
   "articles": [
     {
-      "title": "Texas was the new epicenter of the AI data center buildout. That might be kaput.",
-      "url": "https://www.technologyreview.com/2026/11/04/1148043/texas-was-the-new-epicenter-of-the-ai-data-center-buildout-that-might-be-kaput/",
+      "title": "The Download: empty AI climate claims, and an Nvidia investigation",
+      "url": "https://www.technologyreview.com/2026/11/09/1148176/the-download-empty-ai-climate-claims-and-an-nvidia-investigation/",
       "source": "MIT Technology Review - AI",
-      "date": "Wed, 04 Nov 2026 18:50:55 +0000",
-      "synopsis": "Texas is the fastest-growing data center market in the US and ground zero for Big Tech&#8217;s largest AI buildouts. But the blue wave that swept the Lone Star State may jeopardize that position. Democrat James Talarico won the US Senate seat against Ken Paxton. Gina Hinojosa won the race for govern",
+      "date": "Mon, 09 Nov 2026 13:15:00 +0000",
+      "synopsis": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Opinion: The climate case for AI has not been made  —By Mary Nichols, distinguished counsel at the UCLA School of Law and the former chair of the Cali",
       "theme": "AI + Business",
       "category": "ai-business",
-      "fetched_at": "2026-11-08T12:19:31.518016"
+      "fetched_at": "2026-11-09T14:31:05.022652"
     },
     {
-      "title": "The Download: Texas’s fragile AI boom and energy policy shifts",
-      "url": "https://www.technologyreview.com/2026/11/05/1144908/the-download-texas-fragile-ai-boom-us-energy-policy/",
+      "title": "Innovating with AI in the special chemicals industry",
+      "url": "https://www.technologyreview.com/2026/11/09/1147654/innovating-with-ai-in-the-special-chemicals-industry/",
       "source": "MIT Technology Review - AI",
-      "date": "Thu, 05 Nov 2026 13:10:00 +0000",
-      "synopsis": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Texas was the new epicenter of the AI data center buildout. That might be kaput. Texas is the fastest-growing data center market in the US and ground",
+      "date": "Mon, 09 Nov 2026 13:00:00 +0000",
+      "synopsis": "As companies look to accelerate innovation with artificial intelligence, cloud computing, and advanced modeling, the primary challenge is connecting new technologies to reliable data, scientific expertise, and the practical realities of bringing products to market. For specialty chemicals manufactur",
       "theme": "AI + Business",
       "category": "ai-business",
-      "fetched_at": "2026-11-08T12:19:31.517985"
+      "fetched_at": "2026-11-09T14:31:05.022670"
     },
     {
-      "title": "A new bill could change how the US builds energy infrastructure",
-      "url": "https://www.technologyreview.com/2026/11/05/1148062/permitting-reform/",
+      "title": "The climate case for AI has not been made",
+      "url": "https://www.technologyreview.com/2026/11/09/1148166/the-climate-case-for-ai-has-not-been-made/",
       "source": "MIT Technology Review - AI",
-      "date": "Thu, 05 Nov 2026 10:00:00 +0000",
-      "synopsis": "A sweeping bit of legislation designed to cut red tape could speed up the buildout of energy infrastructure in the US. With the dust barely settled on this week’s momentous midterms, the Senate is set to vote on the Bipartisan American Affordability and Jobs Act (BAAJA) on November 9. It’s a plan th",
-      "theme": "AI General",
+      "date": "Mon, 09 Nov 2026 10:00:00 +0000",
+      "synopsis": "This week, as countries meet in Antalya, Turkey for the United Nations climate conference, one topic likely to dominate the conversation is artificial intelligence. The host has already called on countries to commit to ensuring that AI is designed, powered, and deployed in ways that support climate",
+      "theme": "AI + Business",
       "category": "ai-business",
-      "fetched_at": "2026-11-08T12:19:31.518006"
+      "fetched_at": "2026-11-09T14:31:05.022680"
     },
     {
       "title": "The Download: a humanoid cleans house and Samsung builds for the AI boom",
@@ -38,7 +38,7 @@
       "synopsis": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. I watched a humanoid robot clean my apartment. It felt like a taste of the future. —Grace Huckins When I saw an X post about a new humanoid-robot clea",
       "theme": "AI + Business",
       "category": "ai-business",
-      "fetched_at": "2026-11-08T12:19:31.517935"
+      "fetched_at": "2026-11-09T14:31:05.022694"
     },
     {
       "title": "I watched a humanoid robot clean my apartment. It felt like a taste of the future.",
@@ -48,9 +48,9 @@
       "synopsis": "I’m not the sort of person who typically pays for a house cleaner. I’m too frugal, and I kind of enjoy putting on a podcast and going to town on my tub with a Magic Eraser. But when I saw an X post about a new humanoid-robot cleaning service in San Francisco, I immediately signed&#8230;",
       "theme": "AI General",
       "category": "ai-business",
-      "fetched_at": "2026-11-08T12:19:31.517971"
+      "fetched_at": "2026-11-09T14:31:05.022721"
     }
   ],
-  "last_updated": "2026-11-08T12:19:33.199355",
+  "last_updated": "2026-11-09T14:31:06.591798",
   "total_count": 5
 }
