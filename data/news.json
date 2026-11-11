@@ -1,6 +1,56 @@
 {
   "articles": [
     {
+      "title": "Auditable Human-Agent Teams for Autonomous X-ray Experimentation",
+      "url": "https://arxiv.org/abs/2611.12933",
+      "source": "ArXiv AI",
+      "date": "Wed, 11 Nov 2026 00:00:00 -0500",
+      "synopsis": "arXiv:2611.12933v1 Announce Type: new  Abstract: Closed-loop autonomous experimentation can accelerate scientific discovery, but implementation effort limits accessibility. Agentic systems may lower this barrier, although sustained operation on physical instruments remains largely unexplored. Here,",
+      "theme": "AI + Business",
+      "category": "ai-tech",
+      "fetched_at": "2026-11-11T13:03:42.636384"
+    },
+    {
+      "title": "EarthRecord: From Pixels to Land Change with Multimodal Agents over Four Decades of Satellite Imagery",
+      "url": "https://arxiv.org/abs/2611.12934",
+      "source": "ArXiv AI",
+      "date": "Wed, 11 Nov 2026 00:00:00 -0500",
+      "synopsis": "arXiv:2611.12934v1 Announce Type: new  Abstract: While multimodal agents now carry out complex data analysis with tools, their ability to turn decades of satellite imagery into reliable land-change analysis, crucial for Earth observation science, remains unmeasured. Existing benchmarks fall short: t",
+      "theme": "AI + Business",
+      "category": "ai-tech",
+      "fetched_at": "2026-11-11T13:03:42.636401"
+    },
+    {
+      "title": "Train on prefill, monitor at decode: Using sparse autoencoders for topic monitoring",
+      "url": "https://arxiv.org/abs/2611.12935",
+      "source": "ArXiv AI",
+      "date": "Wed, 11 Nov 2026 00:00:00 -0500",
+      "synopsis": "arXiv:2611.12935v1 Announce Type: new  Abstract: Topic monitoring is the task of labelling the topic of each token in a model's response during generation. Activation-based monitors that run at generation time have so far been trained to detect harmful content and are limited to two or three classes",
+      "theme": "AI + Business",
+      "category": "ai-tech",
+      "fetched_at": "2026-11-11T13:03:42.636409"
+    },
+    {
+      "title": "LandslideFM: A Foundation Model Towards Unified Landslide Perception and Understanding",
+      "url": "https://arxiv.org/abs/2611.12936",
+      "source": "ArXiv AI",
+      "date": "Wed, 11 Nov 2026 00:00:00 -0500",
+      "synopsis": "arXiv:2611.12936v1 Announce Type: new  Abstract: Intelligent landslide detection is essential for disaster prevention. However, existing models primarily focus on isolated visual tasks, require extensive labeled data, and lack deep analytical and scene-understanding capabilities. To address these li",
+      "theme": "AI Technology",
+      "category": "ai-tech",
+      "fetched_at": "2026-11-11T13:03:42.636426"
+    },
+    {
+      "title": "Tracing Psychometric Inference in Large Language Models",
+      "url": "https://arxiv.org/abs/2611.12937",
+      "source": "ArXiv AI",
+      "date": "Wed, 11 Nov 2026 00:00:00 -0500",
+      "synopsis": "arXiv:2611.12937v1 Announce Type: new  Abstract: Do large language models represent psychological constructs internally, or do they only generate outputs that resemble psychometric structure? We address this question using a cross-persona paradigm across 14 model variants from two families (Llama 3",
+      "theme": "AI General",
+      "category": "ai-tech",
+      "fetched_at": "2026-11-11T13:03:42.636439"
+    },
+    {
       "title": "The Download: Pelosi’s successor targets AI and data centers face power woes",
       "url": "https://www.technologyreview.com/2026/11/10/1148150/the-download-pelosi-successor-ai-regulation-data-center-backlash/",
       "source": "MIT Technology Review - AI",
@@ -8,7 +58,7 @@
       "synopsis": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Nancy Pelosi’s replacement is ready to regulate AI —Grace Huckins As a California state senator, Scott Wiener authored legislation aimed at curbing th",
       "theme": "AI + Business",
       "category": "ai-business",
-      "fetched_at": "2026-11-10T13:52:05.301974"
+      "fetched_at": "2026-11-11T13:03:41.264276"
     },
     {
       "title": "Evolving metal extraction processes",
@@ -18,7 +68,7 @@
       "synopsis": "The metals industry has experienced transformational moments before: the Bessemer process, flash smelting, electric arc furnaces, and modern continuous casting all changed what was possible. Yet, for more than a century, most extraction processes rely on techniques and pathways that would be familia",
       "theme": "AI General",
       "category": "ai-business",
-      "fetched_at": "2026-11-10T13:52:05.302012"
+      "fetched_at": "2026-11-11T13:03:41.264305"
     },
     {
       "title": "The backlash about data centers might really just be about electricity",
@@ -28,7 +78,7 @@
       "synopsis": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. As voters went to the polls across the US last week, I was in Ashburn, Virginia, part of what’s known as Data Center Alley—the world’s largest data center hub. It",
       "theme": "AI + Business",
       "category": "ai-business",
-      "fetched_at": "2026-11-10T13:52:05.302027"
+      "fetched_at": "2026-11-11T13:03:41.264317"
     },
     {
       "title": "Nancy Pelosi’s replacement is ready to regulate AI",
@@ -38,7 +88,7 @@
       "synopsis": "As a California state senator, Scott Wiener authored legislation aimed at curbing the risks of advanced AI. Now, after winning a tight congressional race for former Speaker of the House Nancy Pelosi’s open San Francisco seat, he could play a key role in setting federal AI policy.&#160; I spoke with",
       "theme": "AI + Business",
       "category": "ai-business",
-      "fetched_at": "2026-11-10T13:52:05.302041"
+      "fetched_at": "2026-11-11T13:03:41.264327"
     },
     {
       "title": "The Download: empty AI climate claims, and an Nvidia investigation",
@@ -48,9 +98,9 @@
       "synopsis": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Opinion: The climate case for AI has not been made  —By Mary Nichols, distinguished counsel at the UCLA School of Law and the former chair of the Cali",
       "theme": "AI + Business",
       "category": "ai-business",
-      "fetched_at": "2026-11-10T13:52:05.302055"
+      "fetched_at": "2026-11-11T13:03:41.264336"
     }
   ],
-  "last_updated": "2026-11-10T13:52:06.543919",
-  "total_count": 5
+  "last_updated": "2026-11-11T13:03:42.695983",
+  "total_count": 10
 }
