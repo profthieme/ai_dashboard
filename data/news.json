@@ -1,54 +1,24 @@
 {
   "articles": [
     {
-      "title": "Auditable Human-Agent Teams for Autonomous X-ray Experimentation",
-      "url": "https://arxiv.org/abs/2611.12933",
-      "source": "ArXiv AI",
-      "date": "Wed, 11 Nov 2026 00:00:00 -0500",
-      "synopsis": "arXiv:2611.12933v1 Announce Type: new  Abstract: Closed-loop autonomous experimentation can accelerate scientific discovery, but implementation effort limits accessibility. Agentic systems may lower this barrier, although sustained operation on physical instruments remains largely unexplored. Here,",
+      "title": "What to know about this year’s UN climate talks",
+      "url": "https://www.technologyreview.com/2026/11/11/1148308/un-climate-talks/",
+      "source": "MIT Technology Review - AI",
+      "date": "Wed, 11 Nov 2026 17:00:00 +0000",
+      "synopsis": "It’s that time of year again: Thousands of delegates, lobbyists, and journalists are gathered for the annual UN climate talks, taking place this time in Antalya, Turkey. COP31 officially kicked off on November 8, marking the beginning of negotiations on one of the biggest stages of the climate world",
       "theme": "AI + Business",
-      "category": "ai-tech",
-      "fetched_at": "2026-11-11T13:03:42.636384"
+      "category": "ai-business",
+      "fetched_at": "2026-11-12T14:06:26.294535"
     },
     {
-      "title": "EarthRecord: From Pixels to Land Change with Multimodal Agents over Four Decades of Satellite Imagery",
-      "url": "https://arxiv.org/abs/2611.12934",
-      "source": "ArXiv AI",
-      "date": "Wed, 11 Nov 2026 00:00:00 -0500",
-      "synopsis": "arXiv:2611.12934v1 Announce Type: new  Abstract: While multimodal agents now carry out complex data analysis with tools, their ability to turn decades of satellite imagery into reliable land-change analysis, crucial for Earth observation science, remains unmeasured. Existing benchmarks fall short: t",
+      "title": "The Download: preserving minds and weighing open AI risks",
+      "url": "https://www.technologyreview.com/2026/11/11/1148424/the-download-preserving-minds-open-ai-risks/",
+      "source": "MIT Technology Review - AI",
+      "date": "Wed, 11 Nov 2026 13:10:00 +0000",
+      "synopsis": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Six wild ideas for perpetuating your mind As we age, we forget most of what we’ve experienced, yet there’s still undeniable continuity: At 30, or 50,",
       "theme": "AI + Business",
-      "category": "ai-tech",
-      "fetched_at": "2026-11-11T13:03:42.636401"
-    },
-    {
-      "title": "Train on prefill, monitor at decode: Using sparse autoencoders for topic monitoring",
-      "url": "https://arxiv.org/abs/2611.12935",
-      "source": "ArXiv AI",
-      "date": "Wed, 11 Nov 2026 00:00:00 -0500",
-      "synopsis": "arXiv:2611.12935v1 Announce Type: new  Abstract: Topic monitoring is the task of labelling the topic of each token in a model's response during generation. Activation-based monitors that run at generation time have so far been trained to detect harmful content and are limited to two or three classes",
-      "theme": "AI + Business",
-      "category": "ai-tech",
-      "fetched_at": "2026-11-11T13:03:42.636409"
-    },
-    {
-      "title": "LandslideFM: A Foundation Model Towards Unified Landslide Perception and Understanding",
-      "url": "https://arxiv.org/abs/2611.12936",
-      "source": "ArXiv AI",
-      "date": "Wed, 11 Nov 2026 00:00:00 -0500",
-      "synopsis": "arXiv:2611.12936v1 Announce Type: new  Abstract: Intelligent landslide detection is essential for disaster prevention. However, existing models primarily focus on isolated visual tasks, require extensive labeled data, and lack deep analytical and scene-understanding capabilities. To address these li",
-      "theme": "AI Technology",
-      "category": "ai-tech",
-      "fetched_at": "2026-11-11T13:03:42.636426"
-    },
-    {
-      "title": "Tracing Psychometric Inference in Large Language Models",
-      "url": "https://arxiv.org/abs/2611.12937",
-      "source": "ArXiv AI",
-      "date": "Wed, 11 Nov 2026 00:00:00 -0500",
-      "synopsis": "arXiv:2611.12937v1 Announce Type: new  Abstract: Do large language models represent psychological constructs internally, or do they only generate outputs that resemble psychometric structure? We address this question using a cross-persona paradigm across 14 model variants from two families (Llama 3",
-      "theme": "AI General",
-      "category": "ai-tech",
-      "fetched_at": "2026-11-11T13:03:42.636439"
+      "category": "ai-business",
+      "fetched_at": "2026-11-12T14:06:26.294548"
     },
     {
       "title": "The Download: Pelosi’s successor targets AI and data centers face power woes",
@@ -58,7 +28,7 @@
       "synopsis": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Nancy Pelosi’s replacement is ready to regulate AI —Grace Huckins As a California state senator, Scott Wiener authored legislation aimed at curbing th",
       "theme": "AI + Business",
       "category": "ai-business",
-      "fetched_at": "2026-11-11T13:03:41.264276"
+      "fetched_at": "2026-11-12T14:06:26.294561"
     },
     {
       "title": "Evolving metal extraction processes",
@@ -68,39 +38,19 @@
       "synopsis": "The metals industry has experienced transformational moments before: the Bessemer process, flash smelting, electric arc furnaces, and modern continuous casting all changed what was possible. Yet, for more than a century, most extraction processes rely on techniques and pathways that would be familia",
       "theme": "AI General",
       "category": "ai-business",
-      "fetched_at": "2026-11-11T13:03:41.264305"
+      "fetched_at": "2026-11-12T14:06:26.294582"
     },
     {
-      "title": "The backlash about data centers might really just be about electricity",
-      "url": "https://www.technologyreview.com/2026/11/09/1148194/the-backlash-about-data-centers-might-really-just-be-about-electricity/",
+      "title": "The Download: COP31’s climate challenge and the quest for immortality",
+      "url": "https://www.technologyreview.com/2026/11/12/1148444/the-download-cop31-climate-talks-cognitive-immortality/",
       "source": "MIT Technology Review - AI",
-      "date": "Mon, 09 Nov 2026 19:35:33 +0000",
-      "synopsis": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. As voters went to the polls across the US last week, I was in Ashburn, Virginia, part of what’s known as Data Center Alley—the world’s largest data center hub. It",
+      "date": "Thu, 12 Nov 2026 13:10:00 +0000",
+      "synopsis": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. What to know about this year’s UN climate talks Thousands of delegates, lobbyists, and journalists have gathered in Antalya, Turkey, for COP31, the an",
       "theme": "AI + Business",
       "category": "ai-business",
-      "fetched_at": "2026-11-11T13:03:41.264317"
-    },
-    {
-      "title": "Nancy Pelosi’s replacement is ready to regulate AI",
-      "url": "https://www.technologyreview.com/2026/11/09/1148182/nancy-pelosis-replacement-is-ready-to-regulate-ai/",
-      "source": "MIT Technology Review - AI",
-      "date": "Mon, 09 Nov 2026 17:05:43 +0000",
-      "synopsis": "As a California state senator, Scott Wiener authored legislation aimed at curbing the risks of advanced AI. Now, after winning a tight congressional race for former Speaker of the House Nancy Pelosi’s open San Francisco seat, he could play a key role in setting federal AI policy.&#160; I spoke with",
-      "theme": "AI + Business",
-      "category": "ai-business",
-      "fetched_at": "2026-11-11T13:03:41.264327"
-    },
-    {
-      "title": "The Download: empty AI climate claims, and an Nvidia investigation",
-      "url": "https://www.technologyreview.com/2026/11/09/1148176/the-download-empty-ai-climate-claims-and-an-nvidia-investigation/",
-      "source": "MIT Technology Review - AI",
-      "date": "Mon, 09 Nov 2026 13:15:00 +0000",
-      "synopsis": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Opinion: The climate case for AI has not been made  —By Mary Nichols, distinguished counsel at the UCLA School of Law and the former chair of the Cali",
-      "theme": "AI + Business",
-      "category": "ai-business",
-      "fetched_at": "2026-11-11T13:03:41.264336"
+      "fetched_at": "2026-11-12T14:06:26.294515"
     }
   ],
-  "last_updated": "2026-11-11T13:03:42.695983",
-  "total_count": 10
+  "last_updated": "2026-11-12T14:06:27.796686",
+  "total_count": 5
 }
