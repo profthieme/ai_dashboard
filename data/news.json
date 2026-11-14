@@ -1,16 +1,6 @@
 {
   "articles": [
     {
-      "title": "What to know about this year’s UN climate talks",
-      "url": "https://www.technologyreview.com/2026/11/11/1148308/un-climate-talks/",
-      "source": "MIT Technology Review - AI",
-      "date": "Wed, 11 Nov 2026 17:00:00 +0000",
-      "synopsis": "It’s that time of year again: Thousands of delegates, lobbyists, and journalists are gathered for the annual UN climate talks, taking place this time in Antalya, Turkey. COP31 officially kicked off on November 8, marking the beginning of negotiations on one of the biggest stages of the climate world",
-      "theme": "AI + Business",
-      "category": "ai-business",
-      "fetched_at": "2026-11-13T13:31:15.307164"
-    },
-    {
       "title": "Nvidia privately confirmed it could track chips to fight smuggling, even as industry publicly questioned feasibility",
       "url": "https://www.technologyreview.com/2026/11/12/1148483/nvidia-chip-tracking/",
       "source": "MIT Technology Review - AI",
@@ -18,7 +8,7 @@
       "synopsis": "Representatives from Nvidia told Illinois representative Bill Foster that it would be technically possible to implement the anti-smuggling measures called for in the Chip Security Act, Foster told MIT Technology Review in an interview on Thursday, even while an industry group claimed they were “pote",
       "theme": "AI + Business",
       "category": "ai-business",
-      "fetched_at": "2026-11-13T13:31:15.307141"
+      "fetched_at": "2026-11-14T12:36:57.042099"
     },
     {
       "title": "The Download: COP31’s climate challenge and the quest for immortality",
@@ -28,7 +18,67 @@
       "synopsis": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. What to know about this year’s UN climate talks Thousands of delegates, lobbyists, and journalists have gathered in Antalya, Turkey, for COP31, the an",
       "theme": "AI + Business",
       "category": "ai-business",
-      "fetched_at": "2026-11-13T13:31:15.307153"
+      "fetched_at": "2026-11-14T12:36:57.042106"
+    },
+    {
+      "title": "Zugwise: Domain-Aware Game Reconstruction for Digitizing Handwritten Chess Scoresheets",
+      "url": "https://arxiv.org/abs/2611.14544",
+      "source": "ArXiv AI",
+      "date": "Sat, 14 Nov 2026 00:00:00 -0500",
+      "synopsis": "arXiv:2611.14544v1 Announce Type: new  Abstract: Digitizing handwritten chess scoresheets has been studied as a handwriting-recognition problem: read the move in each box and check that it is legal. This framing misses the errors that matter most. A misread that yields an illegal move is loud. One t",
+      "theme": "AI + Business",
+      "category": "ai-tech",
+      "fetched_at": "2026-11-14T12:36:59.075390"
+    },
+    {
+      "title": "Cleaning an Agent's History Hurts When the World Still Holds the Error",
+      "url": "https://arxiv.org/abs/2611.14654",
+      "source": "ArXiv AI",
+      "date": "Sat, 14 Nov 2026 00:00:00 -0500",
+      "synopsis": "arXiv:2611.14654v1 Announce Type: new  Abstract: Tool-using language-model agents accumulate histories of their own mistakes, and a system that compacts, repairs or hands off such a history decides what it says about those mistakes while their effects stay in the world. Prior work cleans the history",
+      "theme": "AI + Business",
+      "category": "ai-tech",
+      "fetched_at": "2026-11-14T12:36:59.075406"
+    },
+    {
+      "title": "Together Compiler: Continual Compilation for AI Inference",
+      "url": "https://arxiv.org/abs/2611.14681",
+      "source": "ArXiv AI",
+      "date": "Sat, 14 Nov 2026 00:00:00 -0500",
+      "synopsis": "arXiv:2611.14681v1 Announce Type: new  Abstract: Today's AI workloads are rapidly changing: new models are released more often, model architectures are increasingly diverse, and traffic distributions change frequently. The challenge we face at Together AI is continual optimization for these changing",
+      "theme": "AI + Business",
+      "category": "ai-tech",
+      "fetched_at": "2026-11-14T12:36:59.075414"
+    },
+    {
+      "title": "When Should Semantic Priors Enter Partially-Identified Causal Discovery?",
+      "url": "https://arxiv.org/abs/2611.14736",
+      "source": "ArXiv AI",
+      "date": "Sat, 14 Nov 2026 00:00:00 -0500",
+      "synopsis": "arXiv:2611.14736v1 Announce Type: new  Abstract: Observational causal discovery often leaves causal di- rections unresolved or unstable. Large language mod- els (LLMs) can provide semantic information to resolve these directions, but incorrect proposals can exclude the true causal graph and invalida",
+      "theme": "AI + Business",
+      "category": "ai-tech",
+      "fetched_at": "2026-11-14T12:36:59.075421"
+    },
+    {
+      "title": "SynthCorp: A Platform for Creating Benchmarks for Data Agents",
+      "url": "https://arxiv.org/abs/2611.14765",
+      "source": "ArXiv AI",
+      "date": "Sat, 14 Nov 2026 00:00:00 -0500",
+      "synopsis": "arXiv:2611.14765v1 Announce Type: new  Abstract: Current benchmarks for LLM-driven data agents saturate quickly and cannot target specific capabilities. We present SynthCorp, a platform that creates customizable data estates and benchmarks by simulating how business events produce and modify corpora",
+      "theme": "AI + Business",
+      "category": "ai-tech",
+      "fetched_at": "2026-11-14T12:36:59.075428"
+    },
+    {
+      "title": "The Download: Silicon Valley’s blind spot and Nvidia’s chip-tracking plan",
+      "url": "https://www.technologyreview.com/2026/11/13/1148551/the-download-silicon-valley-midterms-nvidia-chip-tracking/",
+      "source": "MIT Technology Review - AI",
+      "date": "Fri, 13 Nov 2026 13:10:00 +0000",
+      "synopsis": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Silicon Valley claims to know the future. So why did it get the midterms so wrong? —Aaron Zamost, a tech communications consultant and a former execut",
+      "theme": "AI + Business",
+      "category": "ai-business",
+      "fetched_at": "2026-11-14T12:36:57.042067"
     },
     {
       "title": "More autonomy, fewer NDAs: Volunteers have new requests for brain implant trials",
@@ -38,7 +88,7 @@
       "synopsis": "Scientists have been working on ways to decode brain activity for decades. Teams have developed brain implants that can be used to control robotic limbs and computers, and even to “speak.” The people who volunteer for trials of those devices play a vital role in that research, and they ought to be r",
       "theme": "AI + Business",
       "category": "ai-business",
-      "fetched_at": "2026-11-13T13:31:15.307108"
+      "fetched_at": "2026-11-14T12:36:57.042082"
     },
     {
       "title": "Silicon Valley claims to know the future. So why did it get the midterms so wrong?",
@@ -48,9 +98,9 @@
       "synopsis": "The self-styled visionaries of Silicon Valley, leaders like OpenAI chief executive Sam Altman and SpaceX boss Elon Musk, have built careers claiming to see the future. Long-term vision is currency: Meta’s Mark Zuckerberg built a 10-year road map for Facebook in 2016, and Google famously told investo",
       "theme": "AI + Business",
       "category": "ai-business",
-      "fetched_at": "2026-11-13T13:31:15.307127"
+      "fetched_at": "2026-11-14T12:36:57.042091"
     }
   ],
-  "last_updated": "2026-11-13T13:31:17.037556",
-  "total_count": 5
+  "last_updated": "2026-11-14T12:36:59.110544",
+  "total_count": 10
 }
