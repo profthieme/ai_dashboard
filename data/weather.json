@@ -1,12 +1,12 @@
 {
-  "dateutc": 1794831360000,
-  "baromrelin": 30.41,
-  "baromabsin": 30.21,
-  "tempinf": 66.7,
-  "humidityin": 36,
-  "feelsLikein": 66.7,
-  "dewPointin": 38.9,
+  "dateutc": 1794868680000,
+  "baromrelin": 30.35,
+  "baromabsin": 30.15,
+  "tempinf": 69.3,
+  "humidityin": 39,
+  "feelsLikein": 67.8,
+  "dewPointin": 43.3,
   "lastRain": "2026-11-04T09:20:00.000Z",
   "tz": "America/Chicago",
-  "date": "2026-11-16T12:16:00.000Z"
+  "date": "2026-11-16T22:38:00.000Z"
 }
