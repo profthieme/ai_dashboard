@@ -8,17 +8,67 @@
       "synopsis": "Representatives from Nvidia told Illinois representative Bill Foster that it would be technically possible to implement the anti-smuggling measures called for in the Chip Security Act, Foster told MIT Technology Review in an interview on Thursday, even while an industry group claimed they were “pote",
       "theme": "AI + Business",
       "category": "ai-business",
-      "fetched_at": "2026-11-15T13:02:49.842274"
+      "fetched_at": "2026-11-16T14:08:03.838222"
     },
     {
-      "title": "The Download: COP31’s climate challenge and the quest for immortality",
-      "url": "https://www.technologyreview.com/2026/11/12/1148444/the-download-cop31-climate-talks-cognitive-immortality/",
+      "title": "The Download: testing tech promises and searching for cognitive immortality",
+      "url": "https://www.technologyreview.com/2026/11/16/1148599/the-download-testing-tech-promises-cognitive-immortality-quest/",
       "source": "MIT Technology Review - AI",
-      "date": "Thu, 12 Nov 2026 13:10:00 +0000",
-      "synopsis": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. What to know about this year’s UN climate talks Thousands of delegates, lobbyists, and journalists have gathered in Antalya, Turkey, for COP31, the an",
+      "date": "Mon, 16 Nov 2026 13:10:00 +0000",
+      "synopsis": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Are we there yet? Six technologies that promised to change the world How do you measure progress towards the future? In the Impossible issue of MIT Te",
       "theme": "AI + Business",
       "category": "ai-business",
-      "fetched_at": "2026-11-15T13:02:49.842283"
+      "fetched_at": "2026-11-16T14:08:03.838178"
+    },
+    {
+      "title": "When Should LLM Agents Forget? Memory Filtering Under Query-Critical Resolver Errors",
+      "url": "https://arxiv.org/abs/2611.17338",
+      "source": "ArXiv AI",
+      "date": "Mon, 16 Nov 2026 00:00:00 -0500",
+      "synopsis": "arXiv:2611.17338v1 Announce Type: new  Abstract: LLM memory systems often delete facts classified as stale. We show that this hard-filtering step can reduce downstream accuracy when resolver errors delete query-critical facts. Across three models, a controlled sensitivity intervention moves hard-dro",
+      "theme": "AI + Business",
+      "category": "ai-tech",
+      "fetched_at": "2026-11-16T14:08:05.856456"
+    },
+    {
+      "title": "Does the Ranking Hold? A Practitioner-Facing Audit of Hallucination Detectors on Small, Quantized, On-Device LLMs",
+      "url": "https://arxiv.org/abs/2611.17339",
+      "source": "ArXiv AI",
+      "date": "Mon, 16 Nov 2026 00:00:00 -0500",
+      "synopsis": "arXiv:2611.17339v1 Announce Type: new  Abstract: Hallucination detection for large language models is dominated by methods evaluated on 7B-70B research models with abundant sampling budgets and exact-match or ROUGE correctness labels. The small models practitioners actually ship on-device, Phi-3-min",
+      "theme": "AI + Business",
+      "category": "ai-tech",
+      "fetched_at": "2026-11-16T14:08:05.856473"
+    },
+    {
+      "title": "LoRAWeaver: Directional Adapter Routing in LoRA Representation Space",
+      "url": "https://arxiv.org/abs/2611.17340",
+      "source": "ArXiv AI",
+      "date": "Mon, 16 Nov 2026 00:00:00 -0500",
+      "synopsis": "arXiv:2611.17340v1 Announce Type: new  Abstract: Large language models are expensive to update through full retraining. Parameter-efficient fine-tuning reduces the cost of adaptation, but repeated adaptation creates a growing pool of task-specific LoRA adapters. This pool complicates adapter selecti",
+      "theme": "AI + Business",
+      "category": "ai-tech",
+      "fetched_at": "2026-11-16T14:08:05.856482"
+    },
+    {
+      "title": "Tabular Population Priors as Structured Retrieval for EHR Medication Set Prediction",
+      "url": "https://arxiv.org/abs/2611.17341",
+      "source": "ArXiv AI",
+      "date": "Mon, 16 Nov 2026 00:00:00 -0500",
+      "synopsis": "arXiv:2611.17341v1 Announce Type: new  Abstract: Medication prediction from electronic health records is a fixed vocabulary structured prediction problem, yet recent clinical RAG systems often treat it like open ended case based reasoning: retrieve similar patient admissions and ask an LLM to infer",
+      "theme": "AI + Business",
+      "category": "ai-tech",
+      "fetched_at": "2026-11-16T14:08:05.856489"
+    },
+    {
+      "title": "An Operationalization of Opaque Serial Depth",
+      "url": "https://arxiv.org/abs/2611.17495",
+      "source": "ArXiv AI",
+      "date": "Mon, 16 Nov 2026 00:00:00 -0500",
+      "synopsis": "arXiv:2611.17495v1 Announce Type: new  Abstract: Chain-of-thought (CoT) is currently a valuable tool for overseeing AI models, but some architectural shifts could significantly reduce CoT monitorability. We operationalize a measure that serves as a proxy for the amount of unverbalized serial cogniti",
+      "theme": "AI + Business",
+      "category": "ai-tech",
+      "fetched_at": "2026-11-16T14:08:05.856496"
     },
     {
       "title": "The Download: Silicon Valley’s blind spot and Nvidia’s chip-tracking plan",
@@ -28,7 +78,7 @@
       "synopsis": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Silicon Valley claims to know the future. So why did it get the midterms so wrong? —Aaron Zamost, a tech communications consultant and a former execut",
       "theme": "AI + Business",
       "category": "ai-business",
-      "fetched_at": "2026-11-15T13:02:49.842231"
+      "fetched_at": "2026-11-16T14:08:03.838196"
     },
     {
       "title": "More autonomy, fewer NDAs: Volunteers have new requests for brain implant trials",
@@ -38,7 +88,7 @@
       "synopsis": "Scientists have been working on ways to decode brain activity for decades. Teams have developed brain implants that can be used to control robotic limbs and computers, and even to “speak.” The people who volunteer for trials of those devices play a vital role in that research, and they ought to be r",
       "theme": "AI + Business",
       "category": "ai-business",
-      "fetched_at": "2026-11-15T13:02:49.842251"
+      "fetched_at": "2026-11-16T14:08:03.838205"
     },
     {
       "title": "Silicon Valley claims to know the future. So why did it get the midterms so wrong?",
@@ -48,9 +98,9 @@
       "synopsis": "The self-styled visionaries of Silicon Valley, leaders like OpenAI chief executive Sam Altman and SpaceX boss Elon Musk, have built careers claiming to see the future. Long-term vision is currency: Meta’s Mark Zuckerberg built a 10-year road map for Facebook in 2016, and Google famously told investo",
       "theme": "AI + Business",
       "category": "ai-business",
-      "fetched_at": "2026-11-15T13:02:49.842262"
+      "fetched_at": "2026-11-16T14:08:03.838213"
     }
   ],
-  "last_updated": "2026-11-15T13:02:51.139821",
-  "total_count": 5
+  "last_updated": "2026-11-16T14:08:05.892839",
+  "total_count": 10
 }
