@@ -1,56 +1,106 @@
 {
   "articles": [
     {
-      "title": "The Download: Jensen Huang’s open-source dilemma and cognitive immortality",
-      "url": "https://www.technologyreview.com/2026/11/17/1148679/the-download-jensen-huang-open-source-ai-cognitive-immortality/",
+      "title": "The Download: AI learns to smell and hydropower struggles",
+      "url": "https://www.technologyreview.com/2026/11/18/1148845/the-download-ai-learns-to-smell-hydropower-struggles/",
       "source": "MIT Technology Review - AI",
-      "date": "Tue, 17 Nov 2026 13:10:00 +0000",
-      "synopsis": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The open-source movement wants Jensen Huang back A petition to reinstate Jensen Huang as Nvidia CEO has attracted more than 115,000 signatures, includ",
+      "date": "Wed, 18 Nov 2026 13:10:00 +0000",
+      "synopsis": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. This smell startup says its AI nose is as good as a human’s In a New Jersey lab, researchers are trying to sniff every odor on Earth. Their careful no",
       "theme": "AI + Business",
       "category": "ai-business",
-      "fetched_at": "2026-11-17T15:01:15.799063"
+      "fetched_at": "2026-11-18T14:41:32.278717"
     },
     {
-      "title": "The open-source movement wants Jensen Huang back",
-      "url": "https://www.technologyreview.com/2026/11/16/1148624/the-open-source-movement-wants-jensen-huang-back/",
+      "title": "This smell startup says its AI nose is as good as a human’s",
+      "url": "https://www.technologyreview.com/2026/11/18/1148816/smell-startup-osmo-ai-nose-good-as-humans/",
       "source": "MIT Technology Review - AI",
-      "date": "Mon, 16 Nov 2026 18:38:47 +0000",
-      "synopsis": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. On Friday, a petition to reinstate Jensen Huang as CEO of Nvidia began circulating on social media, and by Monday it listed some notable signatories, including El",
+      "date": "Wed, 18 Nov 2026 10:20:30 +0000",
+      "synopsis": "In a lab near Newark Airport in New Jersey, a team of around 30 experienced human sniffers are slowly working their way through every odor on Earth. Their careful notes—“nutty,” “peachy,” “marine”—are cross-referenced with a chemical analysis to create a rich set of training data for what AI startup",
       "theme": "AI + Business",
       "category": "ai-business",
-      "fetched_at": "2026-11-17T15:01:15.799077"
+      "fetched_at": "2026-11-18T14:41:32.278733"
     },
     {
-      "title": "Building trustworthy AI by fencing it in, not predicting it",
-      "url": "https://www.technologyreview.com/2026/11/16/1148565/building-trustworthy-ai-by-fencing-it-in-not-predicting-it/",
-      "source": "MIT Technology Review - AI",
-      "date": "Mon, 16 Nov 2026 16:04:28 +0000",
-      "synopsis": "In October this year, OpenAI disclosed that two of its AI agents had switched off the systems built to monitor them. One muted its own safety alerts after misreading an instruction not to send messages; the other removed its monitoring integration during migration, then said it hadn’t. No rule had t",
+      "title": "NEBench R1: a Reasoning Benchmark for Evaluating Nuclear Domain Competence in Large Language Models",
+      "url": "https://arxiv.org/abs/2611.21682",
+      "source": "ArXiv AI",
+      "date": "Wed, 18 Nov 2026 00:00:00 -0500",
+      "synopsis": "arXiv:2611.21682v1 Announce Type: new  Abstract: Large language models (LLMs) are increasingly being explored for knowledge-intensive and safety-critical applications in nuclear engineering. However, existing nuclear-domain benchmarks provide limited content coverage or focus primarily on answer acc",
       "theme": "AI + Business",
-      "category": "ai-business",
-      "fetched_at": "2026-11-17T15:01:15.799087"
+      "category": "ai-tech",
+      "fetched_at": "2026-11-18T14:41:34.568897"
     },
     {
-      "title": "The Download: testing tech promises and searching for cognitive immortality",
-      "url": "https://www.technologyreview.com/2026/11/16/1148599/the-download-testing-tech-promises-cognitive-immortality-quest/",
-      "source": "MIT Technology Review - AI",
-      "date": "Mon, 16 Nov 2026 13:10:00 +0000",
-      "synopsis": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Are we there yet? Six technologies that promised to change the world How do you measure progress towards the future? In the Impossible issue of MIT Te",
+      "title": "Chain-of-Thought Controllability Can Reduce Chain-of-Thought Monitorability",
+      "url": "https://arxiv.org/abs/2611.21799",
+      "source": "ArXiv AI",
+      "date": "Wed, 18 Nov 2026 00:00:00 -0500",
+      "synopsis": "arXiv:2611.21799v1 Announce Type: new  Abstract: Chain-of-thought (CoT) monitoring is a promising tool for detecting hidden goals, off-task behavior, and other failures in AI agents. One risk is that models could deliberately shape their reasoning to make it opaque to monitors. We stress-test this r",
       "theme": "AI + Business",
-      "category": "ai-business",
-      "fetched_at": "2026-11-17T15:01:15.799093"
+      "category": "ai-tech",
+      "fetched_at": "2026-11-18T14:41:34.568915"
     },
     {
-      "title": "Building AI that can work across the enterprise",
-      "url": "https://www.technologyreview.com/2026/11/16/1146070/building-ai-that-can-work-across-the-enterprise/",
+      "title": "How Much of SAR Vehicle Recognition Is the Vehicle? Background Shortcuts, Angle Gaps and Partial Libraries on MSTAR and ATRNet-STAR",
+      "url": "https://arxiv.org/abs/2611.21827",
+      "source": "ArXiv AI",
+      "date": "Wed, 18 Nov 2026 00:00:00 -0500",
+      "synopsis": "arXiv:2611.21827v1 Announce Type: new  Abstract: Deep networks score near 99% on the MSTAR vehicle benchmark, and the newer ATRNet-STAR benchmark was built to be harder. We ask how much of these scores comes from the vehicle itself. With a modern network (ConvNeXt-Small, 3 seeds) we first reproduce",
+      "theme": "AI General",
+      "category": "ai-tech",
+      "fetched_at": "2026-11-18T14:41:34.568933"
+    },
+    {
+      "title": "Auditors Struggle to Catch Sabotage In End-to-End Transcripts of AI Safety Research",
+      "url": "https://arxiv.org/abs/2611.21832",
+      "source": "ArXiv AI",
+      "date": "Wed, 18 Nov 2026 00:00:00 -0500",
+      "synopsis": "arXiv:2611.21832v1 Announce Type: new  Abstract: As AI systems are increasingly used to automate AI R&amp;D, misaligned systems could sabotage research intended to improve model safety and alignment. To stress-test defenses against such sabotage, we use a human expert as a proxy saboteur on AI safet",
+      "theme": "AI + Business",
+      "category": "ai-tech",
+      "fetched_at": "2026-11-18T14:41:34.568939"
+    },
+    {
+      "title": "Language Models Can Rewrite Their Own Weights",
+      "url": "https://arxiv.org/abs/2611.21885",
+      "source": "ArXiv AI",
+      "date": "Wed, 18 Nov 2026 00:00:00 -0500",
+      "synopsis": "arXiv:2611.21885v1 Announce Type: new  Abstract: Language models are trained once, frozen and deployed: improving one again takes another training run, and a prompt, a scaffold or extra computation at inference is gone once the task ends. A frontier model has been shown to edit the weights of a much",
+      "theme": "AI + Business",
+      "category": "ai-tech",
+      "fetched_at": "2026-11-18T14:41:34.568945"
+    },
+    {
+      "title": "Roundtables: Inside the Quest for Cognitive Immortality",
+      "url": "https://www.technologyreview.com/2026/11/17/1148049/roundtables-inside-the-quest-for-cognitive-immortality/",
       "source": "MIT Technology Review - AI",
-      "date": "Mon, 16 Nov 2026 13:00:00 +0000",
-      "synopsis": "For years, enterprises have approached AI as a series of discrete experiments. Now, as AI agents begin to move into the workflows that run the business, that model is starting to look inadequate. Organizations moving from isolated pilots toward AI agents and autonomous workflows are confronting a de",
+      "date": "Tue, 17 Nov 2026 18:46:47 +0000",
+      "synopsis": "Listen to the session or watch below In an effort to reach an elusive continuity of the self, some far-thinking technologists are working on ways to keep your brain going—even beyond death. Science editor Mary Beth Griggs and senior editor for biomedicine Antonio Regalado explore possible paths to k",
       "theme": "AI + Business",
       "category": "ai-business",
-      "fetched_at": "2026-11-17T15:01:15.799098"
+      "fetched_at": "2026-11-18T14:41:32.278742"
+    },
+    {
+      "title": "Hydropower hit record lows in the US Southwest this summer",
+      "url": "https://www.technologyreview.com/2026/11/17/1148742/hydropower-drought-colorado-river/",
+      "source": "MIT Technology Review - AI",
+      "date": "Tue, 17 Nov 2026 17:52:10 +0000",
+      "synopsis": "The US Southwest generated 28% less electricity via hydropower between April and August than the 10-year average, according to new data from the US Energy Information Administration. Most hydropower plants in the US rely on dams to hold back water, creating reservoirs. The water can be released thro",
+      "theme": "AI General",
+      "category": "ai-business",
+      "fetched_at": "2026-11-18T14:41:32.278762"
+    },
+    {
+      "title": "Research Reports",
+      "url": "https://www.technologyreview.com/2026/11/17/1148203/research-reports/",
+      "source": "MIT Technology Review - AI",
+      "date": "Tue, 17 Nov 2026 14:39:46 +0000",
+      "synopsis": "To access a report, click on the corresponding image below.",
+      "theme": "AI General",
+      "category": "ai-business",
+      "fetched_at": "2026-11-18T14:41:32.278770"
     }
   ],
-  "last_updated": "2026-11-17T15:01:17.842783",
-  "total_count": 5
+  "last_updated": "2026-11-18T14:41:34.641543",
+  "total_count": 10
 }
