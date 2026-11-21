@@ -1,16 +1,6 @@
 {
   "articles": [
     {
-      "title": "The AI Hype Index: AI is everywhere",
-      "url": "https://www.technologyreview.com/2026/11/18/1148650/ai-hype-index-ai-is-everywhere/",
-      "source": "MIT Technology Review - AI",
-      "date": "Wed, 18 Nov 2026 14:42:44 +0000",
-      "synopsis": "Like a nasty rash, AI seems to spread everywhere. Google crams AI Overviews down your throat even though it costs the company billions of dollars in lost ad revenue. Leave your apartment, and you might pass two people heaving an AI-powered humanoid robot up the stairs to clean someone’s rooms. Go to",
-      "theme": "AI + Business",
-      "category": "ai-business",
-      "fetched_at": "2026-11-20T14:29:33.185451"
-    },
-    {
       "title": "The Download: a living liver, a billion-dollar battery deal, and AI hype",
       "url": "https://www.technologyreview.com/2026/11/19/1148979/the-download-liver-kept-alive-sila-battery-deal-ai-hype/",
       "source": "MIT Technology Review - AI",
@@ -18,7 +8,7 @@
       "synopsis": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. A human liver has been kept alive outside the body for a record seven weeks Researchers in Australia claim they’ve kept a human liver alive on life su",
       "theme": "AI + Business",
       "category": "ai-business",
-      "fetched_at": "2026-11-20T14:29:33.185425"
+      "fetched_at": "2026-11-21T13:48:24.246061"
     },
     {
       "title": "A human liver has been kept alive outside the body for a record seven weeks",
@@ -28,7 +18,7 @@
       "synopsis": "Researchers in Australia claim they’ve kept a human liver alive, on life support, outside the body for seven weeks, opening up speculative new possibilities in biomedical engineering. The feat, whose details are pending publication, was carried out in Sydney after a team led by surgeon and inventor",
       "theme": "AI + Business",
       "category": "ai-business",
-      "fetched_at": "2026-11-20T14:29:33.185434"
+      "fetched_at": "2026-11-21T13:48:24.246073"
     },
     {
       "title": "What a billion-dollar deal says about the US battery market",
@@ -38,7 +28,17 @@
       "synopsis": "After a tough few years littered with some high-profile failures, there’s some positive news for next-generation batteries in the US. Sila just signed an agreement with Panasonic Energy, a global battery manufacturer, to supply silicon-carbon anode material, a possible key to smaller, lighter batter",
       "theme": "AI + Business",
       "category": "ai-business",
-      "fetched_at": "2026-11-20T14:29:33.185442"
+      "fetched_at": "2026-11-21T13:48:24.246085"
+    },
+    {
+      "title": "The most misunderstood graph in AI just got a major update",
+      "url": "https://www.technologyreview.com/2026/11/20/1149399/the-most-misunderstood-graph-in-ai-just-got-a-major-update/",
+      "source": "MIT Technology Review - AI",
+      "date": "Fri, 20 Nov 2026 18:15:15 +0000",
+      "synopsis": "A new report from the AI evaluation nonprofit METR finds that some AI capabilities are continuing to improve along an exponential trajectory—but it also indicates that models aren’t quite as good at tasks that require judgment as they are at coding.  The report is an update to the organization’s tim",
+      "theme": "AI + Business",
+      "category": "ai-business",
+      "fetched_at": "2026-11-21T13:48:24.246031"
     },
     {
       "title": "The Download: inside the quest to make our minds immortal",
@@ -48,59 +48,9 @@
       "synopsis": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. What we learned when our Roundtables explored the quest to make minds immortal To preserve our sense of self, some scientists are working on ways to k",
       "theme": "AI + Business",
       "category": "ai-business",
-      "fetched_at": "2026-11-20T14:29:33.185407"
-    },
-    {
-      "title": "Human-AI Mutualism Is Unstable under Capability Asymmetry",
-      "url": "https://arxiv.org/abs/2611.23322",
-      "source": "ArXiv AI",
-      "date": "Fri, 20 Nov 2026 00:00:00 -0500",
-      "synopsis": "arXiv:2611.23322v1 Announce Type: new  Abstract: One hope for a good human future alongside advanced AI rests on enduring mutualism: humans and AI will need each other, so the relationship will stay good for both. We argue that this hope fails as AI capability grows. Bargaining guarantees each side",
-      "theme": "AI + Business",
-      "category": "ai-tech",
-      "fetched_at": "2026-11-20T14:29:34.258910"
-    },
-    {
-      "title": "Training Language Models for Introspective Oversight",
-      "url": "https://arxiv.org/abs/2611.23365",
-      "source": "ArXiv AI",
-      "date": "Fri, 20 Nov 2026 00:00:00 -0500",
-      "synopsis": "arXiv:2611.23365v1 Announce Type: new  Abstract: Language models increasingly exhibit behaviors that are difficult to detect in transcripts, such as reward hacking, deception, and sycophancy. Asking the assistant follow-up questions about its actions is unreliable, since models are generally not tra",
-      "theme": "AI + Business",
-      "category": "ai-tech",
-      "fetched_at": "2026-11-20T14:29:34.258924"
-    },
-    {
-      "title": "Where the Tokens Go: Heat, Entropy and Error in Agentic Coding",
-      "url": "https://arxiv.org/abs/2611.23375",
-      "source": "ArXiv AI",
-      "date": "Fri, 20 Nov 2026 00:00:00 -0500",
-      "synopsis": "arXiv:2611.23375v1 Announce Type: new  Abstract: Coding agents are billed by the token, yet software engineering says nothing about what a token actually buys. Here we introduce a theory of software thermodynamics. The theory draws analogues from classical and stochastic thermodynamics, extends them",
-      "theme": "AI General",
-      "category": "ai-tech",
-      "fetched_at": "2026-11-20T14:29:34.258943"
-    },
-    {
-      "title": "HardwareDx: A Foundational Graph Model System for Datacenter Machine Repairs",
-      "url": "https://arxiv.org/abs/2611.23398",
-      "source": "ArXiv AI",
-      "date": "Fri, 20 Nov 2026 00:00:00 -0500",
-      "synopsis": "arXiv:2611.23398v1 Announce Type: new  Abstract: The rapid scale-up of AI infrastructure has made datacenter reliability a cornerstone of the cloud business economy. Since hardware failures in hyper-scale AI clusters can stall multi-million dollar training workloads, the downtime of individual machi",
-      "theme": "AI + Business",
-      "category": "ai-tech",
-      "fetched_at": "2026-11-20T14:29:34.258950"
-    },
-    {
-      "title": "RFBench: A Simulator-Grounded Multimodal Benchmark for Passive RF Layout Design and Understanding",
-      "url": "https://arxiv.org/abs/2611.23410",
-      "source": "ArXiv AI",
-      "date": "Fri, 20 Nov 2026 00:00:00 -0500",
-      "synopsis": "arXiv:2611.23410v1 Announce Type: new  Abstract: While multimodal language models can interpret diagrams and generate structured outputs, their capacity to connect passive radio-frequency (RF) design intent, layout geometry, and electromagnetic behavior remains largely untested. To address this gap,",
-      "theme": "AI + Business",
-      "category": "ai-tech",
-      "fetched_at": "2026-11-20T14:29:34.258957"
+      "fetched_at": "2026-11-21T13:48:24.246048"
     }
   ],
-  "last_updated": "2026-11-20T14:29:34.279353",
-  "total_count": 10
+  "last_updated": "2026-11-21T13:48:26.049737",
+  "total_count": 5
 }
