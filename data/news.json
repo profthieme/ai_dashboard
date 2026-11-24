@@ -1,14 +1,44 @@
 {
   "articles": [
     {
-      "title": "The Download: a living liver, a billion-dollar battery deal, and AI hype",
-      "url": "https://www.technologyreview.com/2026/11/19/1148979/the-download-liver-kept-alive-sila-battery-deal-ai-hype/",
+      "title": "Raising the stakes for enterprise networks with AI modernization",
+      "url": "https://www.technologyreview.com/2026/11/24/1148091/raising-the-stakes-for-enterprise-networks-with-ai-modernization/",
       "source": "MIT Technology Review - AI",
-      "date": "Thu, 19 Nov 2026 13:10:00 +0000",
-      "synopsis": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. A human liver has been kept alive outside the body for a record seven weeks Researchers in Australia claim they’ve kept a human liver alive on life su",
+      "date": "Tue, 24 Nov 2026 15:15:16 +0000",
+      "synopsis": "Enterprise networks are under severe strain. As companies rush to deploy artificial intelligence, the technology is quickly becoming the biggest source of demand on the network. Now, agentic AI is adding to the load. Tasks conducted by AI agents generate an estimated 450% more network traffic than t",
       "theme": "AI + Business",
       "category": "ai-business",
-      "fetched_at": "2026-11-23T16:40:45.096601"
+      "fetched_at": "2026-11-24T16:36:37.444075"
+    },
+    {
+      "title": "The Download: AI’s gas power boom and a consciousness reality check",
+      "url": "https://www.technologyreview.com/2026/11/24/1149669/the-download-data-centers-gas-ai-consciousness/",
+      "source": "MIT Technology Review - AI",
+      "date": "Tue, 24 Nov 2026 13:10:00 +0000",
+      "synopsis": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Data centers are getting their own natural gas power plants One of the biggest obstacles to building a data center is getting approval to connect to t",
+      "theme": "AI + Business",
+      "category": "ai-business",
+      "fetched_at": "2026-11-24T16:36:37.444099"
+    },
+    {
+      "title": "Data centers are getting their own natural gas power plants",
+      "url": "https://www.technologyreview.com/2026/11/24/1149622/data-centers-natural-gas/",
+      "source": "MIT Technology Review - AI",
+      "date": "Tue, 24 Nov 2026 11:00:00 +0000",
+      "synopsis": "One of the biggest roadblocks to starting up a data center is getting approval to connect to the electric grid—a wait that could last as long as a decade. Some developers aren’t willing to wait and are instead opting to build their own off-grid, or behind-the-meter, gas power plants to fuel the AI b",
+      "theme": "AI + Business",
+      "category": "ai-business",
+      "fetched_at": "2026-11-24T16:36:37.444111"
+    },
+    {
+      "title": "A legendary philosopher isn’t buying Anthropic’s consciousness argument",
+      "url": "https://www.technologyreview.com/2026/11/23/1149569/a-legendary-philosopher-isnt-buying-anthropics-consciousness-argument/",
+      "source": "MIT Technology Review - AI",
+      "date": "Mon, 23 Nov 2026 17:36:08 +0000",
+      "synopsis": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Before going public last week, Anthropic named the possibility that AI could be conscious or sentient as a risk factor for anyone investing. Given “the way we app",
+      "theme": "AI + Business",
+      "category": "ai-business",
+      "fetched_at": "2026-11-24T16:36:37.444122"
     },
     {
       "title": "The Download: AI’s judgment problem and carbon removal’s crop threat",
@@ -18,89 +48,9 @@
       "synopsis": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The most misunderstood graph in AI just got a major update A new report from the AI evaluation nonprofit METR finds that some capabilities are improvi",
       "theme": "AI + Business",
       "category": "ai-business",
-      "fetched_at": "2026-11-23T16:40:45.096566"
-    },
-    {
-      "title": "Why using rocks for carbon removal could eventually reduce crop growth",
-      "url": "https://www.technologyreview.com/2026/11/23/1149392/why-using-rocks-for-carbon-removal-could-eventually-reduce-crop-growth/",
-      "source": "MIT Technology Review - AI",
-      "date": "Mon, 23 Nov 2026 11:00:00 +0000",
-      "synopsis": "Tech companies are investing a lot of hope and money in rocks. Google, Microsoft, and others have committed hundreds of millions of dollars to get startups to spread crushed basalt, olivine, or other alkaline materials across farms, in an effort to capture carbon from the air and lock it away. A num",
-      "theme": "AI + Business",
-      "category": "ai-business",
-      "fetched_at": "2026-11-23T16:40:45.096579"
-    },
-    {
-      "title": "Adding One More Agent: How AI Team Size and Formation Shape Productivity and Diversity in Human-AI Brainstorming Teams",
-      "url": "https://arxiv.org/abs/2611.26663",
-      "source": "ArXiv AI",
-      "date": "Mon, 23 Nov 2026 00:00:00 -0500",
-      "synopsis": "arXiv:2611.26663v1 Announce Type: new  Abstract: Generative AI has improved individual productivity, but whether adding a plurality of AI partners helps or hurts remains open. We crossed AI partnership (one versus two) with behavioral formation (calibrated to average human behavior versus customized",
-      "theme": "AI + Business",
-      "category": "ai-tech",
-      "fetched_at": "2026-11-23T16:40:46.982863"
-    },
-    {
-      "title": "Coherence by Construction: Synthesizing CTI Knowledge Graphs and the Formal Limits of Coherence Validation",
-      "url": "https://arxiv.org/abs/2611.26717",
-      "source": "ArXiv AI",
-      "date": "Mon, 23 Nov 2026 00:00:00 -0500",
-      "synopsis": "arXiv:2611.26717v1 Announce Type: new  Abstract: Synthesizing relational training data such as knowledge graphs with a large language model typically emits structured objects one at a time, which keeps each object valid but leaves the relationships between them ungrounded. We study an alternative pa",
-      "theme": "AI + Business",
-      "category": "ai-tech",
-      "fetched_at": "2026-11-23T16:40:46.982875"
-    },
-    {
-      "title": "TOUMAII: A 4.5M-Pair Tool-Calling Preference Dataset and Its Source-Agnostic Generator",
-      "url": "https://arxiv.org/abs/2611.26722",
-      "source": "ArXiv AI",
-      "date": "Mon, 23 Nov 2026 00:00:00 -0500",
-      "synopsis": "arXiv:2611.26722v1 Announce Type: new  Abstract: To autonomously execute multi-step tasks, enterprise agents must reliably interact with tools, call APIs, or query databases, making tool-calling a fundamental capability of AI models. Supervised fine-tuning (SFT) optimises for producing the correct c",
-      "theme": "AI + Business",
-      "category": "ai-tech",
-      "fetched_at": "2026-11-23T16:40:46.982882"
-    },
-    {
-      "title": "ChatAtom: A Multi-Agent LLM System for Molecular Dynamics Simulation and Visualization",
-      "url": "https://arxiv.org/abs/2611.26782",
-      "source": "ArXiv AI",
-      "date": "Mon, 23 Nov 2026 00:00:00 -0500",
-      "synopsis": "arXiv:2611.26782v1 Announce Type: new  Abstract: Molecular dynamics (MD) simulation resolves atomic-scale motion and predicts the structural, mechanical, and dynamic properties of materials, making it cen- tral to materials design and discovery. Yet an MD study requires an expert-driven workflow: de",
-      "theme": "AI + Business",
-      "category": "ai-tech",
-      "fetched_at": "2026-11-23T16:40:46.982889"
-    },
-    {
-      "title": "Beyond Final Answers: Interpretable Tumor Immune Microenvironment Reasoning from H&E and mIF",
-      "url": "https://arxiv.org/abs/2611.26794",
-      "source": "ArXiv AI",
-      "date": "Mon, 23 Nov 2026 00:00:00 -0500",
-      "synopsis": "arXiv:2611.26794v1 Announce Type: new  Abstract: Readouts of the tumor immune microenvironment (TIME), such as CD8+ T-cell density, intra-epithelial infiltration and the Ki67 index, combine tissue architecture from H&amp;E with cell phenotypes from multiplex immunofluorescence (mIF). Multimodal larg",
-      "theme": "AI General",
-      "category": "ai-tech",
-      "fetched_at": "2026-11-23T16:40:46.982903"
-    },
-    {
-      "title": "The most misunderstood graph in AI just got a major update",
-      "url": "https://www.technologyreview.com/2026/11/20/1149399/the-most-misunderstood-graph-in-ai-just-got-a-major-update/",
-      "source": "MIT Technology Review - AI",
-      "date": "Fri, 20 Nov 2026 18:15:15 +0000",
-      "synopsis": "A new report from the AI evaluation nonprofit METR finds that some AI capabilities are continuing to improve along an exponential trajectory—but it also indicates that models aren’t quite as good at tasks that require judgment as they are at coding.  The report is an update to the organization’s tim",
-      "theme": "AI + Business",
-      "category": "ai-business",
-      "fetched_at": "2026-11-23T16:40:45.096588"
-    },
-    {
-      "title": "The Download: inside the quest to make our minds immortal",
-      "url": "https://www.technologyreview.com/2026/11/20/1149371/the-download-quest-to-make-minds-immortal/",
-      "source": "MIT Technology Review - AI",
-      "date": "Fri, 20 Nov 2026 13:10:00 +0000",
-      "synopsis": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. What we learned when our Roundtables explored the quest to make minds immortal To preserve our sense of self, some scientists are working on ways to k",
-      "theme": "AI + Business",
-      "category": "ai-business",
-      "fetched_at": "2026-11-23T16:40:45.096594"
+      "fetched_at": "2026-11-24T16:36:37.444132"
     }
   ],
-  "last_updated": "2026-11-23T16:40:47.002479",
-  "total_count": 10
+  "last_updated": "2026-11-24T16:36:39.575177",
+  "total_count": 5
 }
