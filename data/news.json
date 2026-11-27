@@ -1,36 +1,6 @@
 {
   "articles": [
     {
-      "title": "How data centers are driving a US natural-gas boom",
-      "url": "https://www.technologyreview.com/2026/11/25/1149836/data-centers-gas-power-plants/",
-      "source": "MIT Technology Review - AI",
-      "date": "Wed, 25 Nov 2026 17:00:00 +0000",
-      "synopsis": "In May 2025, my colleague David Rotman wrote a feature story describing how AI could keep us dependent on natural gas. Just 18 months later, I’ve lost count of how many times he’s already been proved right. Sure, it’s technically possible to meet the world’s rising electricity demand with other powe",
-      "theme": "AI + Business",
-      "category": "ai-business",
-      "fetched_at": "2026-11-26T15:54:41.322912"
-    },
-    {
-      "title": "The Download: AI swamping open records, and firefighting for permafrost",
-      "url": "https://www.technologyreview.com/2026/11/25/1149808/the-download-ai-open-records-permafrost-fires/",
-      "source": "MIT Technology Review - AI",
-      "date": "Wed, 25 Nov 2026 13:10:00 +0000",
-      "synopsis": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. AI is straining America’s open records systems AI has intensified investors&#8217; interest in public records. Over the last few years, venture-backed",
-      "theme": "AI + Business",
-      "category": "ai-business",
-      "fetched_at": "2026-11-26T15:54:41.322918"
-    },
-    {
-      "title": "AI is straining America’s open records systems",
-      "url": "https://www.technologyreview.com/2026/11/25/1149702/ai-is-straining-americas-open-records-systems/",
-      "source": "MIT Technology Review - AI",
-      "date": "Wed, 25 Nov 2026 10:00:00 +0000",
-      "synopsis": "In Panton, Vermont, population 660, town clerk Kyle Rowe did it all. He crafted budgets, paid vendors, handled property tax disputes, and served as the town’s zoning supervisor and presiding elections officer. During morning office hours at the town hall—a wood-frame structure built as a church in 1",
-      "theme": "AI + Business",
-      "category": "ai-business",
-      "fetched_at": "2026-11-26T15:54:41.322923"
-    },
-    {
       "title": "The Download: Better bionic hands and AI’s natural-gas boom",
       "url": "https://www.technologyreview.com/2026/11/26/1149934/the-download-better-bionic-hands-ai-natural-gas-boom/",
       "source": "MIT Technology Review - AI",
@@ -38,7 +8,7 @@
       "synopsis": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The next generation of bionic hands is here—and they can feel Avi Davidson lost his left hand as a teenager. Since then, he&#8217;s cycled through a f",
       "theme": "AI + Business",
       "category": "ai-business",
-      "fetched_at": "2026-11-26T15:54:41.322881"
+      "fetched_at": "2026-11-27T15:43:35.359810"
     },
     {
       "title": "The next generation of bionic hands is here—and they can feel",
@@ -48,59 +18,89 @@
       "synopsis": "Avi Davidson lost his left hand as a teenager. Since then, he’s cycled through a few prosthetics. But his latest is different—it’s wired up to nerves in the upper part of his forearm and allows him to feel pressure. For the first time in years, he can use his left limb to handle delicate objects&#82",
       "theme": "AI General",
       "category": "ai-business",
-      "fetched_at": "2026-11-26T15:54:41.322904"
+      "fetched_at": "2026-11-27T15:43:35.359828"
     },
     {
-      "title": "Irreducible Governance Structure for Autonomous Agent Systems: Fair Allocation, Strategy-Proofness, and Multi-Scale Composition",
-      "url": "https://arxiv.org/abs/2611.31284",
+      "title": "The Download: Innovators Under 35 nominations are open, and a bionic window into the mind",
+      "url": "https://www.technologyreview.com/2026/11/27/1149960/the-download-the-download-innovators-under-35-nominations-bionic-hand/",
+      "source": "MIT Technology Review - AI",
+      "date": "Fri, 27 Nov 2026 13:00:00 +0000",
+      "synopsis": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Our 2027 Innovators Under 35 competition is now open Every year, MIT Technology Review honors 35 of the world&#8217;s brightest young scientists, entr",
+      "theme": "AI + Business",
+      "category": "ai-business",
+      "fetched_at": "2026-11-27T15:43:35.359769"
+    },
+    {
+      "title": "Our 2027 Innovators Under 35 competition is now open",
+      "url": "https://www.technologyreview.com/2026/11/27/1149857/2027-innovators-under-35-competition-nominate/",
+      "source": "MIT Technology Review - AI",
+      "date": "Fri, 27 Nov 2026 10:48:47 +0000",
+      "synopsis": "Every year, the editors at MIT Technology Review select 35 of the world’s top young scientists, entrepreneurs, and inventors to honor as our newest class of Innovators Under 35. And starting today, our 2027 competition is officially open for nominations.&#160; We’re on the hunt for researchers and f",
+      "theme": "AI + Higher Ed",
+      "category": "ai-business",
+      "fetched_at": "2026-11-27T15:43:35.359793"
+    },
+    {
+      "title": "How cutting-edge prosthetics can help probe the human mind",
+      "url": "https://www.technologyreview.com/2026/11/27/1149946/cutting-edge-prosthetics-allow-researchers-to-probe-the-human-mind/",
+      "source": "MIT Technology Review - AI",
+      "date": "Fri, 27 Nov 2026 10:00:00 +0000",
+      "synopsis": "Over the last few weeks, I’ve been talking to Alexander (Avi) Davidson. There are a lot of remarkable things about Avi. He sustained a horrific injury as a teenager, which left him paralyzed and without a left hand. Today, he uses his own experience to guide his practice as a trauma therapist. He’s",
+      "theme": "AI + Business",
+      "category": "ai-business",
+      "fetched_at": "2026-11-27T15:43:35.359802"
+    },
+    {
+      "title": "Context Scaling: A New Frontier of AI Scaling",
+      "url": "https://arxiv.org/abs/2611.33160",
       "source": "ArXiv AI",
-      "date": "Thu, 26 Nov 2026 00:00:00 -0500",
-      "synopsis": "arXiv:2611.31284v1 Announce Type: new  Abstract: Autonomous agent governance is commonly framed as a problem of enforcing correct execution. However, in multi-agent systems, an equally fundamental question precedes execution: which agents are allowed to act.   In this paper, we show that allocation",
+      "date": "Fri, 27 Nov 2026 00:00:00 -0500",
+      "synopsis": "arXiv:2611.33160v1 Announce Type: new  Abstract: Many failures of deployed AI arise not from weak inference but from a mismatch between the state a task depends on and the context available when the system acts. Relevant user state, repository revisions, tool traces, sensor readings, or environment",
       "theme": "AI + Business",
       "category": "ai-tech",
-      "fetched_at": "2026-11-26T15:54:42.844553"
+      "fetched_at": "2026-11-27T15:43:37.354407"
     },
     {
-      "title": "MOZAIC: An Audio-Video Deepfake Benchmark for Telling What Is Fake",
-      "url": "https://arxiv.org/abs/2611.31301",
+      "title": "Constraint-Aware Test-Time Scoring for LLM and VLM Candidate Selection",
+      "url": "https://arxiv.org/abs/2611.33161",
       "source": "ArXiv AI",
-      "date": "Thu, 26 Nov 2026 00:00:00 -0500",
-      "synopsis": "arXiv:2611.31301v2 Announce Type: new  Abstract: Audio-video (AV) deepfakes can fake the face, the voice, or both. Most benchmarks only ask whether a clip is real or fake, so they cannot show whether a detector relies on the picture, the voice, or encoding traces. We present MOZAIC, a paired benchma",
+      "date": "Fri, 27 Nov 2026 00:00:00 -0500",
+      "synopsis": "arXiv:2611.33161v1 Announce Type: new  Abstract: When an LLM or VLM produces several candidate answers, picking the best one usually relies on the model's own confidence, a learned judge model, or a domain check. Each has a known weakness: an answer can be fluent but insecure, mathematically plausib",
       "theme": "AI + Business",
       "category": "ai-tech",
-      "fetched_at": "2026-11-26T15:54:42.844563"
+      "fetched_at": "2026-11-27T15:43:37.354420"
     },
     {
-      "title": "Conservative Overlap Fuzzy Rough Sets for Incomplete Data",
-      "url": "https://arxiv.org/abs/2611.31329",
+      "title": "AutoformBench: A Lean Formalization Benchmark for Advanced Mathematics",
+      "url": "https://arxiv.org/abs/2611.33165",
       "source": "ArXiv AI",
-      "date": "Thu, 26 Nov 2026 00:00:00 -0500",
-      "synopsis": "arXiv:2611.31329v1 Announce Type: new  Abstract: Attribute reduction in incomplete information systems is difficult because missing values break the equivalence-class structure of rough set theory. We propose the Conservative Overlap Fuzzy Rough Set (COFRS) model. Each object is described by its set",
-      "theme": "AI General",
-      "category": "ai-tech",
-      "fetched_at": "2026-11-26T15:54:42.844574"
-    },
-    {
-      "title": "Beyond Static Charts: Benchmarking Interactive Chart-to-Code Generation for MLLMs",
-      "url": "https://arxiv.org/abs/2611.31345",
-      "source": "ArXiv AI",
-      "date": "Thu, 26 Nov 2026 00:00:00 -0500",
-      "synopsis": "arXiv:2611.31345v1 Announce Type: new  Abstract: In recent years, multimodal large language models (MLLMs) have achieved significant progress in chart-to-code generation. However, existing benchmarks mainly focus on static charts, overlooking interactive charts that enable richer and more expressive",
+      "date": "Fri, 27 Nov 2026 00:00:00 -0500",
+      "synopsis": "arXiv:2611.33165v1 Announce Type: new  Abstract: AI systems are increasingly capable of producing machine-checked Lean proofs of advanced mathematical results. Real mathematical formalization, however, is not isolated theorem proving: it requires building the definitions and intermediate lemmas that",
       "theme": "AI + Business",
       "category": "ai-tech",
-      "fetched_at": "2026-11-26T15:54:42.844579"
+      "fetched_at": "2026-11-27T15:43:37.354426"
     },
     {
-      "title": "What People Choose Not to Say: A Multimodal Benchmark for Fine-Grained Information Manipulation in Conversations",
-      "url": "https://arxiv.org/abs/2611.31346",
+      "title": "General-Purpose Decision Models for AI Configuration Tuning",
+      "url": "https://arxiv.org/abs/2611.33190",
       "source": "ArXiv AI",
-      "date": "Thu, 26 Nov 2026 00:00:00 -0500",
-      "synopsis": "arXiv:2611.31346v1 Announce Type: new  Abstract: Recent advances in MLLMs have improved social understanding, enabling models to recognize emotions and distinguish truthful from deceptive behaviors. However, existing benchmarks largely focus on coarse-grained emotion recognition or binary truth-dece",
+      "date": "Fri, 27 Nov 2026 00:00:00 -0500",
+      "synopsis": "arXiv:2611.33190v1 Announce Type: new  Abstract: AI configuration tuning searches for settings that improve the performance of AI systems under a limited budget. Existing tuners use different sampling and search policies, making the choice of decision strategy central to both tuning quality and cost",
       "theme": "AI + Business",
       "category": "ai-tech",
-      "fetched_at": "2026-11-26T15:54:42.844583"
+      "fetched_at": "2026-11-27T15:43:37.354435"
+    },
+    {
+      "title": "What, Who, and When: Structured Harm Assessment for Mental Health Safety via Short Reasoning",
+      "url": "https://arxiv.org/abs/2611.33263",
+      "source": "ArXiv AI",
+      "date": "Fri, 27 Nov 2026 00:00:00 -0500",
+      "synopsis": "arXiv:2611.33263v1 Announce Type: new  Abstract: The growing use of large language models (LLMs) for mental health support raises important safety concerns. Existing guard models primarily identify categories of harmful content, often overlooking the context needed to determine an appropriate respon",
+      "theme": "AI + Business",
+      "category": "ai-tech",
+      "fetched_at": "2026-11-27T15:43:37.354441"
     }
   ],
-  "last_updated": "2026-11-26T15:54:42.904357",
+  "last_updated": "2026-11-27T15:43:37.453486",
   "total_count": 10
 }
